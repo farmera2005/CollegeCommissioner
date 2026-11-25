@@ -1,0 +1,1375 @@
+[
+  {
+    "id": "akron",
+    "name": "The University of Akron",
+    "shortName": "Akron",
+    "abbr": "AKR",
+    "mascot": "Zips",
+    "colors": [
+      "#041E42",
+      "#A89968"
+    ],
+    "city": "Akron",
+    "state": "OH",
+    "lat": 41.0758,
+    "lon": -81.5114,
+    "dma": {
+      "name": "Cleveland-Akron (Canton), OH",
+      "rank": 19
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 15100,
+    "usNewsRank": 304,
+    "usNewsCategory": "national",
+    "endowmentUsd": 250000000,
+    "athletics": {
+      "revenueUsd": 36000000,
+      "expensesUsd": 36000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "InfoCision Stadium",
+        "capacity": 27881
+      },
+      "arena": {
+        "name": "James A. Rhodes Arena",
+        "capacity": 5500
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 15,
+      "mbb": 48,
+      "wbb": 22,
+      "olympic": 26,
+      "brand": 18,
+      "facilities": 30,
+      "fanBase": 14,
+      "boosterInfluence": 18,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: among FBS's worst records since 2018; Joe Moorhead since 2022. MBB: John Groce's Zips are the MAC's most consistent program (MAC tournament titles and NCAA bids in 2024 and 2025). Olympic: 2010 NCAA men's soccer champion.",
+    "rivals": [
+      "kent-state",
+      "toledo",
+      "youngstown-state"
+    ],
+    "president": {
+      "name": "Gary L. Miller",
+      "title": "President",
+      "since": 2019,
+      "confidence": "low",
+      "note": "Not re-verified for 2026."
+    },
+    "ad": {
+      "name": "Charles Guthrie",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Joe Moorhead",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "John Groce",
+      "since": 2017
+    },
+    "notes": "University-wide budget crises (2020 layoffs, later deficits) keep the football subsidy and low attendance under scrutiny, making Akron a candidate in any \"drop to FCS\" storyline. Plays Kent State for the Wagon Wheel. Exposed to Ohio state politics (SB 1 higher-ed law of 2025, state funding).",
+    "sources": [
+      "https://gozips.com",
+      "https://en.wikipedia.org/wiki/Akron_Zips",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/",
+      "https://www.hustlebelt.com/2025/6/11/24447187/the-house-v-ncaa-settlement-from-a-mac-point-of-view-mid-american-conference-2025-revenue-sharing"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president"
+    ]
+  },
+  {
+    "id": "ball-state",
+    "name": "Ball State University",
+    "shortName": "Ball State",
+    "abbr": "BALL",
+    "mascot": "Cardinals",
+    "colors": [
+      "#BA0C2F",
+      "#FFFFFF"
+    ],
+    "city": "Muncie",
+    "state": "IN",
+    "lat": 40.2059,
+    "lon": -85.4089,
+    "dma": {
+      "name": "Indianapolis, IN",
+      "rank": 25
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 20000,
+    "usNewsRank": 249,
+    "usNewsCategory": "national",
+    "endowmentUsd": 290000000,
+    "athletics": {
+      "revenueUsd": 40000000,
+      "expensesUsd": 40000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Scheumann Stadium",
+        "capacity": 22500
+      },
+      "arena": {
+        "name": "Worthen Arena",
+        "capacity": 11500
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 22,
+      "mbb": 30,
+      "wbb": 42,
+      "olympic": 30,
+      "brand": 20,
+      "facilities": 34,
+      "fanBase": 20,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: 2020 MAC champion and Arizona Bowl winner; Mike Uremovich since 2025. MBB: Michael Lewis. WBB: Brady Sallee's program regularly contends for the MAC title. Olympic: men's volleyball (MIVA) is a national-level program.",
+    "rivals": [
+      "northern-illinois",
+      "indiana-state",
+      "miami-oh",
+      "western-michigan"
+    ],
+    "president": {
+      "name": "Geoffrey S. Mearns",
+      "title": "President",
+      "since": 2017
+    },
+    "ad": {
+      "name": "Jeff Mitchell",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Mike Uremovich",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Michael Lewis",
+      "since": 2021
+    },
+    "notes": "The Bronze Stalk rivalry with NIU stops being a conference game after NIU's 2026 exit. Indiana's 2025 budget law pushed public universities to cut low-enrollment programs, putting pressure on subsidies. Sits in the Indianapolis market, where it competes with IU and Purdue for attention.",
+    "sources": [
+      "https://ballstatesports.com",
+      "https://en.wikipedia.org/wiki/Ball_State_Cardinals",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd"
+    ]
+  },
+  {
+    "id": "bowling-green",
+    "name": "Bowling Green State University",
+    "shortName": "Bowling Green",
+    "abbr": "BGSU",
+    "mascot": "Falcons",
+    "colors": [
+      "#FE5000",
+      "#4F2C1D"
+    ],
+    "city": "Bowling Green",
+    "state": "OH",
+    "lat": 41.3784,
+    "lon": -83.6388,
+    "dma": {
+      "name": "Toledo, OH",
+      "rank": 81
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 18000,
+    "usNewsRank": 236,
+    "usNewsCategory": "national",
+    "endowmentUsd": 250000000,
+    "athletics": {
+      "revenueUsd": 31000000,
+      "expensesUsd": 31000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Doyt L. Perry Stadium",
+        "capacity": 24000
+      },
+      "arena": {
+        "name": "Stroh Center",
+        "capacity": 4700
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 26,
+      "mbb": 28,
+      "wbb": 30,
+      "olympic": 28,
+      "brand": 22,
+      "facilities": 28,
+      "fanBase": 22,
+      "boosterInfluence": 22,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: MAC champion in 2013 and 2015 (Clawson, Babers); Scot Loeffler reached bowls in 2022-24 before leaving for the Eagles' staff in early 2025; Heisman winner Eddie George was hired from Tennessee State. MBB: Todd Simon. Olympic: 1984 NCAA hockey champion; hockey is a CCHA power.",
+    "rivals": [
+      "toledo",
+      "kent-state",
+      "miami-oh"
+    ],
+    "president": {
+      "name": "Rodney K. Rogers",
+      "title": "President",
+      "since": 2017
+    },
+    "ad": {
+      "name": "Derek van der Merwe",
+      "since": 2023
+    },
+    "headFootballCoach": {
+      "name": "Eddie George",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Todd Simon",
+      "since": 2023
+    },
+    "notes": "Plays Toledo in the Battle of I-75. The Eddie George hire is a celebrity-coach storyline. Exposed to Ohio state politics (SB 1, state budget).",
+    "sources": [
+      "https://bgsufalcons.com",
+      "https://en.wikipedia.org/wiki/Bowling_Green_Falcons",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd"
+    ]
+  },
+  {
+    "id": "buffalo",
+    "name": "University at Buffalo, The State University of New York",
+    "shortName": "Buffalo",
+    "abbr": "BUFF",
+    "mascot": "Bulls",
+    "colors": [
+      "#005BBB",
+      "#FFFFFF"
+    ],
+    "city": "Buffalo",
+    "state": "NY",
+    "lat": 43.0008,
+    "lon": -78.789,
+    "dma": {
+      "name": "Buffalo, NY",
+      "rank": 53
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 32000,
+    "usNewsRank": 76,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1100000000,
+    "athletics": {
+      "revenueUsd": 42000000,
+      "expensesUsd": 42000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "UB Stadium",
+        "capacity": 25013
+      },
+      "arena": {
+        "name": "Alumni Arena",
+        "capacity": 6100
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 28,
+      "mbb": 22,
+      "wbb": 35,
+      "olympic": 30,
+      "brand": 22,
+      "facilities": 30,
+      "fanBase": 18,
+      "boosterInfluence": 18,
+      "statePoliticalPressure": 25
+    },
+    "ratingNotes": "FB: 2008 MAC champion (Turner Gill); Lance Leipold's 2018-20 peak; Pete Lembo since 2024, with a bowl that first season. Khalil Mack is the best-known alumnus. MBB: Nate Oats-era NCAA wins (2018, 2019) have given way to a collapse. WBB: Felisha Legette-Jack reached the 2018 Sweet 16.",
+    "rivals": [
+      "massachusetts",
+      "kent-state",
+      "syracuse"
+    ],
+    "president": {
+      "name": "Satish K. Tripathi",
+      "title": "President",
+      "since": 2011,
+      "confidence": "low",
+      "note": "Not re-verified for 2026."
+    },
+    "ad": {
+      "name": "Mark Alnutt",
+      "since": 2017
+    },
+    "headFootballCoach": {
+      "name": "Pete Lembo",
+      "since": 2024
+    },
+    "headMbbCoach": {
+      "name": "George Halcovage",
+      "since": 2021,
+      "confidence": "low",
+      "note": "May have been replaced after 2024-25; verify."
+    },
+    "notes": "The MAC's only AAU member (since 1989) and its top research university, with SUNY flagship ambitions. Cut baseball, men's soccer, men's swimming and diving, and women's rowing in 2020. Low attendance and a high subsidy make it a periodic \"should UB stay FBS?\" debate. Shares a market with the Bills.",
+    "sources": [
+      "https://ubbulls.com",
+      "https://en.wikipedia.org/wiki/Buffalo_Bulls",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "headMbbCoach",
+      "arena.capacity"
+    ]
+  },
+  {
+    "id": "central-michigan",
+    "name": "Central Michigan University",
+    "shortName": "Central Michigan",
+    "abbr": "CMU",
+    "mascot": "Chippewas",
+    "colors": [
+      "#6A0032",
+      "#FFC82E"
+    ],
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "lat": 43.5895,
+    "lon": -84.7751,
+    "dma": {
+      "name": "Flint-Saginaw-Bay City, MI",
+      "rank": 74
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 14500,
+    "usNewsRank": 270,
+    "usNewsCategory": "national",
+    "endowmentUsd": 300000000,
+    "athletics": {
+      "revenueUsd": 38000000,
+      "expensesUsd": 38000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Kelly/Shorts Stadium",
+        "capacity": 30255
+      },
+      "arena": {
+        "name": "McGuirk Arena",
+        "capacity": 5300
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 26,
+      "mbb": 25,
+      "wbb": 30,
+      "olympic": 28,
+      "brand": 22,
+      "facilities": 30,
+      "fanBase": 22,
+      "boosterInfluence": 22,
+      "statePoliticalPressure": 25
+    },
+    "ratingNotes": "FB: MAC titles under Brian Kelly and Butch Jones (2005-09); Jim McElwain coached 2019-24; Matt Drinkall since 2025. MBB: Tony Barbee (unverified). WBB: 2018 Sweet 16.",
+    "rivals": [
+      "western-michigan",
+      "eastern-michigan",
+      "michigan-state"
+    ],
+    "president": {
+      "name": "Neil MacKinnon",
+      "title": "President",
+      "since": 2024,
+      "confidence": "low",
+      "note": "Successor to Bob Davies; name and start year not verified."
+    },
+    "ad": {
+      "name": "Amy Folan",
+      "since": 2018
+    },
+    "headFootballCoach": {
+      "name": "Matt Drinkall",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Tony Barbee",
+      "since": 2022,
+      "confidence": "low",
+      "note": "Not re-verified for 2026-27."
+    },
+    "notes": "Competes with EMU and WMU for the Michigan MAC Trophy. Uses the Chippewa name with the consent of the Saginaw Chippewa Indian Tribe, a sensitive brand issue. Enrollment has fallen sharply since about 2015, which squeezes the athletic subsidy.",
+    "sources": [
+      "https://cmuchippewas.com",
+      "https://en.wikipedia.org/wiki/Central_Michigan_Chippewas",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "headMbbCoach",
+      "dma.name"
+    ]
+  },
+  {
+    "id": "eastern-michigan",
+    "name": "Eastern Michigan University",
+    "shortName": "Eastern Michigan",
+    "abbr": "EMU",
+    "mascot": "Eagles",
+    "colors": [
+      "#006633",
+      "#FFFFFF"
+    ],
+    "city": "Ypsilanti",
+    "state": "MI",
+    "lat": 42.2504,
+    "lon": -83.6249,
+    "dma": {
+      "name": "Detroit, MI",
+      "rank": 14
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 13700,
+    "usNewsRank": 340,
+    "usNewsCategory": "national",
+    "endowmentUsd": 100000000,
+    "athletics": {
+      "revenueUsd": 38000000,
+      "expensesUsd": 38000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt). EMU has one of the highest subsidy shares in FBS.",
+      "stadium": {
+        "name": "Rynearson Stadium",
+        "capacity": 30200
+      },
+      "arena": {
+        "name": "George Gervin GameAbove Center",
+        "capacity": 8824
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 24,
+      "mbb": 22,
+      "wbb": 22,
+      "olympic": 25,
+      "brand": 15,
+      "facilities": 30,
+      "fanBase": 10,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 25
+    },
+    "ratingNotes": "FB: Chris Creighton made EMU respectable, with bowls in 2016, 2018 and 2021-23, including the 2022 Famous Idaho Potato Bowl, its first bowl win since 1987. Attendance is among the lowest in FBS. MBB: Stan Heath. Olympic: historic men's swimming and track programs.",
+    "rivals": [
+      "central-michigan",
+      "western-michigan",
+      "toledo"
+    ],
+    "president": {
+      "name": "James M. Smith",
+      "title": "President",
+      "since": 2016
+    },
+    "ad": {
+      "name": "Scott Wetherbee",
+      "since": 2015
+    },
+    "headFootballCoach": {
+      "name": "Chris Creighton",
+      "since": 2014
+    },
+    "headMbbCoach": {
+      "name": "Stan Heath",
+      "since": 2022
+    },
+    "notes": "The MAC school most often told it \"should drop to FCS\" because of its student-fee and general-fund subsidy and tiny crowds. Cut four sports in 2018 (including wrestling, men's swimming and diving, softball and women's tennis), which drew a Title IX lawsuit. Alumni-founded GameAbove gave a major gift (2022) and naming rights. The Detroit market is dominated by Michigan and Michigan State.",
+    "sources": [
+      "https://emueagles.com",
+      "https://en.wikipedia.org/wiki/Eastern_Michigan_Eagles",
+      "https://emueagles.com/news/2026/2/16/sacramento-state-joins-mid-american-conference-as-football-only-member",
+      "https://www.easternecho.com/article/2026/02/california-dreamin-sacramento-state-joins-the-mac-as-football-expansion-hits-the-west-coast"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "stadium.capacity"
+    ]
+  },
+  {
+    "id": "kent-state",
+    "name": "Kent State University",
+    "shortName": "Kent State",
+    "abbr": "KENT",
+    "mascot": "Golden Flashes",
+    "colors": [
+      "#002664",
+      "#EAAB00"
+    ],
+    "city": "Kent",
+    "state": "OH",
+    "lat": 41.1456,
+    "lon": -81.3415,
+    "dma": {
+      "name": "Cleveland-Akron (Canton), OH",
+      "rank": 19
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 26000,
+    "usNewsRank": 226,
+    "usNewsCategory": "national",
+    "endowmentUsd": 240000000,
+    "athletics": {
+      "revenueUsd": 38000000,
+      "expensesUsd": 38000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Dix Stadium",
+        "capacity": 25319
+      },
+      "arena": {
+        "name": "Memorial Athletic and Convocation Center",
+        "capacity": 6327
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 12,
+      "mbb": 40,
+      "wbb": 30,
+      "olympic": 34,
+      "brand": 18,
+      "facilities": 25,
+      "fanBase": 14,
+      "boosterInfluence": 18,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: went 11-3 in 2012 (Darrell Hazell) and reached bowls in 2019 and 2021 (Sean Lewis), then collapsed in 2023-24 (winless 2024). Kenni Burns was dismissed in 2025 and Mark Carney took over. MBB: Rob Senderoff (2023 NCAA); 2002 Elite Eight heritage. Olympic: men's golf national power, gymnastics, and a 2012 CWS baseball team.",
+    "rivals": [
+      "akron",
+      "ohio",
+      "bowling-green"
+    ],
+    "president": {
+      "name": "Todd Diacon",
+      "title": "President",
+      "since": 2019
+    },
+    "ad": {
+      "name": "Randale Richmond",
+      "since": 2020
+    },
+    "headFootballCoach": {
+      "name": "Mark Carney",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Interim in 2025 after Kenni Burns' dismissal; permanent status not verified."
+    },
+    "headMbbCoach": {
+      "name": "Rob Senderoff",
+      "since": 2011
+    },
+    "notes": "Football is one of the weakest FBS programs and a recurring \"drop to FCS?\" debate. Plays Akron for the Wagon Wheel. Enrollment counts the Kent campus only (about 34K across all campuses). Exposed to Ohio state politics (SB 1).",
+    "sources": [
+      "https://kentstatesports.com",
+      "https://en.wikipedia.org/wiki/Kent_State_Golden_Flashes",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headFootballCoach"
+    ]
+  },
+  {
+    "id": "massachusetts",
+    "name": "University of Massachusetts Amherst",
+    "shortName": "UMass",
+    "abbr": "MASS",
+    "mascot": "Minutemen",
+    "colors": [
+      "#881C1C",
+      "#FFFFFF"
+    ],
+    "city": "Amherst",
+    "state": "MA",
+    "lat": 42.3868,
+    "lon": -72.5301,
+    "dma": {
+      "name": "Springfield-Holyoke, MA",
+      "rank": 115
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 32000,
+    "usNewsRank": 56,
+    "usNewsCategory": "national",
+    "endowmentUsd": 500000000,
+    "athletics": {
+      "revenueUsd": 50000000,
+      "expensesUsd": 50000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Warren McGuirk Alumni Stadium",
+        "capacity": 17000
+      },
+      "arena": {
+        "name": "Mullins Center",
+        "capacity": 9493
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "a10",
+        "football": "caa",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 12,
+      "mbb": 33,
+      "wbb": 30,
+      "olympic": 38,
+      "brand": 25,
+      "facilities": 30,
+      "fanBase": 20,
+      "boosterInfluence": 20,
+      "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: 1998 I-AA champion; FBS since 2012 (MAC football-only 2012-15, independent 2016-24, full MAC from 2025) with one of FBS's worst records since; Joe Harasymiak since 2025. MBB: the Calipari/Camby brand (1996 Final Four, vacated); Frank Martin. Olympic: 2021 NCAA hockey champion (Hockey East) and men's lacrosse.",
+    "rivals": [
+      "uconn",
+      "boston-college",
+      "rhode-island",
+      "buffalo"
+    ],
+    "president": {
+      "name": "Javier Reyes",
+      "title": "Chancellor",
+      "since": 2023
+    },
+    "ad": {
+      "name": "Ryan Bamford",
+      "since": 2014
+    },
+    "headFootballCoach": {
+      "name": "Joe Harasymiak",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Frank Martin",
+      "since": 2022
+    },
+    "notes": "Rejoined the MAC as a full all-sports member on 2025-07-01 after years in the A-10 (other sports) and as a football independent. The MAC's only New England school, stretching its footprint east. Its subsidy draws scrutiny from the UMass trustees and the Massachusetts legislature. Hockey stays in Hockey East. Endowment figure is campus-level (the UMass system is about $1.3B).",
+    "sources": [
+      "https://umassathletics.com",
+      "https://en.wikipedia.org/wiki/UMass_Minutemen_and_Minutewomen",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd"
+    ]
+  },
+  {
+    "id": "miami-oh",
+    "name": "Miami University",
+    "shortName": "Miami (OH)",
+    "abbr": "M-OH",
+    "mascot": "RedHawks",
+    "colors": [
+      "#C3142D",
+      "#FFFFFF"
+    ],
+    "city": "Oxford",
+    "state": "OH",
+    "lat": 39.5089,
+    "lon": -84.7344,
+    "dma": {
+      "name": "Cincinnati, OH",
+      "rank": 36
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 19500,
+    "usNewsRank": 133,
+    "usNewsCategory": "national",
+    "endowmentUsd": 800000000,
+    "athletics": {
+      "revenueUsd": 42000000,
+      "expensesUsd": 42000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Yager Stadium",
+        "capacity": 24286
+      },
+      "arena": {
+        "name": "Millett Hall",
+        "capacity": 9200
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 36,
+      "mbb": 45,
+      "wbb": 28,
+      "olympic": 34,
+      "brand": 30,
+      "facilities": 30,
+      "fanBase": 26,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: the \"Cradle of Coaches\" (Brown, Hayes, Schembechler, Parseghian) and Ben Roethlisberger; Chuck Martin won MAC titles in 2019 and 2023 and reached the 2024 title game. MBB: Travis Steele's 2025-26 team had a long unbeaten run that drew national rankings (details unverified). Olympic: NCHC hockey and other solid Olympic sports.",
+    "rivals": [
+      "ohio",
+      "cincinnati",
+      "bowling-green"
+    ],
+    "president": {
+      "name": "Gregory P. Crawford",
+      "title": "President",
+      "since": 2016
+    },
+    "ad": {
+      "name": "David Sayler",
+      "since": 2012
+    },
+    "headFootballCoach": {
+      "name": "Chuck Martin",
+      "since": 2014
+    },
+    "headMbbCoach": {
+      "name": "Travis Steele",
+      "since": 2022
+    },
+    "notes": "Plays Cincinnati for the Victory Bell (the oldest rivalry west of the Alleghenies) and Ohio in the Battle of the Bricks. \"Public Ivy\" academics and wealthier alumni than its MAC peers make it a candidate for any upgraded G6 alignment. Exposed to Ohio state politics (SB 1).",
+    "sources": [
+      "https://miamiredhawks.com",
+      "https://en.wikipedia.org/wiki/Miami_RedHawks",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ratings.mbb",
+      "arena.capacity"
+    ]
+  },
+  {
+    "id": "ohio",
+    "name": "Ohio University",
+    "shortName": "Ohio",
+    "abbr": "OHIO",
+    "mascot": "Bobcats",
+    "colors": [
+      "#00694E",
+      "#FFFFFF"
+    ],
+    "city": "Athens",
+    "state": "OH",
+    "lat": 39.324,
+    "lon": -82.1012,
+    "dma": {
+      "name": "Columbus, OH",
+      "rank": 32
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 28000,
+    "usNewsRank": 192,
+    "usNewsCategory": "national",
+    "endowmentUsd": 700000000,
+    "athletics": {
+      "revenueUsd": 40000000,
+      "expensesUsd": 40000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Peden Stadium",
+        "capacity": 24000
+      },
+      "arena": {
+        "name": "Convocation Center",
+        "capacity": 13080
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 35,
+      "mbb": 33,
+      "wbb": 30,
+      "olympic": 26,
+      "brand": 25,
+      "facilities": 30,
+      "fanBase": 26,
+      "boosterInfluence": 22,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: Frank Solich built a steady bowl program (2005-20); Tim Albin won the 2024 MAC title and then left for Charlotte; Brian Smith since 2025. MBB: 2012 Sweet 16 (D.J. Cooper); Jeff Boals.",
+    "rivals": [
+      "miami-oh",
+      "marshall",
+      "kent-state"
+    ],
+    "president": {
+      "name": "Lori Stewart Gonzalez",
+      "title": "President",
+      "since": 2023
+    },
+    "ad": {
+      "name": "Julie Cromer",
+      "since": 2019
+    },
+    "headFootballCoach": {
+      "name": "Brian Smith",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Jeff Boals",
+      "since": 2019
+    },
+    "notes": "Plays Miami in the Battle of the Bricks and Marshall for the Battle for the Bell (non-conference). Exposed to Ohio state politics (SB 1, state budget). Enrollment covers all campuses.",
+    "sources": [
+      "https://ohiobobcats.com",
+      "https://en.wikipedia.org/wiki/Ohio_Bobcats",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "dma.name"
+    ]
+  },
+  {
+    "id": "toledo",
+    "name": "The University of Toledo",
+    "shortName": "Toledo",
+    "abbr": "TOL",
+    "mascot": "Rockets",
+    "colors": [
+      "#15397F",
+      "#FFCE00"
+    ],
+    "city": "Toledo",
+    "state": "OH",
+    "lat": 41.6587,
+    "lon": -83.6145,
+    "dma": {
+      "name": "Toledo, OH",
+      "rank": 81
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 15000,
+    "usNewsRank": 290,
+    "usNewsCategory": "national",
+    "endowmentUsd": 230000000,
+    "athletics": {
+      "revenueUsd": 41000000,
+      "expensesUsd": 41000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Glass Bowl",
+        "capacity": 26038
+      },
+      "arena": {
+        "name": "Savage Arena",
+        "capacity": 7300
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 36,
+      "mbb": 36,
+      "wbb": 38,
+      "olympic": 26,
+      "brand": 28,
+      "facilities": 32,
+      "fanBase": 30,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: the MAC's most consistent program under Jason Candle (2016-25), with MAC titles in 2017 and 2022 and bowls most years. MBB: Tod Kowalczyk wins MAC regular-season titles but has no NCAA bid (Toledo's last was 1980). WBB: 2011 WNIT champion and a strong MAC program.",
+    "rivals": [
+      "bowling-green",
+      "eastern-michigan",
+      "northern-illinois",
+      "western-michigan"
+    ],
+    "president": {
+      "name": "Gregory Postel",
+      "title": "President",
+      "since": 2020
+    },
+    "ad": {
+      "name": "Bryan Blair",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": null,
+      "since": 2026,
+      "confidence": "low",
+      "note": "Jason Candle believed to have left for UConn in Dec 2025; 2026 coach not verified."
+    },
+    "headMbbCoach": {
+      "name": "Tod Kowalczyk",
+      "since": 2010
+    },
+    "notes": "Plays Bowling Green in the Battle of I-75. Usually named as the MAC school best placed to move up in a G6 consolidation. Coaching continuity after the long Candle era is a storyline (verify). Exposed to Ohio state politics.",
+    "sources": [
+      "https://utrockets.com",
+      "https://en.wikipedia.org/wiki/Toledo_Rockets",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headFootballCoach"
+    ]
+  },
+  {
+    "id": "western-michigan",
+    "name": "Western Michigan University",
+    "shortName": "Western Michigan",
+    "abbr": "WMU",
+    "mascot": "Broncos",
+    "colors": [
+      "#6C4023",
+      "#B5A167"
+    ],
+    "city": "Kalamazoo",
+    "state": "MI",
+    "lat": 42.2826,
+    "lon": -85.6129,
+    "dma": {
+      "name": "Grand Rapids-Kalamazoo-Battle Creek, MI",
+      "rank": 43
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 17600,
+    "usNewsRank": 266,
+    "usNewsCategory": "national",
+    "endowmentUsd": 600000000,
+    "athletics": {
+      "revenueUsd": 40000000,
+      "expensesUsd": 40000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "MAC had 100% opt-in for 2025-26 (Sportico). School-level payout not public; MAC schools pay a small fraction of the $20.5M cap and most departments already run on large institutional/student-fee subsidies (Hustle Belt).",
+      "stadium": {
+        "name": "Waldo Stadium",
+        "capacity": 30200
+      },
+      "arena": {
+        "name": "University Arena",
+        "capacity": 5421
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mac",
+        "football": "mac",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 32,
+      "mbb": 22,
+      "wbb": 25,
+      "olympic": 32,
+      "brand": 22,
+      "facilities": 32,
+      "fanBase": 24,
+      "boosterInfluence": 28,
+      "statePoliticalPressure": 25
+    },
+    "ratingNotes": "FB: P.J. Fleck's 13-1 Cotton Bowl team (2016, \"Row the Boat\"); Lance Taylor since 2022. MBB: weak recent seasons. Olympic: 2025 NCAA men's hockey champion (NCHC), the school's top national-visibility sport.",
+    "rivals": [
+      "central-michigan",
+      "eastern-michigan",
+      "toledo"
+    ],
+    "president": {
+      "name": "Russell Kavalhuna",
+      "title": "President",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Dan Bartholomae",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Lance Taylor",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Dwayne Stephens",
+      "since": 2022,
+      "confidence": "low",
+      "note": "Not re-verified for 2026-27."
+    },
+    "notes": "Received a record $550M anonymous gift in 2021 (mostly academic and scholarship use). The 2025 hockey title gives WMU outsized buzz. Competes for the Michigan MAC Trophy.",
+    "sources": [
+      "https://wmubroncos.com",
+      "https://en.wikipedia.org/wiki/Western_Michigan_Broncos",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headMbbCoach"
+    ]
+  },
+  {
+    "id": "sacramento-state",
+    "name": "California State University, Sacramento",
+    "shortName": "Sacramento State",
+    "abbr": "SAC",
+    "mascot": "Hornets",
+    "colors": [
+      "#043927",
+      "#C4B581"
+    ],
+    "city": "Sacramento",
+    "state": "CA",
+    "lat": 38.561,
+    "lon": -121.424,
+    "dma": {
+      "name": "Sacramento-Stockton-Modesto, CA",
+      "rank": 20
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 31000,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": 90000000,
+    "athletics": {
+      "revenueUsd": 35000000,
+      "expensesUsd": 35000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": null,
+      "revShareNotes": "Was in the Big Sky (FCS) for 2025-26; the Big Sky was not among the 100%-opt-in leagues and Sac State's choice was not verified. MAC entry: $18M MAC entry fee plus $5M NCAA FBS reclassification fee.",
+      "stadium": {
+        "name": "Hornet Stadium",
+        "capacity": 21195
+      },
+      "arena": {
+        "name": "The Nest",
+        "capacity": 1200
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": "mac",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-sky",
+        "football": "big-sky",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 25,
+      "mbb": 22,
+      "wbb": 22,
+      "olympic": 22,
+      "brand": 20,
+      "facilities": 25,
+      "fanBase": 25,
+      "boosterInfluence": 45,
+      "statePoliticalPressure": 50
+    },
+    "ratingNotes": "FB: Troy Taylor's 2021-22 Big Sky champions; Andy Thompson coached 2023-24; Brennan Marion (from UNLV) since 2025. 2026 is the first MAC/FBS season, and the team cannot win the MAC title or play in a bowl for its first two seasons. MBB: Mike Bibby hired in 2025, with Shaquille O'Neal attached to the program. Moved to the Big West for non-football sports in 2026-27. Facilities: the small on-campus arena and an aging stadium are a weakness, with new-stadium plans pending.",
+    "rivals": [
+      "uc-davis",
+      "cal-poly",
+      "san-jose-state"
+    ],
+    "president": {
+      "name": "J. Luke Wood",
+      "title": "President",
+      "since": 2022
+    },
+    "ad": {
+      "name": "Mark Orr",
+      "since": 2015
+    },
+    "headFootballCoach": {
+      "name": "Brennan Marion",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Mike Bibby",
+      "since": 2025
+    },
+    "notes": "FOOTBALL-ONLY MAC affiliate: a 5-year term from 2026-07-01 that fills NIU's football slot and keeps the MAC at 13 football teams. President Luke Wood leads an aggressive FBS push backed by donors, the Sacramento business and political community, and Shaq. The Pac-12 passed on Sac State (2025), and the NCAA Football Oversight Committee recommended against its FBS waiver before the MAC deal. Non-football sports joined the Big West on 2026-07-01, effectively replacing UC Davis (to the Mountain West). Women's rowing joins the MAC as an affiliate for the 2027 season. Risks: CSU system budget cuts, California politics, a West Coast travel burden for MAC opponents, and an unbuilt stadium. The Causeway Classic with UC Davis becomes non-conference.",
+    "sources": [
+      "https://getsomemaction.com/news/2026/2/16/sacramento-state-joins-mid-american-conference-as-football-only-member.aspx",
+      "https://www.espn.com/college-football/story/_/id/47933760/mac-add-sacramento-state-football-only-member",
+      "https://hornetsports.com/news/2026/2/16/hornet-football-to-join-the-mac-in-2026.aspx",
+      "https://www.hustlebelt.com/mac-football/44610/sacramento-state-to-join-mid-american-conference-as-football-only-member",
+      "https://www.hustlebelt.com/mac-football/44628/sacramento-state-football-to-mid-american-conference-pros-and-cons-column",
+      "https://fox40.com/sports/sacramento-state-mac-fbs-2026/",
+      "https://bigwest.org/news/2025/6/18/sacramento-state-joins-the-big-west.aspx",
+      "https://www.espn.com/college-sports/story/_/id/45539731/sacramento-state-join-big-west-all-sports-football",
+      "https://bigwest.org/news/2026/6/26/general-the-big-west-school-spotlight-sacramento-state.aspx",
+      "https://hornetsports.com/news/2026/9/23/womens-rowing-rowing-to-join-the-mid-american-conference-for-the-upcoming-2027-season.aspx",
+      "https://nbcmontana.com/sports/sports-insider/sacramento-state-to-withdraw-from-big-sky-conference-in-2026-27",
+      "https://www.si.com/college/boise-state/football/sac12-sacked-sacramento-state-join-big-west-non-football-sports"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "arena",
+      "usNewsCategory",
+      "revShareOptIn"
+    ]
+  }
+]

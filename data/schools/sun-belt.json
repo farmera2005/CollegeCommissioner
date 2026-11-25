@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "app-state",
+    "name": "Appalachian State University",
+    "shortName": "App State",
+    "abbr": "APP",
+    "mascot": "Mountaineers",
+    "colors": [
+      "#000000",
+      "#FFCC00"
+    ],
+    "city": "Boone",
+    "state": "NC",
+    "lat": 36.214,
+    "lon": -81.685,
+    "dma": {
+      "name": "Charlotte, NC",
+      "rank": 21
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 21600,
+    "usNewsRank": 216,
+    "usNewsCategory": "national",
+    "endowmentUsd": 200000000,
+    "athletics": {
+      "revenueUsd": 47000000,
+      "expensesUsd": 46000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Kidd Brewer Stadium",
+        "capacity": 30000
+      },
+      "arena": {
+        "name": "Holmes Convocation Center",
+        "capacity": 8325
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "socon",
+        "football": "socon",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 34,
+      "mbb": 40,
+      "wbb": 28,
+      "olympic": 30,
+      "brand": 42,
+      "facilities": 44,
+      "fanBase": 50,
+      "boosterInfluence": 40,
+      "statePoliticalPressure": 35
+    },
+    "ratingNotes": "FB: 3 straight FCS titles (2005-07) and the 2007 upset at Michigan; FBS since 2014 with four straight SBC titles (2016-19) and a 2022 win at Texas A&M; middling since, Dowell Loggains in his second season (2026). MBB: 2021 NCAA, 2024 SBC regular-season title (Dustin Kerns). Olympic: typical G6 Directors' Cup finish (~150-200). Brand/fans: one of the strongest G6 names, Kidd Brewer routinely full, travels well.",
+    "rivals": [
+      "georgia-southern",
+      "marshall",
+      "james-madison",
+      "coastal-carolina"
+    ],
+    "president": {
+      "name": "Heather Hagerman Norris",
+      "title": "Chancellor",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Doug Gillin",
+      "since": 2016
+    },
+    "headFootballCoach": {
+      "name": "Dowell Loggains",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Dustin Kerns",
+      "since": 2019
+    },
+    "notes": "UNC System campus: the chancellor answers to the UNC System president and Board of Governors, and the NC General Assembly has a say. Widely seen as a G6 school with P4/AAC ambitions because of its brand and attendance. Once JMU leaves for the American (2027-07-01), App State is the Sun Belt East's flagship and the most likely next target for the AAC or a P4 conference. \"Old Mountain Feud\" with Marshall.",
+    "sources": [
+      "https://appstatesports.com",
+      "https://en.wikipedia.org/wiki/Appalachian_State_Mountaineers_football",
+      "https://www.espn.com/college-football/story/_/id/48759931/2026-sun-belt-conference-college-football-preview-predictions-every-team",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd"
+    ]
+  },
+  {
+    "id": "coastal-carolina",
+    "name": "Coastal Carolina University",
+    "shortName": "Coastal Carolina",
+    "abbr": "CCU",
+    "mascot": "Chanticleers",
+    "colors": [
+      "#006F71",
+      "#A27752"
+    ],
+    "city": "Conway",
+    "state": "SC",
+    "lat": 33.7955,
+    "lon": -79.0128,
+    "dma": {
+      "name": "Myrtle Beach-Florence, SC",
+      "rank": 99
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 11000,
+    "usNewsRank": 377,
+    "usNewsCategory": "national",
+    "endowmentUsd": 60000000,
+    "athletics": {
+      "revenueUsd": 42000000,
+      "expensesUsd": 41000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Brooks Stadium",
+        "capacity": 21000
+      },
+      "arena": {
+        "name": "HTC Center",
+        "capacity": 3212
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-south",
+        "football": "big-south",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 26,
+      "mbb": 22,
+      "wbb": 22,
+      "olympic": 32,
+      "brand": 30,
+      "facilities": 36,
+      "fanBase": 30,
+      "boosterInfluence": 28,
+      "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: FBS since 2017; 2020 Jamey Chadwell team went 11-1 (incl. the win over BYU) behind Grayson McCall; slid under Tim Beck (2023-25). MBB: SBC lower half. Olympic: won the 2016 College World Series; baseball remains a national-caliber program. Brand: teal turf and the 2020 run gave it unusual national recognition for a small school.",
+    "rivals": [
+      "app-state",
+      "georgia-southern",
+      "james-madison"
+    ],
+    "president": {
+      "name": "Michael T. Benson",
+      "title": "President",
+      "since": 2021
+    },
+    "ad": {
+      "name": "Chance Miller",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Start year unverified."
+    },
+    "headFootballCoach": {
+      "name": "Ryan Beard",
+      "since": 2026,
+      "confidence": "low",
+      "note": "Believed hired from Western Carolina after Tim Beck was dismissed in Nov 2025; not verified."
+    },
+    "headMbbCoach": {
+      "name": "Cliff Ellis",
+      "since": 2007,
+      "confidence": "low",
+      "note": "Ellis (b. 1945) may have retired after 2024-25; verify."
+    },
+    "notes": "Small Myrtle Beach-area market with limited resources but recent facilities spending. Moved to FBS on the strength of a 2016 SBC invitation (Big South to SBC). Unlikely to draw AAC/P4 interest; a stable SBC core member.",
+    "sources": [
+      "https://goccusports.com",
+      "https://en.wikipedia.org/wiki/Coastal_Carolina_Chanticleers_football",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headFootballCoach",
+      "headMbbCoach",
+      "ad.since"
+    ]
+  },
+  {
+    "id": "georgia-southern",
+    "name": "Georgia Southern University",
+    "shortName": "Georgia Southern",
+    "abbr": "GASO",
+    "mascot": "Eagles",
+    "colors": [
+      "#011E41",
+      "#87714D"
+    ],
+    "city": "Statesboro",
+    "state": "GA",
+    "lat": 32.4224,
+    "lon": -81.7832,
+    "dma": {
+      "name": "Savannah, GA",
+      "rank": 85
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 27000,
+    "usNewsRank": 231,
+    "usNewsCategory": "national",
+    "endowmentUsd": 100000000,
+    "athletics": {
+      "revenueUsd": 40000000,
+      "expensesUsd": 40000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Paulson Stadium",
+        "capacity": 25000
+      },
+      "arena": {
+        "name": "Hill Convocation Center",
+        "capacity": 5500
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "socon",
+        "football": "socon",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 31,
+      "mbb": 30,
+      "wbb": 25,
+      "olympic": 25,
+      "brand": 32,
+      "facilities": 40,
+      "fanBase": 42,
+      "boosterInfluence": 30,
+      "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: 6 FCS titles (1985-2000, Erk Russell and Paul Johnson) and an option heritage; went FBS in 2014 and won the SBC that year; Clay Helton has reached bowls since 2022. MBB: SBC middle; the new Hill Convocation Center (2024) is an upgrade. Fans: Paulson Stadium gameday is strong for a G6.",
+    "rivals": [
+      "app-state",
+      "georgia-state",
+      "marshall",
+      "coastal-carolina"
+    ],
+    "president": {
+      "name": "Kyle Marrero",
+      "title": "President",
+      "since": 2019
+    },
+    "ad": {
+      "name": "Jared Benko",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Clay Helton",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Charlie Henry",
+      "since": 2023
+    },
+    "notes": "University System of Georgia school: the Board of Regents controls fees and capital projects. \"Modern Day Hate\" rivalry with Georgia State. Loyal fans and the Erk Russell legacy make it a candidate if the AAC or a consolidated G6 league reaches into the Southeast.",
+    "sources": [
+      "https://gseagles.com",
+      "https://en.wikipedia.org/wiki/Georgia_Southern_Eagles_football",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "arena.capacity"
+    ]
+  },
+  {
+    "id": "georgia-state",
+    "name": "Georgia State University",
+    "shortName": "Georgia State",
+    "abbr": "GAST",
+    "mascot": "Panthers",
+    "colors": [
+      "#0039A6",
+      "#FFFFFF"
+    ],
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.7531,
+    "lon": -84.3853,
+    "dma": {
+      "name": "Atlanta, GA",
+      "rank": 7
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 51000,
+    "usNewsRank": 179,
+    "usNewsCategory": "national",
+    "endowmentUsd": 250000000,
+    "athletics": {
+      "revenueUsd": 38000000,
+      "expensesUsd": 38000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Center Parc Credit Union Stadium",
+        "capacity": 24333
+      },
+      "arena": {
+        "name": "Georgia State Convocation Center",
+        "capacity": 7500
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "caa",
+        "football": "independent",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 18,
+      "mbb": 30,
+      "wbb": 25,
+      "olympic": 22,
+      "brand": 22,
+      "facilities": 36,
+      "fanBase": 18,
+      "boosterInfluence": 20,
+      "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: started play in 2010 (Bill Curry) and moved to FBS in 2013; reached bowls in 2019, 2021 and 2023; poor 2024-25 under Dell McGee. MBB: 2015 NCAA upset of Baylor (R.J. Hunter), 2022 NCAA. Fans: commuter school in a pro-sports market, with some of the lowest attendance in FBS.",
+    "rivals": [
+      "georgia-southern",
+      "kennesaw-state",
+      "south-alabama"
+    ],
+    "president": {
+      "name": "M. Brian Blake",
+      "title": "President",
+      "since": 2021
+    },
+    "ad": {
+      "name": "Charlie Cobb",
+      "since": 2014,
+      "confidence": "low",
+      "note": "Not re-verified for 2026."
+    },
+    "headFootballCoach": {
+      "name": "Dell McGee",
+      "since": 2024,
+      "confidence": "low",
+      "note": "Status after 2025 season not verified."
+    },
+    "headMbbCoach": {
+      "name": "Jonas Hayes",
+      "since": 2022,
+      "confidence": "low",
+      "note": "Status after 2024-25 not verified."
+    },
+    "notes": "Downtown Atlanta campus and Georgia's largest university by headcount (absorbed Perimeter College). The old Turner Field was converted into Center Parc Stadium (2017). Gives any conference an Atlanta-market address, but the TV draw is weak. Governed by the USG Board of Regents.",
+    "sources": [
+      "https://georgiastatesports.com",
+      "https://en.wikipedia.org/wiki/Georgia_State_Panthers_football",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headFootballCoach",
+      "headMbbCoach",
+      "ad",
+      "arena.capacity"
+    ]
+  },
+  {
+    "id": "james-madison",
+    "name": "James Madison University",
+    "shortName": "James Madison",
+    "abbr": "JMU",
+    "mascot": "Dukes",
+    "colors": [
+      "#450084",
+      "#CBB677"
+    ],
+    "city": "Harrisonburg",
+    "state": "VA",
+    "lat": 38.4351,
+    "lon": -78.8698,
+    "dma": {
+      "name": "Harrisonburg, VA",
+      "rank": 178
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 23000,
+    "usNewsRank": 124,
+    "usNewsCategory": "national",
+    "endowmentUsd": 220000000,
+    "athletics": {
+      "revenueUsd": 70000000,
+      "expensesUsd": 70000000,
+      "fiscalYear": "FY2025",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). AD Matt Roan set a goal of leading the SBC in revenue sharing. About $55M of the department's funding comes from mandatory student fees, which Virginia rules bar from athlete revenue-share pay. Sen. Creigh Deeds' 2026 proposal would let some Virginia FBS schools raise more from fees. JMU is the best-funded SBC department (Cardinal News, Oct 2026).",
+      "stadium": {
+        "name": "Bridgeforth Stadium",
+        "capacity": 25000
+      },
+      "arena": {
+        "name": "Atlantic Union Bank Center",
+        "capacity": 8500
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "caa",
+        "football": "caa",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 46,
+      "mbb": 42,
+      "wbb": 45,
+      "olympic": 40,
+      "brand": 38,
+      "facilities": 45,
+      "fanBase": 46,
+      "boosterInfluence": 35,
+      "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: FCS champion in 2004 and 2016; strong in the SBC immediately after moving to FBS in 2022 (11-1 in 2023 while bowl-ineligible during the transition); 2025 SBC champion and CFP first-round team (lost at Oregon). Bob Chesney then left for UCLA, so 2026 is a new staff's first season. MBB: 2024 NCAA first-round upset of Wisconsin; Preston Spradlin since 2024. WBB: a perennial mid-major power. Olympic: 1994 field hockey national title and a 2021 softball WCWS run; best Directors' Cup finish in the SBC most years.",
+    "rivals": [
+      "old-dominion",
+      "app-state",
+      "marshall",
+      "liberty",
+      "richmond",
+      "virginia-tech"
+    ],
+    "president": {
+      "name": "Jim Schmidt",
+      "title": "President",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Matt Roan",
+      "since": 2024
+    },
+    "headFootballCoach": {
+      "name": "Billy Cosh",
+      "since": 2026,
+      "confidence": "low",
+      "note": "Chesney left for UCLA after the 2025 CFP run; successor recalled as Billy Cosh but not verified."
+    },
+    "headMbbCoach": {
+      "name": "Preston Spradlin",
+      "since": 2024
+    },
+    "notes": "LEAVING FOR THE AMERICAN. Board of Visitors voted unanimously (2026-10-12) to end Sun Belt membership and apply to the AAC; AAC presidents voted unanimously to admit. A 2026-11-19 agreement moved the exit to 2027-07-01 (originally no later than 2028); JMU stays eligible for every SBC title through 2026-27. Costs: about a $5M SBC exit fee (some reports up to $10M) and about $23M to enter the AAC. 17 of 18 sports move to the AAC; field hockey stays a MAC affiliate. The 2021 FBS move needed approval from Virginia's legislator-led Intercollegiate Athletics Review Commission, and its student-fee-heavy model is a live issue in Richmond. Long-term P4 ambitions, despite Harrisonburg being a tiny TV market.",
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/50166450/james-madison-exit-sun-belt-join-american-conference",
+      "https://www.espn.com/college-football/story/_/id/50534149/james-madison-moving-american-conference-2027",
+      "https://jmusports.com/news/2026/11/19/administration-sun-belt-conference-james-madison-reach-agreement-on-july-1-2027-departure",
+      "https://sunbeltsports.org/news/2026/11/19/general-sun-belt-conference-james-madison-reach-agreement-on-july-1-2027-departure.aspx",
+      "https://www.cbssports.com/college-football/news/james-madison-sun-belt-exit-2027-american-conference-realignment/",
+      "https://www.footballscoop.com/2026/10/12/james-madison-leaving-sun-belt-to-join-american",
+      "https://www.on3.com/news/james-madison-votes-to-terminate-sun-belt-membership-apply-for-american-conference/",
+      "https://cardinalnews.org/2026/10/21/jmu-was-a-financial-heavyweight-in-the-sun-belt-it-will-still-be-one-of-the-best-funded-in-the-american-conference-thanks-to-student-fees/",
+      "https://cardinalnews.org/2026/02/10/deeds-proposal-would-allow-some-of-virginias-top-football-colleges-to-raise-more-money-from-student-fees/",
+      "https://www.dnronline.com/sports/level/college/james_madison_university/jmu-wants-to-lead-sun-belt-in-revenue-sharing-with-athletes/article_f88a2ebd-e486-5bc3-8a18-11515f62ba14.html",
+      "https://jmusports.com"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headFootballCoach",
+      "athletics.revenueUsd"
+    ]
+  },
+  {
+    "id": "marshall",
+    "name": "Marshall University",
+    "shortName": "Marshall",
+    "abbr": "MRSH",
+    "mascot": "Thundering Herd",
+    "colors": [
+      "#00B140",
+      "#FFFFFF"
+    ],
+    "city": "Huntington",
+    "state": "WV",
+    "lat": 38.4235,
+    "lon": -82.4268,
+    "dma": {
+      "name": "Charleston-Huntington, WV",
+      "rank": 80
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 12000,
+    "usNewsRank": 297,
+    "usNewsCategory": "national",
+    "endowmentUsd": 200000000,
+    "athletics": {
+      "revenueUsd": 46000000,
+      "expensesUsd": 46000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Joan C. Edwards Stadium",
+        "capacity": 38227
+      },
+      "arena": {
+        "name": "Cam Henderson Center",
+        "capacity": 9048
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "cusa-2010",
+        "football": "cusa-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 33,
+      "mbb": 32,
+      "wbb": 28,
+      "olympic": 28,
+      "brand": 40,
+      "facilities": 38,
+      "fanBase": 45,
+      "boosterInfluence": 38,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: brand built on the 1970 plane crash (\"We Are Marshall\"); I-AA titles in 1992 and 1996 and a 1990s MAC dynasty (Moss, Pennington, Leftwich). Won the 2024 SBC title under Charles Huff, who then left, and the team skipped its 2024 bowl after mass transfers. Tony Gibson since 2025. MBB: 2018 NCAA win over Wichita State. Olympic: 2020 NCAA men's soccer champion.",
+    "rivals": [
+      "west-virginia",
+      "ohio",
+      "app-state",
+      "east-carolina",
+      "james-madison"
+    ],
+    "president": {
+      "name": "Brad D. Smith",
+      "title": "President",
+      "since": 2022
+    },
+    "ad": {
+      "name": "Christian Spears",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Tony Gibson",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Cornelius Jackson",
+      "since": 2024
+    },
+    "notes": "President Brad D. Smith is a former Intuit CEO and the school's top donor, so the booster and president are effectively one person. The Friends of Coal Bowl with WVU has been dormant since 2012, and West Virginia politicians periodically push to revive it. The big stadium and brand make Marshall a plausible AAC target alongside App State. Withdrew from the 2024 Independence Bowl (Louisiana Tech replaced it).",
+    "sources": [
+      "https://herdzone.com",
+      "https://en.wikipedia.org/wiki/Marshall_Thundering_Herd_football",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd"
+    ]
+  },
+  {
+    "id": "old-dominion",
+    "name": "Old Dominion University",
+    "shortName": "Old Dominion",
+    "abbr": "ODU",
+    "mascot": "Monarchs",
+    "colors": [
+      "#003057",
+      "#98C5EA"
+    ],
+    "city": "Norfolk",
+    "state": "VA",
+    "lat": 36.8853,
+    "lon": -76.3059,
+    "dma": {
+      "name": "Norfolk-Portsmouth-Newport News, VA",
+      "rank": 44
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 23500,
+    "usNewsRank": 216,
+    "usNewsCategory": "national",
+    "endowmentUsd": 330000000,
+    "athletics": {
+      "revenueUsd": 52000000,
+      "expensesUsd": 52000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap. Like JMU, depends heavily on Virginia student fees.",
+      "stadium": {
+        "name": "S.B. Ballard Stadium",
+        "capacity": 21944
+      },
+      "arena": {
+        "name": "Chartway Arena",
+        "capacity": 8472
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "caa",
+        "football": "independent",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 33,
+      "mbb": 32,
+      "wbb": 40,
+      "olympic": 30,
+      "brand": 28,
+      "facilities": 38,
+      "fanBase": 35,
+      "boosterInfluence": 30,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: football restarted in 2009, went FBS in 2014 (C-USA) and joined the SBC in 2022; 2016 Bahamas Bowl win. Ricky Rahne's 2025 team was strong, and ESPN rated ODU an SBC East contender for 2026. MBB: NCAA trips in 2010 (beat Notre Dame), 2011 and 2019. WBB: historic power with AIAW/NCAA titles in 1979, 1980 and 1985 (Nancy Lieberman era). Olympic: sailing national titles.",
+    "rivals": [
+      "james-madison",
+      "vcu",
+      "norfolk-state",
+      "liberty"
+    ],
+    "president": {
+      "name": "Brian O. Hemphill",
+      "title": "President",
+      "since": 2021
+    },
+    "ad": {
+      "name": "Wood Selig",
+      "since": 2009,
+      "confidence": "low",
+      "note": "Not re-verified for 2026."
+    },
+    "headFootballCoach": {
+      "name": "Ricky Rahne",
+      "since": 2020
+    },
+    "headMbbCoach": {
+      "name": "Mike Jones",
+      "since": 2024
+    },
+    "notes": "Largest Virginia market in the SBC (Hampton Roads). Like JMU, its FBS move needed approval from Virginia's Intercollegiate Athletics Review Commission, and it is funded heavily through student fees. After JMU leaves in 2027, ODU is the SBC's only Virginia school and a natural follow-on target for the AAC.",
+    "sources": [
+      "https://odusports.com",
+      "https://en.wikipedia.org/wiki/Old_Dominion_Monarchs_football",
+      "https://www.espn.com/college-football/story/_/id/48759931/2026-sun-belt-conference-college-football-preview-predictions-every-team",
+      "https://cardinalnews.org/2026/02/10/deeds-proposal-would-allow-some-of-virginias-top-football-colleges-to-raise-more-money-from-student-fees/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ad"
+    ]
+  },
+  {
+    "id": "arkansas-state",
+    "name": "Arkansas State University",
+    "shortName": "Arkansas State",
+    "abbr": "ARST",
+    "mascot": "Red Wolves",
+    "colors": [
+      "#CC092F",
+      "#000000"
+    ],
+    "city": "Jonesboro",
+    "state": "AR",
+    "lat": 35.8423,
+    "lon": -90.6767,
+    "dma": {
+      "name": "Jonesboro, AR",
+      "rank": 180
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 14000,
+    "usNewsRank": 331,
+    "usNewsCategory": "national",
+    "endowmentUsd": 100000000,
+    "athletics": {
+      "revenueUsd": 34000000,
+      "expensesUsd": 34000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Centennial Bank Stadium",
+        "capacity": 30406
+      },
+      "arena": {
+        "name": "First National Bank Arena",
+        "capacity": 10038
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 30,
+      "mbb": 38,
+      "wbb": 30,
+      "olympic": 22,
+      "brand": 25,
+      "facilities": 32,
+      "fanBase": 30,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: 5 SBC titles from 2011 to 2016 and a famous coaching springboard (Freeze, Malzahn, Harsin, Anderson); Butch Jones' rebuild has reached bowls. MBB: Bryan Hodgson's 2024-25 team won 20-plus games before he left for USF; Ryan Pannone took over in 2025 (unverified).",
+    "rivals": [
+      "louisiana",
+      "ulm",
+      "memphis",
+      "troy"
+    ],
+    "president": {
+      "name": "Todd Shields",
+      "title": "Chancellor",
+      "since": 2022
+    },
+    "ad": {
+      "name": "Tom Bowen",
+      "since": 2019
+    },
+    "headFootballCoach": {
+      "name": "Butch Jones",
+      "since": 2021
+    },
+    "headMbbCoach": {
+      "name": "Ryan Pannone",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Recalled as Hodgson's successor; not verified."
+    },
+    "notes": "Flagship of the Arkansas State University System (system president Chuck Welch). Small market. The \"Paint Bucket Bowl\" rivalry with Memphis is occasional, and there is no regular in-state series with Arkansas. A stable SBC West anchor.",
+    "sources": [
+      "https://astateredwolves.com",
+      "https://en.wikipedia.org/wiki/Arkansas_State_Red_Wolves_football",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headMbbCoach"
+    ]
+  },
+  {
+    "id": "louisiana",
+    "name": "University of Louisiana at Lafayette",
+    "shortName": "Louisiana",
+    "abbr": "UL",
+    "mascot": "Ragin' Cajuns",
+    "colors": [
+      "#CE181E",
+      "#FFFFFF"
+    ],
+    "city": "Lafayette",
+    "state": "LA",
+    "lat": 30.2121,
+    "lon": -92.0193,
+    "dma": {
+      "name": "Lafayette, LA",
+      "rank": 124
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 16700,
+    "usNewsRank": 294,
+    "usNewsCategory": "national",
+    "endowmentUsd": 250000000,
+    "athletics": {
+      "revenueUsd": 38000000,
+      "expensesUsd": 38000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Our Lady of Lourdes Stadium",
+        "capacity": 41426
+      },
+      "arena": {
+        "name": "Cajundome",
+        "capacity": 11550
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 33,
+      "mbb": 30,
+      "wbb": 32,
+      "olympic": 32,
+      "brand": 30,
+      "facilities": 34,
+      "fanBase": 36,
+      "boosterInfluence": 35,
+      "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: Billy Napier era (2018-21) produced the 2021 SBC title; Michael Desormeaux won the 2024 SBC West and lost the title game to Marshall. MBB: 2014 NCAA (Elfrid Payton), 2023 NCAA. Olympic: softball was a WCWS regular and baseball a 2000s-2014 power; above-average SBC Directors' Cup finishes.",
+    "rivals": [
+      "ulm",
+      "louisiana-tech",
+      "arkansas-state",
+      "south-alabama"
+    ],
+    "president": {
+      "name": "Ramesh Kolluru",
+      "title": "President",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Believed to have succeeded Joseph Savoie (president 2008-2025); verify."
+    },
+    "ad": {
+      "name": "Bryan Maggard",
+      "since": 2016,
+      "confidence": "low",
+      "note": "Not re-verified for 2026."
+    },
+    "headFootballCoach": {
+      "name": "Michael Desormeaux",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Quannas White",
+      "since": 2024
+    },
+    "notes": "University of Louisiana System school: the UL System board and the Louisiana Board of Regents control budgets and fees, and repeated state budget fights make Louisiana a high-pressure state. Rebranded athletics as \"Louisiana\" (2017), which angered ULM and others in UL System naming politics. Louisiana Tech's 2026 arrival creates a three-school UL System bloc (Louisiana, ULM, Louisiana Tech) inside the SBC.",
+    "sources": [
+      "https://ragincajuns.com",
+      "https://en.wikipedia.org/wiki/Louisiana_Ragin%27_Cajuns_football",
+      "https://www.theadvocate.com/acadiana/sports/ul_lafayette/louisiana-tech-moving-back-to-the-sun-belt-to-replace-texas-state-keep-conference-at/article_b17dbdf8-4425-4c69-bdff-018f409a4a35.html"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "stadium.capacity"
+    ]
+  },
+  {
+    "id": "ulm",
+    "name": "University of Louisiana Monroe",
+    "shortName": "ULM",
+    "abbr": "ULM",
+    "mascot": "Warhawks",
+    "colors": [
+      "#840029",
+      "#BA9B37"
+    ],
+    "city": "Monroe",
+    "state": "LA",
+    "lat": 32.5292,
+    "lon": -92.0748,
+    "dma": {
+      "name": "Monroe-El Dorado, LA-AR",
+      "rank": 140
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 8900,
+    "usNewsRank": 360,
+    "usNewsCategory": "national",
+    "endowmentUsd": 70000000,
+    "athletics": {
+      "revenueUsd": 24000000,
+      "expensesUsd": 24000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap. ULM has the smallest budget in the league and is likely the lowest payer.",
+      "stadium": {
+        "name": "Malone Stadium",
+        "capacity": 27617
+      },
+      "arena": {
+        "name": "Fant-Ewing Coliseum",
+        "capacity": 7085
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 20,
+      "mbb": 18,
+      "wbb": 18,
+      "olympic": 18,
+      "brand": 18,
+      "facilities": 22,
+      "fanBase": 18,
+      "boosterInfluence": 15,
+      "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: one FBS-era bowl (2012 Independence) and the 2007 upset at Alabama; Bryant Vincent has coached since 2025. MBB/WBB: rarely contend. Olympic: bottom tier of the SBC.",
+    "rivals": [
+      "louisiana-tech",
+      "louisiana",
+      "arkansas-state",
+      "grambling"
+    ],
+    "president": {
+      "name": "Ron Berry",
+      "title": "President",
+      "since": 2017
+    },
+    "ad": {
+      "name": "Scott McDonald",
+      "since": 2020,
+      "confidence": "low",
+      "note": "Not re-verified for 2026."
+    },
+    "headFootballCoach": {
+      "name": "Bryant Vincent",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Phil Cunningham",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Not re-verified for 2026-27."
+    },
+    "notes": "Lowest-resourced department in the SBC and the usual name in \"who gets squeezed\" scenarios, though the league values its Louisiana footprint. UL System school. The I-20 rivalry with Louisiana Tech becomes a conference game again from 2026.",
+    "sources": [
+      "https://ulmwarhawks.com",
+      "https://en.wikipedia.org/wiki/Louisiana%E2%80%93Monroe_Warhawks_football",
+      "https://www.on3.com/sites/bleed-tech-blue/news/louisiana-tech-replaces-texas-state-in-sun-belt-likely-to-play-similar-2026-slate/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ad",
+      "headMbbCoach"
+    ]
+  },
+  {
+    "id": "south-alabama",
+    "name": "University of South Alabama",
+    "shortName": "South Alabama",
+    "abbr": "USA",
+    "mascot": "Jaguars",
+    "colors": [
+      "#00205B",
+      "#BF0D3E"
+    ],
+    "city": "Mobile",
+    "state": "AL",
+    "lat": 30.6965,
+    "lon": -88.1779,
+    "dma": {
+      "name": "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+      "rank": 57
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 14000,
+    "usNewsRank": 327,
+    "usNewsCategory": "national",
+    "endowmentUsd": 600000000,
+    "athletics": {
+      "revenueUsd": 40000000,
+      "expensesUsd": 40000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Hancock Whitney Stadium",
+        "capacity": 25450
+      },
+      "arena": {
+        "name": "Mitchell Center",
+        "capacity": 10041
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "sun-belt",
+        "football": "independent",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 29,
+      "mbb": 36,
+      "wbb": 28,
+      "olympic": 28,
+      "brand": 20,
+      "facilities": 38,
+      "fanBase": 25,
+      "boosterInfluence": 30,
+      "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: started in 2009 and joined FBS and SBC football in 2012; went 10-3 in 2022 under Kane Wommack; Major Applewhite won a 2024 bowl, then a down 2025. MBB: Richie Riley's teams are SBC contenders. Olympic: baseball tradition with many NCAA regionals.",
+    "rivals": [
+      "troy",
+      "southern-miss",
+      "louisiana",
+      "uab"
+    ],
+    "president": {
+      "name": "Jo Bonner",
+      "title": "President",
+      "since": 2022
+    },
+    "ad": {
+      "name": "Joel Erdmann",
+      "since": 2009
+    },
+    "headFootballCoach": {
+      "name": "Major Applewhite",
+      "since": 2024,
+      "confidence": "low",
+      "note": "Status after 2025 season not verified."
+    },
+    "headMbbCoach": {
+      "name": "Richie Riley",
+      "since": 2018
+    },
+    "notes": "President Jo Bonner is a former U.S. congressman and former chief of staff to Gov. Kay Ivey, making him the best-connected political operator among SBC CEOs. Plays Troy for the \"Battle for the Belt\" trophy. The on-campus Hancock Whitney Stadium (2020) gives it the newest stadium in the league.",
+    "sources": [
+      "https://usajaguars.com",
+      "https://en.wikipedia.org/wiki/South_Alabama_Jaguars_football",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headFootballCoach"
+    ]
+  },
+  {
+    "id": "southern-miss",
+    "name": "The University of Southern Mississippi",
+    "shortName": "Southern Miss",
+    "abbr": "USM",
+    "mascot": "Golden Eagles",
+    "colors": [
+      "#000000",
+      "#FFAB00"
+    ],
+    "city": "Hattiesburg",
+    "state": "MS",
+    "lat": 31.3291,
+    "lon": -89.3343,
+    "dma": {
+      "name": "Hattiesburg-Laurel, MS",
+      "rank": 167
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 13500,
+    "usNewsRank": 331,
+    "usNewsCategory": "national",
+    "endowmentUsd": 140000000,
+    "athletics": {
+      "revenueUsd": 39000000,
+      "expensesUsd": 39000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "M. M. Roberts Stadium",
+        "capacity": 36000
+      },
+      "arena": {
+        "name": "Reed Green Coliseum",
+        "capacity": 8095
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "cusa-2010",
+        "football": "cusa-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 28,
+      "mbb": 25,
+      "wbb": 30,
+      "olympic": 32,
+      "brand": 32,
+      "facilities": 32,
+      "fanBase": 38,
+      "boosterInfluence": 30,
+      "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: Brett Favre and Jeff Bower eras; 12-2 C-USA champion in 2011 followed by 0-12 in 2012; joined the SBC in 2022; went 1-11 in 2024, then rebounded in 2025 under Charles Huff, who left for Memphis (Dec 2025). MBB: SBC lower-middle. Olympic: perennial NCAA baseball host (2009 CWS).",
+    "rivals": [
+      "memphis",
+      "louisiana-tech",
+      "tulane",
+      "south-alabama",
+      "troy"
+    ],
+    "president": {
+      "name": "Joseph S. Paul",
+      "title": "President",
+      "since": 2020
+    },
+    "ad": {
+      "name": "Jeremy McClain",
+      "since": 2018
+    },
+    "headFootballCoach": {
+      "name": null,
+      "since": 2026,
+      "confidence": "low",
+      "note": "Charles Huff believed to have left for Memphis in Dec 2025; successor not verified."
+    },
+    "headMbbCoach": {
+      "name": "Jay Ladner",
+      "since": 2019,
+      "confidence": "low",
+      "note": "Status after 2024-25 not verified."
+    },
+    "notes": "Governed by Mississippi's IHL board. Once the C-USA power that missed the 2012 Big East and AAC calls. The \"Black and Blue Bowl\" with Memphis is dormant. The rivalry with Louisiana Tech, often billed as the \"Rivalry in Dixie\", becomes an SBC game again in 2026. A big stadium and fan base for the SBC.",
+    "sources": [
+      "https://southernmiss.com",
+      "https://en.wikipedia.org/wiki/Southern_Miss_Golden_Eagles_football",
+      "https://www.on3.com/sites/bleed-tech-blue/news/louisiana-tech-replaces-texas-state-in-sun-belt-likely-to-play-similar-2026-slate/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headFootballCoach",
+      "headMbbCoach"
+    ]
+  },
+  {
+    "id": "troy",
+    "name": "Troy University",
+    "shortName": "Troy",
+    "abbr": "TROY",
+    "mascot": "Trojans",
+    "colors": [
+      "#8A2432",
+      "#B3B5B8"
+    ],
+    "city": "Troy",
+    "state": "AL",
+    "lat": 31.7998,
+    "lon": -85.9568,
+    "dma": {
+      "name": "Montgomery-Selma, AL",
+      "rank": 118
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 15000,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": 150000000,
+    "athletics": {
+      "revenueUsd": 38000000,
+      "expensesUsd": 38000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Sun Belt had 100% opt-in for 2025-26 (Sportico). School-level payout not public; third-party estimate of SBC average ~$2.4M/school at the 22% benchmark (nil-ncaa.com) vs. $20.5M cap.",
+      "stadium": {
+        "name": "Veterans Memorial Stadium",
+        "capacity": 30000
+      },
+      "arena": {
+        "name": "Trojan Arena",
+        "capacity": 5200
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 34,
+      "mbb": 42,
+      "wbb": 35,
+      "olympic": 25,
+      "brand": 28,
+      "facilities": 34,
+      "fanBase": 30,
+      "boosterInfluence": 28,
+      "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: Larry Blakeney built the program; Neal Brown won big in 2016-18; Jon Sumrall won SBC titles in 2022 and 2023; Gerad Parker since 2024. MBB: Scott Cross won the 2025 SBC tournament and played Kentucky in the NCAA. WBB: regular SBC contender.",
+    "rivals": [
+      "south-alabama",
+      "jacksonville-state",
+      "arkansas-state",
+      "uab"
+    ],
+    "president": {
+      "name": "Jack Hawkins Jr.",
+      "title": "Chancellor",
+      "since": 1989
+    },
+    "ad": {
+      "name": "Brent Jones",
+      "since": 2016,
+      "confidence": "low",
+      "note": "Start year unverified."
+    },
+    "headFootballCoach": {
+      "name": "Gerad Parker",
+      "since": 2024
+    },
+    "headMbbCoach": {
+      "name": "Scott Cross",
+      "since": 2019
+    },
+    "notes": "Chancellor Jack Hawkins Jr. (in office since 1989) is the SBC's longest-serving CEO and a conference power broker. Small-town campus with a strong recruiting footprint in south Alabama and the Florida panhandle. Plays South Alabama for the \"Battle for the Belt\" trophy and Jacksonville State for the Ol' School Bell.",
+    "sources": [
+      "https://troytrojans.com",
+      "https://en.wikipedia.org/wiki/Troy_Trojans_football",
+      "https://www.sportico.com/leagues/college-sports/2025/division-i-revenue-sharing-schools-list-college-sports-1234863224/"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd"
+    ]
+  },
+  {
+    "id": "louisiana-tech",
+    "name": "Louisiana Tech University",
+    "shortName": "Louisiana Tech",
+    "abbr": "LT",
+    "mascot": "Bulldogs",
+    "colors": [
+      "#002F8B",
+      "#E31B23"
+    ],
+    "city": "Ruston",
+    "state": "LA",
+    "lat": 32.5276,
+    "lon": -92.6489,
+    "dma": {
+      "name": "Monroe-El Dorado, LA-AR",
+      "rank": 140
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 11600,
+    "usNewsRank": 263,
+    "usNewsCategory": "national",
+    "endowmentUsd": 170000000,
+    "athletics": {
+      "revenueUsd": 33000000,
+      "expensesUsd": 33000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Was in C-USA for 2025-26; C-USA had 100% opt-in (Sportico). Payout not public; likely a low-single-digit-millions figure.",
+      "stadium": {
+        "name": "Joe Aillet Stadium",
+        "capacity": 28562
+      },
+      "arena": {
+        "name": "Thomas Assembly Center",
+        "capacity": 8000
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "sun-belt",
+        "football": "sun-belt",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "wac-2010",
+        "football": "wac-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 28,
+      "mbb": 35,
+      "wbb": 35,
+      "olympic": 28,
+      "brand": 28,
+      "facilities": 33,
+      "fanBase": 30,
+      "boosterInfluence": 30,
+      "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: Terry Bradshaw heritage and Skip Holtz-era bowls (2014-19); Sonny Cumbie since 2022, including the 2024 Independence Bowl as Marshall's fill-in. MBB: Karl Malone legacy and C-USA contender under Talvin Hester. WBB: the \"Lady Techsters\" brand (1981 AIAW, 1982 and 1988 NCAA titles under Sonja Hogg and Leon Barmore).",
+    "rivals": [
+      "southern-miss",
+      "ulm",
+      "louisiana"
+    ],
+    "president": {
+      "name": "Jim Henderson",
+      "title": "President",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Ryan Ivey",
+      "since": 2022
+    },
+    "headFootballCoach": {
+      "name": "Sonny Cumbie",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Talvin Hester",
+      "since": 2021
+    },
+    "notes": "Newest member: joined the SBC on 2026-07-01 from C-USA (member 2013-26, WAC 2001-13). It had been an SBC member in 1991-2001. SBC CEOs invited it in 2025 to replace Texas State, which paid a $5M buyout to leave for the Pac-12, and keep the league at 14. Scheduled into Texas State's old West slots (Louisiana, ULM, Southern Miss). President Jim Henderson previously ran the UL System, so Tech joins a three-school UL System bloc in the SBC.",
+    "sources": [
+      "https://www.cbssports.com/college-football/news/louisiana-tech-accepts-invitation-to-sun-belt-replacing-texas-state-after-departure-to-pac-12",
+      "https://www.theadvocate.com/acadiana/sports/ul_lafayette/louisiana-tech-moving-back-to-the-sun-belt-to-replace-texas-state-keep-conference-at/article_b17dbdf8-4425-4c69-bdff-018f409a4a35.html",
+      "https://www.on3.com/sites/bleed-tech-blue/news/louisiana-tech-replaces-texas-state-in-sun-belt-likely-to-play-similar-2026-slate/",
+      "https://www.rustonleader.com/sports/tech-officials-give-first-thoughts-sun-belt-move",
+      "https://www.espn.com/college-sports/story/_/id/45618806",
+      "https://www.underdogdynasty.com/sun-belt-conference/44735/2026-sun-belt-season-preview-west-division",
+      "https://latechsports.com"
+    ],
+    "confidence": "low",
+    "note": "Web search budget ran out during research; DMA rank, US News rank, endowment and athletic revenue/expenses are best estimates from Knight-Newhouse/USA Today-era figures and need verification.",
+    "lowConfidenceFields": [
+      "dma.rank",
+      "usNewsRank",
+      "endowmentUsd",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president.since"
+    ]
+  }
+]
