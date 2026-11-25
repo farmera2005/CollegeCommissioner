@@ -1,0 +1,1633 @@
+[
+  {
+    "id": "fiesta",
+    "type": "bowl",
+    "name": "Fiesta Bowl",
+    "titleSponsor": "Vrbo",
+    "city": "Glendale",
+    "state": "AZ",
+    "venue": "State Farm Stadium",
+    "date2026": "2026-12-30",
+    "payoutPerTeamUsd": 4000000,
+    "payoutIsEstimate": false,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "quarterfinal",
+    "notes": "2026-27 CFP quarterfinal. The \"payout\" is the CFP participation payment for this round, paid to the conference: $4M per quarterfinal team and $6M per semifinal team, plus travel allowance. It comes on top of the $4M first-round/bye payment. The top 3 seeds pick quarterfinal bowls in order. Schools must buy large ticket allotments and often lose money on travel.",
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/2/3/2627-2728-bowls",
+      "https://en.wikipedia.org/wiki/New_Year%27s_Six",
+      "https://businessofcollegesports.com/football/2025-2026-college-football-playoff-schedule-and-payouts/",
+      "https://en.wikipedia.org/wiki/Fiesta_Bowl"
+    ]
+  },
+  {
+    "id": "cotton",
+    "type": "bowl",
+    "name": "Cotton Bowl Classic",
+    "titleSponsor": "Goodyear",
+    "city": "Arlington",
+    "state": "TX",
+    "venue": "AT&T Stadium",
+    "date2026": "2027-01-01",
+    "payoutPerTeamUsd": 4000000,
+    "payoutIsEstimate": false,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "quarterfinal",
+    "notes": "2026-27 CFP quarterfinal. The \"payout\" is the CFP participation payment for this round, paid to the conference: $4M per quarterfinal team and $6M per semifinal team, plus travel allowance. It comes on top of the $4M first-round/bye payment. The top 3 seeds pick quarterfinal bowls in order. Schools must buy large ticket allotments and often lose money on travel.",
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/2/3/2627-2728-bowls",
+      "https://en.wikipedia.org/wiki/New_Year%27s_Six",
+      "https://businessofcollegesports.com/football/2025-2026-college-football-playoff-schedule-and-payouts/",
+      "https://en.wikipedia.org/wiki/Cotton_Bowl_Classic"
+    ]
+  },
+  {
+    "id": "peach",
+    "type": "bowl",
+    "name": "Peach Bowl",
+    "titleSponsor": "Chick-fil-A",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Mercedes-Benz Stadium",
+    "date2026": "2027-01-01",
+    "payoutPerTeamUsd": 4000000,
+    "payoutIsEstimate": false,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "quarterfinal",
+    "notes": "2026-27 CFP quarterfinal. The \"payout\" is the CFP participation payment for this round, paid to the conference: $4M per quarterfinal team and $6M per semifinal team, plus travel allowance. It comes on top of the $4M first-round/bye payment. The top 3 seeds pick quarterfinal bowls in order. Schools must buy large ticket allotments and often lose money on travel.",
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/2/3/2627-2728-bowls",
+      "https://en.wikipedia.org/wiki/New_Year%27s_Six",
+      "https://businessofcollegesports.com/football/2025-2026-college-football-playoff-schedule-and-payouts/",
+      "https://en.wikipedia.org/wiki/Peach_Bowl"
+    ]
+  },
+  {
+    "id": "rose",
+    "type": "bowl",
+    "name": "Rose Bowl",
+    "titleSponsor": "Prudential",
+    "city": "Pasadena",
+    "state": "CA",
+    "venue": "Rose Bowl",
+    "date2026": "2027-01-01",
+    "payoutPerTeamUsd": 4000000,
+    "payoutIsEstimate": false,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "quarterfinal",
+    "notes": "Traditional Big Ten/Pac-12 tie-in eliminated. Will not host semifinals in 2028-31 so it can keep the Jan 1 5pm ET slot. Sponsor \"presented by Prudential\" not re-verified. 2026-27 CFP quarterfinal. The \"payout\" is the CFP participation payment for this round, paid to the conference: $4M per quarterfinal team and $6M per semifinal team, plus travel allowance. It comes on top of the $4M first-round/bye payment. The top 3 seeds pick quarterfinal bowls in order. Schools must buy large ticket allotments and often lose money on travel.",
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/2/3/2627-2728-bowls",
+      "https://en.wikipedia.org/wiki/New_Year%27s_Six",
+      "https://businessofcollegesports.com/football/2025-2026-college-football-playoff-schedule-and-payouts/",
+      "https://en.wikipedia.org/wiki/Rose_Bowl"
+    ]
+  },
+  {
+    "id": "orange",
+    "type": "bowl",
+    "name": "Orange Bowl",
+    "titleSponsor": "Capital One",
+    "city": "Miami Gardens",
+    "state": "FL",
+    "venue": "Hard Rock Stadium",
+    "date2026": "2027-01-14",
+    "payoutPerTeamUsd": 6000000,
+    "payoutIsEstimate": false,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "semifinal",
+    "notes": "ACC tie-in eliminated from 2026. 2026-27 CFP semifinal. The \"payout\" is the CFP participation payment for this round, paid to the conference: $4M per quarterfinal team and $6M per semifinal team, plus travel allowance. It comes on top of the $4M first-round/bye payment. The top 3 seeds pick quarterfinal bowls in order. Schools must buy large ticket allotments and often lose money on travel.",
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/2/3/2627-2728-bowls",
+      "https://en.wikipedia.org/wiki/New_Year%27s_Six",
+      "https://businessofcollegesports.com/football/2025-2026-college-football-playoff-schedule-and-payouts/",
+      "https://en.wikipedia.org/wiki/Orange_Bowl"
+    ]
+  },
+  {
+    "id": "sugar",
+    "type": "bowl",
+    "name": "Sugar Bowl",
+    "titleSponsor": "Allstate",
+    "city": "New Orleans",
+    "state": "LA",
+    "venue": "Caesars Superdome",
+    "date2026": "2027-01-15",
+    "payoutPerTeamUsd": 6000000,
+    "payoutIsEstimate": false,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "semifinal",
+    "notes": "SEC/Big 12 tie-in eliminated from 2026. 2026-27 CFP semifinal. The \"payout\" is the CFP participation payment for this round, paid to the conference: $4M per quarterfinal team and $6M per semifinal team, plus travel allowance. It comes on top of the $4M first-round/bye payment. The top 3 seeds pick quarterfinal bowls in order. Schools must buy large ticket allotments and often lose money on travel.",
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/2/3/2627-2728-bowls",
+      "https://en.wikipedia.org/wiki/New_Year%27s_Six",
+      "https://businessofcollegesports.com/football/2025-2026-college-football-playoff-schedule-and-payouts/",
+      "https://en.wikipedia.org/wiki/Sugar_Bowl"
+    ]
+  },
+  {
+    "id": "cfp-national-championship-2027",
+    "type": "cfp-championship",
+    "name": "CFP National Championship",
+    "titleSponsor": null,
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Allegiant Stadium",
+    "date2026": "2027-01-25",
+    "payoutPerTeamUsd": 6000000,
+    "payoutIsEstimate": false,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "championship",
+    "notes": "First CFP final in Las Vegas. The CFP runs it directly rather than through a bowl. $6M participation payment per team. Future finals: New Orleans 2028-01-24 (first 24-team final), Tampa 2029-01-22.",
+    "sources": [
+      "https://on3.com/news/college-football-playoff-announces-2027-national-championship-game-will-be-at-las-vegas-allegiant-stadium",
+      "https://fbschedules.com/college-football-playoff-sets-national-championship-site-for-2028-season/",
+      "https://www.cbssports.com/college-football/news/college-football-playoff-tampa-bay-set-host-cfp-national-championship-in-2029"
+    ]
+  },
+  {
+    "id": "citrus",
+    "type": "bowl",
+    "name": "Citrus Bowl",
+    "titleSponsor": "Cheez-It",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Camping World Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 4000000,
+    "payoutIsEstimate": true,
+    "payoutTier": "A",
+    "tieIns": [
+      {
+        "conference": "sec",
+        "pickOrder": 1,
+        "notes": "Top SEC pick after the CFP (shared pool with ReliaQuest)"
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 1,
+        "notes": "Top Big Ten pick after the CFP (pool)"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Usually New Year's Day. Tier A: top non-CFP Power bowl, roughly $3.5-5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Citrus_Bowl"
+    ]
+  },
+  {
+    "id": "reliaquest",
+    "type": "bowl",
+    "name": "ReliaQuest Bowl",
+    "titleSponsor": "ReliaQuest",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": "Raymond James Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 4000000,
+    "payoutIsEstimate": true,
+    "payoutTier": "A",
+    "tieIns": [
+      {
+        "conference": "sec",
+        "pickOrder": 1
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Formerly the Outback Bowl. Tier A: top non-CFP Power bowl, roughly $3.5-5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/ReliaQuest_Bowl"
+    ]
+  },
+  {
+    "id": "alamo",
+    "type": "bowl",
+    "name": "Alamo Bowl",
+    "titleSponsor": "Valero",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "Alamodome",
+    "date2026": null,
+    "payoutPerTeamUsd": 4000000,
+    "payoutIsEstimate": true,
+    "payoutTier": "A",
+    "tieIns": [
+      {
+        "conference": "big-12",
+        "pickOrder": 1,
+        "notes": "Top Big 12 pick after the CFP"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Open tie-in: Opponent tie-in for 2026-31 not verified. Was the Pac-12 in 2020-25; likely a Big Ten or Big 12 rematch structure. Tier A: top non-CFP Power bowl, roughly $3.5-5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Alamo_Bowl"
+    ]
+  },
+  {
+    "id": "gator",
+    "type": "bowl",
+    "name": "Gator Bowl",
+    "titleSponsor": "TaxSlayer",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "EverBank Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "sec",
+        "pickOrder": 2
+      },
+      {
+        "conference": "acc",
+        "pickOrder": 2,
+        "notes": "Alternating with the Big Ten in the 2020-25 cycle"
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 2,
+        "notes": "Alternate years"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Gator_Bowl"
+    ]
+  },
+  {
+    "id": "holiday",
+    "type": "bowl",
+    "name": "Holiday Bowl",
+    "titleSponsor": "DIRECTV",
+    "city": "San Diego",
+    "state": "CA",
+    "venue": "Snapdragon Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "acc",
+        "pickOrder": 2
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Open tie-in: Was the Pac-12 #1 non-CFP pick in 2020-25. The 2026-31 partner (Big Ten / Big 12 / new Pac-12) was not verified. Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Holiday_Bowl"
+    ]
+  },
+  {
+    "id": "texas",
+    "type": "bowl",
+    "name": "Texas Bowl",
+    "titleSponsor": "Kinder's",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "NRG Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "big-12",
+        "pickOrder": 3
+      },
+      {
+        "conference": "sec",
+        "pickOrder": 3
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "The 24-team CFP reporting cites the Texas Bowl as a landing spot for Power 4 teams that miss the playoff. Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Texas_Bowl"
+    ]
+  },
+  {
+    "id": "liberty",
+    "type": "bowl",
+    "name": "Liberty Bowl",
+    "titleSponsor": "AutoZone",
+    "city": "Memphis",
+    "state": "TN",
+    "venue": "Simmons Bank Liberty Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "big-12",
+        "pickOrder": 3
+      },
+      {
+        "conference": "sec",
+        "pickOrder": 4
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Big 12 vs SEC tie-in confirmed for 2026-27 by CFN/Athlon projections. Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Liberty_Bowl"
+    ]
+  },
+  {
+    "id": "music-city",
+    "type": "bowl",
+    "name": "Music City Bowl",
+    "titleSponsor": "TransPerfect",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "Nissan Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "sec",
+        "pickOrder": 4
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 4,
+        "notes": "Alternating with the ACC in some years"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Cited in 24-team CFP reporting as a landing spot for P4 non-qualifiers. The new enclosed Nissan Stadium is due in 2027. Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Music_City_Bowl"
+    ]
+  },
+  {
+    "id": "las-vegas",
+    "type": "bowl",
+    "name": "Las Vegas Bowl",
+    "titleSponsor": "SRS Distribution",
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Allegiant Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "sec",
+        "pickOrder": 4
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 4,
+        "notes": "Big Ten took over the slot from the old Pac-12 (e.g., 2024 USC vs Texas A&M)"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Las_Vegas_Bowl"
+    ]
+  },
+  {
+    "id": "pop-tarts",
+    "type": "bowl",
+    "name": "Pop-Tarts Bowl",
+    "titleSponsor": "Pop-Tarts",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Camping World Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "acc",
+        "pickOrder": 2
+      },
+      {
+        "conference": "big-12",
+        "pickOrder": 2
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Formerly the Cheez-It/Camping World Bowl. Known for the edible mascot. Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Pop-Tarts_Bowl"
+    ]
+  },
+  {
+    "id": "pinstripe",
+    "type": "bowl",
+    "name": "Pinstripe Bowl",
+    "titleSponsor": "Bad Boy Mowers",
+    "city": "Bronx",
+    "state": "NY",
+    "venue": "Yankee Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "acc",
+        "pickOrder": 4
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 5
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Pinstripe_Bowl"
+    ]
+  },
+  {
+    "id": "sun",
+    "type": "bowl",
+    "name": "Sun Bowl",
+    "titleSponsor": "Tony the Tiger",
+    "city": "El Paso",
+    "state": "TX",
+    "venue": "Sun Bowl Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "acc",
+        "pickOrder": 3
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Broadcast on CBS. Open tie-in: Was the Pac-12 in 2020-25. The 2026-31 partner was not verified. Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Sun_Bowl"
+    ]
+  },
+  {
+    "id": "dukes-mayo",
+    "type": "bowl",
+    "name": "Duke's Mayo Bowl",
+    "titleSponsor": "Duke's Mayo",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Bank of America Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 2750000,
+    "payoutIsEstimate": true,
+    "payoutTier": "B",
+    "tieIns": [
+      {
+        "conference": "acc",
+        "pickOrder": 3
+      },
+      {
+        "conference": "sec",
+        "pickOrder": 5,
+        "notes": "Alternating with the Big Ten"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Winning coach gets a mayonnaise bath, a viral brand asset. Tier B: mid-level Power bowl, roughly $2-3.5M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Duke's_Mayo_Bowl"
+    ]
+  },
+  {
+    "id": "rate",
+    "type": "bowl",
+    "name": "Rate Bowl",
+    "titleSponsor": "Rate (Guaranteed Rate)",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Chase Field",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "big-12",
+        "pickOrder": 5
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 7
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Big 12 vs Big Ten tie-in confirmed in 2026-27 tie-in listings. Formerly the Guaranteed Rate Bowl. Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Rate_Bowl"
+    ]
+  },
+  {
+    "id": "military",
+    "type": "bowl",
+    "name": "Military Bowl",
+    "titleSponsor": "Go Bowling",
+    "city": "Annapolis",
+    "state": "MD",
+    "venue": "Navy-Marine Corps Memorial Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "acc",
+        "pickOrder": 5
+      },
+      {
+        "conference": "american",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Military_Bowl"
+    ]
+  },
+  {
+    "id": "fenway",
+    "type": "bowl",
+    "name": "Fenway Bowl",
+    "titleSponsor": "Wasabi",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "Fenway Park",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "acc",
+        "pickOrder": 6
+      },
+      {
+        "conference": "american",
+        "pickOrder": 2
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Fenway_Bowl"
+    ]
+  },
+  {
+    "id": "gasparilla",
+    "type": "bowl",
+    "name": "Gasparilla Bowl",
+    "titleSponsor": "Union Home Mortgage",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": "Raymond James Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "american",
+        "pickOrder": 2
+      },
+      {
+        "conference": "acc",
+        "pickOrder": 7,
+        "notes": "Rotating with the SEC"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Gasparilla_Bowl"
+    ]
+  },
+  {
+    "id": "birmingham",
+    "type": "bowl",
+    "name": "Birmingham Bowl",
+    "titleSponsor": null,
+    "city": "Birmingham",
+    "state": "AL",
+    "venue": "Protective Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "sec",
+        "pickOrder": 6
+      },
+      {
+        "conference": "american",
+        "pickOrder": 3
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Birmingham_Bowl"
+    ]
+  },
+  {
+    "id": "independence",
+    "type": "bowl",
+    "name": "Independence Bowl",
+    "titleSponsor": "Radiance Technologies",
+    "city": "Shreveport",
+    "state": "LA",
+    "venue": "Independence Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "big-12",
+        "pickOrder": 6
+      },
+      {
+        "conference": "cusa",
+        "pickOrder": 1
+      },
+      {
+        "conference": "independent",
+        "pickOrder": null,
+        "notes": "Army (now in the American for football) and others as backfill"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Independence_Bowl"
+    ]
+  },
+  {
+    "id": "first-responder",
+    "type": "bowl",
+    "name": "First Responder Bowl",
+    "titleSponsor": "SERVPRO",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Gerald J. Ford Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "american",
+        "pickOrder": 3
+      },
+      {
+        "conference": "cusa",
+        "pickOrder": 2
+      },
+      {
+        "conference": "big-12",
+        "pickOrder": 7
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/First_Responder_Bowl"
+    ]
+  },
+  {
+    "id": "armed-forces",
+    "type": "bowl",
+    "name": "Armed Forces Bowl",
+    "titleSponsor": "Lockheed Martin",
+    "city": "Fort Worth",
+    "state": "TX",
+    "venue": "Amon G. Carter Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "american",
+        "pickOrder": 4,
+        "notes": "Including Army/Navy priority"
+      },
+      {
+        "conference": "big-12",
+        "pickOrder": 8
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 8
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Armed_Forces_Bowl"
+    ]
+  },
+  {
+    "id": "new-mexico",
+    "type": "bowl",
+    "name": "New Mexico Bowl",
+    "titleSponsor": "Isleta",
+    "city": "Albuquerque",
+    "state": "NM",
+    "venue": "University Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "mountain-west",
+        "pickOrder": 2
+      },
+      {
+        "conference": "cusa",
+        "pickOrder": 3
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Broadcast on ESPN. Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/New_Mexico_Bowl"
+    ]
+  },
+  {
+    "id": "la",
+    "type": "bowl",
+    "name": "LA Bowl",
+    "titleSponsor": "Starco Brands",
+    "city": "Inglewood",
+    "state": "CA",
+    "venue": "SoFi Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 1200000,
+    "payoutIsEstimate": true,
+    "payoutTier": "C",
+    "tieIns": [
+      {
+        "conference": "mountain-west",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "\"Hosted by Gronk\". Open tie-in: Was the Pac-12 #5 pick in 2020-25. The new Pac-12 (G6) is a natural fit, but this was not verified. Tier C: lower Power or upper G6 bowl, roughly $1-2.2M per team.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/LA_Bowl"
+    ]
+  },
+  {
+    "id": "arizona",
+    "type": "bowl",
+    "name": "Arizona Bowl",
+    "titleSponsor": "Snoop Dogg / Gin & Juice",
+    "city": "Tucson",
+    "state": "AZ",
+    "venue": "Arizona Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "mountain-west",
+        "pickOrder": 3
+      },
+      {
+        "conference": "mac",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Has aired outside ESPN in recent years (Barstool Sports, then The CW). Not verified for 2026. Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Arizona_Bowl"
+    ]
+  },
+  {
+    "id": "frisco",
+    "type": "bowl",
+    "name": "Frisco Bowl",
+    "titleSponsor": null,
+    "city": "Frisco",
+    "state": "TX",
+    "venue": "Toyota Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "american",
+        "pickOrder": 5
+      },
+      {
+        "conference": "mountain-west",
+        "pickOrder": 4
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Sponsor changes often (Scooter's Coffee, then reportedly Xbox in 2025). Not verified. Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Frisco_Bowl"
+    ]
+  },
+  {
+    "id": "boca-raton",
+    "type": "bowl",
+    "name": "Boca Raton Bowl",
+    "titleSponsor": null,
+    "city": "Boca Raton",
+    "state": "FL",
+    "venue": "Flagler Credit Union Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "american",
+        "pickOrder": 6
+      },
+      {
+        "conference": "mac",
+        "pickOrder": 2
+      },
+      {
+        "conference": "cusa",
+        "pickOrder": 4
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Boca_Raton_Bowl"
+    ]
+  },
+  {
+    "id": "cure",
+    "type": "bowl",
+    "name": "Cure Bowl",
+    "titleSponsor": null,
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "FBC Mortgage Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "sun-belt",
+        "pickOrder": 2
+      },
+      {
+        "conference": "american",
+        "pickOrder": 7
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Usually one of the first bowls in December. Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Cure_Bowl"
+    ]
+  },
+  {
+    "id": "new-orleans",
+    "type": "bowl",
+    "name": "New Orleans Bowl",
+    "titleSponsor": "R+L Carriers",
+    "city": "New Orleans",
+    "state": "LA",
+    "venue": "Caesars Superdome",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "sun-belt",
+        "pickOrder": 1
+      },
+      {
+        "conference": "cusa",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Sun Belt vs CUSA confirmed in 2026-27 listings. Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/New_Orleans_Bowl"
+    ]
+  },
+  {
+    "id": "myrtle-beach",
+    "type": "bowl",
+    "name": "Myrtle Beach Bowl",
+    "titleSponsor": null,
+    "city": "Conway",
+    "state": "SC",
+    "venue": "Brooks Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "sun-belt",
+        "pickOrder": 3
+      },
+      {
+        "conference": "cusa",
+        "pickOrder": 5
+      },
+      {
+        "conference": "mac",
+        "pickOrder": 3
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Myrtle_Beach_Bowl"
+    ]
+  },
+  {
+    "id": "famous-idaho-potato",
+    "type": "bowl",
+    "name": "Famous Idaho Potato Bowl",
+    "titleSponsor": "Idaho Potato Commission",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "Albertsons Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "mountain-west",
+        "pickOrder": 5,
+        "notes": "MWC slot; Boise State is now in the Pac-12"
+      },
+      {
+        "conference": "mac",
+        "pickOrder": 4
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Famous_Idaho_Potato_Bowl"
+    ]
+  },
+  {
+    "id": "68-ventures",
+    "type": "bowl",
+    "name": "68 Ventures Bowl",
+    "titleSponsor": "68 Ventures",
+    "city": "Mobile",
+    "state": "AL",
+    "venue": "Hancock Whitney Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "sun-belt",
+        "pickOrder": 4
+      },
+      {
+        "conference": "mac",
+        "pickOrder": 5
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Sun Belt vs MAC confirmed in 2026-27 listings. Formerly the LendingTree / Dollar General Bowl. Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/68_Ventures_Bowl"
+    ]
+  },
+  {
+    "id": "bahamas",
+    "type": "bowl",
+    "name": "Bahamas Bowl",
+    "titleSponsor": null,
+    "city": "Nassau",
+    "state": null,
+    "venue": "Thomas Robinson Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "cusa",
+        "pickOrder": 6
+      },
+      {
+        "conference": "mac",
+        "pickOrder": 6
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Whether it is in the 2026-27 lineup was not verified. Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "country": "BS",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Bahamas_Bowl"
+    ]
+  },
+  {
+    "id": "hawaii",
+    "type": "bowl",
+    "name": "Hawai'i Bowl",
+    "titleSponsor": "EasyPost",
+    "city": "Honolulu",
+    "state": "HI",
+    "venue": "Clarence T.C. Ching Athletics Complex",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "mountain-west",
+        "pickOrder": 6,
+        "notes": "Hawaii gets priority if bowl-eligible"
+      },
+      {
+        "conference": "american",
+        "pickOrder": 8
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Hawaii_Bowl"
+    ]
+  },
+  {
+    "id": "gameabove-sports",
+    "type": "bowl",
+    "name": "GameAbove Sports Bowl",
+    "titleSponsor": "GameAbove",
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Ford Field",
+    "date2026": null,
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "mac",
+        "pickOrder": 2
+      },
+      {
+        "conference": "big-ten",
+        "pickOrder": 9,
+        "notes": "Backfilled by the ACC or others"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Formerly the Quick Lane Bowl. Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/GameAbove_Sports_Bowl"
+    ]
+  },
+  {
+    "id": "salute-to-veterans",
+    "type": "bowl",
+    "name": "Salute to Veterans Bowl",
+    "titleSponsor": "IS4S",
+    "city": "Montgomery",
+    "state": "AL",
+    "venue": "Cramton Bowl",
+    "date2026": "2026-12-15",
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [
+      {
+        "conference": "sun-belt",
+        "pickOrder": 5
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "Opens the 2026-27 FBS bowl season on Tuesday, Dec 15. Successor to the Camellia Bowl slot in Montgomery. Open tie-in: Opponent conference not verified (AAC / MAC / CUSA backfill) Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Salute_to_Veterans_Bowl"
+    ]
+  },
+  {
+    "id": "puerto-rico",
+    "type": "bowl",
+    "name": "Puerto Rico Bowl",
+    "titleSponsor": null,
+    "city": "Bayamon",
+    "state": "PR",
+    "venue": null,
+    "date2026": "2026-12-22",
+    "payoutPerTeamUsd": 500000,
+    "payoutIsEstimate": true,
+    "payoutTier": "D",
+    "tieIns": [],
+    "cfpRole": "none",
+    "notes": "New for 2026-27. NCAA approved the bowl on 2026-05-08. Tie-ins and venue not verified. Tier D: G6 bowl, roughly $0.3-0.75M per team. Often paid to the conference and largely used up by required ticket purchases.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Puerto_Rico_Bowl",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games"
+    ]
+  },
+  {
+    "id": "celebration",
+    "type": "bowl",
+    "name": "Celebration Bowl",
+    "titleSponsor": "Cricket Wireless",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Mercedes-Benz Stadium",
+    "date2026": "2026-12-12",
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [
+      {
+        "conference": "meac",
+        "pickOrder": 1,
+        "notes": "MEAC champion"
+      },
+      {
+        "conference": "swac",
+        "pickOrder": 1,
+        "notes": "SWAC champion"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "FCS HBCU bowl (MEAC vs SWAC), not part of the FBS bowl count. Broadcast on ABC. Sponsor not re-verified.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games",
+      "https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027",
+      "https://www.espn.com/college-football/story/_/id/48958840/2026-college-football-playoff-bowl-schedule-46-games",
+      "https://en.wikipedia.org/wiki/Celebration_Bowl"
+    ]
+  },
+  {
+    "id": "sec-championship",
+    "type": "conference-championship",
+    "name": "SEC Championship Game",
+    "titleSponsor": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Mercedes-Benz Stadium",
+    "date2026": "2026-12-05",
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [
+      {
+        "conference": "sec",
+        "pickOrder": 1,
+        "notes": "Top two teams in the standings"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "The 24-team CFP eliminates Power 4 title games from 2027. ESPN receives ~$140M a year in rebates across the SEC, ACC and Big 12 games, and Fox ~$50M a year from the Big Ten (single-outlet reporting). These rebates are the best public proxy for each game's media value.",
+    "revenueNotes": "Media value roughly $45-60M a year, inside ESPN's ~$140M rebate for 3 games, plus a ~70k-seat gate and sponsorship worth roughly $15-25M more (estimate). Atlanta contract reportedly runs into the 2030s, so ending the game creates a venue-contract renegotiation (event hook).",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://sports.yahoo.com/articles/espn-cfp-agree-24-team-171705328.html",
+      "https://sports.yahoo.com/articles/cfp-expanding-24-teams-big-195954646.html",
+      "https://sports.yahoo.com/articles/media-revenue-gains-cfp-expansion-173042311.html",
+      "https://en.wikipedia.org/wiki/SEC_Championship_Game"
+    ]
+  },
+  {
+    "id": "big-ten-championship",
+    "type": "conference-championship",
+    "name": "Big Ten Football Championship Game",
+    "titleSponsor": null,
+    "city": "Indianapolis",
+    "state": "IN",
+    "venue": "Lucas Oil Stadium",
+    "date2026": "2026-12-05",
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [
+      {
+        "conference": "big-ten",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "The 24-team CFP eliminates Power 4 title games from 2027. ESPN receives ~$140M a year in rebates across the SEC, ACC and Big 12 games, and Fox ~$50M a year from the Big Ten (single-outlet reporting). These rebates are the best public proxy for each game's media value.",
+    "revenueNotes": "Fox owns the game and reportedly receives ~$50M a year back from the Big Ten when it ends. Indianapolis has hosted since 2011. Contract term not verified (reported through 2028).",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://sports.yahoo.com/articles/espn-cfp-agree-24-team-171705328.html",
+      "https://sports.yahoo.com/articles/cfp-expanding-24-teams-big-195954646.html",
+      "https://sports.yahoo.com/articles/media-revenue-gains-cfp-expansion-173042311.html",
+      "https://en.wikipedia.org/wiki/Big_Ten_Football_Championship_Game"
+    ]
+  },
+  {
+    "id": "big-12-championship",
+    "type": "conference-championship",
+    "name": "Big 12 Championship Game",
+    "titleSponsor": "Dr Pepper",
+    "city": "Arlington",
+    "state": "TX",
+    "venue": "AT&T Stadium",
+    "date2026": "2026-12-05",
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [
+      {
+        "conference": "big-12",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "The 24-team CFP eliminates Power 4 title games from 2027. ESPN receives ~$140M a year in rebates across the SEC, ACC and Big 12 games, and Fox ~$50M a year from the Big Ten (single-outlet reporting). These rebates are the best public proxy for each game's media value.",
+    "revenueNotes": "Reinstated in 2017 once the NCAA let 10-team leagues hold title games. At the time it was valued at ~$25-30M a year to the league. AT&T Stadium deal reportedly through 2030. Part of ESPN's rebate pool.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://sports.yahoo.com/articles/espn-cfp-agree-24-team-171705328.html",
+      "https://sports.yahoo.com/articles/cfp-expanding-24-teams-big-195954646.html",
+      "https://sports.yahoo.com/articles/media-revenue-gains-cfp-expansion-173042311.html",
+      "https://en.wikipedia.org/wiki/Big_12_Championship_Game"
+    ]
+  },
+  {
+    "id": "acc-championship",
+    "type": "conference-championship",
+    "name": "ACC Championship Game",
+    "titleSponsor": null,
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Bank of America Stadium",
+    "date2026": "2026-12-05",
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [
+      {
+        "conference": "acc",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "The 24-team CFP eliminates Power 4 title games from 2027. ESPN receives ~$140M a year in rebates across the SEC, ACC and Big 12 games, and Fox ~$50M a year from the Big Ten (single-outlet reporting). These rebates are the best public proxy for each game's media value.",
+    "revenueNotes": "Charlotte deal reportedly through 2030. Part of ESPN's rebate pool. The ACC values the title game partly as a way to get a second team ranked higher for the CFP.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://sports.yahoo.com/articles/espn-cfp-agree-24-team-171705328.html",
+      "https://sports.yahoo.com/articles/cfp-expanding-24-teams-big-195954646.html",
+      "https://sports.yahoo.com/articles/media-revenue-gains-cfp-expansion-173042311.html",
+      "https://en.wikipedia.org/wiki/ACC_Championship_Game"
+    ]
+  },
+  {
+    "id": "mac-championship",
+    "type": "conference-championship",
+    "name": "MAC Football Championship Game",
+    "titleSponsor": null,
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Ford Field",
+    "date2026": "2026-12-05",
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [
+      {
+        "conference": "mac",
+        "pickOrder": 1
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "G6 title games (American, CUSA, Sun Belt, Mountain West, new Pac-12) are mostly played at the higher seed's campus. The MAC uses Ford Field.",
+    "revenueNotes": "Small (single-digit millions) but a key ESPN window for the MAC. Whether G6 title games continue after 2026 is undecided and up to each league.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/MAC_Football_Championship_Game",
+      "https://www.pressdemocrat.com/2026/11/09/cfp-expansion-format-24-teams-calendar/"
+    ]
+  },
+  {
+    "id": "allegiant-stadium-college",
+    "type": "neutral-site",
+    "name": "Allegiant Stadium college football slate",
+    "titleSponsor": null,
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Allegiant Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "none",
+    "notes": "Las Vegas is the main destination for conference basketball tournaments and neutral-site events.",
+    "revenueNotes": "Hosts the Las Vegas Bowl (since 2021), the Pac-12 Championship Game (2021-2023), the CFP National Championship (2027-01-25), the \"Vegas Kickoff Classic\" neutral-site openers (2021 BYU vs Arizona; 2024 LSU vs USC) and the Notre Dame Shamrock Series vs BYU (2022). Neutral-site openers typically pay each team a $3-6M appearance fee (estimate).",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Allegiant_Stadium",
+      "https://en.wikipedia.org/wiki/Las_Vegas_Bowl",
+      "https://on3.com/news/college-football-playoff-announces-2027-national-championship-game-will-be-at-las-vegas-allegiant-stadium"
+    ]
+  },
+  {
+    "id": "vegas-basketball-tournaments",
+    "type": "neutral-site",
+    "name": "Las Vegas conference basketball tournaments",
+    "titleSponsor": null,
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Thomas & Mack Center / T-Mobile Arena / Orleans Arena / Michelob Ultra Arena",
+    "date2026": null,
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [
+      {
+        "conference": "mountain-west",
+        "pickOrder": null,
+        "notes": "Thomas & Mack Center (UNLV), men's and women's"
+      },
+      {
+        "conference": "pac-12",
+        "pickOrder": null,
+        "notes": "Old Pac-12: T-Mobile Arena (men) and Michelob Ultra Arena (women), 2017-2024. Venue for the rebuilt league's 2027 tournaments not verified."
+      },
+      {
+        "conference": "wcc",
+        "pickOrder": null,
+        "notes": "Orleans Arena"
+      },
+      {
+        "conference": "wac",
+        "pickOrder": null,
+        "notes": "Orleans Arena (verify)"
+      },
+      {
+        "conference": "big-west",
+        "pickOrder": null,
+        "notes": "Lee's Family Forum, Henderson, NV, since 2022"
+      }
+    ],
+    "cfpRole": "none",
+    "notes": "An event hook: casino partners offer subsidies to move a tournament to Las Vegas.",
+    "revenueNotes": "Leagues often get site fees, hotel rebates and guarantees from casino-owned arenas. Tournaments are typically roughly break-even to a few $M net. The value is mostly in fan travel and sponsorship.",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference_men%27s_basketball_tournament",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference_men%27s_basketball_tournament",
+      "https://en.wikipedia.org/wiki/West_Coast_Conference_men%27s_basketball_tournament"
+    ]
+  },
+  {
+    "id": "aflac-kickoff",
+    "type": "neutral-site",
+    "name": "Aflac Kickoff Game",
+    "titleSponsor": "Aflac",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Mercedes-Benz Stadium",
+    "date2026": null,
+    "payoutPerTeamUsd": null,
+    "payoutIsEstimate": true,
+    "payoutTier": null,
+    "tieIns": [],
+    "cfpRole": "none",
+    "notes": "Formerly the Chick-fil-A Kickoff Game. A template for the commissioner negotiating neutral-site and sponsor deals.",
+    "revenueNotes": "Neutral-site openers, mainly SEC/ACC teams. Payouts reported in the ~$4-6M per team range (estimate).",
+    "confidence": "low",
+    "note": "The sponsor, tie-ins and payout come from researcher knowledge of the 2020-25 cycle and 2025-26 bowl season. The 2026-31 cycle changes were not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aflac_Kickoff_Game"
+    ]
+  }
+]
