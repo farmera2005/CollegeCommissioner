@@ -1,0 +1,1725 @@
+[
+  {
+    "id": "arizona",
+    "name": "The University of Arizona",
+    "shortName": "Arizona",
+    "abbr": "ARIZ",
+    "mascot": "Wildcats",
+    "colors": [
+      "#AB0520",
+      "#0C234B"
+    ],
+    "city": "Tucson",
+    "state": "AZ",
+    "lat": 32.2319,
+    "lon": -110.9501,
+    "dma": {
+      "name": "Tucson (Sierra Vista)",
+      "rank": 66
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 53000,
+    "usNewsRank": 109,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1500000000,
+    "athletics": {
+      "revenueUsd": 140000000,
+      "expensesUsd": 150000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in for 2025-26; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator). Reported intent to fund at/near full cap despite university budget crisis (not verified).",
+      "stadium": {
+        "name": "Arizona Stadium",
+        "capacity": 50782
+      },
+      "arena": {
+        "name": "McKale Center",
+        "capacity": 14644
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "pac-10",
+        "football": "pac-10",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 58,
+      "mbb": 90,
+      "wbb": 45,
+      "olympic": 66,
+      "brand": 64,
+      "facilities": 66,
+      "fanBase": 66,
+      "boosterInfluence": 55,
+      "statePoliticalPressure": 50
+    },
+    "ratingNotes": "FB: 10-3 in 2023 (Alamo Bowl win, Jedd Fisch), 4-8 in 2024 (Brent Brennan yr 1, first Big 12 season), 2025 rebound to a winning record and bowl (approx. 9-4, unverified). 2026 season-to-date results not verified for this snapshot. MBB: Tommy Lloyd — #2 seed/Sweet 16 (2024), #4 seed/Sweet 16 loss to Duke (2025); 2025-26 a national-title contender ranked No. 1 for stretches with freshmen Koa Peat and Brayden Burries (NCAA result unverified). WBB: Adia Barnes left for SMU (2025); rebuilding. Olympic: historic top-25 Directors' Cup program (softball, swimming, golf, track); recent finishes roughly 30s-40s (approx.). Brand: basketball-led; football draws modestly. Facilities: aging Arizona Stadium; McKale is a top Big 12 hoops venue.",
+    "rivals": [
+      "arizona-state",
+      "utah",
+      "ucla"
+    ],
+    "president": {
+      "name": "Suresh Garimella",
+      "title": "President",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Desireé Reed-Francois",
+      "since": 2022
+    },
+    "headFootballCoach": {
+      "name": "Brent Brennan",
+      "since": 2024
+    },
+    "headMbbCoach": {
+      "name": "Tommy Lloyd",
+      "since": 2021
+    },
+    "notes": "University-wide financial crisis (FY2023-24 shortfall reported ~$177M+) led to Arizona Board of Regents oversight, repayment of internal loans to athletics (~$86M reported) and President Robert Robbins' exit; Suresh Garimella hired Oct 2024. Joined the Big 12 Aug 2024 with ASU, Colorado and Utah after the Pac-12 collapse. Basketball is the brand/political core (McKale sellouts); football revenue lags peers. Event hooks: athletics budget cuts, ABOR scrutiny of deficits, poaching interest in Lloyd.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "ratings (2025-26 results)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arizona_Wildcats",
+      "https://arizonawildcats.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "arizona-state",
+    "name": "Arizona State University",
+    "shortName": "Arizona State",
+    "abbr": "ASU",
+    "mascot": "Sun Devils",
+    "colors": [
+      "#8C1D40",
+      "#FFC627"
+    ],
+    "city": "Tempe",
+    "state": "AZ",
+    "lat": 33.4242,
+    "lon": -111.9281,
+    "dma": {
+      "name": "Phoenix (Prescott)",
+      "rank": 12
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 80000,
+    "usNewsRank": 121,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1400000000,
+    "athletics": {
+      "revenueUsd": 150000000,
+      "expensesUsd": 150000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected to pay full cap (not verified).",
+      "stadium": {
+        "name": "Mountain America Stadium",
+        "capacity": 53599
+      },
+      "arena": {
+        "name": "Desert Financial Arena",
+        "capacity": 14198
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "pac-10",
+        "football": "pac-10",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 70,
+      "mbb": 45,
+      "wbb": 40,
+      "olympic": 72,
+      "brand": 62,
+      "facilities": 72,
+      "fanBase": 62,
+      "boosterInfluence": 58,
+      "statePoliticalPressure": 50
+    },
+    "ratingNotes": "FB: Kenny Dillingham — 3-9 (2023, self-imposed bowl ban), 11-3 Big 12 champion in first season (2024) and CFP quarterfinal 2OT loss to Texas (Peach Bowl) with Cam Skattebo; 2025 dipped to roughly 8-5 amid QB Sam Leavitt's injury (approx.); Dillingham extended through 2030. 2026 season-to-date results not verified for this snapshot. MBB: Bobby Hurley — one NCAA win since 2019, 13-20 in 2024-25; job status after 2025-26 unverified. Olympic: wrestling, swimming (2024 NCAA men's swim title), golf, track — Directors' Cup roughly top-30. Facilities: renovated stadium, new Mullett Arena (hockey). Enrollment = campus-immersion headcount (~180k incl. online).",
+    "rivals": [
+      "arizona",
+      "utah"
+    ],
+    "president": {
+      "name": "Michael M. Crow",
+      "title": "President",
+      "since": 2002
+    },
+    "ad": {
+      "name": "Graham Rossini",
+      "since": 2024
+    },
+    "headFootballCoach": {
+      "name": "Kenny Dillingham",
+      "since": 2023
+    },
+    "headMbbCoach": {
+      "name": "Bobby Hurley",
+      "since": 2015,
+      "confidence": "low",
+      "note": "Retained for 2025-26 after 13-20 season; status after March 2026 not verified."
+    },
+    "notes": "Michael Crow's ASU is an entrepreneurial, growth-at-all-costs actor (largest U.S. enrollment incl. online; AAU member since 2023). Phoenix (#12 DMA) is the Big 12's second-largest market after DFW/Houston. Football surge under Dillingham made ASU the more realignment-attractive Arizona school; NCAA penalties (2024) for Herm Edwards-era recruiting violations. Event hooks: Arizona Board of Regents dynamics with financially strained Arizona; Big Ten/SEC interest in Phoenix market.",
+    "confidence": "low",
+    "note": "MBB coach status after 2025-26 unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headMbbCoach",
+      "enrollment (definition)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arizona_State_Sun_Devils",
+      "https://thesundevils.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "baylor",
+    "name": "Baylor University",
+    "shortName": "Baylor",
+    "abbr": "BAY",
+    "mascot": "Bears",
+    "colors": [
+      "#154734",
+      "#FFB81C"
+    ],
+    "city": "Waco",
+    "state": "TX",
+    "lat": 31.5489,
+    "lon": -97.1143,
+    "dma": {
+      "name": "Waco-Temple-Bryan",
+      "rank": 85
+    },
+    "control": "private",
+    "religious": "Baptist",
+    "aau": false,
+    "enrollment": 20800,
+    "usNewsRank": 93,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2000000000,
+    "athletics": {
+      "revenueUsd": 150000000,
+      "expensesUsd": 150000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected full cap (private school — figures are EADA-style estimates).",
+      "stadium": {
+        "name": "McLane Stadium",
+        "capacity": 45140
+      },
+      "arena": {
+        "name": "Foster Pavilion",
+        "capacity": 7500
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 56,
+      "mbb": 74,
+      "wbb": 80,
+      "olympic": 62,
+      "brand": 60,
+      "facilities": 80,
+      "fanBase": 60,
+      "boosterInfluence": 70,
+      "statePoliticalPressure": 35
+    },
+    "ratingNotes": "FB: 2021 Big 12 champion (Sugar Bowl win); 3-9 (2023), 8-5 (2024, Texas Bowl), losing 2025 (~5-7, approx.) with Dave Aranda reportedly retained. 2026 season-to-date results not verified for this snapshot. MBB: Scott Drew — 2021 national champion; #3 seed (2024), #9 seed R2 loss to Duke (2025); 2025-26 midseason signing of ex-G League/draft pick James Nnaji drew national criticism. WBB: Nicki Collen, regular top-4/5 seed (3 titles under Kim Mulkey). Olympic: equestrian, acrobatics & tumbling, track, tennis — Directors' Cup roughly top-50. Facilities: McLane Stadium (2014), Foster Pavilion (2024).",
+    "rivals": [
+      "tcu",
+      "texas",
+      "texas-am",
+      "texas-tech",
+      "smu"
+    ],
+    "president": {
+      "name": "Linda A. Livingstone",
+      "title": "President",
+      "since": 2017
+    },
+    "ad": {
+      "name": "Mack Rhoades",
+      "since": 2016
+    },
+    "headFootballCoach": {
+      "name": "Dave Aranda",
+      "since": 2020,
+      "confidence": "low",
+      "note": "Reported retained after 2025 losing season; verify for 2026."
+    },
+    "headMbbCoach": {
+      "name": "Scott Drew",
+      "since": 2003
+    },
+    "notes": "Private Baptist university. 2016 sexual-assault scandal (Art Briles, Ken Starr) and 2021 NCAA ruling with no major penalties. Texas politicians historically protected Baylor's seat (1994 SWC-to-Big 12 merger; 2010-11 Big 12 survival). Billionaire donors (Drayton McLane, Paul Foster) fund facilities. Smallest market of the Texas Big 12 schools; a 'protected by politics, not by market' realignment profile.",
+    "confidence": "low",
+    "note": "Football coach status for 2026 not verified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headFootballCoach"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Baylor_Bears",
+      "https://baylorbears.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "byu",
+    "name": "Brigham Young University",
+    "shortName": "BYU",
+    "abbr": "BYU",
+    "mascot": "Cougars",
+    "colors": [
+      "#002E5D",
+      "#FFFFFF"
+    ],
+    "city": "Provo",
+    "state": "UT",
+    "lat": 40.2518,
+    "lon": -111.6493,
+    "dma": {
+      "name": "Salt Lake City",
+      "rank": 28
+    },
+    "control": "private",
+    "religious": "LDS (The Church of Jesus Christ of Latter-day Saints)",
+    "aau": false,
+    "enrollment": 34400,
+    "usNewsRank": 110,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 100000000,
+      "expensesUsd": 100000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected full cap (church-owned; finances not fully public).",
+      "stadium": {
+        "name": "LaVell Edwards Stadium",
+        "capacity": 62073
+      },
+      "arena": {
+        "name": "Marriott Center",
+        "capacity": 17978
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mountain-west",
+        "football": "mountain-west",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 78,
+      "mbb": 74,
+      "wbb": 42,
+      "olympic": 75,
+      "brand": 72,
+      "facilities": 72,
+      "fanBase": 84,
+      "boosterInfluence": 72,
+      "statePoliticalPressure": 25
+    },
+    "ratingNotes": "FB: Kalani Sitake — 11-2 (2024, Alamo Bowl win over Colorado); 2025 11-1 regular season, lost Big 12 title game to Texas Tech and missed the CFP (approx. 12-2 final; bowl unverified); extended after Penn State interest (Nov 2025). 2026 season-to-date results not verified for this snapshot. MBB: Kevin Young (ex-Phoenix Suns assistant) — #6 seed Sweet 16 (2025); landed No. 1 recruit AJ Dybantsa for 2025-26 (NCAA result unverified). Olympic: Directors' Cup No. 25 in 2024-25 (verified; cross country, track, volleyball). Fan base: national LDS following, top-tier attendance and travel.",
+    "rivals": [
+      "utah",
+      "utah-state",
+      "boise-state"
+    ],
+    "president": {
+      "name": "C. Shane Reese",
+      "title": "President",
+      "since": 2023
+    },
+    "ad": {
+      "name": "Tom Holmoe",
+      "since": 2005
+    },
+    "headFootballCoach": {
+      "name": "Kalani Sitake",
+      "since": 2016
+    },
+    "headMbbCoach": {
+      "name": "Kevin Young",
+      "since": 2024
+    },
+    "notes": "Owned by The Church of Jesus Christ of Latter-day Saints; no competition on Sundays (a scheduling constraint written into its Big 12 membership). FBS independent 2011-22 (ESPN deal), MWC before that; joined Big 12 2023 with phased-in shares. Holy War with Utah is a conference game again from 2024. Wealthy alumni (e.g., Utah Jazz owner Ryan Smith) and collectives support NIL; church leadership functions as the real board, so state political pressure is low.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "athletics (private; estimates)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/BYU_Cougars",
+      "https://byucougars.com/",
+      "https://byucougars.com/news/2025/6/26/byu-is-no-25-in-directors-cup-standings",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "cincinnati",
+    "name": "University of Cincinnati",
+    "shortName": "Cincinnati",
+    "abbr": "CIN",
+    "mascot": "Bearcats",
+    "colors": [
+      "#E00122",
+      "#000000"
+    ],
+    "city": "Cincinnati",
+    "state": "OH",
+    "lat": 39.1329,
+    "lon": -84.515,
+    "dma": {
+      "name": "Cincinnati",
+      "rank": 37
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 53000,
+    "usNewsRank": 151,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1900000000,
+    "athletics": {
+      "revenueUsd": 110000000,
+      "expensesUsd": 110000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full-cap commitment reported but funding relies on university/donor support (not verified).",
+      "stadium": {
+        "name": "Nippert Stadium",
+        "capacity": 38088
+      },
+      "arena": {
+        "name": "Fifth Third Arena",
+        "capacity": 12012
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "big-east-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 50,
+      "mbb": 55,
+      "wbb": 30,
+      "olympic": 40,
+      "brand": 52,
+      "facilities": 62,
+      "fanBase": 56,
+      "boosterInfluence": 52,
+      "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: 2021 CFP semifinalist (first G5 playoff team, Luke Fickell); since Big 12 entry: 3-9 (2023), 5-7 (2024), bowl-eligible ~7-5 in 2025 after a strong start (approx.). 2026 season-to-date results not verified for this snapshot. MBB: Wes Miller — NIT-level 2023-25, no NCAA bid since 2019; status after 2025-26 unverified. Olympic: Directors' Cup usually outside the top 75. Facilities: historic but small Nippert Stadium; renovated Fifth Third Arena.",
+    "rivals": [
+      "xavier",
+      "louisville",
+      "miami-oh",
+      "west-virginia"
+    ],
+    "president": {
+      "name": "Neville G. Pinto",
+      "title": "President",
+      "since": 2017
+    },
+    "ad": {
+      "name": "John Cunningham",
+      "since": 2014
+    },
+    "headFootballCoach": {
+      "name": "Scott Satterfield",
+      "since": 2023
+    },
+    "headMbbCoach": {
+      "name": "Wes Miller",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Status after 2025-26 season not verified."
+    },
+    "notes": "Former Big East (2005-13) and American (2013-23) member that earned Big 12 entry in 2023 with phased-in shares. Revenue gap vs. Big 12 peers, small stadium and an Ohio market dominated by Ohio State are recurring storylines; Crosstown Shootout with Xavier is a city institution. Ohio legislature (SB1 higher-ed law, 2025) shows willingness to legislate campus matters but little athletics intervention history.",
+    "confidence": "low",
+    "note": "MBB coach status unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cincinnati_Bearcats",
+      "https://gobearcats.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://www.foxsports.com/articles/cfb/tax-filings-acc-paid-average-of-471m-to-fullshare-member-schools-big-12-paid-average-of-395m",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "colorado",
+    "name": "University of Colorado Boulder",
+    "shortName": "Colorado",
+    "abbr": "COLO",
+    "mascot": "Buffaloes",
+    "colors": [
+      "#CFB87C",
+      "#000000"
+    ],
+    "city": "Boulder",
+    "state": "CO",
+    "lat": 40.0076,
+    "lon": -105.2659,
+    "dma": {
+      "name": "Denver",
+      "rank": 16
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 39000,
+    "usNewsRank": 105,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2000000000,
+    "athletics": {
+      "revenueUsd": 165000000,
+      "expensesUsd": 160000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected full cap.",
+      "stadium": {
+        "name": "Folsom Field",
+        "capacity": 50183
+      },
+      "arena": {
+        "name": "CU Events Center",
+        "capacity": 11064
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 55,
+      "mbb": 45,
+      "wbb": 52,
+      "olympic": 55,
+      "brand": 76,
+      "facilities": 70,
+      "fanBase": 72,
+      "boosterInfluence": 60,
+      "statePoliticalPressure": 35
+    },
+    "ratingNotes": "FB: Deion Sanders — 4-8 (2023), 9-4 (2024, Heisman winner Travis Hunter, Shedeur Sanders; Alamo Bowl loss to BYU), 3-9 (2025). 2026 season-to-date results not verified for this snapshot. Among the nation's most-watched teams 2023-24 ('Prime effect'). MBB: Tad Boyle — #10 seed R2 (2024), 14-21 (2024-25). WBB: JR Payne, Sweet 16s 2023-24. Olympic: skiing (multiple NCAA titles), cross country/track — Directors' Cup roughly top-60. Endowment is CU Foundation/system level.",
+    "rivals": [
+      "colorado-state",
+      "nebraska",
+      "utah"
+    ],
+    "president": {
+      "name": "Justin Schwartz",
+      "title": "Chancellor",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Rick George",
+      "since": 2013
+    },
+    "headFootballCoach": {
+      "name": "Deion Sanders",
+      "since": 2023
+    },
+    "headMbbCoach": {
+      "name": "Tad Boyle",
+      "since": 2010
+    },
+    "notes": "Left the Big 12 for the Pac-12 in 2011 and was the first Pac-12 school to jump back (announced July 2023, effective 2024). Coach Prime made CU a TV-ratings and NIL magnet; Sanders signed a five-year, ~$54M extension (Mar 2025) and had bladder-cancer surgery (2025). Elected CU Board of Regents; CU system president Todd Saliman; Colorado legislature rarely intervenes. Event hook: what happens to the brand if Sanders leaves.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Colorado_Buffaloes",
+      "https://cubuffs.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "houston",
+    "name": "University of Houston",
+    "shortName": "Houston",
+    "abbr": "HOU",
+    "mascot": "Cougars",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "city": "Houston",
+    "state": "TX",
+    "lat": 29.7199,
+    "lon": -95.3422,
+    "dma": {
+      "name": "Houston",
+      "rank": 6
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 47000,
+    "usNewsRank": 132,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1200000000,
+    "athletics": {
+      "revenueUsd": 120000000,
+      "expensesUsd": 120000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected full cap.",
+      "stadium": {
+        "name": "TDECU Stadium",
+        "capacity": 40000
+      },
+      "arena": {
+        "name": "Fertitta Center",
+        "capacity": 7100
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "cusa-2010",
+        "football": "cusa-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 58,
+      "mbb": 92,
+      "wbb": 32,
+      "olympic": 45,
+      "brand": 58,
+      "facilities": 70,
+      "fanBase": 55,
+      "boosterInfluence": 70,
+      "statePoliticalPressure": 65
+    },
+    "ratingNotes": "FB: Willie Fritz — 4-8 (2024), rebound to ~9-3 plus bowl in 2025 with QB Conner Weigman (approx.). 2026 season-to-date results not verified for this snapshot. MBB: Kelvin Sampson — #1 seed 2023, 2024, 2025; 2025 national runner-up (lost 65-63 to Florida); 2021 Final Four; Big 12 regular-season titles 2024 & 2025; 2025-26 again a top-seed contender (result unverified). Olympic: track & field tradition; Directors' Cup roughly top-80. Endowment = UH System.",
+    "rivals": [
+      "rice",
+      "smu",
+      "memphis",
+      "texas"
+    ],
+    "president": {
+      "name": "Renu Khator",
+      "title": "Chancellor (UH System) and President",
+      "since": 2008
+    },
+    "ad": {
+      "name": "Eddie Nuñez",
+      "since": 2023
+    },
+    "headFootballCoach": {
+      "name": "Willie Fritz",
+      "since": 2024
+    },
+    "headMbbCoach": {
+      "name": "Kelvin Sampson",
+      "since": 2014
+    },
+    "notes": "SWC member left out of the 1994 Big 12 merger; C-USA (1996-2013), American (2013-23), Big 12 since 2023. Tilman Fertitta (Rockets owner; longtime regents chair until becoming U.S. Ambassador to Italy in 2025) is the dominant booster. Texas legislature/governor care about keeping Texas schools in P4 after Texas/Texas A&M/OU left the Big 12 footprint. Sampson succession is a looming storyline.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Houston_Cougars",
+      "https://uhcougars.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "iowa-state",
+    "name": "Iowa State University",
+    "shortName": "Iowa State",
+    "abbr": "ISU",
+    "mascot": "Cyclones",
+    "colors": [
+      "#C8102E",
+      "#F1BE48"
+    ],
+    "city": "Ames",
+    "state": "IA",
+    "lat": 42.0267,
+    "lon": -93.6465,
+    "dma": {
+      "name": "Des Moines-Ames",
+      "rank": 68
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 30000,
+    "usNewsRank": 132,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1500000000,
+    "athletics": {
+      "revenueUsd": 150000000,
+      "expensesUsd": 148000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap announced.",
+      "stadium": {
+        "name": "Jack Trice Stadium",
+        "capacity": 61500
+      },
+      "arena": {
+        "name": "Hilton Coliseum",
+        "capacity": 14267
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 62,
+      "mbb": 82,
+      "wbb": 65,
+      "olympic": 52,
+      "brand": 55,
+      "facilities": 72,
+      "fanBase": 78,
+      "boosterInfluence": 55,
+      "statePoliticalPressure": 50
+    },
+    "ratingNotes": "FB: Matt Campbell era (2016-25) peaked at 11-3 in 2024 (Big 12 title game, Pop-Tarts Bowl win); ~8-4 in 2025 (opened with Dublin win over K-State). Campbell left for Penn State (Dec 2025); Washington State's Jimmy Rogers hired (verify). 2026 season-to-date results not verified for this snapshot. MBB: T.J. Otzelberger — #2 seed Sweet 16 (2024), #3 seed (2025), 2025-26 top-10 team (result unverified). WBB: Bill Fennelly, regular NCAA team (Audi Crooks). Olympic: wrestling, cross country, track — Directors' Cup roughly top-60. Fan base: 'Hilton Magic', strong attendance for market size.",
+    "rivals": [
+      "iowa",
+      "kansas-state",
+      "kansas"
+    ],
+    "president": {
+      "name": "Wendy Wintersteen",
+      "title": "President",
+      "since": 2017,
+      "confidence": "low",
+      "note": "Long-serving; any 2025-26 retirement/succession not verified."
+    },
+    "ad": {
+      "name": "Jamie Pollard",
+      "since": 2005
+    },
+    "headFootballCoach": {
+      "name": "Jimmy Rogers",
+      "since": 2026,
+      "confidence": "low",
+      "note": "Reported hire after Matt Campbell left for Penn State (Dec 2025)."
+    },
+    "headMbbCoach": {
+      "name": "T.J. Otzelberger",
+      "since": 2021
+    },
+    "notes": "Governed with Iowa and Northern Iowa by the Iowa Board of Regents; the Cy-Hawk series with Iowa is a fixture legislators watch. Small Des Moines-Ames market but loyal fan base; a frequently cited 'left behind' school in the 2021-23 Big 12 crisis. Losing Campbell to a Big Ten school shows the P2 poaching coaches even when schools stay put.",
+    "confidence": "low",
+    "note": "New football coach and presidential status not web-verified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headFootballCoach",
+      "president"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Iowa_State_Cyclones",
+      "https://cyclones.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "kansas",
+    "name": "The University of Kansas",
+    "shortName": "Kansas",
+    "abbr": "KU",
+    "mascot": "Jayhawks",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "city": "Lawrence",
+    "state": "KS",
+    "lat": 38.9543,
+    "lon": -95.2558,
+    "dma": {
+      "name": "Kansas City",
+      "rank": 34
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 30000,
+    "usNewsRank": 151,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2400000000,
+    "athletics": {
+      "revenueUsd": 175000000,
+      "expensesUsd": 170000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected full cap.",
+      "stadium": {
+        "name": "David Booth Kansas Memorial Stadium",
+        "capacity": 41525
+      },
+      "arena": {
+        "name": "Allen Fieldhouse",
+        "capacity": 15300
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 52,
+      "mbb": 88,
+      "wbb": 50,
+      "olympic": 52,
+      "brand": 72,
+      "facilities": 74,
+      "fanBase": 74,
+      "boosterInfluence": 70,
+      "statePoliticalPressure": 55
+    },
+    "ratingNotes": "FB: Lance Leipold revival — 9-4 (2023), 5-7 (2024, home games at Arrowhead during renovation), ~5-7 (2025, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Bill Self — 2008 & 2022 national titles, record Big 12 regular-season titles; preseason No. 1 in 2024-25 but #7 seed R1 loss to Arkansas (2025); 2025-26 featured projected top NBA pick Darryn Peterson (result unverified). WBB: Brandon Schneider, bubble. Olympic: track, rowing — Directors' Cup roughly top-70. Facilities: Gateway District rebuild of the stadium (capacity approx. post-renovation).",
+    "rivals": [
+      "missouri",
+      "kansas-state",
+      "kentucky"
+    ],
+    "president": {
+      "name": "Douglas A. Girod",
+      "title": "Chancellor",
+      "since": 2017
+    },
+    "ad": {
+      "name": "Travis Goff",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Lance Leipold",
+      "since": 2021
+    },
+    "headMbbCoach": {
+      "name": "Bill Self",
+      "since": 2003
+    },
+    "notes": "Basketball blue blood; Self on a 'lifetime' rolling contract; the NCAA IARP infractions case closed in 2023 without a postseason ban. $450M-plus Gateway District project (David Booth donor) rebuilt the stadium. Kansas Board of Regents and legislature (STAR bonds, Chiefs/Royals stadium politics) treat KU and K-State as a pair; KU is a perennial Big Ten/ACC realignment name because of basketball + AAU status.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "athletics.stadium.capacity"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kansas_Jayhawks",
+      "https://kuathletics.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "kansas-state",
+    "name": "Kansas State University",
+    "shortName": "Kansas State",
+    "abbr": "KSU",
+    "mascot": "Wildcats",
+    "colors": [
+      "#512888",
+      "#FFFFFF"
+    ],
+    "city": "Manhattan",
+    "state": "KS",
+    "lat": 39.1974,
+    "lon": -96.5847,
+    "dma": {
+      "name": "Topeka",
+      "rank": 139
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 20000,
+    "usNewsRank": 170,
+    "usNewsCategory": "national",
+    "endowmentUsd": 900000000,
+    "athletics": {
+      "revenueUsd": 135000000,
+      "expensesUsd": 130000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected full cap.",
+      "stadium": {
+        "name": "Bill Snyder Family Football Stadium",
+        "capacity": 50000
+      },
+      "arena": {
+        "name": "Bramlage Coliseum",
+        "capacity": 12528
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 60,
+      "mbb": 50,
+      "wbb": 72,
+      "olympic": 45,
+      "brand": 55,
+      "facilities": 72,
+      "fanBase": 72,
+      "boosterInfluence": 58,
+      "statePoliticalPressure": 55
+    },
+    "ratingNotes": "FB: Chris Klieman — 2022 Big 12 champion; 9-4 (2023), 9-4 (2024, Rate Bowl), ~6-6 (2025, approx.); Klieman retired after 2025 and alum/former OC Collin Klein took over (verify). 2026 season-to-date results not verified for this snapshot. MBB: Jerome Tang — 2023 Elite Eight, 16-17 (2024-25); coaching status during/after 2025-26 unverified. WBB: Jeff Mittie, regular NCAA team (Ayoka Lee). Olympic: track, volleyball — Directors' Cup outside top 60.",
+    "rivals": [
+      "kansas",
+      "iowa-state",
+      "nebraska"
+    ],
+    "president": {
+      "name": "Richard Linton",
+      "title": "President",
+      "since": 2021
+    },
+    "ad": {
+      "name": "Gene Taylor",
+      "since": 2017
+    },
+    "headFootballCoach": {
+      "name": "Collin Klein",
+      "since": 2026,
+      "confidence": "low",
+      "note": "Reported successor after Klieman's retirement (Dec 2025)."
+    },
+    "headMbbCoach": {
+      "name": "Jerome Tang",
+      "since": 2022,
+      "confidence": "low",
+      "note": "Status during/after 2025-26 not verified; possible change."
+    },
+    "notes": "Bill Snyder's turnaround legacy defines the program; Manhattan sits in the small Topeka DMA. Kansas Regents treat KU and K-State as a pair — a split in realignment would be a major Kansas political fight. Sunflower Showdown with KU; Farmageddon with Iowa State.",
+    "confidence": "low",
+    "note": "Both head coaches unverified for 2026-27.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headFootballCoach",
+      "headMbbCoach",
+      "dma.name"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kansas_State_Wildcats",
+      "https://www.kstatesports.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "oklahoma-state",
+    "name": "Oklahoma State University",
+    "shortName": "Oklahoma State",
+    "abbr": "OKST",
+    "mascot": "Cowboys",
+    "colors": [
+      "#FF7300",
+      "#000000"
+    ],
+    "city": "Stillwater",
+    "state": "OK",
+    "lat": 36.1257,
+    "lon": -97.07,
+    "dma": {
+      "name": "Oklahoma City",
+      "rank": 42
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 26000,
+    "usNewsRank": 182,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1200000000,
+    "athletics": {
+      "revenueUsd": 140000000,
+      "expensesUsd": 140000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected full cap.",
+      "stadium": {
+        "name": "Boone Pickens Stadium",
+        "capacity": 53855
+      },
+      "arena": {
+        "name": "Gallagher-Iba Arena",
+        "capacity": 13611
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 38,
+      "mbb": 45,
+      "wbb": 62,
+      "olympic": 66,
+      "brand": 60,
+      "facilities": 76,
+      "fanBase": 68,
+      "boosterInfluence": 85,
+      "statePoliticalPressure": 70
+    },
+    "ratingNotes": "FB: 10-4 (2023, Big 12 title game) then collapse — 3-9 (2024); Mike Gundy fired Sept 2025 after 20 seasons; ~1-11 (2025). North Texas' Eric Morris hired Nov 2025. 2026 season-to-date results not verified for this snapshot. MBB: Steve Lutz rebuilding (17-18 in 2024-25). WBB: Jacie Hoyt, NCAA teams 2023-25. Olympic: wrestling (34 NCAA team titles), golf, cross country/track, equestrian — Directors' Cup roughly top-40. Facilities: Pickens-funded stadium and athletic village.",
+    "rivals": [
+      "oklahoma",
+      "texas-tech",
+      "kansas-state"
+    ],
+    "president": {
+      "name": "Jim Hess",
+      "title": "President",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Elevated after Kayse Shrum's 2025 resignation; title/permanence not verified."
+    },
+    "ad": {
+      "name": "Chad Weiberg",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Eric Morris",
+      "since": 2026
+    },
+    "headMbbCoach": {
+      "name": "Steve Lutz",
+      "since": 2024
+    },
+    "notes": "T. Boone Pickens (d. 2019) gave OSU well over $500M, including $165M to athletics in 2006 — the archetype of donor-driven athletics. Bedlam football with Oklahoma has been dormant since OU's 2024 SEC move; Oklahoma legislators floated bills to force the series. Gundy's firing and buyout (2025) shows booster patience running out.",
+    "confidence": "low",
+    "note": "President not verified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "president",
+      "athletics.stadium.capacity",
+      "dma.name (Payne County assignment)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oklahoma_State_Cowboys_and_Cowgirls",
+      "https://okstate.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "tcu",
+    "name": "Texas Christian University",
+    "shortName": "TCU",
+    "abbr": "TCU",
+    "mascot": "Horned Frogs",
+    "colors": [
+      "#4D1979",
+      "#FFFFFF"
+    ],
+    "city": "Fort Worth",
+    "state": "TX",
+    "lat": 32.7098,
+    "lon": -97.3628,
+    "dma": {
+      "name": "Dallas-Ft. Worth",
+      "rank": 4
+    },
+    "control": "private",
+    "religious": "Disciples of Christ",
+    "aau": false,
+    "enrollment": 12900,
+    "usNewsRank": 98,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2700000000,
+    "athletics": {
+      "revenueUsd": 140000000,
+      "expensesUsd": 140000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); expected full cap (private; estimates).",
+      "stadium": {
+        "name": "Amon G. Carter Stadium",
+        "capacity": 45000
+      },
+      "arena": {
+        "name": "Ed and Rae Schollmaier Arena",
+        "capacity": 6800
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mountain-west",
+        "football": "mountain-west",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 64,
+      "mbb": 55,
+      "wbb": 84,
+      "olympic": 62,
+      "brand": 62,
+      "facilities": 78,
+      "fanBase": 60,
+      "boosterInfluence": 75,
+      "statePoliticalPressure": 25
+    },
+    "ratingNotes": "FB: Sonny Dykes — 2022 national runner-up (CFP semifinal win over Michigan); 5-7 (2023), 9-4 (2024), ~8-4 (2025, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Jamie Dixon — NCAA 2022-24, missed 2025. WBB: Mark Campbell — 2025 Big 12 champions and Elite Eight (Hailey Van Lith). Olympic: equestrian, golf, rifle, track, beach volleyball — Directors' Cup roughly top-45.",
+    "rivals": [
+      "smu",
+      "baylor",
+      "texas-tech"
+    ],
+    "president": {
+      "name": "Daniel W. Pullin",
+      "title": "Chancellor",
+      "since": 2023
+    },
+    "ad": {
+      "name": "Mike Buckle",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Promoted after Jeremiah Donati left for South Carolina (2025); verify."
+    },
+    "headFootballCoach": {
+      "name": "Sonny Dykes",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Jamie Dixon",
+      "since": 2016
+    },
+    "notes": "SWC orphan (1994) that climbed via WAC, C-USA and MWC to the Big 12 (2012) after backing out of a Big East invitation. Wealthy Fort Worth donors and the DFW (#4 DMA) footprint; Iron Skillet with SMU continues as a non-conference game. Disciples of Christ heritage; low state pressure.",
+    "confidence": "low",
+    "note": "AD not verified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "ad"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/TCU_Horned_Frogs",
+      "https://gofrogs.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "texas-tech",
+    "name": "Texas Tech University",
+    "shortName": "Texas Tech",
+    "abbr": "TTU",
+    "mascot": "Red Raiders",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "city": "Lubbock",
+    "state": "TX",
+    "lat": 33.5843,
+    "lon": -101.8749,
+    "dma": {
+      "name": "Lubbock",
+      "rank": 143
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 42000,
+    "usNewsRank": 216,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2300000000,
+    "athletics": {
+      "revenueUsd": 170000000,
+      "expensesUsd": 165000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); pays full cap and supplements via Matador Club/Campbell-backed NIL — among the nation's largest roster budgets.",
+      "stadium": {
+        "name": "Jones AT&T Stadium",
+        "capacity": 60229
+      },
+      "arena": {
+        "name": "United Supermarkets Arena",
+        "capacity": 15098
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 82,
+      "mbb": 78,
+      "wbb": 48,
+      "olympic": 70,
+      "brand": 66,
+      "facilities": 82,
+      "fanBase": 78,
+      "boosterInfluence": 96,
+      "statePoliticalPressure": 75
+    },
+    "ratingNotes": "FB: Joey McGuire — 8-5 (2024); 2025 Big 12 champion (beat BYU in title game), CFP first-round bye, quarterfinal loss (approx. 12-2) with an NIL-built roster (reported $25M+ for football). 2026 season-to-date results not verified for this snapshot. MBB: Grant McCasland — #3 seed Elite Eight (2025, JT Toppin). Softball: NiJaree Canady ($1M+ NIL) led 2025 WCWS final run. Olympic: track & field, golf, baseball — Directors' Cup roughly top-35. Facilities: new south end zone complex (2024).",
+    "rivals": [
+      "texas",
+      "tcu",
+      "baylor",
+      "texas-am",
+      "oklahoma-state"
+    ],
+    "president": {
+      "name": "Lawrence Schovanec",
+      "title": "President",
+      "since": 2016
+    },
+    "ad": {
+      "name": "Kirby Hocutt",
+      "since": 2011
+    },
+    "headFootballCoach": {
+      "name": "Joey McGuire",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Grant McCasland",
+      "since": 2023
+    },
+    "notes": "Board of Regents chair Cody Campbell (energy billionaire) and the Matador Club drive an all-in strategy; Campbell is also a national voice on federal college-sports legislation and the 2025 'Saving College Sports' push. TTU System chancellor Brandon Creighton (former state senator, 2025) links the program to Austin. Remote Lubbock market but huge West Texas following; Texas legislature historically intervenes (1994, 2010).",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Texas_Tech_Red_Raiders",
+      "https://texastech.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "ucf",
+    "name": "University of Central Florida",
+    "shortName": "UCF",
+    "abbr": "UCF",
+    "mascot": "Knights",
+    "colors": [
+      "#000000",
+      "#FFC904"
+    ],
+    "city": "Orlando",
+    "state": "FL",
+    "lat": 28.6024,
+    "lon": -81.2001,
+    "dma": {
+      "name": "Orlando-Daytona Beach-Melbourne",
+      "rank": 15
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 70000,
+    "usNewsRank": 124,
+    "usNewsCategory": "national",
+    "endowmentUsd": 300000000,
+    "athletics": {
+      "revenueUsd": 120000000,
+      "expensesUsd": 120000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap reported (not verified).",
+      "stadium": {
+        "name": "Acrisure Bounce House",
+        "capacity": 44206
+      },
+      "arena": {
+        "name": "Addition Financial Arena",
+        "capacity": 10000
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "cusa-2010",
+        "football": "cusa-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 45,
+      "mbb": 50,
+      "wbb": 38,
+      "olympic": 40,
+      "brand": 54,
+      "facilities": 64,
+      "fanBase": 58,
+      "boosterInfluence": 50,
+      "statePoliticalPressure": 70
+    },
+    "ratingNotes": "FB: claimed 2017 national title (13-0), 2018 NY6; Big 12 years: 6-7 (2023), 4-8 (2024, Gus Malzahn left), ~5-7 (2025, Scott Frost's return, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Johnny Dawkins — NIT/CBI level. Olympic: Directors' Cup roughly top-90. Facilities: modest on-campus stadium; newer football operations building.",
+    "rivals": [
+      "south-florida",
+      "east-carolina",
+      "cincinnati"
+    ],
+    "president": {
+      "name": "Alexander N. Cartwright",
+      "title": "President",
+      "since": 2020
+    },
+    "ad": {
+      "name": "Terry Mohajir",
+      "since": 2020
+    },
+    "headFootballCoach": {
+      "name": "Scott Frost",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Johnny Dawkins",
+      "since": 2016
+    },
+    "notes": "One of the largest U.S. universities by enrollment, in the fast-growing Orlando DMA — the Big 12's Florida/market play (joined 2023). Florida Board of Governors and DeSantis-appointed trustees mean high state pressure; War on I-4 with USF paused since UCF left the American. Endowment is small relative to enrollment.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/UCF_Knights",
+      "https://ucfknights.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "utah",
+    "name": "The University of Utah",
+    "shortName": "Utah",
+    "abbr": "UTAH",
+    "mascot": "Utes",
+    "colors": [
+      "#CC0000",
+      "#FFFFFF"
+    ],
+    "city": "Salt Lake City",
+    "state": "UT",
+    "lat": 40.7649,
+    "lon": -111.8421,
+    "dma": {
+      "name": "Salt Lake City",
+      "rank": 28
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 37000,
+    "usNewsRank": 115,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2200000000,
+    "athletics": {
+      "revenueUsd": 160000000,
+      "expensesUsd": 155000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap, with the Otro Capital partnership (2025) aimed at funding growth.",
+      "stadium": {
+        "name": "Rice-Eccles Stadium",
+        "capacity": 51444
+      },
+      "arena": {
+        "name": "Jon M. Huntsman Center",
+        "capacity": 15000
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "mountain-west",
+        "football": "mountain-west",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 72,
+      "mbb": 42,
+      "wbb": 62,
+      "olympic": 66,
+      "brand": 64,
+      "facilities": 76,
+      "fanBase": 76,
+      "boosterInfluence": 70,
+      "statePoliticalPressure": 55
+    },
+    "ratingNotes": "FB: Pac-12 champions 2021 & 2022 (Rose Bowls); 5-7 (2024, first Big 12 year); ~10-2 plus bowl (2025, approx.). Kyle Whittingham stepped down after 2025 (reported hired by Michigan, verify); coach-in-waiting Morgan Scalley promoted. 2026 season-to-date results not verified for this snapshot. MBB: Craig Smith fired 2025; Alex Jensen (NBA assistant, Utah alum) hired. WBB: Lynne Roberts left for the WNBA (late 2024); Gavin Petersen. Olympic: gymnastics (perennial NCAA contender), skiing (multiple recent NCAA titles) — Directors' Cup roughly top-45.",
+    "rivals": [
+      "byu",
+      "utah-state",
+      "colorado",
+      "arizona-state"
+    ],
+    "president": {
+      "name": "Taylor Randall",
+      "title": "President",
+      "since": 2021
+    },
+    "ad": {
+      "name": "Mark Harlan",
+      "since": 2016
+    },
+    "headFootballCoach": {
+      "name": "Morgan Scalley",
+      "since": 2026,
+      "confidence": "low",
+      "note": "Successor to Kyle Whittingham (Dec 2025); verify."
+    },
+    "headMbbCoach": {
+      "name": "Alex Jensen",
+      "since": 2025
+    },
+    "notes": "First Power-conference athletic department to bring in private equity: a for-profit 'Utah Brands & Entertainment' entity with a minority investment from Otro Capital (announced late 2025; university retains control) — a template for Big 12 peers and the conference's own private-capital talks. Gov. Spencer Cox publicly backed the 2023 Big 12 move. Holy War with BYU now a league game.",
+    "confidence": "low",
+    "note": "Football coach transition and PE deal terms not web-verified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headFootballCoach",
+      "notes (PE deal terms)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Utah_Utes",
+      "https://utahutes.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "west-virginia",
+    "name": "West Virginia University",
+    "shortName": "West Virginia",
+    "abbr": "WVU",
+    "mascot": "Mountaineers",
+    "colors": [
+      "#EAAA00",
+      "#002855"
+    ],
+    "city": "Morgantown",
+    "state": "WV",
+    "lat": 39.635,
+    "lon": -79.9545,
+    "dma": {
+      "name": "Clarksburg-Weston",
+      "rank": 171
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 26000,
+    "usNewsRank": 234,
+    "usNewsCategory": "national",
+    "endowmentUsd": 900000000,
+    "athletics": {
+      "revenueUsd": 130000000,
+      "expensesUsd": 130000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap pledged (not verified) despite university budget strain.",
+      "stadium": {
+        "name": "Milan Puskar Stadium (Mountaineer Field)",
+        "capacity": 60000
+      },
+      "arena": {
+        "name": "WVU Coliseum (Hope Coliseum)",
+        "capacity": 14000
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-12",
+        "football": "big-12",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "big-east-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 46,
+      "mbb": 55,
+      "wbb": 62,
+      "olympic": 42,
+      "brand": 62,
+      "facilities": 66,
+      "fanBase": 80,
+      "boosterInfluence": 58,
+      "statePoliticalPressure": 70
+    },
+    "ratingNotes": "FB: Neal Brown fired after 6-7 (2024); Rich Rodriguez returned for 2025 — rebuilding year (~4-8, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Darian DeVries one season (19-13, NCAA snub in 2025) then left for Indiana; Ross Hodge (North Texas) hired. WBB: Mark Kellogg, NCAA 2023-25. Olympic: rifle dynasty (~20 NCAA titles) — Directors' Cup roughly top-90. Fan base: statewide flagship following; Morgantown lies in the Clarksburg-Weston DMA (Pittsburgh spillover).",
+    "rivals": [
+      "pitt",
+      "virginia-tech",
+      "marshall",
+      "maryland"
+    ],
+    "president": {
+      "name": "Michael T. Benson",
+      "title": "President",
+      "since": 2025
+    },
+    "ad": {
+      "name": "Wren Baker",
+      "since": 2022
+    },
+    "headFootballCoach": {
+      "name": "Rich Rodriguez",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Ross Hodge",
+      "since": 2025
+    },
+    "notes": "Geographic outlier (nearest Big 12 peer Cincinnati ~270 miles straight-line; most are 800+); joined 2012 when the Big East fractured. 2023 academic restructuring under Gordon Gee (dozens of programs cut amid a ~$45M deficit) shows financial strain; Michael Benson succeeded Gee Jan 2025. Gov. Patrick Morrisey and Sen. Jim Justice are vocal about WVU; Backyard Brawl with Pitt resumed 2022-25. Below-average Big 12 revenue vs. travel costs is a recurring 'should WVU look east?' storyline.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "dma.name"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Virginia_Mountaineers",
+      "https://wvusports.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://big12sports.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  }
+]

@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "boston-college",
+    "name": "Boston College",
+    "shortName": "Boston College",
+    "abbr": "BC",
+    "mascot": "Eagles",
+    "colors": [
+      "#98002E",
+      "#BC9B6A"
+    ],
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "lat": 42.3355,
+    "lon": -71.1685,
+    "dma": {
+      "name": "Boston (Manchester)",
+      "rank": 10
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 15300,
+    "usNewsRank": 37,
+    "usNewsCategory": "national",
+    "endowmentUsd": 4000000000,
+    "athletics": {
+      "revenueUsd": 120000000,
+      "expensesUsd": 120000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); reported full or near-full cap (not verified; private-school estimates).",
+      "stadium": {
+        "name": "Alumni Stadium",
+        "capacity": 44500
+      },
+      "arena": {
+        "name": "Conte Forum",
+        "capacity": 8606
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 42,
+      "mbb": 35,
+      "wbb": 40,
+      "olympic": 46,
+      "brand": 52,
+      "facilities": 60,
+      "fanBase": 50,
+      "boosterInfluence": 45,
+      "statePoliticalPressure": 10
+    },
+    "ratingNotes": "FB: Bill O'Brien — 7-6 (2024, Pinstripe Bowl); poor 2025 (~2-10, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Earl Grant — no NCAA bids; status after 2025-26 unverified. WBB: Joanna Bernabei-McNamee, rebuilding. Olympic: men's hockey power (5 NCAA titles, Hockey East affiliate), women's lacrosse (NCAA champions 2021, 2024) — Directors' Cup roughly top-80.",
+    "rivals": [
+      "notre-dame",
+      "syracuse",
+      "uconn",
+      "massachusetts"
+    ],
+    "president": {
+      "name": "Rev. William P. Leahy, S.J.",
+      "title": "President",
+      "since": 1996
+    },
+    "ad": {
+      "name": "Blake James",
+      "since": 2023
+    },
+    "headFootballCoach": {
+      "name": "Bill O'Brien",
+      "since": 2024
+    },
+    "headMbbCoach": {
+      "name": "Earl Grant",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Status after 2025-26 not verified."
+    },
+    "notes": "Jesuit; Leahy (since 1996) is the longest-serving president in the Power 4. A small brand in the pro-sports-dominated Boston (#10) market; joined the ACC in 2005 from the Big East. Holy War with Notre Dame. A perennial 'what happens to the ACC's northeastern privates' realignment question; negligible state pressure.",
+    "confidence": "low",
+    "note": "MBB coach status unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headMbbCoach",
+      "athletics (private; estimates)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Boston_College_Eagles",
+      "https://bceagles.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "cal",
+    "name": "University of California, Berkeley",
+    "shortName": "Cal",
+    "abbr": "CAL",
+    "mascot": "Golden Bears",
+    "colors": [
+      "#003262",
+      "#FDB515"
+    ],
+    "city": "Berkeley",
+    "state": "CA",
+    "lat": 37.8719,
+    "lon": -122.2585,
+    "dma": {
+      "name": "San Francisco-Oakland-San Jose",
+      "rank": 9
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 46000,
+    "usNewsRank": 15,
+    "usNewsCategory": "national",
+    "endowmentUsd": 7000000000,
+    "athletics": {
+      "revenueUsd": 130000000,
+      "expensesUsd": 160000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); committed to the cap despite a structural deficit (exact payout not verified).",
+      "stadium": {
+        "name": "California Memorial Stadium",
+        "capacity": 63000
+      },
+      "arena": {
+        "name": "Haas Pavilion",
+        "capacity": 11858
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "pac-10",
+        "football": "pac-10",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 48,
+      "mbb": 40,
+      "wbb": 64,
+      "olympic": 76,
+      "brand": 58,
+      "facilities": 72,
+      "fanBase": 55,
+      "boosterInfluence": 45,
+      "statePoliticalPressure": 50
+    },
+    "ratingNotes": "FB: Justin Wilcox (2017-25) — 6-7 in 2023 and 2024; fired late in 2025; Tosh Lupoi (Oregon DC, ex-Cal player/assistant) hired (verify). Ron Rivera named football GM (2025). 2026 season-to-date results not verified for this snapshot. MBB: Mark Madsen — losing records 2024 & 2025. WBB: Charmin Smith, NCAA 2025. Olympic: Directors' Cup No. 24 in 2024-25 (verified); swimming, rugby, water polo, rowing. Revenue/expense gap reflects institutional-support deficit.",
+    "rivals": [
+      "stanford",
+      "ucla",
+      "usc"
+    ],
+    "president": {
+      "name": "Rich Lyons",
+      "title": "Chancellor",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Jay Larson",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Successor to Jim Knowlton (2025); verify."
+    },
+    "headFootballCoach": {
+      "name": "Tosh Lupoi",
+      "since": 2026,
+      "confidence": "low",
+      "note": "Reported hire after Wilcox firing (Nov-Dec 2025)."
+    },
+    "headMbbCoach": {
+      "name": "Mark Madsen",
+      "since": 2023
+    },
+    "notes": "Joined the ACC in 2024 with Stanford at roughly 30% of a full media share (rising to ~70% in year 8, ~75% year 9, full in year 10); cross-country travel for every sport. Structural athletics deficit (~$30M+/yr reported) and ~$400M+ Memorial Stadium retrofit/Simpson Center debt are a UC Regents and campus-budget issue — pressure to cut sports. Big Game vs. Stanford. ESPN College GameDay in Berkeley (Oct 2024) symbolized the new ACC.",
+    "confidence": "low",
+    "note": "AD and football coach not web-verified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "ad",
+      "headFootballCoach"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/California_Golden_Bears",
+      "https://calbears.com/",
+      "https://www.si.com/college/cal/other-sports/cal-finishes-24th-in-directors-cup-standings-01jypqqgzjaw",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "clemson",
+    "name": "Clemson University",
+    "shortName": "Clemson",
+    "abbr": "CLEM",
+    "mascot": "Tigers",
+    "colors": [
+      "#F56600",
+      "#522D80"
+    ],
+    "city": "Clemson",
+    "state": "SC",
+    "lat": 34.6834,
+    "lon": -82.8374,
+    "dma": {
+      "name": "Greenville-Spartanburg-Asheville-Anderson",
+      "rank": 35
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 30000,
+    "usNewsRank": 79,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1200000000,
+    "athletics": {
+      "revenueUsd": 190000000,
+      "expensesUsd": 185000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "Memorial Stadium (Frank Howard Field)",
+        "capacity": 81500
+      },
+      "arena": {
+        "name": "Littlejohn Coliseum",
+        "capacity": 9000
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 76,
+      "mbb": 66,
+      "wbb": 48,
+      "olympic": 62,
+      "brand": 84,
+      "facilities": 88,
+      "fanBase": 88,
+      "boosterInfluence": 72,
+      "statePoliticalPressure": 70
+    },
+    "ratingNotes": "FB: Dabo Swinney — 2016 & 2018 national titles, six straight CFP trips (2015-20); 9-4 (2023), 10-4 with 2024 ACC title and CFP first-round loss at Texas; disappointing 2025 (~7-6, approx.) despite a top-5 preseason ranking. 2026 season-to-date results not verified for this snapshot. MBB: Brad Brownell — Elite Eight 2024, #5 seed R1 loss to McNeese 2025. Olympic: baseball, golf, track — Directors' Cup roughly top-50. Facilities: elite football complex; renovated Littlejohn.",
+    "rivals": [
+      "south-carolina",
+      "florida-state",
+      "georgia",
+      "georgia-tech"
+    ],
+    "president": {
+      "name": "James P. Clements",
+      "title": "President",
+      "since": 2014
+    },
+    "ad": {
+      "name": "Graham Neff",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Dabo Swinney",
+      "since": 2008
+    },
+    "headMbbCoach": {
+      "name": "Brad Brownell",
+      "since": 2010
+    },
+    "notes": "Sued the ACC (Mar 2024) over grant-of-rights/exit costs; settled with FSU and the ACC in March 2025 — exit costs fall to roughly $75M from 2026 and step down annually (see conferences/legal agent for the schedule) and a partly viewership/brand-based revenue model rewards Clemson. South Carolina legislature and trustees closely aligned with athletics (IPTAY). A top-tier SEC/Big Ten target if the ACC unravels; Palmetto Bowl with South Carolina.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Clemson_Tigers",
+      "https://clemsontigers.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "duke",
+    "name": "Duke University",
+    "shortName": "Duke",
+    "abbr": "DUKE",
+    "mascot": "Blue Devils",
+    "colors": [
+      "#003087",
+      "#FFFFFF"
+    ],
+    "city": "Durham",
+    "state": "NC",
+    "lat": 36.0014,
+    "lon": -78.9382,
+    "dma": {
+      "name": "Raleigh-Durham (Fayetteville)",
+      "rank": 22
+    },
+    "control": "private",
+    "religious": "Methodist (historical affiliation)",
+    "aau": true,
+    "enrollment": 17600,
+    "usNewsRank": 7,
+    "usNewsCategory": "national",
+    "endowmentUsd": 11600000000,
+    "athletics": {
+      "revenueUsd": 160000000,
+      "expensesUsd": 160000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "Wallace Wade Stadium",
+        "capacity": 40004
+      },
+      "arena": {
+        "name": "Cameron Indoor Stadium",
+        "capacity": 9314
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 64,
+      "mbb": 97,
+      "wbb": 78,
+      "olympic": 82,
+      "brand": 84,
+      "facilities": 76,
+      "fanBase": 72,
+      "boosterInfluence": 62,
+      "statePoliticalPressure": 15
+    },
+    "ratingNotes": "FB: Mike Elko 8-5 (2023); Manny Diaz 9-4 (2024); 2025 ACC champions (OT win over Virginia) but left out of the 12-team CFP at 8-5 (approx.). QB Darian Mensah's attempted Jan 2026 transfer to Miami prompted Duke to sue over his NIL contract (outcome unverified). 2026 season-to-date results not verified for this snapshot. MBB: Jon Scheyer — 2025 Final Four as a #1 seed (Cooper Flagg, No. 1 NBA pick); 2025-26 top-seed contender with Cameron Boozer (result unverified). WBB: Kara Lawson, Elite Eight 2025. Olympic: lacrosse, soccer, golf, tennis — Directors' Cup roughly top-15.",
+    "rivals": [
+      "north-carolina",
+      "nc-state",
+      "wake-forest"
+    ],
+    "president": {
+      "name": "Vincent E. Price",
+      "title": "President",
+      "since": 2017
+    },
+    "ad": {
+      "name": "Nina King",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Manny Diaz",
+      "since": 2024
+    },
+    "headMbbCoach": {
+      "name": "Jon Scheyer",
+      "since": 2022
+    },
+    "notes": "Elite private AAU university (US News #7) whose basketball brand outweighs football, making Duke a 'basketball-first' realignment asset usually paired with UNC. Methodist heritage; no state pressure. The Mensah lawsuit (2026) is a test of whether revenue-share/NIL player contracts are enforceable — a useful event seed.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Duke_Blue_Devils",
+      "https://goduke.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "florida-state",
+    "name": "Florida State University",
+    "shortName": "Florida State",
+    "abbr": "FSU",
+    "mascot": "Seminoles",
+    "colors": [
+      "#782F40",
+      "#CEB888"
+    ],
+    "city": "Tallahassee",
+    "state": "FL",
+    "lat": 30.4419,
+    "lon": -84.2985,
+    "dma": {
+      "name": "Tallahassee-Thomasville",
+      "rank": 106
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 45000,
+    "usNewsRank": 53,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1000000000,
+    "athletics": {
+      "revenueUsd": 185000000,
+      "expensesUsd": 180000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "Doak Campbell Stadium",
+        "capacity": 67277
+      },
+      "arena": {
+        "name": "Donald L. Tucker Civic Center",
+        "capacity": 11675
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 58,
+      "mbb": 45,
+      "wbb": 66,
+      "olympic": 74,
+      "brand": 84,
+      "facilities": 80,
+      "fanBase": 86,
+      "boosterInfluence": 76,
+      "statePoliticalPressure": 80
+    },
+    "ratingNotes": "FB: Mike Norvell — 13-0 ACC champions in 2023 but excluded from the 4-team CFP (Jordan Travis injury), catalyst for the lawsuit; 2-10 (2024); 2025 opened by beating Alabama but finished ~5-7 (approx.); Norvell retained with staff overhaul (2026 status unverified). 2026 season-to-date results not verified for this snapshot. MBB: Leonard Hamilton retired 2025; Luke Loucks hired. WBB: Brooke Wyckoff, regular NCAA team. Olympic: softball, soccer (2023 NCAA champions), track — Directors' Cup roughly top-25. Facilities: ~$265M Doak Campbell renovation (2025).",
+    "rivals": [
+      "florida",
+      "miami-fl",
+      "clemson"
+    ],
+    "president": {
+      "name": "Richard McCullough",
+      "title": "President",
+      "since": 2021
+    },
+    "ad": {
+      "name": "Michael Alford",
+      "since": 2019
+    },
+    "headFootballCoach": {
+      "name": "Mike Norvell",
+      "since": 2020,
+      "confidence": "low",
+      "note": "Retained after 2025; in-season 2026 status not verified."
+    },
+    "headMbbCoach": {
+      "name": "Luke Loucks",
+      "since": 2025
+    },
+    "notes": "Sued the ACC (Dec 2023) after the 2023 CFP snub; settled March 2025 — exit costs fall from 2026 and step down annually, plus a revenue model weighted toward brand/viewership. Board of Trustees (chair Peter Collins) openly courts the SEC/Big Ten; Florida's governor and legislature favor an exit. National brand from a small Tallahassee DMA. Relationship with the Seminole Tribe of Florida governs the mascot. AAU membership is a stated goal (not a member as of this snapshot; verify).",
+    "confidence": "low",
+    "note": "Football coach status for 2026 and AAU status unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headFootballCoach",
+      "aau"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Florida_State_Seminoles",
+      "https://seminoles.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "georgia-tech",
+    "name": "Georgia Institute of Technology",
+    "shortName": "Georgia Tech",
+    "abbr": "GT",
+    "mascot": "Yellow Jackets",
+    "colors": [
+      "#B3A369",
+      "#003057"
+    ],
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.7756,
+    "lon": -84.3963,
+    "dma": {
+      "name": "Atlanta",
+      "rank": 7
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 53000,
+    "usNewsRank": 32,
+    "usNewsCategory": "national",
+    "endowmentUsd": 3000000000,
+    "athletics": {
+      "revenueUsd": 120000000,
+      "expensesUsd": 120000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap pledged (not verified) despite athletics debt.",
+      "stadium": {
+        "name": "Bobby Dodd Stadium at Hyundai Field",
+        "capacity": 51913
+      },
+      "arena": {
+        "name": "McCamish Pavilion",
+        "capacity": 8600
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 66,
+      "mbb": 40,
+      "wbb": 60,
+      "olympic": 56,
+      "brand": 60,
+      "facilities": 66,
+      "fanBase": 56,
+      "boosterInfluence": 52,
+      "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: Brent Key — 7-6 (2023, 2024), 2025 breakthrough (~9-4, ACC contention, QB Haynes King; approx.). 2026 season-to-date results not verified for this snapshot. MBB: Damon Stoudamire — losing records; status after 2025-26 unverified. WBB: Karen Blair, NCAA 2025. Olympic: golf, swimming, track — Directors' Cup roughly top-60. Enrollment includes large online graduate programs.",
+    "rivals": [
+      "georgia",
+      "clemson",
+      "virginia-tech",
+      "duke"
+    ],
+    "president": {
+      "name": "Ángel Cabrera",
+      "title": "President",
+      "since": 2019
+    },
+    "ad": {
+      "name": "Ryan Alpert",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Believed to have succeeded J Batt in 2025; verify."
+    },
+    "headFootballCoach": {
+      "name": "Brent Key",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Damon Stoudamire",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Status after 2025-26 not verified."
+    },
+    "notes": "Urban Atlanta (#7 DMA) campus with a modest fan base; athletics has carried significant debt and budget limits. Some home games at Mercedes-Benz Stadium. Clean, Old-Fashioned Hate with Georgia. University System of Georgia regents govern both UGA and GT; little history of legislative intervention in conference matters.",
+    "confidence": "low",
+    "note": "AD and MBB coach unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "ad",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Georgia_Tech_Yellow_Jackets",
+      "https://ramblinwreck.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "louisville",
+    "name": "University of Louisville",
+    "shortName": "Louisville",
+    "abbr": "LOU",
+    "mascot": "Cardinals",
+    "colors": [
+      "#AD0000",
+      "#000000"
+    ],
+    "city": "Louisville",
+    "state": "KY",
+    "lat": 38.2122,
+    "lon": -85.7585,
+    "dma": {
+      "name": "Louisville",
+      "rank": 49
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 23500,
+    "usNewsRank": 196,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1000000000,
+    "athletics": {
+      "revenueUsd": 160000000,
+      "expensesUsd": 155000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "L&N Federal Credit Union Stadium",
+        "capacity": 60800
+      },
+      "arena": {
+        "name": "KFC Yum! Center",
+        "capacity": 22090
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "big-east-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 64,
+      "mbb": 74,
+      "wbb": 74,
+      "olympic": 62,
+      "brand": 66,
+      "facilities": 76,
+      "fanBase": 72,
+      "boosterInfluence": 64,
+      "statePoliticalPressure": 60
+    },
+    "ratingNotes": "FB: Jeff Brohm — 10-4 (2023, ACC title game), 9-4 (2024, Sun Bowl win), ~8-4 (2025, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Pat Kelsey revival — 27-8, #8 seed (2025) after a 12-52 two-year nadir; 2025-26 preseason top-10 (result unverified); 2013 title vacated. WBB: Jeff Walz, four Final Fours. Olympic: volleyball (2024 NCAA runner-up), baseball, swimming — Directors' Cup roughly top-40.",
+    "rivals": [
+      "kentucky",
+      "cincinnati",
+      "memphis"
+    ],
+    "president": {
+      "name": "Kim Schatzel",
+      "title": "President",
+      "since": 2023
+    },
+    "ad": {
+      "name": "Josh Heird",
+      "since": 2022
+    },
+    "headFootballCoach": {
+      "name": "Jeff Brohm",
+      "since": 2023
+    },
+    "headMbbCoach": {
+      "name": "Pat Kelsey",
+      "since": 2024
+    },
+    "notes": "Big East (2005-13) → American (2013-14) → ACC (2014, replacing Maryland). Governor's Cup with Kentucky; the Kentucky legislature has weighed in on the series and on NIL (2022 law). Scandals (2015 escort case, 2017 FBI case) cost Pitino's 2013 title. KFC Yum! Center debt is a city/state political issue.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Louisville_Cardinals",
+      "https://gocards.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "miami-fl",
+    "name": "University of Miami",
+    "shortName": "Miami",
+    "abbr": "MIA",
+    "mascot": "Hurricanes",
+    "colors": [
+      "#F47321",
+      "#005030"
+    ],
+    "city": "Coral Gables",
+    "state": "FL",
+    "lat": 25.7215,
+    "lon": -80.2793,
+    "dma": {
+      "name": "Miami-Ft. Lauderdale",
+      "rank": 17
+    },
+    "control": "private",
+    "religious": null,
+    "aau": true,
+    "enrollment": 19500,
+    "usNewsRank": 64,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1600000000,
+    "athletics": {
+      "revenueUsd": 150000000,
+      "expensesUsd": 150000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap (private; estimates).",
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "capacity": 65326
+      },
+      "arena": {
+        "name": "Watsco Center",
+        "capacity": 7972
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 88,
+      "mbb": 50,
+      "wbb": 50,
+      "olympic": 50,
+      "brand": 84,
+      "facilities": 72,
+      "fanBase": 72,
+      "boosterInfluence": 80,
+      "statePoliticalPressure": 20
+    },
+    "ratingNotes": "FB: Mario Cristobal — 10-3 (2024, Cam Ward); 2025 CFP at-large run to the national championship game (wins over Texas A&M, Ohio State, Ole Miss) before losing to Indiana at Hard Rock Stadium in Jan 2026 (approx.). 2026 season-to-date results not verified for this snapshot. MBB: Jim Larrañaga's 2023 Final Four then 7-24 collapse (2024-25); Jai Lucas hired 2025. WBB: Tricia Cullop (2025). Olympic: baseball, diving — Directors' Cup roughly top-70.",
+    "rivals": [
+      "florida-state",
+      "florida",
+      "virginia-tech",
+      "notre-dame"
+    ],
+    "president": {
+      "name": "Joe Echevarria",
+      "title": "President",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Dan Radakovich",
+      "since": 2021
+    },
+    "headFootballCoach": {
+      "name": "Mario Cristobal",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Jai Lucas",
+      "since": 2025
+    },
+    "notes": "Five national titles (1983-2001) give a national brand; plays off campus at the Dolphins' Hard Rock Stadium. Booster John Ruiz (LifeWallet) pioneered public NIL spending 2022-24; deep-pocketed trustees fund Cristobal's roster. Private school (low state pressure), but the South Florida market (#17 DMA) makes Miami a premium SEC/Big Ten target. AAU membership reported from 2023 (verify).",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "aau",
+      "athletics (private; estimates)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Miami_Hurricanes",
+      "https://miamihurricanes.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "nc-state",
+    "name": "North Carolina State University",
+    "shortName": "NC State",
+    "abbr": "NCSU",
+    "mascot": "Wolfpack",
+    "colors": [
+      "#CC0000",
+      "#FFFFFF"
+    ],
+    "city": "Raleigh",
+    "state": "NC",
+    "lat": 35.7847,
+    "lon": -78.6821,
+    "dma": {
+      "name": "Raleigh-Durham (Fayetteville)",
+      "rank": 22
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 38000,
+    "usNewsRank": 58,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1900000000,
+    "athletics": {
+      "revenueUsd": 130000000,
+      "expensesUsd": 128000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "Carter-Finley Stadium",
+        "capacity": 56919
+      },
+      "arena": {
+        "name": "Lenovo Center",
+        "capacity": 19500
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 55,
+      "mbb": 58,
+      "wbb": 80,
+      "olympic": 70,
+      "brand": 62,
+      "facilities": 72,
+      "fanBase": 72,
+      "boosterInfluence": 58,
+      "statePoliticalPressure": 80
+    },
+    "ratingNotes": "FB: Dave Doeren (since 2013) — 9-4 (2023), 6-7 (2024), ~7-5 (2025, approx.). 2026 season-to-date results not verified for this snapshot. MBB: 2024 Final Four as a #11 seed (Kevin Keatts); Keatts fired 2025, Will Wade hired. WBB: Wes Moore — 2024 Final Four, ACC titles. Olympic: wrestling, swimming, cross country, baseball — Directors' Cup roughly top-30.",
+    "rivals": [
+      "north-carolina",
+      "east-carolina",
+      "wake-forest",
+      "duke"
+    ],
+    "president": {
+      "name": "Kevin Howell",
+      "title": "Chancellor",
+      "since": 2025
+    },
+    "ad": {
+      "name": "Boo Corrigan",
+      "since": 2017
+    },
+    "headFootballCoach": {
+      "name": "Dave Doeren",
+      "since": 2013
+    },
+    "headMbbCoach": {
+      "name": "Will Wade",
+      "since": 2025
+    },
+    "notes": "UNC System school; the NC legislature and UNC Board of Governors would resist any move that left NC State behind UNC (2024 legislative proposals would require approval before a system school leaves its conference). Will Wade hire despite his LSU NCAA history signals a win-now posture. Lenovo Center shared with the NHL Hurricanes.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/NC_State_Wolfpack",
+      "https://gopack.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "north-carolina",
+    "name": "The University of North Carolina at Chapel Hill",
+    "shortName": "North Carolina",
+    "abbr": "UNC",
+    "mascot": "Tar Heels",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "city": "Chapel Hill",
+    "state": "NC",
+    "lat": 35.9049,
+    "lon": -79.0469,
+    "dma": {
+      "name": "Raleigh-Durham (Fayetteville)",
+      "rank": 22
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 32000,
+    "usNewsRank": 27,
+    "usNewsCategory": "national",
+    "endowmentUsd": 5600000000,
+    "athletics": {
+      "revenueUsd": 150000000,
+      "expensesUsd": 155000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "Kenan Memorial Stadium",
+        "capacity": 50500
+      },
+      "arena": {
+        "name": "Dean E. Smith Center",
+        "capacity": 21750
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 52,
+      "mbb": 86,
+      "wbb": 76,
+      "olympic": 94,
+      "brand": 84,
+      "facilities": 76,
+      "fanBase": 80,
+      "boosterInfluence": 62,
+      "statePoliticalPressure": 82
+    },
+    "ratingNotes": "FB: Mack Brown fired after 6-7 (2024); Bill Belichick hired Dec 2024 with GM Michael Lombardi — 4-8 debut in 2025 amid national sideshow coverage. 2026 season-to-date results not verified for this snapshot. MBB: six national titles; Hubert Davis — 2022 runner-up, #1 seed Sweet 16 (2024), #11 seed First Four win (2025); status after 2025-26 unverified. WBB: Courtney Banghart, Sweet 16 2025. Olympic: Directors' Cup No. 4 in 2024-25 (verified; women's soccer, field hockey, lacrosse).",
+    "rivals": [
+      "duke",
+      "nc-state",
+      "virginia",
+      "wake-forest"
+    ],
+    "president": {
+      "name": "Lee H. Roberts",
+      "title": "Chancellor",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Bubba Cunningham",
+      "since": 2011,
+      "confidence": "low",
+      "note": "Long-serving; any 2025-26 retirement not verified."
+    },
+    "headFootballCoach": {
+      "name": "Bill Belichick",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Hubert Davis",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Status after 2025-26 not verified."
+    },
+    "notes": "AAU flagship with blue-blood basketball; with Virginia, the ACC school most often linked to a Big Ten invitation — but NC politics (UNC Board of Governors, Republican legislature) insist NC State not be stranded. Belichick hire (5 yrs, ~$10M/yr) was a national-brand play. 2014 academic-athletic fraud (Wainstein report) history.",
+    "confidence": "low",
+    "note": "AD and MBB coach status unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "ad",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels",
+      "https://goheels.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://nacda.com/news/2025/6/10/directorscup-grand-valley-emory-and-cumberlands-secure-learfield-directors-cups-stanford-leads-in-division-i.aspx",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "notre-dame",
+    "name": "University of Notre Dame du Lac",
+    "shortName": "Notre Dame",
+    "abbr": "ND",
+    "mascot": "Fighting Irish",
+    "colors": [
+      "#0C2340",
+      "#C99700"
+    ],
+    "city": "Notre Dame",
+    "state": "IN",
+    "lat": 41.7052,
+    "lon": -86.2353,
+    "dma": {
+      "name": "South Bend-Elkhart",
+      "rank": 100
+    },
+    "control": "private",
+    "religious": "Catholic (Congregation of Holy Cross)",
+    "aau": true,
+    "enrollment": 13200,
+    "usNewsRank": 20,
+    "usNewsCategory": "national",
+    "endowmentUsd": 18100000000,
+    "athletics": {
+      "revenueUsd": 230000000,
+      "expensesUsd": 220000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "Notre Dame Stadium",
+        "capacity": 77622
+      },
+      "arena": {
+        "name": "Purcell Pavilion at the Joyce Center",
+        "capacity": 9149
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "independent",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "independent",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 90,
+      "mbb": 48,
+      "wbb": 86,
+      "olympic": 80,
+      "brand": 99,
+      "facilities": 88,
+      "fanBase": 95,
+      "boosterInfluence": 70,
+      "statePoliticalPressure": 10
+    },
+    "ratingNotes": "FB: Marcus Freeman — 10-3 (2023); 14-2 and 2024 national runner-up (lost to Ohio State); 10-2 in 2025 but left out of the 12-team CFP and declined a bowl. 2026 season-to-date results not verified for this snapshot. MBB: Micah Shrewsberry rebuilding, no NCAA bid since 2022. WBB: Niele Ivey — regular top-3 seed (Hannah Hidalgo). Olympic: fencing, men's lacrosse (NCAA champions 2023 & 2024), soccer — Directors' Cup roughly top-20. Brand: only independent with a national TV contract; top-5 national draw.",
+    "rivals": [
+      "usc",
+      "michigan",
+      "navy",
+      "boston-college",
+      "stanford"
+    ],
+    "president": {
+      "name": "Rev. Robert A. Dowd, C.S.C.",
+      "title": "President",
+      "since": 2024
+    },
+    "ad": {
+      "name": "Pete Bevacqua",
+      "since": 2022
+    },
+    "headFootballCoach": {
+      "name": "Marcus Freeman",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Micah Shrewsberry",
+      "since": 2023
+    },
+    "notes": "Football independent with an exclusive NBC/Peacock deal (renewed through 2029, ~$50M/yr reported); ACC member in all other sports since 2013, playing five ACC football opponents a year and obligated to join the ACC if it joins any football conference before the ACC grant of rights ends (2036). CFP access as an at-large only (no first-round bye). The 2025 CFP omission reignited the independence-vs-Big Ten debate. AAU member since 2023.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "athletics (private; estimates)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Notre_Dame_Fighting_Irish",
+      "https://fightingirish.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "pitt",
+    "name": "University of Pittsburgh",
+    "shortName": "Pitt",
+    "abbr": "PITT",
+    "mascot": "Panthers",
+    "colors": [
+      "#003594",
+      "#FFB81C"
+    ],
+    "city": "Pittsburgh",
+    "state": "PA",
+    "lat": 40.4444,
+    "lon": -79.9608,
+    "dma": {
+      "name": "Pittsburgh",
+      "rank": 27
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 34000,
+    "usNewsRank": 70,
+    "usNewsCategory": "national",
+    "endowmentUsd": 5500000000,
+    "athletics": {
+      "revenueUsd": 140000000,
+      "expensesUsd": 140000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap pledged.",
+      "stadium": {
+        "name": "Acrisure Stadium",
+        "capacity": 68400
+      },
+      "arena": {
+        "name": "Petersen Events Center",
+        "capacity": 12508
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "big-east-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 58,
+      "mbb": 45,
+      "wbb": 32,
+      "olympic": 52,
+      "brand": 60,
+      "facilities": 70,
+      "fanBase": 62,
+      "boosterInfluence": 55,
+      "statePoliticalPressure": 55
+    },
+    "ratingNotes": "FB: Pat Narduzzi — 2021 ACC champions; 3-9 (2023), 7-6 (2024), ~8-4 (2025, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Jeff Capel — NCAA 2023 only; status after 2025-26 unverified. WBB: weak. Olympic: volleyball (Final Fours 2022-24), wrestling — Directors' Cup roughly top-60. Public 'state-related' university.",
+    "rivals": [
+      "west-virginia",
+      "penn-state",
+      "syracuse"
+    ],
+    "president": {
+      "name": "Joan T.A. Gabel",
+      "title": "Chancellor",
+      "since": 2023
+    },
+    "ad": {
+      "name": "Allen Greene",
+      "since": 2024
+    },
+    "headFootballCoach": {
+      "name": "Pat Narduzzi",
+      "since": 2015
+    },
+    "headMbbCoach": {
+      "name": "Jeff Capel",
+      "since": 2018,
+      "confidence": "low",
+      "note": "Status after 2025-26 not verified."
+    },
+    "notes": "State-related university whose appropriation is routinely held up in Harrisburg budget fights — a lever for legislators. Plays at the Steelers' Acrisure Stadium (no on-campus stadium). Backyard Brawl with WVU (2022-25) and Penn State rivalry; founding-era Big East basketball. Joined ACC 2013.",
+    "confidence": "low",
+    "note": "MBB coach status unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pittsburgh_Panthers",
+      "https://pittsburghpanthers.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "smu",
+    "name": "Southern Methodist University",
+    "shortName": "SMU",
+    "abbr": "SMU",
+    "mascot": "Mustangs",
+    "colors": [
+      "#C8102E",
+      "#354CA1"
+    ],
+    "city": "Dallas",
+    "state": "TX",
+    "lat": 32.8412,
+    "lon": -96.7845,
+    "dma": {
+      "name": "Dallas-Ft. Worth",
+      "rank": 4
+    },
+    "control": "private",
+    "religious": "Methodist",
+    "aau": false,
+    "enrollment": 12000,
+    "usNewsRank": 89,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2300000000,
+    "athletics": {
+      "revenueUsd": 130000000,
+      "expensesUsd": 130000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap funded largely by donors (SMU receives no ACC media share through 2032-33).",
+      "stadium": {
+        "name": "Gerald J. Ford Stadium",
+        "capacity": 32000
+      },
+      "arena": {
+        "name": "Moody Coliseum",
+        "capacity": 7000
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "cusa-2010",
+        "football": "cusa-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 70,
+      "mbb": 55,
+      "wbb": 35,
+      "olympic": 42,
+      "brand": 58,
+      "facilities": 72,
+      "fanBase": 52,
+      "boosterInfluence": 90,
+      "statePoliticalPressure": 20
+    },
+    "ratingNotes": "FB: Rhett Lashlee — 11-3 AAC champions (2023); 11-3 in first ACC season (2024: 8-0 league, title-game loss to Clemson, CFP first-round loss at Penn State); ~8-4 (2025, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Andy Enfield (ex-USC) — NIT 2025. WBB: Adia Barnes (from Arizona, 2025). Olympic: swimming, golf — Directors' Cup outside top 75. Campus in University Park (Dallas).",
+    "rivals": [
+      "tcu",
+      "houston",
+      "rice",
+      "baylor"
+    ],
+    "president": {
+      "name": "Jay Hartzell",
+      "title": "President",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Ex-UT Austin president, succeeded R. Gerald Turner (2025); verify start date."
+    },
+    "ad": {
+      "name": "Rick Hart",
+      "since": 2012
+    },
+    "headFootballCoach": {
+      "name": "Rhett Lashlee",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Andy Enfield",
+      "since": 2024
+    },
+    "notes": "Joined the ACC in 2024 accepting no ACC media-rights distribution for nine years (through 2032-33), with wealthy Dallas donors covering the gap — the purest booster-financed realignment move. NCAA 'death penalty' (1987) history. Ford Stadium end-zone expansion; DFW (#4 DMA) is the ACC's biggest new market.",
+    "confidence": "low",
+    "note": "President transition details unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "president",
+      "athletics (private; estimates)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/SMU_Mustangs",
+      "https://smumustangs.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "stanford",
+    "name": "Stanford University",
+    "shortName": "Stanford",
+    "abbr": "STAN",
+    "mascot": "Cardinal",
+    "colors": [
+      "#8C1515",
+      "#FFFFFF"
+    ],
+    "city": "Stanford",
+    "state": "CA",
+    "lat": 37.4275,
+    "lon": -122.1697,
+    "dma": {
+      "name": "San Francisco-Oakland-San Jose",
+      "rank": 9
+    },
+    "control": "private",
+    "religious": null,
+    "aau": true,
+    "enrollment": 18300,
+    "usNewsRank": 4,
+    "usNewsCategory": "national",
+    "endowmentUsd": 37600000000,
+    "athletics": {
+      "revenueUsd": 170000000,
+      "expensesUsd": 170000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "Stanford Stadium",
+        "capacity": 50424
+      },
+      "arena": {
+        "name": "Maples Pavilion",
+        "capacity": 7233
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "pac-10",
+        "football": "pac-10",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 38,
+      "mbb": 50,
+      "wbb": 72,
+      "olympic": 96,
+      "brand": 66,
+      "facilities": 74,
+      "fanBase": 48,
+      "boosterInfluence": 62,
+      "statePoliticalPressure": 10
+    },
+    "ratingNotes": "FB: 3-9 each season 2020-24 (approx.); Troy Taylor fired Mar 2025 after workplace complaints; Frank Reich interim 2025 (~4-8); Tavita Pritchard hired Dec 2025 (verify). GM Andrew Luck (Nov 2024). 2026 season-to-date results not verified for this snapshot. MBB: Kyle Smith — NIT 2025. WBB: Tara VanDerveer retired 2024; Kate Paye. Olympic: Directors' Cup No. 3 in 2024-25 (verified); 26 Cup titles and the most NCAA team titles of any school. US News rank #4 (tie, verified). Endowment FY2024.",
+    "rivals": [
+      "cal",
+      "usc",
+      "notre-dame",
+      "ucla"
+    ],
+    "president": {
+      "name": "Jonathan Levin",
+      "title": "President",
+      "since": 2024
+    },
+    "ad": {
+      "name": "John Donahoe",
+      "since": 2025
+    },
+    "headFootballCoach": {
+      "name": "Tavita Pritchard",
+      "since": 2026,
+      "confidence": "low",
+      "note": "Reported hire Dec 2025; verify."
+    },
+    "headMbbCoach": {
+      "name": "Kyle Smith",
+      "since": 2023
+    },
+    "notes": "Elite academics (US News #4, ~$38-40B endowment); joined ACC 2024 at ~30% share alongside Cal. Ex-Nike CEO John Donahoe as AD (2025) and Andrew Luck as football GM signal a business-style overhaul. Broad Olympic-sport roster is costly under revenue sharing (a 2020 plan to cut 11 sports was reversed). Negligible state pressure; Pac-12 nostalgia.",
+    "confidence": "low",
+    "note": "Football coach unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "dma.rank",
+      "headFootballCoach"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stanford_Cardinal",
+      "https://gostanford.com/",
+      "https://nacda.com/news/2025/6/10/directorscup-grand-valley-emory-and-cumberlands-secure-learfield-directors-cups-stanford-leads-in-division-i.aspx",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://qz.com/yale-harvard-princeton-best-universities-us-news",
+      "https://ope.ed.gov/athletics/",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "syracuse",
+    "name": "Syracuse University",
+    "shortName": "Syracuse",
+    "abbr": "SYR",
+    "mascot": "Orange",
+    "colors": [
+      "#F76900",
+      "#000E54"
+    ],
+    "city": "Syracuse",
+    "state": "NY",
+    "lat": 43.0392,
+    "lon": -76.1351,
+    "dma": {
+      "name": "Syracuse",
+      "rank": 90
+    },
+    "control": "private",
+    "religious": "Methodist (historical; nonsectarian)",
+    "aau": false,
+    "enrollment": 21500,
+    "usNewsRank": 62,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2000000000,
+    "athletics": {
+      "revenueUsd": 130000000,
+      "expensesUsd": 130000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap (private; estimates).",
+      "stadium": {
+        "name": "JMA Wireless Dome",
+        "capacity": 42784
+      },
+      "arena": {
+        "name": "JMA Wireless Dome (basketball configuration)",
+        "capacity": 35446
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "big-east-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 50,
+      "mbb": 55,
+      "wbb": 52,
+      "olympic": 48,
+      "brand": 64,
+      "facilities": 66,
+      "fanBase": 66,
+      "boosterInfluence": 62,
+      "statePoliticalPressure": 15
+    },
+    "ratingNotes": "FB: Fran Brown — 10-3 (2024, Holiday Bowl win, Kyle McCord); injury-riddled 2025 (~3-9, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Jim Boeheim retired 2023; Adrian Autry — no NCAA bids; status after 2025-26 unverified. WBB: Felisha Legette-Jack, NCAA 2024. Olympic: men's lacrosse (11 NCAA titles), rowing — Directors' Cup roughly top-75.",
+    "rivals": [
+      "georgetown",
+      "boston-college",
+      "pitt",
+      "west-virginia"
+    ],
+    "president": {
+      "name": "Kent Syverud",
+      "title": "Chancellor",
+      "since": 2014
+    },
+    "ad": {
+      "name": "John Wildhack",
+      "since": 2016
+    },
+    "headFootballCoach": {
+      "name": "Fran Brown",
+      "since": 2024
+    },
+    "headMbbCoach": {
+      "name": "Adrian Autry",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Status after 2025-26 not verified."
+    },
+    "notes": "Big East founding member that moved to the ACC in 2013; Dome roof/renovation (2022). Booster Adam Weitsman funds NIL and gifts. Markets itself as 'New York's College Team'; Georgetown rivalry lives on in non-conference basketball. Left AAU in 2011.",
+    "confidence": "low",
+    "note": "MBB coach status unverified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "headMbbCoach",
+      "athletics.arena.capacity"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Syracuse_Orange",
+      "https://cuse.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_men%27s_basketball_coaches"
+    ]
+  },
+  {
+    "id": "virginia",
+    "name": "University of Virginia",
+    "shortName": "Virginia",
+    "abbr": "UVA",
+    "mascot": "Cavaliers",
+    "colors": [
+      "#232D4B",
+      "#F84C1E"
+    ],
+    "city": "Charlottesville",
+    "state": "VA",
+    "lat": 38.0336,
+    "lon": -78.508,
+    "dma": {
+      "name": "Charlottesville",
+      "rank": 182
+    },
+    "control": "public",
+    "religious": null,
+    "aau": true,
+    "enrollment": 26500,
+    "usNewsRank": 24,
+    "usNewsCategory": "national",
+    "endowmentUsd": 13600000000,
+    "athletics": {
+      "revenueUsd": 160000000,
+      "expensesUsd": 158000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap.",
+      "stadium": {
+        "name": "Scott Stadium",
+        "capacity": 61500
+      },
+      "arena": {
+        "name": "John Paul Jones Arena",
+        "capacity": 14593
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 62,
+      "mbb": 62,
+      "wbb": 45,
+      "olympic": 86,
+      "brand": 64,
+      "facilities": 74,
+      "fanBase": 60,
+      "boosterInfluence": 64,
+      "statePoliticalPressure": 85
+    },
+    "ratingNotes": "FB: Tony Elliott — 3-9 (2023), 5-7 (2024); 2025 breakout (~10-3, ACC title-game OT loss to Duke; approx.); Elliott extended. 2026 season-to-date results not verified for this snapshot. MBB: Tony Bennett (2019 champion) retired Oct 2024; Ron Sanchez interim; Ryan Odom (VCU) hired 2025. WBB: Amaka Agugua-Hamilton, NCAA 2025. Olympic: Directors' Cup No. 12 in 2024-25 (verified); women's swimming dynasty (NCAA titles 2021-25), lacrosse, tennis, soccer. Endowment includes related foundations.",
+    "rivals": [
+      "virginia-tech",
+      "north-carolina",
+      "maryland"
+    ],
+    "president": {
+      "name": "Scott Beardsley",
+      "title": "President",
+      "since": 2026,
+      "confidence": "low",
+      "note": "Darden dean named by the Board of Visitors (Dec 2025) after Jim Ryan's June 2025 resignation and Paul Mahoney's interim term; verify."
+    },
+    "ad": {
+      "name": "Carla Williams",
+      "since": 2017
+    },
+    "headFootballCoach": {
+      "name": "Tony Elliott",
+      "since": 2022
+    },
+    "headMbbCoach": {
+      "name": "Ryan Odom",
+      "since": 2025
+    },
+    "notes": "President Jim Ryan resigned June 2025 under U.S. Justice Department pressure over DEI; governance fights over Youngkin-appointed Board of Visitors continued into Gov. Abigail Spanberger's term (2026). Virginia's General Assembly has a record of intervening (2003 ACC expansion) and would likely demand Virginia Tech be considered with UVA in any Big Ten/SEC move. AAU flagship paired with UNC in Big Ten speculation; small Charlottesville DMA but D.C./Richmond alumni base.",
+    "confidence": "low",
+    "note": "President not web-verified.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "president"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Virginia_Cavaliers",
+      "https://virginiasports.com/",
+      "https://virginiasports.com/news/2025/06/26/virginia-finishes-12th-in-final-learfield-directors-cup-standings",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://www.aau.edu/who-we-are/our-members",
+      "https://theacc.com/"
+    ]
+  },
+  {
+    "id": "virginia-tech",
+    "name": "Virginia Polytechnic Institute and State University",
+    "shortName": "Virginia Tech",
+    "abbr": "VT",
+    "mascot": "Hokies",
+    "colors": [
+      "#861F41",
+      "#E5751F"
+    ],
+    "city": "Blacksburg",
+    "state": "VA",
+    "lat": 37.2284,
+    "lon": -80.4234,
+    "dma": {
+      "name": "Roanoke-Lynchburg",
+      "rank": 70
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 38500,
+    "usNewsRank": 51,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1900000000,
+    "athletics": {
+      "revenueUsd": 145000000,
+      "expensesUsd": 140000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); full cap, backed by a ~$229M multiyear athletics investment plan approved in 2025.",
+      "stadium": {
+        "name": "Lane Stadium",
+        "capacity": 65632
+      },
+      "arena": {
+        "name": "Cassell Coliseum",
+        "capacity": 8925
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 55,
+      "mbb": 42,
+      "wbb": 60,
+      "olympic": 62,
+      "brand": 66,
+      "facilities": 76,
+      "fanBase": 80,
+      "boosterInfluence": 66,
+      "statePoliticalPressure": 85
+    },
+    "ratingNotes": "FB: Brent Pry 7-6 (2023), 6-7 (2024), fired after an 0-3 start in Sept 2025; ~3-9 (2025, approx.). James Franklin (fired by Penn State Oct 2025) hired Nov 2025. 2026 season-to-date results not verified for this snapshot. MBB: Mike Young — 2022 ACC tournament title; losing seasons since. WBB: Kenny Brooks left for Kentucky (2024); Megan Duffy. Olympic: track, wrestling, softball — Directors' Cup roughly top-45. Facilities: Lane Stadium atmosphere ('Enter Sandman').",
+    "rivals": [
+      "virginia",
+      "west-virginia",
+      "miami-fl"
+    ],
+    "president": {
+      "name": "Timothy D. Sands",
+      "title": "President",
+      "since": 2014
+    },
+    "ad": {
+      "name": "Whit Babcock",
+      "since": 2014
+    },
+    "headFootballCoach": {
+      "name": "James Franklin",
+      "since": 2026
+    },
+    "headMbbCoach": {
+      "name": "Mike Young",
+      "since": 2019
+    },
+    "notes": "Joined the ACC in 2004 only after Virginia's governor (Mark Warner) and legislature forced UVA to back VT in the 2003 expansion — the key precedent for state politics dictating realignment. Board of Visitors approved a ~$229M athletics investment plan (2025). Any UVA departure triggers 'VT must come too' politics. Franklin hire is a statement of ambition.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Virginia_Tech_Hokies",
+      "https://hokiesports.com/",
+      "https://sportsdata.usatoday.com/ncaa/finances",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  },
+  {
+    "id": "wake-forest",
+    "name": "Wake Forest University",
+    "shortName": "Wake Forest",
+    "abbr": "WAKE",
+    "mascot": "Demon Deacons",
+    "colors": [
+      "#9E7E38",
+      "#000000"
+    ],
+    "city": "Winston-Salem",
+    "state": "NC",
+    "lat": 36.1335,
+    "lon": -80.2769,
+    "dma": {
+      "name": "Greensboro-High Point-Winston Salem",
+      "rank": 46
+    },
+    "control": "private",
+    "religious": "Baptist (historical; independent of Baptist convention since 1986)",
+    "aau": false,
+    "enrollment": 9200,
+    "usNewsRank": 46,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1800000000,
+    "athletics": {
+      "revenueUsd": 110000000,
+      "expensesUsd": 110000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; House settlement cap $20.5M in 2025-26 (≈$21.3M in 2026-27 after 4% escalator); reported full or near-full cap (not verified; private estimates).",
+      "stadium": {
+        "name": "Allegacy Federal Credit Union Stadium",
+        "capacity": 31500
+      },
+      "arena": {
+        "name": "Lawrence Joel Veterans Memorial Coliseum",
+        "capacity": 14665
+      }
+    },
+    "conference": {
+      "y2026": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "acc",
+        "football": "acc",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 45,
+      "mbb": 55,
+      "wbb": 35,
+      "olympic": 62,
+      "brand": 50,
+      "facilities": 64,
+      "fanBase": 45,
+      "boosterInfluence": 52,
+      "statePoliticalPressure": 20
+    },
+    "ratingNotes": "FB: Dave Clawson stepped down after 4-8 (2024); Jake Dickert (Washington State) hired — improved 2025 (bowl-caliber, approx.). 2026 season-to-date results not verified for this snapshot. MBB: Steve Forbes — bubble/NIT 2023-25. Olympic: men's soccer, golf, tennis, baseball (2023 College World Series) — Directors' Cup roughly top-45.",
+    "rivals": [
+      "nc-state",
+      "north-carolina",
+      "duke"
+    ],
+    "president": {
+      "name": "Susan R. Wente",
+      "title": "President",
+      "since": 2021
+    },
+    "ad": {
+      "name": "John Currie",
+      "since": 2019
+    },
+    "headFootballCoach": {
+      "name": "Jake Dickert",
+      "since": 2025
+    },
+    "headMbbCoach": {
+      "name": "Steve Forbes",
+      "since": 2020
+    },
+    "notes": "Smallest enrollment in the Power 4; charter ACC member (1953) and part of the 'Tobacco Road' core. Private and low political pressure, but highly vulnerable in a P2-driven realignment given a small fan base, small stadium and modest media value.",
+    "lowConfidenceFields": [
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsRank",
+      "dma.rank",
+      "endowmentUsd",
+      "athletics (private; estimates)"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wake_Forest_Demon_Deacons",
+      "https://godeacs.com/",
+      "https://ope.ed.gov/athletics/",
+      "https://www.usnews.com/best-colleges/rankings/national-universities",
+      "https://theacc.com/",
+      "https://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches"
+    ]
+  }
+]
