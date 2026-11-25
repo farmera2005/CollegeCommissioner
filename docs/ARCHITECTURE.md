@@ -165,7 +165,34 @@ retires), replacements are generated from a configurable name pool.
   - CFP bid share by league
   - schools cutting sports
 
-## 6. Build phases (each playable and committed)
+## 6. The opening world (from the research pass)
+
+The default 2026–27 start already contains these live storylines from the real world.
+Details and sources are in `research/VERIFICATION.md`.
+
+- **CFP expands to 24 teams in 2027.** The five auto bids are the P4 champions plus the top G6
+  team. P4 conference title games end after 2026, which costs leagues about $200M+ in
+  title-game revenue. Notre Dame's top-12 guarantee also ends.
+- **The Big 12 job is open.** Yormark leaves on Jan 31, 2027, and the board is running the search.
+  This is a natural opening job for the player.
+- **SEC v. LSU.** There is a federal lawsuit over pro-player eligibility, and presidents meet
+  on Dec 3 about LSU's membership. Expulsion needs a 2/3 vote.
+- **Protect College Sports Act.** It passed the Senate 77-22. The House can only act in the lame-duck
+  session after the midterms.
+- **MAC media deal.** The MAC's ESPN deal expires after 2026–27, so the negotiation is open at game start.
+- **Realignment already in motion:**
+  - JMU moves to the American on Jul 1, 2027, which leaves the Sun Belt at 13.
+  - The Pac-12 sits at exactly 8 football members.
+  - North Dakota State is in its FBS transition.
+- **Big Ten private-capital deal.** The Big Ten–UC Investments deal ($2.4B for 10% of "Big Ten
+  Enterprises" plus a GOR to 2046) is paused by Michigan and USC.
+- **House revenue-sharing cap.** About $21.3M in 2026–27, rising 4% a year.
+
+**Data confidence.** Membership, commissioners, CFP and top-line money figures are verified.
+School-level detail is mostly model knowledge as of mid-2026 and flagged `confidence: "low"`:
+leadership, budgets, ranks. The engine treats seed values as starting points.
+
+## 7. Build phases (each playable and committed)
 
 1. **Core:** data model, seed loading and validation, commissioner creation, monthly loop and
    calendar, basic finances, season results sim, dashboard, schools, conference and news
