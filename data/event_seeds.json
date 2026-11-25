@@ -1,0 +1,2286 @@
+[
+  {
+    "id": "scandal-sign-stealing",
+    "category": "scandal",
+    "title": "Sign-stealing espionage ring exposed",
+    "realPrecedents": [
+      {
+        "year": 2023,
+        "summary": "Michigan staffer Connor Stalions ran an in-person scouting scheme to steal opponents' signals. Commissioner Tony Petitti suspended Jim Harbaugh for the last three regular-season games (2023-11-10) under the Big Ten Sportsmanship Policy, before the NCAA finished its case. Michigan dropped its lawsuit when Harbaugh accepted.",
+        "source": "https://en.wikipedia.org/wiki/Michigan_Wolverines_football_sign-stealing_scandal"
+      },
+      {
+        "year": 2025,
+        "summary": "NCAA penalties against Michigan (August 2025): fines estimated at $20M+ tied to postseason revenue, long show-causes for Stalions and Harbaugh, and a suspension for Sherrone Moore. No postseason ban.",
+        "source": "https://en.wikipedia.org/wiki/Michigan_Wolverines_football_sign-stealing_scandal"
+      }
+    ],
+    "description": "Reports reveal a member's staffer bought tickets to rivals' games to film signals. Rivals demand immediate league action before the NCAA finishes, and the accused school threatens to sue if you act early.",
+    "typicalChoices": [
+      "Suspend the head coach now under the sportsmanship policy (Petitti model)",
+      "Fine the school and wait for the NCAA",
+      "Refer to the NCAA/CSC only",
+      "Negotiate a self-imposed penalty with the school's president"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "legalGovernance",
+      "presidentialRelations",
+      "crisisManagement",
+      "publicImage"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.04,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Michigan_Wolverines_football_sign-stealing_scandal"
+    ],
+    "confidence": "low",
+    "note": "The 2025 NCAA penalty dollar figures are estimates from coverage and not re-verified."
+  },
+  {
+    "id": "scandal-abuse-coverup",
+    "category": "scandal",
+    "title": "Institutional abuse or sexual-assault cover-up at a member",
+    "realPrecedents": [
+      {
+        "year": 2011,
+        "summary": "Penn State: Jerry Sandusky charged. Joe Paterno fired. The 2012 Freeh Report led to an NCAA consent decree ($60M fine, 4-year bowl ban, vacated wins, later restored in 2015). The Big Ten redirected Penn State's bowl revenue share (about $13M over 4 years) to charities.",
+        "source": "https://en.wikipedia.org/wiki/Penn_State_child_sex_abuse_scandal"
+      },
+      {
+        "year": 2016,
+        "summary": "Baylor: the Pepper Hamilton review found football players' sexual assaults were mishandled. Art Briles fired, Ken Starr removed. The Big 12 board voted (2017) to withhold 25% of Baylor's future distributions until reforms were verified.",
+        "source": "https://en.wikipedia.org/wiki/Baylor_University_sexual_assault_scandal"
+      },
+      {
+        "year": 2018,
+        "summary": "Michigan State: Larry Nassar abuse. President Lou Anna Simon resigned. $500M settlement.",
+        "source": "https://en.wikipedia.org/wiki/Larry_Nassar"
+      }
+    ],
+    "description": "An investigation shows a member's athletic department ignored or covered up abuse. Media and lawmakers ask what the conference will do. Members fear contagion, and the member's board resists outside oversight.",
+    "typicalChoices": [
+      "Withhold part of the member's distributions until reforms are verified (Big 12/Baylor model)",
+      "Redirect postseason revenue to victims' charities (Big Ten/Penn State model)",
+      "Commission an independent investigator",
+      "Defer to the NCAA and courts"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "crisisManagement",
+      "publicImage",
+      "legalGovernance",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      4,
+      5
+    ],
+    "suggestedAnnualProbability": 0.02,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Penn_State_child_sex_abuse_scandal",
+      "https://en.wikipedia.org/wiki/Baylor_University_sexual_assault_scandal"
+    ]
+  },
+  {
+    "id": "scandal-academic-fraud",
+    "category": "scandal",
+    "title": "Academic fraud scandal (fake classes, ghostwritten work)",
+    "realPrecedents": [
+      {
+        "year": 2014,
+        "summary": "UNC: the Wainstein report found 18 years of 'paper classes' in African and Afro-American Studies used to keep athletes eligible. The NCAA (2017) ruled it couldn't find academic violations. The accreditor put UNC on probation (2015).",
+        "source": "https://en.wikipedia.org/wiki/University_of_North_Carolina_academic-athletic_scandal"
+      },
+      {
+        "year": 2009,
+        "summary": "Florida State: an academic cheating case led the NCAA to vacate 12 of Bobby Bowden's wins.",
+        "source": "https://en.wikipedia.org/wiki/Bobby_Bowden"
+      }
+    ],
+    "description": "A whistleblower shows athletes were steered into no-show classes. Academic peers in the conference (AAU members) are embarrassed. Penalties could hit a flagship brand.",
+    "typicalChoices": [
+      "Demand an independent academic review",
+      "Push for vacated wins and fines",
+      "Stay quiet and let the accreditor handle it",
+      "Create a conference-wide academic integrity standard"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "presidentialRelations",
+      "publicImage",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.02,
+    "sources": [
+      "https://en.wikipedia.org/wiki/University_of_North_Carolina_academic-athletic_scandal",
+      "https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels"
+    ]
+  },
+  {
+    "id": "scandal-booster-recruiting-violations",
+    "category": "scandal",
+    "title": "Booster cash and recruiting violations case",
+    "realPrecedents": [
+      {
+        "year": 1987,
+        "summary": "SMU 'death penalty': the football program was shut down after continued booster payments. The Southwest Conference's credibility collapsed.",
+        "source": "https://en.wikipedia.org/wiki/SMU_Mustangs_football"
+      },
+      {
+        "year": 2011,
+        "summary": "Miami: booster Nevin Shapiro's claims of benefits to dozens of athletes. The NCAA's own investigative misconduct undercut the case.",
+        "source": "https://en.wikipedia.org/wiki/Nevin_Shapiro"
+      },
+      {
+        "year": 2017,
+        "summary": "Ole Miss: NCAA notice of allegations. Hugh Freeze resigned (July 2017). 2-year bowl ban. Bitter fallout with Mississippi State over recruit testimony.",
+        "source": "https://en.wikipedia.org/wiki/Hugh_Freeze"
+      }
+    ],
+    "description": "An NCAA notice of allegations names boosters at a member. The in-state rival is implicated as a witness, and the rivalry turns into a legal and political fight.",
+    "typicalChoices": [
+      "Support the member through the NCAA process",
+      "Impose conference penalties (bowl revenue, TV appearances)",
+      "Mediate between the feuding in-state members",
+      "Distance the league publicly"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "presidentialRelations",
+      "crisisManagement",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "sources": [
+      "https://en.wikipedia.org/wiki/SMU_Mustangs_football",
+      "https://en.wikipedia.org/wiki/Hugh_Freeze"
+    ]
+  },
+  {
+    "id": "scandal-fbi-bribery-probe",
+    "category": "scandal",
+    "title": "FBI bribery probe of basketball recruiting",
+    "realPrecedents": [
+      {
+        "year": 2017,
+        "summary": "FBI arrests (2017-09-26) of assistant coaches (Auburn's Chuck Person, Arizona's Book Richardson, Oklahoma State's Lamont Evans, USC's Tony Bland) and Adidas executives. Louisville fired Rick Pitino. Later fallout: LSU's Will Wade, Kansas, NC State, Arizona's Sean Miller. Most cases ended in the 2023 independent process (IARP) with probation, not bans.",
+        "source": "https://en.wikipedia.org/wiki/2017%E2%80%9318_NCAA_Division_I_men%27s_basketball_corruption_scandal"
+      },
+      {
+        "year": 2015,
+        "summary": "Louisville's escort scandal (Katina Powell) led to the 2013 national title being vacated in 2018.",
+        "source": "https://en.wikipedia.org/wiki/Rick_Pitino"
+      }
+    ],
+    "description": "Federal agents arrest assistant coaches at two members over shoe-company payments to recruits. Wiretaps may name more schools. Your basketball tournament and TV partners are nervous.",
+    "typicalChoices": [
+      "Hire outside counsel to audit every member's basketball program",
+      "Suspend implicated coaches from conference events",
+      "Cooperate fully with federal prosecutors",
+      "Wait for indictments"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "legalGovernance",
+      "crisisManagement",
+      "publicImage",
+      "network"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.02,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2017%E2%80%9318_NCAA_Division_I_men%27s_basketball_corruption_scandal"
+    ]
+  },
+  {
+    "id": "scandal-point-shaving",
+    "category": "scandal",
+    "title": "Point-shaving or game-fixing indictment",
+    "realPrecedents": [
+      {
+        "year": 1979,
+        "summary": "Boston College basketball point-shaving scheme with Lucchese crime family associates (Henry Hill).",
+        "source": "https://en.wikipedia.org/wiki/1978%E2%80%9379_Boston_College_basketball_point_shaving_scandal"
+      },
+      {
+        "year": 1994,
+        "summary": "Arizona State's Stevin 'Hedake' Smith shaved points in Pac-10 games for bookmakers.",
+        "source": "https://en.wikipedia.org/wiki/Arizona_State_Sun_Devils_men%27s_basketball"
+      },
+      {
+        "year": 2026,
+        "summary": "After 2025 NCAA findings at Fresno State, San Jose State and New Orleans, a January 2026 federal indictment charged fixers and about two dozen former college players across many D-I programs. Details not re-verified.",
+        "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_NCAA_Division_I_men%27s_basketball_season"
+      }
+    ],
+    "description": "Integrity monitors flag unusual betting on a member's games, and federal prosecutors unseal charges naming current or former players. Sportsbooks pull your conference's games off the board.",
+    "typicalChoices": [
+      "Sign a league-wide integrity-monitoring contract",
+      "Lobby footprint states to ban college player props",
+      "Suspend implicated players and coaches pending investigation",
+      "Hold a press conference showing you are cooperating"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "crisisManagement",
+      "publicImage",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.06,
+    "confidence": "low",
+    "note": "Use a G6 or mid-major multiplier of about 3x. The 2026 indictment details are not verified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1978%E2%80%9379_Boston_College_basketball_point_shaving_scandal",
+      "https://en.wikipedia.org/wiki/2025%E2%80%9326_NCAA_Division_I_men%27s_basketball_season"
+    ]
+  },
+  {
+    "id": "scandal-athlete-gambling",
+    "category": "scandal",
+    "title": "Athletes or staff caught betting (no fixing)",
+    "realPrecedents": [
+      {
+        "year": 2023,
+        "summary": "Iowa and Iowa State: a state investigation charged about two dozen athletes with underage or college-sports betting (QB Hunter Dekkers). Charges were later largely dropped because the geofencing search was questionable.",
+        "source": "https://en.wikipedia.org/wiki/2023_Iowa_State_Cyclones_football_team"
+      },
+      {
+        "year": 2023,
+        "summary": "Alabama baseball coach Brad Bohannon was fired after suspicious bets on an Alabama game at a Cincinnati sportsbook.",
+        "source": "https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_baseball"
+      }
+    ],
+    "description": "State regulators find dozens of a member's athletes placed bets, some on their own school's other teams. Rosters are hit mid-season.",
+    "typicalChoices": [
+      "Seek NCAA reinstatement leniency for minor bettors",
+      "Require gambling education across the league",
+      "Publicly support tough penalties",
+      "Challenge the investigation's methods"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "crisisManagement",
+      "publicImage"
+    ],
+    "severityRange": [
+      2,
+      3
+    ],
+    "suggestedAnnualProbability": 0.08,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2023_Iowa_State_Cyclones_football_team",
+      "https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_baseball"
+    ]
+  },
+  {
+    "id": "scandal-hazing",
+    "category": "scandal",
+    "title": "Hazing and abuse inside a football program",
+    "realPrecedents": [
+      {
+        "year": 2023,
+        "summary": "Northwestern: a hazing investigation led to Pat Fitzgerald's firing (July 2023) after a reversed 2-game suspension. Lawsuits followed, and Fitzgerald's wrongful-termination suit was later settled.",
+        "source": "https://en.wikipedia.org/wiki/Pat_Fitzgerald"
+      }
+    ],
+    "description": "A student newspaper reports widespread hazing. The president first gives the coach a light suspension, then reverses under backlash. Lawsuits name the conference as a defendant over its oversight.",
+    "typicalChoices": [
+      "Issue a league-wide hazing policy and audit",
+      "Publicly urge the member to act",
+      "Stay out of personnel decisions",
+      "Offer the league's investigator"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "crisisManagement",
+      "publicImage",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.04,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pat_Fitzgerald"
+    ]
+  },
+  {
+    "id": "scandal-coach-personal-misconduct",
+    "category": "scandal",
+    "title": "Head coach fired for personal misconduct",
+    "realPrecedents": [
+      {
+        "year": 2003,
+        "summary": "Alabama fired Mike Price before he coached a game, after a strip-club incident.",
+        "source": "https://en.wikipedia.org/wiki/Mike_Price"
+      },
+      {
+        "year": 2012,
+        "summary": "Arkansas fired Bobby Petrino after a motorcycle crash exposed an affair with an employee he had hired.",
+        "source": "https://en.wikipedia.org/wiki/Bobby_Petrino"
+      },
+      {
+        "year": 2025,
+        "summary": "Michigan fired Sherrone Moore for cause in December 2025 over an inappropriate relationship with a staff member. Criminal charges followed.",
+        "source": "https://en.wikipedia.org/wiki/Sherrone_Moore"
+      }
+    ],
+    "description": "A star coach at a flagship member is fired for cause days before a big game or the postseason. The story overshadows your championship week.",
+    "typicalChoices": [
+      "Say nothing (personnel matter)",
+      "Make a statement on conduct standards",
+      "Adjust media-day or championship programming",
+      "Offer the member's interim coach league support"
+    ],
+    "relevantAttributes": [
+      "publicImage",
+      "crisisManagement",
+      "integrity"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.12,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bobby_Petrino",
+      "https://en.wikipedia.org/wiki/Sherrone_Moore"
+    ]
+  },
+  {
+    "id": "scandal-cap-circumvention",
+    "category": "scandal",
+    "title": "College Sports Commission cap-circumvention investigation",
+    "realPrecedents": [
+      {
+        "year": 2026,
+        "summary": "In October 2026 the CSC was questioning 5-10 P4 programs, including playoff contenders, over third-party payments that may get around the $21.5M revenue-share cap. By November 11 it had more than a dozen active cases and no penalties.",
+        "source": "https://www.espn.com/college-football/story/_/id/50142371/reports-watchdog-eyes-nil-violations-5-10-power-4-schools"
+      },
+      {
+        "year": 2026,
+        "summary": "The SEC proposed its own tiered fines ('luxury tax') on roster spending above about $50.5M, and the Big Ten set a combined limit of about $49M.",
+        "source": "https://sports.yahoo.com/articles/sec-proposed-cap-policy-league-001851563.html"
+      }
+    ],
+    "description": "CSC investigators visit a member that is a playoff contender. Rivals leak that its collective is paying 'marketing' deals far above market value. A penalty could cost your league a CFP bid.",
+    "typicalChoices": [
+      "Publicly back the CSC",
+      "Advocate for the member in arbitration",
+      "Impose a conference fine first to pre-empt harsher CSC penalties",
+      "Propose league-wide spending transparency"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "legalGovernance",
+      "presidentialRelations",
+      "network"
+    ],
+    "severityRange": [
+      2,
+      5
+    ],
+    "suggestedAnnualProbability": 0.3,
+    "sources": [
+      "https://www.espn.com/college-football/story/_/id/50142371/reports-watchdog-eyes-nil-violations-5-10-power-4-schools",
+      "https://www.footballscoop.com/2026/10/08/5-10-power-four-programs-including-playoff-contenders-reportedly-under-investigation-for-nil-related-violations"
+    ]
+  },
+  {
+    "id": "scandal-nil-promise-default",
+    "category": "scandal",
+    "title": "Collective defaults on an NIL promise, and the recruit sues",
+    "realPrecedents": [
+      {
+        "year": 2024,
+        "summary": "QB Jaden Rashada sued Florida coach Billy Napier and boosters after a reported $13.85M NIL package collapsed in 2023.",
+        "source": "https://en.wikipedia.org/wiki/Jaden_Rashada"
+      }
+    ],
+    "description": "A top recruit sues a member's coach and collective for fraud over unpaid NIL guarantees. Discovery could expose the league's whole NIL ecosystem.",
+    "typicalChoices": [
+      "Push the member to settle quietly",
+      "Use it to promote standardized league contracts",
+      "Stay out of it"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "integrity",
+      "publicImage"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.1,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jaden_Rashada"
+    ]
+  },
+  {
+    "id": "officiating-replay-interference",
+    "category": "officiating",
+    "title": "League executive overrides replay officials",
+    "realPrecedents": [
+      {
+        "year": 2018,
+        "summary": "In Washington State vs. USC, Pac-12 general counsel Woodie Dixon reportedly influenced a targeting review from the replay booth. Leaked internal reports led to an independent review and damaged Larry Scott's tenure.",
+        "source": "https://en.wikipedia.org/wiki/2018_Washington_State_Cougars_football_team"
+      }
+    ],
+    "description": "Leaked internal reports show a conference executive, not the officials, decided a key replay review. The losing school's coach goes public.",
+    "typicalChoices": [
+      "Order an independent review and publish it",
+      "Reassign or fire the executive",
+      "Defend the process",
+      "Overhaul the replay command center"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "publicImage",
+      "crisisManagement",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.03,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2018_Washington_State_Cougars_football_team"
+    ]
+  },
+  {
+    "id": "officiating-blown-call",
+    "category": "officiating",
+    "title": "Blown call decides a marquee game",
+    "realPrecedents": [
+      {
+        "year": 1990,
+        "summary": "Colorado beat Missouri on a 'fifth down' that officials miscounted. Colorado went on to share the national title.",
+        "source": "https://en.wikipedia.org/wiki/Fifth_Down_Game"
+      },
+      {
+        "year": 2006,
+        "summary": "Oregon beat Oklahoma after a botched onside-kick ruling and a replay error. The Pac-10 suspended the crew, and OU president David Boren asked that the game be removed from the record books.",
+        "source": "https://en.wikipedia.org/wiki/2006_Oregon_Ducks_football_team"
+      }
+    ],
+    "description": "A clear officiating and replay error decides a game with playoff stakes. The losing school's president demands the result be voided and the crew fired.",
+    "typicalChoices": [
+      "Suspend the crew and apologize publicly",
+      "Back the officials' judgment",
+      "Propose an officiating rules change",
+      "Privately compensate the wronged school (e.g., bowl priority)"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "publicImage",
+      "presidentialRelations",
+      "crisisManagement"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.35,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fifth_Down_Game",
+      "https://en.wikipedia.org/wiki/2006_Oregon_Ducks_football_team"
+    ]
+  },
+  {
+    "id": "officiating-sportsmanship-incident",
+    "category": "officiating",
+    "title": "Brawl, flag-planting or field storming",
+    "realPrecedents": [
+      {
+        "year": 2022,
+        "summary": "Michigan State players assaulted Michigan players in the Michigan Stadium tunnel. Criminal charges and suspensions followed.",
+        "source": "https://en.wikipedia.org/wiki/Michigan%E2%80%93Michigan_State_football_rivalry"
+      },
+      {
+        "year": 2024,
+        "summary": "A flag-planting brawl and pepper spray after Michigan's upset at Ohio State. The Big Ten fined both schools $100,000.",
+        "source": "https://en.wikipedia.org/wiki/Michigan%E2%80%93Ohio_State_football_rivalry"
+      },
+      {
+        "year": 2024,
+        "summary": "Vanderbilt fans tore down the goalposts after beating No. 1 Alabama and dumped them in the Cumberland River. Fined under the SEC's escalating field-storming policy.",
+        "source": "https://en.wikipedia.org/wiki/2024_Vanderbilt_Commodores_football_team"
+      }
+    ],
+    "description": "A rivalry game ends in a melee or a dangerous field storm. Video goes viral. Rival fan bases demand suspensions.",
+    "typicalChoices": [
+      "Fine both schools",
+      "Suspend players for the next game, possibly a title game",
+      "Change the field-storming fine schedule",
+      "Issue warnings only"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "publicImage",
+      "crisisManagement"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.4,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Michigan%E2%80%93Ohio_State_football_rivalry"
+    ]
+  },
+  {
+    "id": "officiating-playoff-snub",
+    "category": "officiating",
+    "title": "Your undefeated champion is left out of the playoff",
+    "realPrecedents": [
+      {
+        "year": 2014,
+        "summary": "TCU and Baylor (co-champions under the Big 12's 'One True Champion' slogan) were left out of the first 4-team CFP. The Big 12 brought back its championship game in 2017.",
+        "source": "https://en.wikipedia.org/wiki/2014_TCU_Horned_Frogs_football_team"
+      },
+      {
+        "year": 2023,
+        "summary": "13-0 ACC champion Florida State was left out of the CFP (QB injury cited). Florida politicians were furious, and it fed FSU's lawsuit against the ACC.",
+        "source": "https://en.wikipedia.org/wiki/2023_Florida_State_Seminoles_football_team"
+      }
+    ],
+    "description": "The selection committee leaves your champion out, or seeds it badly. The member's president blames your schedule and the league's weak brand, and talks about leaving.",
+    "typicalChoices": [
+      "Publicly attack the committee",
+      "Lobby the CFP Management Committee for format changes",
+      "Add or restructure the championship game or schedule",
+      "Offer the member extra revenue to calm it"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "network",
+      "presidentialRelations",
+      "publicImage",
+      "vision"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.1,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2023_Florida_State_Seminoles_football_team",
+      "https://en.wikipedia.org/wiki/2014_TCU_Horned_Frogs_football_team"
+    ]
+  },
+  {
+    "id": "leak-secret-realignment-talks",
+    "category": "leak",
+    "title": "Members' secret talks with a rival league leak",
+    "realPrecedents": [
+      {
+        "year": 2021,
+        "summary": "The Houston Chronicle (Brent Zwerneman, 2021-07-21) revealed Texas and Oklahoma's secret talks with the SEC. Big 12 commissioner Bob Bowlsby accused ESPN of tortious interference. The SEC invited both on 2021-07-30.",
+        "source": "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+      }
+    ],
+    "description": "A beat writer reports two of your flagship members have been negotiating with a rival league for months. You learn about it from Twitter.",
+    "typicalChoices": [
+      "Confront the presidents privately",
+      "Go public and accuse the rival league or TV partner",
+      "Start your own expansion talks immediately",
+      "Ask the state legislatures to step in"
+    ],
+    "relevantAttributes": [
+      "network",
+      "presidentialRelations",
+      "crisisManagement",
+      "vision",
+      "mediaNegotiation"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "leak-president-hot-mic",
+    "category": "leak",
+    "title": "President's insulting remarks leak",
+    "realPrecedents": [
+      {
+        "year": 2013,
+        "summary": "A recording of Ohio State president Gordon Gee's December 2012 remarks mocking Notre Dame, the SEC and Louisville was obtained by the AP. He retired soon after.",
+        "source": "https://en.wikipedia.org/wiki/Gordon_Gee"
+      }
+    ],
+    "description": "A recording surfaces of a member president mocking another member, a rival league, or you. Relationships across the board sour.",
+    "typicalChoices": [
+      "Demand a public apology",
+      "Smooth it over privately",
+      "Use it as leverage in a pending vote",
+      "Ignore it"
+    ],
+    "relevantAttributes": [
+      "presidentialRelations",
+      "publicImage",
+      "network",
+      "crisisManagement"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gordon_Gee"
+    ]
+  },
+  {
+    "id": "leak-confidential-documents",
+    "category": "leak",
+    "title": "Media contract or internal memo leaks",
+    "realPrecedents": [
+      {
+        "year": 2023,
+        "summary": "Terms of the Pac-12's Apple streaming proposal leaked (revenue tied to subscriptions, not guaranteed). Members left within days.",
+        "source": "https://en.wikipedia.org/wiki/George_Kliavkoff"
+      },
+      {
+        "year": 2024,
+        "summary": "FSU's lawsuit made the ACC-ESPN grant-of-rights and contract terms public.",
+        "source": "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+      },
+      {
+        "year": 2026,
+        "summary": "CBS published parts of an internal College Sports Commission memo about long-term cap-evasion investigations.",
+        "source": "https://www.footballscoop.com/2026/10/08/5-10-power-four-programs-including-playoff-contenders-reportedly-under-investigation-for-nil-related-violations"
+      }
+    ],
+    "description": "A confidential term sheet or memo turns up in the press. Members feel misled, rival leagues know your numbers, and your negotiating position is gone.",
+    "typicalChoices": [
+      "Hunt the leaker",
+      "Get ahead of it with a full briefing to members",
+      "Spin the numbers publicly",
+      "Speed up the deal before it falls apart"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "presidentialRelations",
+      "crisisManagement",
+      "publicImage"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Kliavkoff"
+    ]
+  },
+  {
+    "id": "disaster-hurricane-displacement",
+    "category": "disaster",
+    "title": "Hurricane shuts down a member's campus for a semester",
+    "realPrecedents": [
+      {
+        "year": 2005,
+        "summary": "After Hurricane Katrina, Tulane closed for the fall. The football team was based at Louisiana Tech and played 'home' games elsewhere. Tulane later cut 8 sports in its renewal plan.",
+        "source": "https://en.wikipedia.org/wiki/2005_Tulane_Green_Wave_football_team"
+      }
+    ],
+    "description": "A major hurricane makes a member's campus and stadium unusable. Teams need temporary homes, schedules collapse, and the school's finances are shaken.",
+    "typicalChoices": [
+      "Host displaced teams at other members' facilities",
+      "Create an emergency relief fund from league revenue",
+      "Waive the school's dues or penalties",
+      "Seek NCAA waivers on eligibility and minimum sports"
+    ],
+    "relevantAttributes": [
+      "crisisManagement",
+      "stamina",
+      "network",
+      "publicImage"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.02,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2005_Tulane_Green_Wave_football_team",
+      "https://en.wikipedia.org/wiki/Hurricane_Katrina"
+    ]
+  },
+  {
+    "id": "disaster-hurricane-reschedule",
+    "category": "disaster",
+    "title": "Storm forces a marquee game to be moved or canceled",
+    "realPrecedents": [
+      {
+        "year": 2016,
+        "summary": "Hurricane Matthew: Florida postponed LSU at Florida. After a public standoff, SEC commissioner Greg Sankey brokered a move to Baton Rouge in November, and Florida gave up a home game.",
+        "source": "https://en.wikipedia.org/wiki/2016_LSU_Tigers_football_team"
+      },
+      {
+        "year": 2017,
+        "summary": "Hurricane Irma forced rescheduling across Florida, including Miami at Florida State.",
+        "source": "https://en.wikipedia.org/wiki/Hurricane_Irma"
+      },
+      {
+        "year": 2024,
+        "summary": "Hurricane Helene devastated western North Carolina. App State games were postponed.",
+        "source": "https://en.wikipedia.org/wiki/Hurricane_Helene"
+      }
+    ],
+    "description": "A storm threatens a key late-season game. Both schools have competing interests (home revenue, playoff tiebreakers), and TV wants a decision now.",
+    "typicalChoices": [
+      "Order the game moved to the other team's stadium",
+      "Postpone to championship weekend",
+      "Cancel it and use no-contest tiebreakers",
+      "Let the schools work it out"
+    ],
+    "relevantAttributes": [
+      "crisisManagement",
+      "legalGovernance",
+      "mediaNegotiation",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.2,
+    "note": "For conferences in the Southeast or Gulf. Use about 0.03 for others.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2016_LSU_Tigers_football_team",
+      "https://en.wikipedia.org/wiki/Hurricane_Helene"
+    ]
+  },
+  {
+    "id": "disaster-tornado",
+    "category": "disaster",
+    "title": "Tornado devastates a member's town",
+    "realPrecedents": [
+      {
+        "year": 2011,
+        "summary": "An EF4 tornado hit Tuscaloosa on 2011-04-27, killing dozens, including an Alabama football player.",
+        "source": "https://en.wikipedia.org/wiki/2011_Tuscaloosa%E2%80%93Birmingham_tornado"
+      }
+    ],
+    "description": "A tornado kills residents and damages campus. The league organizes relief and plans memorials.",
+    "typicalChoices": [
+      "League-wide fundraiser",
+      "Reschedule spring championships",
+      "Waive costs for the affected school"
+    ],
+    "relevantAttributes": [
+      "crisisManagement",
+      "publicImage",
+      "stamina"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.02,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2011_Tuscaloosa%E2%80%93Birmingham_tornado"
+    ]
+  },
+  {
+    "id": "disaster-pandemic",
+    "category": "disaster",
+    "title": "Pandemic: postpone or play?",
+    "realPrecedents": [
+      {
+        "year": 2020,
+        "summary": "The NCAA canceled the 2020 basketball tournaments (2020-03-12). The Big Ten postponed fall football on 2020-08-11 under new commissioner Kevin Warren, faced parent protests, a players' lawsuit and a call from President Trump, then reversed on 2020-09-16. The Pac-12 also reversed. The SEC, ACC and Big 12 played.",
+        "source": "https://en.wikipedia.org/wiki/2020_Big_Ten_Conference_football_season"
+      }
+    ],
+    "description": "A public-health emergency forces a decision on the season. Medical advisers split, presidents split, rival leagues decide differently, and every option risks backlash.",
+    "typicalChoices": [
+      "Postpone the season",
+      "Play with strict testing",
+      "Wait and see what rival leagues do",
+      "Let each school decide"
+    ],
+    "relevantAttributes": [
+      "crisisManagement",
+      "presidentialRelations",
+      "publicImage",
+      "stamina",
+      "vision"
+    ],
+    "severityRange": [
+      4,
+      5
+    ],
+    "suggestedAnnualProbability": 0.01,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2020_Big_Ten_Conference_football_season",
+      "https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_sports"
+    ]
+  },
+  {
+    "id": "disaster-campus-tragedy",
+    "category": "disaster",
+    "title": "Campus violence kills athletes",
+    "realPrecedents": [
+      {
+        "year": 2022,
+        "summary": "Three Virginia football players were killed in a campus shooting (2022-11-13). The season finale against Virginia Tech was canceled.",
+        "source": "https://en.wikipedia.org/wiki/2022_University_of_Virginia_shooting"
+      },
+      {
+        "year": 2023,
+        "summary": "A Michigan State campus shooting (2023-02-13) led to postponed games and league-wide tributes.",
+        "source": "https://en.wikipedia.org/wiki/2023_Michigan_State_University_shooting"
+      }
+    ],
+    "description": "A tragedy hits a member campus. Games must be canceled or postponed and tributes organized, and the affected school's standings and bowl status need handling.",
+    "typicalChoices": [
+      "Cancel the game and adjust tiebreakers",
+      "League-wide tributes and moments of silence",
+      "Grant bowl eligibility relief",
+      "Fund counseling resources"
+    ],
+    "relevantAttributes": [
+      "crisisManagement",
+      "publicImage",
+      "stamina"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.02,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2022_University_of_Virginia_shooting"
+    ]
+  },
+  {
+    "id": "travel-cross-country-burden",
+    "category": "travel",
+    "title": "Coast-to-coast travel burden revolt",
+    "realPrecedents": [
+      {
+        "year": 2024,
+        "summary": "Stanford, Cal and SMU joined the ACC (Cal and Stanford about 2,500+ miles from most members). Olympic-sport travel costs and missed class time drew athlete and faculty complaints.",
+        "source": "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+      },
+      {
+        "year": 2024,
+        "summary": "The Big Ten's West Coast schools (USC, UCLA, Oregon, Washington) faced multiple cross-country trips and non-revenue sport scheduling problems.",
+        "source": "https://en.wikipedia.org/wiki/Big_Ten_Conference"
+      }
+    ],
+    "description": "Athletes, coaches and faculty senates at your far-flung members complain about travel. Women's and Olympic teams are on planes every week, and a viral athlete video makes it national news.",
+    "typicalChoices": [
+      "Create regional pods for Olympic sports",
+      "Fund charter flights from league revenue",
+      "Cut conference games in non-revenue sports",
+      "Hold firm on full round-robin"
+    ],
+    "relevantAttributes": [
+      "vision",
+      "stamina",
+      "commercial",
+      "publicImage",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.25,
+    "note": "Only when member geography is spread across more than 2 time zones.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+    ]
+  },
+  {
+    "id": "travel-hawaii-subsidy",
+    "category": "travel",
+    "title": "Hawaii travel subsidy dispute",
+    "realPrecedents": [
+      {
+        "year": 2012,
+        "summary": "Hawaii joined the MWC for football (and the Big West for other sports). Travel-subsidy arrangements in which opponents get compensation for trips to Honolulu became a recurring cost-sharing issue.",
+        "source": "https://en.wikipedia.org/wiki/Hawaii_Rainbow_Warriors_football"
+      }
+    ],
+    "description": "Members complain about subsidizing trips to a remote member, and the remote member threatens to leave without them.",
+    "typicalChoices": [
+      "Raise the subsidy from league revenue",
+      "Make the remote member pay more",
+      "Schedule fewer trips to the remote member",
+      "Move it to football-only membership"
+    ],
+    "relevantAttributes": [
+      "commercial",
+      "presidentialRelations",
+      "vision"
+    ],
+    "severityRange": [
+      1,
+      2
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "confidence": "low",
+    "note": "Subsidy amounts not verified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hawaii_Rainbow_Warriors_football"
+    ]
+  },
+  {
+    "id": "travel-team-tragedy",
+    "category": "travel",
+    "title": "Team plane or bus crash",
+    "realPrecedents": [
+      {
+        "year": 1970,
+        "summary": "Southern Airways Flight 932 crashed, killing 75, including most of the Marshall football team.",
+        "source": "https://en.wikipedia.org/wiki/Southern_Airways_Flight_932"
+      },
+      {
+        "year": 2001,
+        "summary": "An Oklahoma State men's basketball team plane crash killed 10.",
+        "source": "https://en.wikipedia.org/wiki/2001_Oklahoma_State_University_men%27s_basketball_team_plane_crash"
+      }
+    ],
+    "description": "A catastrophic travel accident. Extremely rare but defining. The league's response shapes its identity for decades.",
+    "typicalChoices": [
+      "Suspend competition and lead memorials",
+      "Fund support for families",
+      "Overhaul league travel safety standards"
+    ],
+    "relevantAttributes": [
+      "crisisManagement",
+      "publicImage",
+      "stamina"
+    ],
+    "severityRange": [
+      5,
+      5
+    ],
+    "suggestedAnnualProbability": 0.002,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southern_Airways_Flight_932"
+    ]
+  },
+  {
+    "id": "rogue-member-sues-conference",
+    "category": "rogue-president",
+    "title": "Member sues the conference",
+    "realPrecedents": [
+      {
+        "year": 2012,
+        "summary": "Maryland left for the Big Ten. The ACC sued to collect its $52.3M exit fee and they settled in 2014 for $31.4M.",
+        "source": "https://en.wikipedia.org/wiki/Maryland_Terrapins"
+      },
+      {
+        "year": 2023,
+        "summary": "Washington State and Oregon State sued the Pac-12 for board control after 10 members left, and won (Whitman County, WA).",
+        "source": "https://en.wikipedia.org/wiki/Pac-12_Conference"
+      },
+      {
+        "year": 2023,
+        "summary": "FSU (December 2023) and Clemson (March 2024) sued the ACC over the grant of rights and exit fees. Settled March 2025 with lower exit fees and brand-based revenue distribution.",
+        "source": "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+      }
+    ],
+    "description": "A member's trustees vote to sue the conference in their home county court to escape the grant of rights or to seize governance control. Your lawyers rush to file first in a friendlier venue.",
+    "typicalChoices": [
+      "File a pre-emptive suit in the league's home state",
+      "Offer a revenue-model concession to settle",
+      "Rally the other members to sanction the plaintiff",
+      "Let it play out in court"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "presidentialRelations",
+      "crisisManagement",
+      "network",
+      "stamina"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.04,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference"
+    ]
+  },
+  {
+    "id": "rogue-member-defies-eligibility",
+    "category": "rogue-president",
+    "title": "Member uses state courts to roster ineligible players",
+    "realPrecedents": [
+      {
+        "year": 2026,
+        "summary": "LSU, under coach Lane Kiffin, used Louisiana court rulings to try to roster former NFL-contract players (Dae'Quan Wright, Zxavian Harris) and then basketball's RJ Luis Jr. The SEC sued LSU in federal court (2026-09-03) and scheduled a 2026-12-03 vote on terminating LSU's membership (needs 2/3 of the other 15). Louisiana AG Liz Murrill represents LSU.",
+        "source": "https://www.espn.com/college-football/story/_/id/49869481/sec-files-amendment-authority-expel-lsu-conference"
+      }
+    ],
+    "description": "A flagship member gets a home-state injunction barring the conference from punishing it for playing athletes your rules say are ineligible. Rivals call it cheating and demand action.",
+    "typicalChoices": [
+      "Sue the member in federal court",
+      "Call an expulsion vote",
+      "Withhold the member's revenue distribution",
+      "Negotiate a private settlement",
+      "Change the rule so the defiance doesn't matter"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "presidentialRelations",
+      "integrity",
+      "crisisManagement",
+      "network"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "note": "Probability goes up when the member is in a state with a shield law or high statePoliticalPressure.",
+    "sources": [
+      "https://www.espn.com/college-football/story/_/id/49869481/sec-files-amendment-authority-expel-lsu-conference",
+      "https://cbssports.com/college-football/news/sec-lsu-expulsion-vote-rj-luis-will-wade-lane-kiffin"
+    ]
+  },
+  {
+    "id": "rogue-president-finances",
+    "category": "rogue-president",
+    "title": "Member's finances implode",
+    "realPrecedents": [
+      {
+        "year": 2023,
+        "summary": "Arizona found a cash-reserve shortfall of over $200M under President Robert Robbins, partly from athletics loans. Arizona moved to the Big 12 that summer. Robbins later stepped down.",
+        "source": "https://en.wikipedia.org/wiki/Robert_C._Robbins"
+      }
+    ],
+    "description": "A member's president admits a huge budget hole. The athletic department owes the university tens of millions. The school may not be able to pay revenue share or stay competitive, and the state board takes control.",
+    "typicalChoices": [
+      "Advance the member's distributions",
+      "Insist on full participation obligations",
+      "Help broker a state or private-capital bailout",
+      "Quietly sound out replacement members"
+    ],
+    "relevantAttributes": [
+      "commercial",
+      "presidentialRelations",
+      "crisisManagement",
+      "vision"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.06,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_C._Robbins"
+    ]
+  },
+  {
+    "id": "rogue-board-or-president-blindside",
+    "category": "rogue-president",
+    "title": "Board overrules its president, or a president bypasses the board",
+    "realPrecedents": [
+      {
+        "year": 2018,
+        "summary": "After Jordan McNair's heatstroke death, Maryland's regents kept coach DJ Durkin. President Wallace Loh fired him the next day anyway, and the regents' chair resigned.",
+        "source": "https://en.wikipedia.org/wiki/DJ_Durkin"
+      },
+      {
+        "year": 2022,
+        "summary": "UCLA Chancellor Gene Block negotiated the Big Ten move without telling the UC Regents. The Regents and Gov. Newsom objected and imposed conditions.",
+        "source": "https://en.wikipedia.org/wiki/Gene_Block"
+      },
+      {
+        "year": 2025,
+        "summary": "Michigan's regents publicly opposed the Big Ten's $2.4B private-capital deal and accused Commissioner Petitti of coercion, effectively vetoing it.",
+        "source": "https://www.espn.com/college-football/story/_/id/47040871/michigan-board-publicly-opposed-big-ten-private-equity"
+      }
+    ],
+    "description": "A member president promised you a vote, but the trustees or regents publicly reverse it, or a president commits the school without board approval. A deal you need unanimity for is in jeopardy.",
+    "typicalChoices": [
+      "Lobby the board members directly",
+      "Rework the deal to win the holdout",
+      "Call the vote anyway",
+      "Publicly pressure the president"
+    ],
+    "relevantAttributes": [
+      "presidentialRelations",
+      "network",
+      "legalGovernance",
+      "publicImage"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.12,
+    "sources": [
+      "https://en.wikipedia.org/wiki/DJ_Durkin",
+      "https://www.espn.com/college-football/story/_/id/47040871/michigan-board-publicly-opposed-big-ten-private-equity"
+    ]
+  },
+  {
+    "id": "rogue-booster-forced-firings",
+    "category": "rogue-president",
+    "title": "Boosters force a $50M coaching buyout",
+    "realPrecedents": [
+      {
+        "year": 2025,
+        "summary": "An early-season firing spree: Penn State fired James Franklin (buyout about $49M), LSU fired Brian Kelly (about $54M), and Florida fired Billy Napier, while member schools were also paying revenue share.",
+        "source": "https://en.wikipedia.org/wiki/James_Franklin_(American_football_coach)"
+      }
+    ],
+    "description": "A member fires its coach mid-season under donor pressure and owes a huge buyout. It then asks the league for a distribution advance and argues against tougher spending limits.",
+    "typicalChoices": [
+      "Advance the distribution with interest",
+      "Refuse",
+      "Propose league-wide buyout caps or mid-season firing rules",
+      "Stay silent"
+    ],
+    "relevantAttributes": [
+      "commercial",
+      "presidentialRelations",
+      "vision",
+      "integrity"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.3,
+    "confidence": "low",
+    "note": "Buyout figures are approximate reported values.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Franklin_(American_football_coach)",
+      "https://en.wikipedia.org/wiki/Brian_Kelly_(American_football_coach)"
+    ]
+  },
+  {
+    "id": "rival-surprise-defection",
+    "category": "rival-power-play",
+    "title": "Surprise defection of your marquee members",
+    "realPrecedents": [
+      {
+        "year": 2022,
+        "summary": "USC and UCLA announced their move to the Big Ten (2022-06-30), blindsiding Pac-12 commissioner George Kliavkoff, who had just turned down a merger with the Big 12.",
+        "source": "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+      }
+    ],
+    "description": "With no warning, your two biggest-market members announce they're leaving for a rival league in two years. Media partners call your negotiation team. The remaining members start making calls of their own.",
+    "typicalChoices": [
+      "Rush to sign a media extension",
+      "Raid a G6 or mid-level league for replacements",
+      "Sue over exit terms",
+      "Look into a merger",
+      "Lock remaining members into a grant of rights immediately"
+    ],
+    "relevantAttributes": [
+      "vision",
+      "mediaNegotiation",
+      "network",
+      "crisisManagement",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      4,
+      5
+    ],
+    "suggestedAnnualProbability": 0.03,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "rival-conference-raid",
+    "category": "rival-power-play",
+    "title": "Rival commissioner raids your league",
+    "realPrecedents": [
+      {
+        "year": 2003,
+        "summary": "The ACC took Miami, Virginia Tech and later Boston College from the Big East. The Big East schools sued.",
+        "source": "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+      },
+      {
+        "year": 2012,
+        "summary": "The Big Ten took Maryland (from the ACC) and Rutgers (from the Big East) for TV markets.",
+        "source": "https://en.wikipedia.org/wiki/2010%E2%80%932014_NCAA_conference_realignment"
+      },
+      {
+        "year": 2023,
+        "summary": "Brett Yormark's Big 12 signed Colorado (2023-07-27), then Arizona, ASU and Utah (2023-08-04) as the Pac-12's media talks failed.",
+        "source": "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+      }
+    ],
+    "description": "A rival commissioner publicly says he's 'open for business' and invites three of your members on a deadline. Your members want a counteroffer within days.",
+    "typicalChoices": [
+      "Present a guaranteed media number",
+      "Offer an unequal revenue split to keep stars",
+      "Counter-raid the rival",
+      "Let them go and rebuild"
+    ],
+    "relevantAttributes": [
+      "vision",
+      "mediaNegotiation",
+      "network",
+      "presidentialRelations",
+      "stamina"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.08,
+    "note": "If the PCSA is enacted, multiply by about 0.25 for P4-to-P4 moves (20/22 cap plus 3-year independence).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2010%E2%80%932014_NCAA_conference_realignment",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "rival-poaching-penalty-war",
+    "category": "rival-power-play",
+    "title": "Poaching-penalty legal war",
+    "realPrecedents": [
+      {
+        "year": 2024,
+        "summary": "The Pac-12 recruited five MWC schools despite a 'poaching penalty' in their 2024 scheduling agreement. Lawsuits and countersuits over penalties and exit fees followed.",
+        "source": "https://en.wikipedia.org/wiki/Mountain_West_Conference"
+      }
+    ],
+    "description": "You poached schools from a league that has an anti-poaching clause with you. It sues for millions, and the departing schools' exit fees are disputed too.",
+    "typicalChoices": [
+      "Fight the suit as an unlawful restraint",
+      "Settle by sharing the penalty",
+      "Cover the new members' exit fees",
+      "Use media-deal money to pay"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "commercial",
+      "network"
+    ],
+    "severityRange": [
+      2,
+      3
+    ],
+    "suggestedAnnualProbability": 0.04,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference"
+    ]
+  },
+  {
+    "id": "rival-super-league-alliance",
+    "category": "rival-power-play",
+    "title": "The two biggest leagues form a governing duopoly",
+    "realPrecedents": [
+      {
+        "year": 2021,
+        "summary": "The 'Alliance' (Big Ten, ACC, Pac-12) formed after Texas and OU defected, but collapsed within a year.",
+        "source": "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+      },
+      {
+        "year": 2024,
+        "summary": "The SEC and Big Ten created a joint advisory group (February 2024). The 2024 CFP agreement gave them control over format decisions from 2026 and the largest revenue shares.",
+        "source": "https://en.wikipedia.org/wiki/College_Football_Playoff"
+      }
+    ],
+    "description": "The two richest leagues announce a joint group to set playoff format and policy and invite you to 'consult'. Your presidents ask whether you're still at the table.",
+    "typicalChoices": [
+      "Ally with the other leagues left out",
+      "Ask to join the group on their terms",
+      "Threaten legal action",
+      "Lobby Congress or the White House"
+    ],
+    "relevantAttributes": [
+      "network",
+      "vision",
+      "mediaNegotiation",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.1,
+    "sources": [
+      "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    ]
+  },
+  {
+    "id": "rival-private-capital-arms-race",
+    "category": "rival-power-play",
+    "title": "Rival league takes a private-capital infusion",
+    "realPrecedents": [
+      {
+        "year": 2025,
+        "summary": "The Big Ten negotiated a $2.4B investment from UC Investments for 10% of 'Big Ten Enterprises'. It was paused in November 2025 after Michigan and USC objected and Congress pushed back.",
+        "source": "https://www.espn.com/college-sports/story/_/id/47003108/opposition-michigan-usc-pauses-24b-big-ten-deal"
+      }
+    ],
+    "description": "A rival league reportedly closes a multibillion-dollar private-equity deal, giving each member an up-front check. Your members ask why you don't have one.",
+    "typicalChoices": [
+      "Start talks with private-equity firms",
+      "Warn members about loss of control and tax risk",
+      "Pursue a smaller, member-by-member structure",
+      "Wait to see if Congress or the IRS act"
+    ],
+    "relevantAttributes": [
+      "commercial",
+      "vision",
+      "presidentialRelations",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/47003108/opposition-michigan-usc-pauses-24b-big-ten-deal",
+      "https://frontofficesports.com/uc-investments-says-big-ten-deal-is-off-until-schools-can-agree/"
+    ]
+  },
+  {
+    "id": "rival-coach-poached-before-postseason",
+    "category": "rival-power-play",
+    "title": "Member's coach leaves before the playoff",
+    "realPrecedents": [
+      {
+        "year": 2025,
+        "summary": "Lane Kiffin left Ole Miss for LSU (2025-11-30) before Ole Miss's CFP run. Ole Miss promoted Pete Golding. The Senate's 2026 bill reportedly discussed limits on mid-season coaching moves.",
+        "source": "https://en.wikipedia.org/wiki/Lane_Kiffin"
+      }
+    ],
+    "description": "A rival member hires away your playoff-bound member's coach days before the postseason. The jilted school demands league rules against mid-season poaching.",
+    "typicalChoices": [
+      "Propose an intra-league mid-season no-poach rule",
+      "Stay neutral",
+      "Back a federal ban",
+      "Penalize the poaching member's media exposure"
+    ],
+    "relevantAttributes": [
+      "integrity",
+      "presidentialRelations",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lane_Kiffin"
+    ]
+  },
+  {
+    "id": "rival-merger-proposal",
+    "category": "rival-power-play",
+    "title": "Merger proposal from a weakened league",
+    "realPrecedents": [
+      {
+        "year": 2022,
+        "summary": "After USC and UCLA left, the Big 12 and Pac-12 explored mergers, and Kliavkoff declined. A year later the Pac-12 collapsed.",
+        "source": "https://en.wikipedia.org/wiki/Pac-12_Conference"
+      },
+      {
+        "year": 2024,
+        "summary": "The Pac-12's remaining two members and the MWC discussed a merger and scheduling, then chose a Pac-12 rebuild through MWC defections instead.",
+        "source": "https://en.wikipedia.org/wiki/Mountain_West_Conference"
+      }
+    ],
+    "description": "A struggling league's commissioner proposes a merger or a 'reverse merger' takeover of your charter. Your weaker members like the stability, and your stronger members fear dilution.",
+    "typicalChoices": [
+      "Accept on your terms (absorb selected schools)",
+      "Decline publicly",
+      "Form a scheduling alliance instead",
+      "Use it as leverage with TV partners"
+    ],
+    "relevantAttributes": [
+      "vision",
+      "mediaNegotiation",
+      "presidentialRelations",
+      "network"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference"
+    ]
+  },
+  {
+    "id": "tv-renewal-timing",
+    "category": "tv-renegotiation",
+    "title": "Partner's extension option or early-renewal window",
+    "realPrecedents": [
+      {
+        "year": 2022,
+        "summary": "Yormark's Big 12 signed an early extension with ESPN and FOX through 2030-31 (about $2.28B), getting ahead of the Pac-12 and leaving it with a shrunken market.",
+        "source": "https://en.wikipedia.org/wiki/Big_12_Conference"
+      },
+      {
+        "year": 2025,
+        "summary": "ESPN exercised its option to extend the ACC deal through 2036, keeping the grant of rights in place during the FSU and Clemson settlement.",
+        "source": "https://en.wikipedia.org/wiki/ACC_Network"
+      }
+    ],
+    "description": "Your partner's option or exclusive window is approaching. Renewing early gives certainty at a lower price. Going to market gives a possibly higher price, at the risk of being left without a partner.",
+    "typicalChoices": [
+      "Sign an early extension now",
+      "Go to open market",
+      "Bring in a streamer as a second partner",
+      "Push for performance escalators"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "vision",
+      "commercial",
+      "network"
+    ],
+    "severityRange": [
+      2,
+      5
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/ACC_Network"
+    ]
+  },
+  {
+    "id": "tv-lowball-offer",
+    "category": "tv-renegotiation",
+    "title": "Incumbent network lowballs you",
+    "realPrecedents": [
+      {
+        "year": 2023,
+        "summary": "ESPN's reported offer to the post-USC/UCLA Pac-12 came in far below expectations (about $30M per school was reported). Kliavkoff's slow talks and final Apple streaming offer triggered the league's collapse.",
+        "source": "https://en.wikipedia.org/wiki/George_Kliavkoff"
+      }
+    ],
+    "description": "Your incumbent partner's renewal offer is well below what members were told to expect. Rival commissioners are already calling your members.",
+    "typicalChoices": [
+      "Accept and spin it",
+      "Reject and shop to streamers",
+      "Pursue a shorter deal",
+      "Disclose the number to members"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "presidentialRelations",
+      "crisisManagement",
+      "publicImage"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.08,
+    "sources": [
+      "https://en.wikipedia.org/wiki/George_Kliavkoff",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference"
+    ]
+  },
+  {
+    "id": "tv-streaming-gamble",
+    "category": "tv-renegotiation",
+    "title": "Streaming-first or owned-network gamble",
+    "realPrecedents": [
+      {
+        "year": 2012,
+        "summary": "The Pac-12 Networks launched fully league-owned under Larry Scott. They never reached DirecTV carriage, and per-school payouts fell behind the Big Ten and SEC networks.",
+        "source": "https://en.wikipedia.org/wiki/Pac-12_Network"
+      },
+      {
+        "year": 2023,
+        "summary": "The Pac-12's Apple proposal tied revenue to subscriptions. Members rejected the uncertainty and left.",
+        "source": "https://en.wikipedia.org/wiki/George_Kliavkoff"
+      }
+    ],
+    "description": "A tech company or your own network offers big upside but no guaranteed money and little linear exposure. Members are split between growth and certainty.",
+    "typicalChoices": [
+      "Take the streamer's deal with a guaranteed floor",
+      "Hybrid: linear partner plus a streaming package",
+      "Launch your own network",
+      "Stay fully on linear TV"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "vision",
+      "commercial",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      2,
+      5
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Network"
+    ]
+  },
+  {
+    "id": "tv-carriage-blackout",
+    "category": "tv-renegotiation",
+    "title": "Carriage blackout during the season",
+    "realPrecedents": [
+      {
+        "year": 2023,
+        "summary": "The Disney-Charter dispute blacked out ESPN networks for millions of Spectrum customers during the first weeks of the season.",
+        "source": "https://en.wikipedia.org/wiki/Charter_Communications"
+      },
+      {
+        "year": 2025,
+        "summary": "The YouTube TV-Disney carriage dispute blacked out ESPN and ABC during the college football season.",
+        "source": "https://en.wikipedia.org/wiki/YouTube_TV"
+      }
+    ],
+    "description": "A distributor drops your partner's channels in the middle of the season. Rivalry games are unavailable in member states, and fans and governors complain to you.",
+    "typicalChoices": [
+      "Publicly pressure both sides",
+      "Push your partner to stream the games free",
+      "Invoke make-good clauses",
+      "Stay quiet"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "publicImage",
+      "network"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "confidence": "low",
+    "note": "The 2025 YouTube TV-Disney blackout timing is from memory.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/YouTube_TV"
+    ]
+  },
+  {
+    "id": "ratings-celebrity-coach",
+    "category": "ratings",
+    "title": "Celebrity coach drives a ratings boom",
+    "realPrecedents": [
+      {
+        "year": 2023,
+        "summary": "Deion Sanders's Colorado started 3-0 with record audiences (the late-night Colorado-Colorado State game drew about 9M on ESPN), then finished 4-8, still a top TV draw. It helped push Colorado back to the Big 12.",
+        "source": "https://en.wikipedia.org/wiki/2023_Colorado_Buffaloes_football_team"
+      }
+    ],
+    "description": "A celebrity coach makes a mid-level member must-see TV. Partners want more prime-time windows for them, and other members resent the favoritism.",
+    "typicalChoices": [
+      "Feature the program heavily",
+      "Spread exposure evenly",
+      "Use the buzz in media negotiations",
+      "Build a league-wide content strategy around it"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "commercial",
+      "publicImage",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      1,
+      2
+    ],
+    "suggestedAnnualProbability": 0.08,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2023_Colorado_Buffaloes_football_team"
+    ]
+  },
+  {
+    "id": "ratings-underdog-ascent",
+    "category": "ratings",
+    "title": "Perennial loser becomes a title contender",
+    "realPrecedents": [
+      {
+        "year": 2025,
+        "summary": "Indiana under Curt Cignetti went from historic doormat to a CFP team in 2024 and national champion in 2025-26 (beating Miami for the title), with Heisman winner Fernando Mendoza.",
+        "source": "https://en.wikipedia.org/wiki/Curt_Cignetti"
+      }
+    ],
+    "description": "A low-brand member suddenly becomes a national power. Its president gains standing, the TV pecking order shifts, and blue-blood members feel threatened.",
+    "typicalChoices": [
+      "Promote the story nationally",
+      "Push for more CFP auto-bids",
+      "Rebalance scheduling for TV value"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "publicImage",
+      "vision"
+    ],
+    "severityRange": [
+      1,
+      2
+    ],
+    "suggestedAnnualProbability": 0.06,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Curt_Cignetti",
+      "https://en.wikipedia.org/wiki/2025_Indiana_Hoosiers_football_team"
+    ],
+    "confidence": "low",
+    "note": "Indiana beating Miami for the 2025-26 title and Mendoza winning the Heisman are from training data (through mid-2026). The title-game matchup is confirmed by a CBS headline, but the score was not re-verified."
+  },
+  {
+    "id": "ratings-wbb-superstar",
+    "category": "ratings",
+    "title": "Women's basketball superstar boom",
+    "realPrecedents": [
+      {
+        "year": 2024,
+        "summary": "Caitlin Clark's Iowa: the 2024 women's final (South Carolina-Iowa) drew about 18.9M viewers, more than the men's final. That set off a re-evaluation of WBB media rights.",
+        "source": "https://en.wikipedia.org/wiki/Caitlin_Clark"
+      }
+    ],
+    "description": "A member's women's basketball star breaks viewership records. Partners want to buy WBB rights separately, and Title IX advocates demand more investment.",
+    "typicalChoices": [
+      "Unbundle WBB rights for a separate sale",
+      "Move the WBB tournament to a bigger venue or market",
+      "Increase WBB revenue distribution",
+      "Keep the package bundled"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "commercial",
+      "publicImage",
+      "vision"
+    ],
+    "severityRange": [
+      1,
+      2
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Caitlin_Clark"
+    ]
+  },
+  {
+    "id": "ratings-visibility-slump",
+    "category": "ratings",
+    "title": "Ratings slump: bad TV windows and weak distribution",
+    "realPrecedents": [
+      {
+        "year": 2016,
+        "summary": "'Pac-12 After Dark': late kickoffs on the West Coast and limited distribution of the Pac-12 Networks hurt national exposure and recruiting perception.",
+        "source": "https://en.wikipedia.org/wiki/Pac-12_Network"
+      }
+    ],
+    "description": "Your games are stuck in late or obscure windows. National audiences and partners' valuations fall, and members blame the media strategy.",
+    "typicalChoices": [
+      "Trade revenue for better windows",
+      "Move kickoffs earlier despite heat or attendance problems",
+      "Sign a secondary partner for reach",
+      "Invest in league-produced content"
+    ],
+    "relevantAttributes": [
+      "mediaNegotiation",
+      "commercial",
+      "vision",
+      "publicImage"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Network"
+    ]
+  },
+  {
+    "id": "cinderella-mbb-run",
+    "category": "cinderella",
+    "title": "Mid-major Cinderella run in March",
+    "realPrecedents": [
+      {
+        "year": 2018,
+        "summary": "16-seed UMBC beat 1-seed Virginia, the first 16-over-1 upset.",
+        "source": "https://en.wikipedia.org/wiki/UMBC_Retrievers_men%27s_basketball"
+      },
+      {
+        "year": 2022,
+        "summary": "15-seed Saint Peter's (MAAC) reached the Elite Eight.",
+        "source": "https://en.wikipedia.org/wiki/Saint_Peter%27s_Peacocks_men%27s_basketball"
+      },
+      {
+        "year": 2023,
+        "summary": "9-seed FAU reached the Final Four, and the American soon invited the school.",
+        "source": "https://en.wikipedia.org/wiki/Florida_Atlantic_Owls_men%27s_basketball"
+      }
+    ],
+    "description": "A low-seeded member (or a non-member in your footprint) makes a deep tournament run, bringing NCAA units, national buzz, and a coach every power program wants to hire.",
+    "typicalChoices": [
+      "Invite the school to your league (if a non-member)",
+      "Help the member keep its coach",
+      "Use the run in media pitches"
+    ],
+    "relevantAttributes": [
+      "vision",
+      "commercial",
+      "publicImage",
+      "network"
+    ],
+    "severityRange": [
+      1,
+      2
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "note": "Positive event. For non-P4 conferences use about 0.25.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saint_Peter%27s_Peacocks_men%27s_basketball",
+      "https://en.wikipedia.org/wiki/2023_NCAA_Division_I_men%27s_basketball_tournament"
+    ]
+  },
+  {
+    "id": "cinderella-g6-football",
+    "category": "cinderella",
+    "title": "G6 football crasher",
+    "realPrecedents": [
+      {
+        "year": 2007,
+        "summary": "Boise State beat Oklahoma in the Fiesta Bowl with trick plays (January 2007). The same year, FCS Appalachian State beat No. 5 Michigan.",
+        "source": "https://en.wikipedia.org/wiki/2007_Fiesta_Bowl"
+      },
+      {
+        "year": 2021,
+        "summary": "Cincinnati became the first G6 team in the 4-team CFP, then got a Big 12 invitation.",
+        "source": "https://en.wikipedia.org/wiki/2021_Cincinnati_Bearcats_football_team"
+      },
+      {
+        "year": 2024,
+        "summary": "Boise State (Ashton Jeanty) earned a top-4 seed and a bye in the first 12-team CFP. It joined the Pac-12 in 2026.",
+        "source": "https://en.wikipedia.org/wiki/2024_Boise_State_Broncos_football_team"
+      }
+    ],
+    "description": "A G6 program goes undefeated or wins a New Year's Six game. Power leagues start courting it, and its current league's stability is at risk.",
+    "typicalChoices": [
+      "Invite it before rivals do",
+      "Schedule it as a non-conference partner",
+      "Ignore it"
+    ],
+    "relevantAttributes": [
+      "vision",
+      "network",
+      "mediaNegotiation"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.2,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2024_Boise_State_Broncos_football_team",
+      "https://en.wikipedia.org/wiki/2021_Cincinnati_Bearcats_football_team"
+    ]
+  },
+  {
+    "id": "sport-dropped-budget-cuts",
+    "category": "sport-dropped",
+    "title": "Member cuts Olympic sports (and faces a Title IX fight)",
+    "realPrecedents": [
+      {
+        "year": 2020,
+        "summary": "During COVID, Stanford announced cuts to 11 varsity sports and reversed in 2021 after lawsuits and alumni pressure. Minnesota, Iowa, East Carolina, William & Mary and Dartmouth also cut sports. Iowa had to reinstate women's swimming after a Title IX suit.",
+        "source": "https://en.wikipedia.org/wiki/Stanford_Cardinal"
+      },
+      {
+        "year": 2025,
+        "summary": "Revenue sharing under the House settlement (up to $20.5M) put pressure on non-revenue budgets across D-I.",
+        "source": "https://en.wikipedia.org/wiki/House_v._NCAA"
+      }
+    ],
+    "description": "A member says it will drop several Olympic sports to fund revenue sharing. That leaves your league below the sport-sponsorship minimum for its automatic bid, and Title IX lawyers circle.",
+    "typicalChoices": [
+      "Subsidize the sport from league revenue",
+      "Change sponsorship minimums or add affiliate members",
+      "Accept the cuts",
+      "Lobby for federal Olympic-sport protections (PCSA bans cuts)"
+    ],
+    "relevantAttributes": [
+      "vision",
+      "commercial",
+      "publicImage",
+      "presidentialRelations",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.2,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stanford_Cardinal",
+      "https://en.wikipedia.org/wiki/House_v._NCAA"
+    ]
+  },
+  {
+    "id": "sport-dropped-division-exit",
+    "category": "sport-dropped",
+    "title": "Member drops out of Division I",
+    "realPrecedents": [
+      {
+        "year": 2011,
+        "summary": "Centenary College of Louisiana moved from D-I to D-III to cut costs.",
+        "source": "https://en.wikipedia.org/wiki/Centenary_College_of_Louisiana"
+      },
+      {
+        "year": 2025,
+        "summary": "Saint Francis University (PA) announced a move from D-I (NEC) to D-III, citing the economics after the House settlement.",
+        "source": "https://en.wikipedia.org/wiki/Saint_Francis_Red_Flash"
+      }
+    ],
+    "description": "A small member says D-I is no longer affordable. You lose a member, an automatic-bid count, and scheduling slots.",
+    "typicalChoices": [
+      "Recruit a replacement member",
+      "Offer financial relief to keep them",
+      "Restructure as a smaller league"
+    ],
+    "relevantAttributes": [
+      "vision",
+      "network",
+      "commercial"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.03,
+    "note": "Mostly for non-P4 conferences. For low-major conferences use about 0.08. The year of the Saint Francis (PA) move to D-III is from memory and not re-verified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saint_Francis_Red_Flash"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "legal-eligibility-injunction",
+    "category": "legal",
+    "title": "Athlete wins an eligibility injunction mid-season",
+    "realPrecedents": [
+      {
+        "year": 2024,
+        "summary": "Diego Pavia (Vanderbilt) won a preliminary injunction (2024-12-18) on counting JUCO seasons. The NCAA issued a blanket waiver.",
+        "source": "https://en.wikipedia.org/wiki/Diego_Pavia"
+      },
+      {
+        "year": 2026,
+        "summary": "Charles Bediako (former G League) sought to return to Alabama. Ohio's Borovicanin case and Gov. DeWine's order gave class-of-2022 athletes a fifth year, and the NCAA sued DeWine.",
+        "source": "https://www.espn.com/college-sports/story/_/id/50196596/ncaa-sues-ohio-gov-eligibility-order-5th-year-athletes"
+      }
+    ],
+    "description": "A state judge orders a member to play an athlete your rules call ineligible. Rival members ask whether results will be vacated if the ruling is later reversed (the NCAA's restitution rule).",
+    "typicalChoices": [
+      "Follow the order and protect the results",
+      "Warn that results may be vacated",
+      "Join the NCAA's appeal",
+      "Change the conference rule"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "integrity",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      1,
+      3
+    ],
+    "suggestedAnnualProbability": 0.5,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Diego_Pavia",
+      "https://sports.yahoo.com/articles/ohio-supreme-court-allows-players-152821073.html"
+    ]
+  },
+  {
+    "id": "legal-exit-fee-negotiation",
+    "category": "legal",
+    "title": "Departing members negotiate their exit fee",
+    "realPrecedents": [
+      {
+        "year": 2014,
+        "summary": "The ACC and Maryland settled the $52.3M exit-fee fight for $31.4M.",
+        "source": "https://en.wikipedia.org/wiki/Maryland_Terrapins"
+      },
+      {
+        "year": 2023,
+        "summary": "Texas and OU paid the Big 12 a combined $100M to leave in 2024 instead of 2025 (February 2023 settlement).",
+        "source": "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+      }
+    ],
+    "description": "Departing members offer a lump sum to leave early. Holding out maximizes money. Settling early gives certainty and lets you start rebuilding.",
+    "typicalChoices": [
+      "Hold for the full fee and litigate",
+      "Settle early for a discount",
+      "Trade the fee for scheduling or media concessions"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "commercial",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maryland_Terrapins",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "legal-title-ix-suit",
+    "category": "legal",
+    "title": "Title IX suit over revenue-share allocation",
+    "realPrecedents": [
+      {
+        "year": 2025,
+        "summary": "Title IX objectors appealed the House settlement, arguing the back-pay split (mostly football and men's basketball) and the revenue-share allocations discriminate. Education Department guidance flipped twice (January to February 2025).",
+        "source": "https://en.wikipedia.org/wiki/House_v._NCAA"
+      },
+      {
+        "year": 2026,
+        "summary": "Critics argue the Senate-passed PCSA still lets schools concentrate pay on football despite its Title IX savings clause.",
+        "source": "https://msmagazine.com/2026/11/23/protect-college-sports-act-title-ix-womens-sports-gender-equity-trans-girls/"
+      }
+    ],
+    "description": "Women's team athletes at a member sue, saying the school's 80/10/5/5 revenue split violates Title IX. The suit names the conference's revenue-share policy.",
+    "typicalChoices": [
+      "Adopt a league-wide minimum share for women's sports",
+      "Defend members' discretion",
+      "Settle with the plaintiffs",
+      "Wait for the Ninth Circuit"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "publicImage",
+      "integrity",
+      "presidentialRelations"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.2,
+    "sources": [
+      "https://en.wikipedia.org/wiki/House_v._NCAA"
+    ]
+  },
+  {
+    "id": "legal-antitrust-class-action",
+    "category": "legal",
+    "title": "New antitrust class action targets conference rules",
+    "realPrecedents": [
+      {
+        "year": 2021,
+        "summary": "NCAA v. Alston: the Supreme Court ruled 9-0 against limits on education-related benefits.",
+        "source": "https://en.wikipedia.org/wiki/NCAA_v._Alston"
+      },
+      {
+        "year": 2025,
+        "summary": "House v. NCAA settlement: about $2.8B in damages plus revenue sharing.",
+        "source": "https://en.wikipedia.org/wiki/House_v._NCAA"
+      }
+    ],
+    "description": "Plaintiffs' firms sue the NCAA and your conference over a rule (roster limits, transfer limits, the cap itself). Discovery is costly, and the antitrust cover depends on whether Congress acts.",
+    "typicalChoices": [
+      "Fight",
+      "Settle and change the rule",
+      "Lobby for the PCSA safe harbor",
+      "Coordinate defense with the other P4"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "network",
+      "vision"
+    ],
+    "severityRange": [
+      2,
+      5
+    ],
+    "suggestedAnnualProbability": 0.15,
+    "sources": [
+      "https://en.wikipedia.org/wiki/NCAA_v._Alston",
+      "https://en.wikipedia.org/wiki/House_v._NCAA"
+    ]
+  },
+  {
+    "id": "political-legislature-package-demand",
+    "category": "political",
+    "title": "Legislature demands a package deal",
+    "realPrecedents": [
+      {
+        "year": 1994,
+        "summary": "Texas politicians (Gov. Ann Richards, Lt. Gov. Bob Bullock) made sure Baylor and Texas Tech joined Texas and Texas A&M in the new Big 12.",
+        "source": "https://en.wikipedia.org/wiki/Southwest_Conference"
+      },
+      {
+        "year": 2003,
+        "summary": "Gov. Mark Warner pressured UVA to back Virginia Tech's admission to the ACC.",
+        "source": "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+      }
+    ],
+    "description": "You're about to admit a flagship. Its state legislature threatens budget retaliation unless you also admit an in-state rival you don't want.",
+    "typicalChoices": [
+      "Accept both schools",
+      "Call the bluff",
+      "Offer the rival a scheduling deal or affiliate status",
+      "Find another flagship"
+    ],
+    "relevantAttributes": [
+      "network",
+      "presidentialRelations",
+      "vision",
+      "publicImage"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.04,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southwest_Conference"
+    ]
+  },
+  {
+    "id": "political-governor-order",
+    "category": "political",
+    "title": "Governor issues an order overriding NCAA or league rules",
+    "realPrecedents": [
+      {
+        "year": 2026,
+        "summary": "Ohio Gov. Mike DeWine's EO 2026-04D (2026-10-13) let Ohio schools give class-of-2022 athletes a fifth year. The NCAA sued him in federal court.",
+        "source": "https://www.espn.com/college-sports/story/_/id/50196596/ncaa-sues-ohio-gov-eligibility-order-5th-year-athletes"
+      }
+    ],
+    "description": "A governor in your footprint signs an order giving that state's members an eligibility or NIL advantage. Other members demand the league neutralize it.",
+    "typicalChoices": [
+      "Adopt a matching league rule for all members",
+      "Ban the advantage under league bylaws (lawsuit risk)",
+      "Join the NCAA's suit",
+      "Lobby the governor privately"
+    ],
+    "relevantAttributes": [
+      "legalGovernance",
+      "network",
+      "presidentialRelations",
+      "integrity"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.08,
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/50196596/ncaa-sues-ohio-gov-eligibility-order-5th-year-athletes"
+    ]
+  },
+  {
+    "id": "political-federal-bill-vote",
+    "category": "political",
+    "title": "Federal college-sports bill reaches a vote",
+    "realPrecedents": [
+      {
+        "year": 2025,
+        "summary": "House leaders pulled the SCORE Act from the floor hours before a December 2025 vote, and again in May 2026.",
+        "source": "https://thehill.com/policy/sports-gaming/5884675-score-act-house-cbc-ncaa/"
+      },
+      {
+        "year": 2026,
+        "summary": "The Senate passed the Protect College Sports Act 77-22 (2026-09-28), with a 20-school P4 cap and a 3-year independence rule for P4 switchers. A House lame-duck vote is set for the week of 2026-12-08 after Democrats swept the midterms.",
+        "source": "https://www.espn.com/college-sports/story/_/id/50056206/us-senate-votes-77-22-pass-protect-college-sports-act"
+      }
+    ],
+    "description": "Congress is days from voting on a bill that would freeze conference sizes, give antitrust protection and preempt state laws. Your members split by their realignment ambitions, and lawmakers want your public endorsement.",
+    "typicalChoices": [
+      "Lobby for passage",
+      "Lobby to change the realignment terms",
+      "Stay neutral",
+      "Oppose publicly"
+    ],
+    "relevantAttributes": [
+      "network",
+      "presidentialRelations",
+      "publicImage",
+      "vision",
+      "legalGovernance"
+    ],
+    "severityRange": [
+      2,
+      5
+    ],
+    "suggestedAnnualProbability": 0.25,
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/50056206/us-senate-votes-77-22-pass-protect-college-sports-act",
+      "https://www.cbssports.com/college-football/news/house-gop-protect-college-sports-act/"
+    ]
+  },
+  {
+    "id": "political-white-house-intervention",
+    "category": "political",
+    "title": "The White House gets involved",
+    "realPrecedents": [
+      {
+        "year": 2020,
+        "summary": "President Trump called Big Ten commissioner Kevin Warren (2020-09-01) to push for a fall season. The Big Ten reversed two weeks later.",
+        "source": "https://en.wikipedia.org/wiki/2020_Big_Ten_Conference_football_season"
+      },
+      {
+        "year": 2025,
+        "summary": "A presidential commission with Nick Saban and Cody Campbell was floated in May 2025, then replaced by EO 14322 (2025-07-24).",
+        "source": "https://www.presidency.ucsb.edu/documents/executive-order-14322-saving-college-sports"
+      },
+      {
+        "year": 2026,
+        "summary": "EO 14400 (2026-04-03) tied federal grant responsibility to NCAA-rule compliance and pushed 5-year eligibility.",
+        "source": "https://en.wikipedia.org/wiki/Executive_Order_14400"
+      }
+    ],
+    "description": "The president publicly pressures your league on a decision (playing during a crisis, eligibility, NIL) or invites you to the White House. Members' home-state politics split along party lines.",
+    "typicalChoices": [
+      "Comply and accept the photo op",
+      "Politely decline",
+      "Use the moment to push your agenda",
+      "Coordinate with the other commissioners"
+    ],
+    "relevantAttributes": [
+      "network",
+      "publicImage",
+      "presidentialRelations",
+      "crisisManagement"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.12,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2020_Big_Ten_Conference_football_season",
+      "https://en.wikipedia.org/wiki/Executive_Order_14400"
+    ]
+  },
+  {
+    "id": "political-athlete-activism",
+    "category": "political",
+    "title": "Athlete boycott or protest",
+    "realPrecedents": [
+      {
+        "year": 2015,
+        "summary": "Missouri football players threatened to boycott a game over campus racial climate. System president Tim Wolfe resigned within days.",
+        "source": "https://en.wikipedia.org/wiki/2015%E2%80%9316_University_of_Missouri_protests"
+      },
+      {
+        "year": 2016,
+        "summary": "Minnesota players boycotted bowl preparations over teammates' suspensions in a sexual-assault case.",
+        "source": "https://en.wikipedia.org/wiki/2016_Minnesota_Golden_Gophers_football_team"
+      },
+      {
+        "year": 2020,
+        "summary": "Pac-12 players' '#WeAreUnited' demands over COVID safety and revenue sharing.",
+        "source": "https://en.wikipedia.org/wiki/Pac-12_Conference"
+      }
+    ],
+    "description": "Athletes at one or more members threaten to sit out a televised game unless demands are met (safety, pay, social issues). TV partners and presidents call you.",
+    "typicalChoices": [
+      "Meet the athletes' leaders",
+      "Back the presidents' hard line",
+      "Make league-level concessions",
+      "Postpone the game"
+    ],
+    "relevantAttributes": [
+      "crisisManagement",
+      "publicImage",
+      "presidentialRelations",
+      "integrity"
+    ],
+    "severityRange": [
+      2,
+      4
+    ],
+    "suggestedAnnualProbability": 0.05,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2016_Minnesota_Golden_Gophers_football_team"
+    ]
+  },
+  {
+    "id": "health-athlete-death",
+    "category": "health",
+    "title": "Athlete dies in training or competition",
+    "realPrecedents": [
+      {
+        "year": 1990,
+        "summary": "Loyola Marymount star Hank Gathers collapsed and died during the WCC tournament. The tournament was suspended.",
+        "source": "https://en.wikipedia.org/wiki/Hank_Gathers"
+      },
+      {
+        "year": 2018,
+        "summary": "Maryland's Jordan McNair died of heatstroke after a supervised workout. External reviews followed and coach DJ Durkin was fired.",
+        "source": "https://en.wikipedia.org/wiki/DJ_Durkin"
+      },
+      {
+        "year": 2011,
+        "summary": "13 Iowa football players were hospitalized with rhabdomyolysis after a workout.",
+        "source": "https://en.wikipedia.org/wiki/Kirk_Ferentz"
+      }
+    ],
+    "description": "An athlete dies or several are hospitalized after a workout. Families, media and lawmakers demand league-wide health standards and independent medical authority.",
+    "typicalChoices": [
+      "Mandate independent medical staff league-wide",
+      "Suspend the event or tournament",
+      "Commission an external review",
+      "Defer to the member"
+    ],
+    "relevantAttributes": [
+      "crisisManagement",
+      "integrity",
+      "publicImage",
+      "stamina"
+    ],
+    "severityRange": [
+      3,
+      5
+    ],
+    "suggestedAnnualProbability": 0.04,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hank_Gathers",
+      "https://en.wikipedia.org/wiki/DJ_Durkin"
+    ]
+  }
+]
