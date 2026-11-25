@@ -1,0 +1,154 @@
+{
+  "asOf": "2026-11-25",
+  "case": {
+    "id": "house-v-ncaa",
+    "name": "In re College Athlete NIL Litigation (House v. NCAA), consolidated with Hubbard v. NCAA and Carter v. NCAA",
+    "court": "U.S. District Court, Northern District of California",
+    "judge": "Claudia Wilken",
+    "defendants": ["ncaa", "sec", "big-ten", "big-12", "acc", "pac-12"],
+    "preliminaryApproval": "2024-10-07",
+    "finalApproval": "2025-06-06",
+    "revenueSharingStart": "2025-07-01",
+    "termYears": 10,
+    "termEnds": "2035-06-30",
+    "appeals": "Objectors appealed to the Ninth Circuit, including Title IX objectors over the back-pay split and walk-on athletes over roster limits. Payments and the injunctive system continued during the appeals. Status of the Ninth Circuit ruling as of Nov 2026 was not verified.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA"]
+  },
+  "cap": {
+    "basis": "22% of the average 'shared revenue' of Power-conference schools: media rights, ticket sales and sponsorships, excluding donations and student fees.",
+    "escalator": "4% a year in years 2 and 3. In year 4 (2028-29) and year 7 (2031-32) the cap is recalculated at 22% of updated average P4 revenue, then grows 4% a year in between. Year 10 is 2034-35.",
+    "scholarshipCredit": "Up to $2.5M of new scholarship spending (beyond pre-settlement levels) counts against the cap. Alston academic awards (up to $5,980 per athlete) can also be counted, subject to limits.",
+    "byYear": [
+      { "academicYear": "2025-26", "year": 1, "capUsd": 20500000, "basis": "set" },
+      { "academicYear": "2026-27", "year": 2, "capUsd": 21320000, "basis": "+4%" },
+      { "academicYear": "2027-28", "year": 3, "capUsd": 22172800, "basis": "+4%" },
+      { "academicYear": "2028-29", "year": 4, "capUsd": 24500000, "basis": "reset (projection)", "confidence": "low", "note": "Model projection assuming P4 shared revenue grows ~6%/yr. The real reset depends on audited revenue." },
+      { "academicYear": "2029-30", "year": 5, "capUsd": 25480000, "basis": "+4% on projection", "confidence": "low" },
+      { "academicYear": "2030-31", "year": 6, "capUsd": 26499200, "basis": "+4% on projection", "confidence": "low" },
+      { "academicYear": "2031-32", "year": 7, "capUsd": 29000000, "basis": "reset (projection)", "confidence": "low" },
+      { "academicYear": "2032-33", "year": 8, "capUsd": 30160000, "basis": "+4% on projection", "confidence": "low" },
+      { "academicYear": "2033-34", "year": 9, "capUsd": 31366400, "basis": "+4% on projection", "confidence": "low" },
+      { "academicYear": "2034-35", "year": 10, "capUsd": 32621056, "basis": "+4% on projection", "confidence": "low" }
+    ],
+    "notes": "2026-27 cap ≈ $21.3M ($20.5M × 1.04). Years 1-3 follow from the settlement terms. Years 4-10 are projections for the game model. Projected end-of-term caps of ~$30M+ are consistent with public projections.",
+    "confidence": "low",
+    "note": "The escalator mechanics come from researcher recall of the settlement term sheet (4% annual + 3-year resets) and match the brief. Not re-verified this session.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA"]
+  },
+  "rosterLimits": {
+    "description": "Roster limits replaced scholarship limits for schools that opted in. All roster spots can be scholarship-eligible. Athletes who were cut or recruited before the settlement are grandfathered as 'Designated Student-Athletes' and do not count against limits.",
+    "bySport": [
+      { "sport": "football", "limit": 105, "priorScholarships": 85 },
+      { "sport": "mens-basketball", "limit": 15, "priorScholarships": 13 },
+      { "sport": "womens-basketball", "limit": 15, "priorScholarships": 15 },
+      { "sport": "baseball", "limit": 34, "priorScholarships": 11.7 },
+      { "sport": "softball", "limit": 25, "priorScholarships": 12 },
+      { "sport": "mens-soccer", "limit": 28, "priorScholarships": 9.9 },
+      { "sport": "womens-soccer", "limit": 28, "priorScholarships": 14 },
+      { "sport": "volleyball", "limit": 18, "priorScholarships": 12 },
+      { "sport": "mens-ice-hockey", "limit": 26, "priorScholarships": 18 },
+      { "sport": "womens-ice-hockey", "limit": 26, "priorScholarships": 18 },
+      { "sport": "mens-lacrosse", "limit": 48, "priorScholarships": 12.6 },
+      { "sport": "womens-lacrosse", "limit": 38, "priorScholarships": 12 },
+      { "sport": "wrestling", "limit": 30, "priorScholarships": 9.9 },
+      { "sport": "womens-gymnastics", "limit": 20, "priorScholarships": 12 },
+      { "sport": "field-hockey", "limit": 27, "priorScholarships": 12 },
+      { "sport": "rowing", "limit": 68, "priorScholarships": 20 },
+      { "sport": "mens-golf", "limit": 9, "priorScholarships": 4.5 },
+      { "sport": "womens-golf", "limit": 9, "priorScholarships": 6 },
+      { "sport": "mens-tennis", "limit": 10, "priorScholarships": 4.5 },
+      { "sport": "womens-tennis", "limit": 10, "priorScholarships": 8 },
+      { "sport": "swimming-diving (each)", "limit": 30, "priorScholarships": 9.9 },
+      { "sport": "track-field-cross-country (each)", "limit": 45, "priorScholarships": 12.6 }
+    ],
+    "confidence": "low",
+    "note": "Football, basketball, baseball, softball, soccer and volleyball limits are widely reported. The rest come from researcher recall of the settlement appendix and should be checked against the court-approved list.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA"]
+  },
+  "backDamages": {
+    "totalUsd": 2576000000,
+    "totalWithFeesApproxUsd": 2800000000,
+    "years": 10,
+    "annualApproxUsd": 277600000,
+    "components": "Roughly $1.976B for the House broadcast-NIL/videogame class plus ~$600M for the Hubbard academic-award class. Attorneys' fees and costs bring the commonly cited total to ~$2.8B.",
+    "allocationAmongAthletes": "Broadcast-NIL damages: 75% football, 15% men's basketball, 5% women's basketball, 5% all other sports. This split is the basis of the Title IX objections.",
+    "funding": [
+      { "payer": "ncaa", "pct": 41, "how": "NCAA reserves, insurance, and cuts to central spending" },
+      { "payer": "p4-conferences", "pct": 24, "how": "Reduced NCAA distributions to the SEC, Big Ten, Big 12, ACC and the old Pac-12 schools (the Pac-12 share was negotiated among departed members, OSU and WSU)" },
+      { "payer": "g5-conferences", "pct": 10, "how": "Reduced NCAA distributions" },
+      { "payer": "fcs-conferences", "pct": 14, "how": "Reduced NCAA distributions" },
+      { "payer": "non-football-d1-conferences", "pct": 11, "how": "Reduced NCAA distributions (e.g., Big East, WCC, A-10)" }
+    ],
+    "perSchoolAnnualHitApproxUsd": { "p4": 1000000, "g6": 450000, "fcs": 300000, "nonFootball": 320000 },
+    "notes": "Non-Power schools, which were not defendants, complained they pay ~35% of damages despite not being defendants. The per-school figures are computed: share × $2.776B ÷ 10 years ÷ approximate school count. Conferences may pass the cuts to members differently.",
+    "confidence": "low",
+    "note": "The $2.576B total is well established. The 41/24/10/14/11 split is from researcher recall of the NCAA's 2024 allocation memo and should be verified.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA", "https://www.ncaa.org/sports/2016/5/17/revenue-distributions.aspx"]
+  },
+  "optIn": {
+    "deadline": "2025-03-01",
+    "meaning": "An opted-in school ('Member Institution') must follow roster limits and may pay athletes directly up to the cap. Opting in does not require paying the full cap.",
+    "count": null,
+    "summary": "All Power 4 schools and Notre Dame opted in. Most FBS G6 schools opted in, often with partial revenue-sharing budgets. Many FCS and non-football D-I schools opted in mainly to keep roster flexibility. Count of opted-in schools was not verified; the reported figure is roughly 300+.",
+    "optOutExamples": [
+      { "school": "ivy-league (all 8)", "notes": "No athletic scholarships. The Ivy League stayed out of revenue sharing." },
+      { "school": "various FCS/HBCU and non-football schools", "notes": "Some declined, citing cost or wanting to keep pre-settlement scholarship structures." }
+    ],
+    "confidence": "low",
+    "note": "Exact count and named opt-outs other than the Ivy League were not verified.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA", "https://en.wikipedia.org/wiki/Ivy_League"]
+  },
+  "nilGo": {
+    "operator": "Deloitte",
+    "launched": "2025-06",
+    "reportingThresholdUsd": 600,
+    "rules": "Athletes at opted-in schools must report any third-party NIL deal worth $600 or more. Deals with 'associated entities or individuals' (collectives, boosters, booster-owned companies) are reviewed for a valid business purpose and whether the pay falls within a 'range of compensation' benchmarked against comparable deals. Rejected deals can be appealed to neutral arbitration.",
+    "volume": null,
+    "notes": "Collectives shifted to marketing-agency models to survive the 'valid business purpose' test. Some state laws (e.g., Tennessee, Texas, Louisiana) try to limit enforcement against their schools.",
+    "confidence": "low",
+    "note": "The $600 threshold and the Deloitte operator are well established. Deal volumes were not retrieved.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA"]
+  },
+  "collegeSportsCommission": {
+    "id": "csc",
+    "ceo": { "person": "bryan-seeley", "name": "Bryan Seeley", "background": "Former MLB executive vice president for legal and enforcement (investigations)", "since": "2025-06" },
+    "createdBy": ["sec", "big-ten", "big-12", "acc"],
+    "role": "Enforces the cap, roster limits and NIL rules through NIL Go. Investigates violations and imposes penalties. Separate from the NCAA.",
+    "participationAgreement": "The Power 4 sought a binding 'College Sports Commission Member Institution Agreement' committing schools to CSC enforcement and to waive challenges under state law. Several state attorneys general and some schools objected, and rollout was delayed in late 2025.",
+    "enforcementActionsToDate": [
+      { "date": "2025-summer/fall", "action": "Guidance memos and rejections of collective-funded deals lacking a valid business purpose. Collectives were told 'pay-for-play' deals would not clear.", "confidence": "low" }
+    ],
+    "notes": "No major public sanctions (point deductions, postseason bans) were confirmed as of the researcher's last data. Treat 2026 enforcement history as unknown and seed events from it.",
+    "confidence": "low",
+    "note": "CEO and founding are well established. Enforcement history was not verified this session.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA"]
+  },
+  "financialStrain": {
+    "summary": "P4 schools need ~$20.5-21.3M a year for revenue sharing plus ~$1M a year in back-damage cuts and roster-limit scholarship costs. Many fund it with ticket surcharges, donor drives, staff layoffs and budget cuts. G6 schools mostly pay a fraction of the cap.",
+    "examples": [
+      { "school": "tennessee", "type": "fee", "description": "Added a 'talent fee' (~10%) on football tickets to help fund revenue sharing (2025).", "confidence": "low" },
+      { "school": "usc", "type": "layoffs", "description": "Athletic department layoffs in 2025, attributed partly to settlement costs.", "confidence": "low" },
+      { "school": "stanford", "type": "layoffs", "description": "Athletic staff cuts in 2025 tied to budget pressure.", "confidence": "low" },
+      { "school": "cal", "type": "deficit", "description": "Large athletics deficit. Revenue-sharing budget tight on reduced ACC shares (~30%).", "confidence": "low" },
+      { "school": "g6-typical", "type": "partial-cap", "description": "Most American, Mountain West, Sun Belt, CUSA and MAC schools budgeted roughly $1-10M for revenue sharing, well below the $20.5M cap. A few with strong boosters said they would get closer to the full cap.", "confidence": "low" },
+      { "school": "saint-francis-pa", "type": "division-drop", "description": "Announced a move from D-I to D-III (NEC exit), citing the post-House financial model.", "confidence": "low" }
+    ],
+    "sportsDroppedNote": "A full list of sports dropped since 2024 was not compiled because the search budget ran out. The game should generate cuts from a budget-stress model instead of hard-coding them.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA"]
+  },
+  "titleIX": {
+    "issues": [
+      "Back-pay allocation (75/15/5/5) challenged by female athletes as discriminatory. Wilken overruled the objections at final approval and the objectors appealed.",
+      "Forward revenue sharing: most P4 schools allocate roughly in line with the back-pay model (e.g., ~75% football, ~15% men's basketball, ~5% women's basketball, ~5% other). Some schools give women's sports more.",
+      "Federal guidance: the Biden-era Department of Education fact sheet (Jan 2025) said institutional NIL and revenue-share payments count as athletic financial assistance under Title IX. The Trump administration rescinded it in Feb 2025, leaving the question to courts and future rulemaking.",
+      "Roster limits forced cuts to walk-ons and partial-scholarship athletes in Olympic sports, raising gender-equity and participation complaints."
+    ],
+    "allocationExamples": [
+      { "model": "back-pay mirror", "football": 0.75, "mensBasketball": 0.15, "womensBasketball": 0.05, "other": 0.05, "notes": "Typical P4 starting point." }
+    ],
+    "confidence": "low",
+    "note": "The policy timeline is from researcher recall. School-specific allocations were not verified.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA", "https://en.wikipedia.org/wiki/Title_IX"]
+  },
+  "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA"]
+}

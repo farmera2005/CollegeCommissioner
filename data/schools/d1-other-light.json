@@ -1,0 +1,2790 @@
+[
+  {
+    "id": "binghamton",
+    "name": "Binghamton University, State University of New York",
+    "shortName": "Binghamton",
+    "mascot": "Bearcats",
+    "city": "Vestal",
+    "state": "NY",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "america-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "america-east",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 15,
+      "olympic": 20,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/America_East_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "njit",
+    "name": "New Jersey Institute of Technology",
+    "shortName": "NJIT",
+    "mascot": "Highlanders",
+    "city": "Newark",
+    "state": "NJ",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "america-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "gwc",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 12,
+      "wbb": 12,
+      "olympic": 20,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/America_East_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "umass-lowell",
+    "name": "University of Massachusetts Lowell",
+    "shortName": "UMass Lowell",
+    "mascot": "River Hawks",
+    "city": "Lowell",
+    "state": "MA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "america-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "ne10-d2",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 25,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "D-II in 2010 (NE-10); D-I since 2013. Hockey East member. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/America_East_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "umbc",
+    "name": "University of Maryland, Baltimore County",
+    "shortName": "UMBC",
+    "mascot": "Retrievers",
+    "city": "Baltimore",
+    "state": "MD",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "america-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "america-east",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 20,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "2018 first 16-over-1 NCAA upset (Virginia). Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/America_East_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "vermont",
+    "name": "University of Vermont",
+    "shortName": "Vermont",
+    "mascot": "Catamounts",
+    "city": "Burlington",
+    "state": "VT",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "america-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "america-east",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 40,
+      "wbb": 20,
+      "olympic": 25,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "Perennial America East MBB champion; Hockey East. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/America_East_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "bellarmine",
+    "name": "Bellarmine University",
+    "shortName": "Bellarmine",
+    "mascot": "Knights",
+    "city": "Louisville",
+    "state": "KY",
+    "control": "private",
+    "religious": "Catholic",
+    "conference": {
+      "y2026": {
+        "all": "asun",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "glvc-d2",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 18,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "D-II (GLVC) in 2010; D-I since 2020. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "florida-gulf-coast",
+    "name": "Florida Gulf Coast University",
+    "shortName": "FGCU",
+    "mascot": "Eagles",
+    "city": "Fort Myers",
+    "state": "FL",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "asun",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "asun",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 40,
+      "olympic": 20,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "2013 'Dunk City' Sweet 16; WBB perennial ASUN power. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "jacksonville",
+    "name": "Jacksonville University",
+    "shortName": "Jacksonville",
+    "mascot": "Dolphins",
+    "city": "Jacksonville",
+    "state": "FL",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "asun",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "asun",
+        "football": "pioneer",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "mbb": 18,
+      "wbb": 20,
+      "olympic": 18,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Dropped football after 2019 (was Pioneer Football League). Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "lipscomb",
+    "name": "Lipscomb University",
+    "shortName": "Lipscomb",
+    "mascot": "Bisons",
+    "city": "Nashville",
+    "state": "TN",
+    "control": "private",
+    "religious": "Churches of Christ",
+    "conference": {
+      "y2026": {
+        "all": "asun",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "asun",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 35,
+      "wbb": 25,
+      "olympic": 18,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "north-florida",
+    "name": "University of North Florida",
+    "shortName": "North Florida",
+    "mascot": "Ospreys",
+    "city": "Jacksonville",
+    "state": "FL",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "asun",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "asun",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "queens",
+    "name": "Queens University of Charlotte",
+    "shortName": "Queens",
+    "mascot": "Royals",
+    "city": "Charlotte",
+    "state": "NC",
+    "control": "private",
+    "religious": "Presbyterian",
+    "conference": {
+      "y2026": {
+        "all": "asun",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "conference-carolinas-d2",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 15,
+      "olympic": 20,
+      "brand": 5
+    },
+    "confidence": "low",
+    "note": "D-II in 2010; D-I since 2022. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "george-washington",
+    "name": "The George Washington University",
+    "shortName": "George Washington",
+    "mascot": "Revolutionaries",
+    "city": "Washington",
+    "state": "DC",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "a10",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 25,
+      "olympic": 20,
+      "brand": 20
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "la-salle",
+    "name": "La Salle University",
+    "shortName": "La Salle",
+    "mascot": "Explorers",
+    "city": "Philadelphia",
+    "state": "PA",
+    "control": "private",
+    "religious": "Catholic (Lasallian)",
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "a10",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 18,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "Financially stressed small Catholic school. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "st-bonaventure",
+    "name": "St. Bonaventure University",
+    "shortName": "St. Bonaventure",
+    "mascot": "Bonnies",
+    "city": "St. Bonaventure",
+    "state": "NY",
+    "control": "private",
+    "religious": "Catholic (Franciscan)",
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "a10",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 35,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 18
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "saint-josephs",
+    "name": "Saint Joseph's University",
+    "shortName": "Saint Joseph's",
+    "mascot": "Hawks",
+    "city": "Philadelphia",
+    "state": "PA",
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "a10",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 35,
+      "wbb": 30,
+      "olympic": 20,
+      "brand": 20
+    },
+    "confidence": "low",
+    "note": "Philadelphia Big 5. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "high-point",
+    "name": "High Point University",
+    "shortName": "High Point",
+    "mascot": "Panthers",
+    "city": "High Point",
+    "state": "NC",
+    "control": "private",
+    "religious": "Methodist",
+    "conference": {
+      "y2026": {
+        "all": "big-south",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-south",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 40,
+      "wbb": 20,
+      "olympic": 18,
+      "brand": 12
+    },
+    "confidence": "low",
+    "note": "Heavy private investment; 2025 NCAA tournament; often mentioned as an upward mover (non-football). Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_South_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "longwood",
+    "name": "Longwood University",
+    "shortName": "Longwood",
+    "mascot": "Lancers",
+    "city": "Farmville",
+    "state": "VA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-south",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "independent-d1",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "D-I independent in 2010; Big South since 2012. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_South_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "radford",
+    "name": "Radford University",
+    "shortName": "Radford",
+    "mascot": "Highlanders",
+    "city": "Radford",
+    "state": "VA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-south",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-south",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_South_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "unc-asheville",
+    "name": "University of North Carolina Asheville",
+    "shortName": "UNC Asheville",
+    "mascot": "Bulldogs",
+    "city": "Asheville",
+    "state": "NC",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-south",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-south",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 12,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_South_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "usc-upstate",
+    "name": "University of South Carolina Upstate",
+    "shortName": "USC Upstate",
+    "mascot": "Spartans",
+    "city": "Spartanburg",
+    "state": "SC",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-south",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "asun",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 12,
+      "wbb": 12,
+      "olympic": 12,
+      "brand": 5
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_South_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "winthrop",
+    "name": "Winthrop University",
+    "shortName": "Winthrop",
+    "mascot": "Eagles",
+    "city": "Rock Hill",
+    "state": "SC",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-south",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-south",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_South_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "cal-state-bakersfield",
+    "name": "California State University, Bakersfield",
+    "shortName": "CSU Bakersfield",
+    "mascot": "Roadrunners",
+    "city": "Bakersfield",
+    "state": "CA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "independent-d1",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 15,
+      "olympic": 20,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "D-I independent in 2010; WAC 2013-2020; Big West since 2020. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "cal-state-fullerton",
+    "name": "California State University, Fullerton",
+    "shortName": "Cal State Fullerton",
+    "mascot": "Titans",
+    "city": "Fullerton",
+    "state": "CA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-west",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 15,
+      "olympic": 35,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "Baseball power (4 CWS titles). Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "cal-state-northridge",
+    "name": "California State University, Northridge",
+    "shortName": "CSUN",
+    "mascot": "Matadors",
+    "city": "Los Angeles",
+    "state": "CA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-west",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 20,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "long-beach-state",
+    "name": "California State University, Long Beach",
+    "shortName": "Long Beach State",
+    "mascot": "Beach",
+    "city": "Long Beach",
+    "state": "CA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-west",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 22,
+      "olympic": 40,
+      "brand": 18
+    },
+    "confidence": "low",
+    "note": "Volleyball/water polo power. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "uc-irvine",
+    "name": "University of California, Irvine",
+    "shortName": "UC Irvine",
+    "mascot": "Anteaters",
+    "city": "Irvine",
+    "state": "CA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-west",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 45,
+      "wbb": 25,
+      "olympic": 35,
+      "brand": 20
+    },
+    "confidence": "low",
+    "note": "AAU member; perennial Big West MBB contender; men's volleyball power. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "uc-riverside",
+    "name": "University of California, Riverside",
+    "shortName": "UC Riverside",
+    "mascot": "Highlanders",
+    "city": "Riverside",
+    "state": "CA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-west",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "uc-san-diego",
+    "name": "University of California San Diego",
+    "shortName": "UC San Diego",
+    "mascot": "Tritons",
+    "city": "San Diego",
+    "state": "CA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "ccaa-d2",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 40,
+      "wbb": 20,
+      "olympic": 25,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "D-II (CCAA) in 2010; D-I since 2020; 2025 NCAA MBB bid. AAU member. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "uc-santa-barbara",
+    "name": "University of California, Santa Barbara",
+    "shortName": "UC Santa Barbara",
+    "mascot": "Gauchos",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-west",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 35,
+      "wbb": 20,
+      "olympic": 35,
+      "brand": 18
+    },
+    "confidence": "low",
+    "note": "AAU member. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "utah-valley",
+    "name": "Utah Valley University",
+    "shortName": "Utah Valley",
+    "mascot": "Wolverines",
+    "city": "Orem",
+    "state": "UT",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "big-west",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "gwc",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Low confidence: moved from WAC to Big West effective 2026-27. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "charleston",
+    "name": "College of Charleston",
+    "shortName": "Charleston",
+    "mascot": "Cougars",
+    "city": "Charleston",
+    "state": "SC",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "caa",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "socon",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 40,
+      "wbb": 15,
+      "olympic": 20,
+      "brand": 20
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Coastal_Athletic_Association",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "drexel",
+    "name": "Drexel University",
+    "shortName": "Drexel",
+    "mascot": "Dragons",
+    "city": "Philadelphia",
+    "state": "PA",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "caa",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "caa",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 30,
+      "olympic": 20,
+      "brand": 12
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Coastal_Athletic_Association",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "hofstra",
+    "name": "Hofstra University",
+    "shortName": "Hofstra",
+    "mascot": "Pride",
+    "city": "Hempstead",
+    "state": "NY",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "caa",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "caa",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 20,
+      "olympic": 18,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "Dropped football after 2009. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Coastal_Athletic_Association",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "northeastern",
+    "name": "Northeastern University",
+    "shortName": "Northeastern",
+    "mascot": "Huskies",
+    "city": "Boston",
+    "state": "MA",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "caa",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "caa",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 15,
+      "olympic": 30,
+      "brand": 18
+    },
+    "confidence": "low",
+    "note": "Dropped football after 2009; Hockey East. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Coastal_Athletic_Association",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "uncw",
+    "name": "University of North Carolina Wilmington",
+    "shortName": "UNCW",
+    "mascot": "Seahawks",
+    "city": "Wilmington",
+    "state": "NC",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "caa",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "caa",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 35,
+      "wbb": 15,
+      "olympic": 18,
+      "brand": 12
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Coastal_Athletic_Association",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "cleveland-state",
+    "name": "Cleveland State University",
+    "shortName": "Cleveland State",
+    "mascot": "Vikings",
+    "city": "Cleveland",
+    "state": "OH",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "horizon",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 22,
+      "wbb": 25,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "detroit-mercy",
+    "name": "University of Detroit Mercy",
+    "shortName": "Detroit Mercy",
+    "mascot": "Titans",
+    "city": "Detroit",
+    "state": "MI",
+    "control": "private",
+    "religious": "Catholic (Jesuit/Sisters of Mercy)",
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "horizon",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 12,
+      "wbb": 10,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "green-bay",
+    "name": "University of Wisconsin–Green Bay",
+    "shortName": "Green Bay",
+    "mascot": "Phoenix",
+    "city": "Green Bay",
+    "state": "WI",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "horizon",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 40,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "WBB perennial Horizon power. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "iu-indianapolis",
+    "name": "Indiana University Indianapolis",
+    "shortName": "IU Indy",
+    "mascot": "Jaguars",
+    "city": "Indianapolis",
+    "state": "IN",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "summit",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 10,
+      "wbb": 15,
+      "olympic": 12,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Formerly IUPUI (split/renamed 2024). Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "milwaukee",
+    "name": "University of Wisconsin–Milwaukee",
+    "shortName": "Milwaukee",
+    "mascot": "Panthers",
+    "city": "Milwaukee",
+    "state": "WI",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "horizon",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "northern-kentucky",
+    "name": "Northern Kentucky University",
+    "shortName": "Northern Kentucky",
+    "mascot": "Norse",
+    "city": "Highland Heights",
+    "state": "KY",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "glvc-d2",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 15,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "D-II in 2010; D-I since 2012. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "oakland",
+    "name": "Oakland University",
+    "shortName": "Oakland",
+    "mascot": "Golden Grizzlies",
+    "city": "Rochester",
+    "state": "MI",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "summit",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 12
+    },
+    "confidence": "low",
+    "note": "2024 NCAA upset of Kentucky. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "purdue-fort-wayne",
+    "name": "Purdue University Fort Wayne",
+    "shortName": "Purdue Fort Wayne",
+    "mascot": "Mastodons",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "summit",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 28,
+      "wbb": 15,
+      "olympic": 12,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Formerly IPFW. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "wright-state",
+    "name": "Wright State University",
+    "shortName": "Wright State",
+    "mascot": "Raiders",
+    "city": "Fairborn",
+    "state": "OH",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "horizon",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 15,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "canisius",
+    "name": "Canisius University",
+    "shortName": "Canisius",
+    "mascot": "Golden Griffins",
+    "city": "Buffalo",
+    "state": "NY",
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 12,
+      "wbb": 12,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "fairfield",
+    "name": "Fairfield University",
+    "shortName": "Fairfield",
+    "mascot": "Stags",
+    "city": "Fairfield",
+    "state": "CT",
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 22,
+      "wbb": 40,
+      "olympic": 15,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "WBB 2023-24 near-unbeaten season. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "iona",
+    "name": "Iona University",
+    "shortName": "Iona",
+    "mascot": "Gaels",
+    "city": "New Rochelle",
+    "state": "NY",
+    "control": "private",
+    "religious": "Catholic (Christian Brothers)",
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "manhattan",
+    "name": "Manhattan University",
+    "shortName": "Manhattan",
+    "mascot": "Jaspers",
+    "city": "Bronx",
+    "state": "NY",
+    "control": "private",
+    "religious": "Catholic (Lasallian)",
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 12,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "mount-st-marys",
+    "name": "Mount St. Mary's University",
+    "shortName": "Mount St. Mary's",
+    "mascot": "Mountaineers",
+    "city": "Emmitsburg",
+    "state": "MD",
+    "control": "private",
+    "religious": "Catholic",
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "nec",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 20,
+      "olympic": 12,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "niagara",
+    "name": "Niagara University",
+    "shortName": "Niagara",
+    "mascot": "Purple Eagles",
+    "city": "Lewiston",
+    "state": "NY",
+    "control": "private",
+    "religious": "Catholic (Vincentian)",
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 12,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "quinnipiac",
+    "name": "Quinnipiac University",
+    "shortName": "Quinnipiac",
+    "mascot": "Bobcats",
+    "city": "Hamden",
+    "state": "CT",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "nec",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 30,
+      "olympic": 30,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "2023 NCAA hockey champion. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "rider",
+    "name": "Rider University",
+    "shortName": "Rider",
+    "mascot": "Broncs",
+    "city": "Lawrenceville",
+    "state": "NJ",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "saint-peters",
+    "name": "Saint Peter's University",
+    "shortName": "Saint Peter's",
+    "mascot": "Peacocks",
+    "city": "Jersey City",
+    "state": "NJ",
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 10,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "2022 Elite Eight as a 15 seed. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "siena",
+    "name": "Siena College",
+    "shortName": "Siena",
+    "mascot": "Saints",
+    "city": "Loudonville",
+    "state": "NY",
+    "control": "private",
+    "religious": "Catholic (Franciscan)",
+    "conference": {
+      "y2026": {
+        "all": "maac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 12,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "coppin-state",
+    "name": "Coppin State University",
+    "shortName": "Coppin State",
+    "mascot": "Eagles",
+    "city": "Baltimore",
+    "state": "MD",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "meac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "meac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 10,
+      "wbb": 10,
+      "olympic": 8,
+      "brand": 5
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mid-Eastern_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "maryland-eastern-shore",
+    "name": "University of Maryland Eastern Shore",
+    "shortName": "Maryland Eastern Shore",
+    "mascot": "Hawks",
+    "city": "Princess Anne",
+    "state": "MD",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "meac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "meac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 8,
+      "wbb": 8,
+      "olympic": 8,
+      "brand": 5
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mid-Eastern_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "belmont",
+    "name": "Belmont University",
+    "shortName": "Belmont",
+    "mascot": "Bruins",
+    "city": "Nashville",
+    "state": "TN",
+    "control": "private",
+    "religious": "Christian (nondenominational)",
+    "conference": {
+      "y2026": {
+        "all": "mvc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "asun",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 35,
+      "wbb": 30,
+      "olympic": 15,
+      "brand": 12
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Missouri_Valley_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "evansville",
+    "name": "University of Evansville",
+    "shortName": "Evansville",
+    "mascot": "Purple Aces",
+    "city": "Evansville",
+    "state": "IN",
+    "control": "private",
+    "religious": "Methodist",
+    "conference": {
+      "y2026": {
+        "all": "mvc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "mvc",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 12,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Missouri_Valley_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "uic",
+    "name": "University of Illinois Chicago",
+    "shortName": "UIC",
+    "mascot": "Flames",
+    "city": "Chicago",
+    "state": "IL",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "mvc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "horizon",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Missouri_Valley_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "chicago-state",
+    "name": "Chicago State University",
+    "shortName": "Chicago State",
+    "mascot": "Cougars",
+    "city": "Chicago",
+    "state": "IL",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "nec",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "gwc",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 8,
+      "wbb": 8,
+      "olympic": 8,
+      "brand": 5
+    },
+    "confidence": "low",
+    "note": "Independent 2022-24 before NEC (2024). Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Northeast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "fairleigh-dickinson",
+    "name": "Fairleigh Dickinson University",
+    "shortName": "FDU",
+    "mascot": "Knights",
+    "city": "Teaneck",
+    "state": "NJ",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "nec",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "nec",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 22,
+      "wbb": 20,
+      "olympic": 10,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "2023 16-over-1 upset of Purdue. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Northeast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "le-moyne",
+    "name": "Le Moyne College",
+    "shortName": "Le Moyne",
+    "mascot": "Dolphins",
+    "city": "Syracuse",
+    "state": "NY",
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "conference": {
+      "y2026": {
+        "all": "nec",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "ne10-d2",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 12,
+      "olympic": 15,
+      "brand": 5
+    },
+    "confidence": "low",
+    "note": "D-II in 2010; D-I since 2023. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Northeast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "little-rock",
+    "name": "University of Arkansas at Little Rock",
+    "shortName": "Little Rock",
+    "mascot": "Trojans",
+    "city": "Little Rock",
+    "state": "AR",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "ovc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "sun-belt",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 22,
+      "olympic": 12,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ohio_Valley_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "siu-edwardsville",
+    "name": "Southern Illinois University Edwardsville",
+    "shortName": "SIU Edwardsville",
+    "mascot": "Cougars",
+    "city": "Edwardsville",
+    "state": "IL",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "ovc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "ovc",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "2025 NCAA MBB bid. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ohio_Valley_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "southern-indiana",
+    "name": "University of Southern Indiana",
+    "shortName": "Southern Indiana",
+    "mascot": "Screaming Eagles",
+    "city": "Evansville",
+    "state": "IN",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "ovc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "glvc-d2",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 18,
+      "wbb": 20,
+      "olympic": 12,
+      "brand": 6
+    },
+    "confidence": "low",
+    "note": "D-II in 2010; D-I since 2022. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ohio_Valley_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "american-university",
+    "name": "American University",
+    "shortName": "American",
+    "mascot": "Eagles",
+    "city": "Washington",
+    "state": "DC",
+    "control": "private",
+    "religious": "Methodist",
+    "conference": {
+      "y2026": {
+        "all": "patriot",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "patriot",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 22,
+      "wbb": 20,
+      "olympic": 18,
+      "brand": 12
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Patriot_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "boston-university",
+    "name": "Boston University",
+    "shortName": "Boston University",
+    "mascot": "Terriers",
+    "city": "Boston",
+    "state": "MA",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "patriot",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "america-east",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 22,
+      "wbb": 15,
+      "olympic": 30,
+      "brand": 18
+    },
+    "confidence": "low",
+    "note": "Hockey East power. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Patriot_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "loyola-maryland",
+    "name": "Loyola University Maryland",
+    "shortName": "Loyola Maryland",
+    "mascot": "Greyhounds",
+    "city": "Baltimore",
+    "state": "MD",
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "conference": {
+      "y2026": {
+        "all": "patriot",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "maac",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 18,
+      "wbb": 15,
+      "olympic": 25,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Lacrosse power (2012 champion). Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Patriot_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "unc-greensboro",
+    "name": "University of North Carolina at Greensboro",
+    "shortName": "UNC Greensboro",
+    "mascot": "Spartans",
+    "city": "Greensboro",
+    "state": "NC",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "socon",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "socon",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southern_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "new-orleans",
+    "name": "University of New Orleans",
+    "shortName": "New Orleans",
+    "mascot": "Privateers",
+    "city": "New Orleans",
+    "state": "LA",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "southland",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "independent-d1",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 10,
+      "olympic": 10,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Low confidence on 2010 status (left Sun Belt, briefly pursued D-II, returned to D-I independence). Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southland_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "texas-am-corpus-christi",
+    "name": "Texas A&M University–Corpus Christi",
+    "shortName": "Texas A&M-Corpus Christi",
+    "mascot": "Islanders",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "southland",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "southland",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 12,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southland_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "kansas-city",
+    "name": "University of Missouri–Kansas City",
+    "shortName": "Kansas City",
+    "mascot": "Roos",
+    "city": "Kansas City",
+    "state": "MO",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "summit",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "summit",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 12,
+      "wbb": 12,
+      "olympic": 12,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Summit_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "omaha",
+    "name": "University of Nebraska Omaha",
+    "shortName": "Omaha",
+    "mascot": "Mavericks",
+    "city": "Omaha",
+    "state": "NE",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "summit",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "miaa-d2",
+        "football": "miaa-d2",
+        "level": "D-II"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 15,
+      "olympic": 25,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "D-II with football in 2010; dropped football and moved to D-I in 2011. NCHC hockey. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Summit_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "oral-roberts",
+    "name": "Oral Roberts University",
+    "shortName": "Oral Roberts",
+    "mascot": "Golden Eagles",
+    "city": "Tulsa",
+    "state": "OK",
+    "control": "private",
+    "religious": "Christian (charismatic)",
+    "conference": {
+      "y2026": {
+        "all": "summit",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "summit",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 12,
+      "olympic": 12,
+      "brand": 12
+    },
+    "confidence": "low",
+    "note": "2021 Sweet 16 as a 15 seed. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Summit_League",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "cal-baptist",
+    "name": "California Baptist University",
+    "shortName": "Cal Baptist",
+    "mascot": "Lancers",
+    "city": "Riverside",
+    "state": "CA",
+    "control": "private",
+    "religious": "Baptist (Southern Baptist)",
+    "conference": {
+      "y2026": {
+        "all": "wac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "gsac-naia",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 20,
+      "wbb": 22,
+      "olympic": 15,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "NAIA in 2010; D-II 2011; D-I since 2018. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "ut-arlington",
+    "name": "University of Texas at Arlington",
+    "shortName": "UT Arlington",
+    "mascot": "Mavericks",
+    "city": "Arlington",
+    "state": "TX",
+    "control": "public",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "wac",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "southland",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 22,
+      "wbb": 15,
+      "olympic": 15,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Sun Belt 2013-22; WAC since 2022. DFW market; no football since 1985. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "loyola-marymount",
+    "name": "Loyola Marymount University",
+    "shortName": "LMU",
+    "mascot": "Lions",
+    "city": "Los Angeles",
+    "state": "CA",
+    "control": "private",
+    "religious": "Catholic (Jesuit/Marymount)",
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "wcc",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 30,
+      "wbb": 20,
+      "olympic": 20,
+      "brand": 12
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "pacific",
+    "name": "University of the Pacific",
+    "shortName": "Pacific",
+    "mascot": "Tigers",
+    "city": "Stockton",
+    "state": "CA",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-west",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 10,
+      "wbb": 12,
+      "olympic": 18,
+      "brand": 8
+    },
+    "confidence": "low",
+    "note": "Methodist heritage (independent since 1969). Dropped football 1995. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "pepperdine",
+    "name": "Pepperdine University",
+    "shortName": "Pepperdine",
+    "mascot": "Waves",
+    "city": "Malibu",
+    "state": "CA",
+    "control": "private",
+    "religious": "Churches of Christ",
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "wcc",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 18,
+      "wbb": 15,
+      "olympic": 35,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "portland",
+    "name": "University of Portland",
+    "shortName": "Portland",
+    "mascot": "Pilots",
+    "city": "Portland",
+    "state": "OR",
+    "control": "private",
+    "religious": "Catholic (Holy Cross)",
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "wcc",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 30,
+      "olympic": 25,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "Women's soccer/WBB strengths. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "seattle-u",
+    "name": "Seattle University",
+    "shortName": "Seattle U",
+    "mascot": "Redhawks",
+    "city": "Seattle",
+    "state": "WA",
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "independent-d1",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 25,
+      "wbb": 12,
+      "olympic": 15,
+      "brand": 10
+    },
+    "confidence": "low",
+    "note": "WAC 2012-25; joined WCC 2025. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  },
+  {
+    "id": "denver",
+    "name": "University of Denver",
+    "shortName": "Denver",
+    "mascot": "Pioneers",
+    "city": "Denver",
+    "state": "CO",
+    "control": "private",
+    "religious": null,
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "sun-belt",
+        "football": null,
+        "level": "none"
+      }
+    },
+    "ratings": {
+      "mbb": 15,
+      "wbb": 15,
+      "olympic": 40,
+      "brand": 15
+    },
+    "confidence": "low",
+    "note": "Low confidence: moved from Summit League to WCC for 2026-27. Hockey (NCHC) and lacrosse power; Sun Belt member (non-football) in 2010. Minimal record; ratings rough estimates; compiled without live web verification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
+    ]
+  }
+]

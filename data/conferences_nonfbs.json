@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "big-sky",
+    "name": "Big Sky Conference",
+    "shortName": "Big Sky",
+    "founded": 1963,
+    "hq": {
+      "city": "Ogden",
+      "state": "UT",
+      "confidence": "low"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "tom-wistrcill",
+      "name": "Tom Wistrcill",
+      "since": 2017,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Tenure believed ongoing; Compiled without live web verification (session search budget exhausted, web fetch blocked); verify before relying on it."
+    },
+    "members2026": {
+      "full": [
+        "eastern-washington",
+        "idaho",
+        "idaho-state",
+        "montana",
+        "montana-state",
+        "northern-arizona",
+        "northern-colorado",
+        "portland-state",
+        "weber-state",
+        "sacramento-state"
+      ],
+      "footballOnly": [
+        "cal-poly",
+        "uc-davis"
+      ],
+      "nonFootball": [
+        "sacramento-state"
+      ],
+      "affiliates": [
+        {
+          "school": "cal-poly",
+          "sports": [
+            "football"
+          ]
+        },
+        {
+          "school": "uc-davis",
+          "sports": [
+            "football"
+          ]
+        }
+      ]
+    },
+    "recentChanges": [
+      {
+        "school": "sacramento-state",
+        "change": "football leaves for FBS (MAC football-only affiliate)",
+        "effective": "2026-07-01",
+        "notes": "Played 2025 as an FBS-transition independent. Low confidence that Sac State's other sports remain in the Big Sky for 2026-27."
+      }
+    ],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "11 teams, no divisions, 8-game partial round robin",
+      "autoBid": true,
+      "footballMembers": 11,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "mbbTournament": {
+      "venue": "Idaho Central Arena",
+      "city": "Boise",
+      "state": "ID",
+      "through": null,
+      "confidence": "low"
+    },
+    "notes": "Premier western FCS league (Montana, Montana State, Idaho, UC Davis are top-10-caliber FCS programs). Lost Sacramento State football to FBS in 2026; the Montana schools, Idaho and UC Davis are perennial FBS (Mountain West/Pac-12) candidates, so stability depends on western FBS realignment. Huge geographic footprint, high travel costs. Media: ESPN+ / regional TV (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Sky_Conference",
+      "https://bigskyconf.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "caa",
+    "name": "Coastal Athletic Association (incl. CAA Football)",
+    "shortName": "CAA",
+    "founded": 1983,
+    "hq": {
+      "city": "Richmond",
+      "state": "VA"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "joe-dantonio",
+      "name": "Joe D'Antonio",
+      "since": 2017,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Ex-Big East staffer; tenure believed ongoing. Compiled without live web verification (session search budget exhausted, web fetch blocked); verify before relying on it."
+    },
+    "members2026": {
+      "full": [
+        "campbell",
+        "charleston",
+        "drexel",
+        "elon",
+        "hampton",
+        "hofstra",
+        "monmouth",
+        "north-carolina-at",
+        "northeastern",
+        "stony-brook",
+        "towson",
+        "uncw",
+        "william-mary"
+      ],
+      "footballOnly": [
+        "albany",
+        "bryant",
+        "maine",
+        "new-hampshire",
+        "rhode-island",
+        "villanova"
+      ],
+      "nonFootball": [
+        "charleston",
+        "drexel",
+        "hofstra",
+        "northeastern",
+        "uncw",
+        "william-mary"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "delaware",
+        "change": "left for Conference USA (FBS)",
+        "effective": "2025-07-01",
+        "notes": "FBS transition 2025-26."
+      },
+      {
+        "school": "richmond",
+        "change": "football to Patriot League (football-only)",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — verify."
+      },
+      {
+        "school": "william-mary",
+        "change": "football to Patriot League (football-only); other sports stay CAA",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — verify."
+      }
+    ],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "CAA Football is a separately administered football league under the CAA umbrella; 13 teams (if Richmond/W&M departed), no divisions",
+      "autoBid": true,
+      "footballMembers": 13,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "mbbTournament": {
+      "venue": "CareFirst Arena (Entertainment & Sports Arena)",
+      "city": "Washington",
+      "state": "DC",
+      "through": null,
+      "confidence": "low"
+    },
+    "notes": "Renamed from Colonial Athletic Association in 2023. Has been the biggest FCS feeder to FBS: Old Dominion (2014), Georgia State (2013), Appalachian/Georgia Southern (via SoCon), JMU (2022), Delaware (2025). Backfilled with Hampton, Monmouth, NC A&T (2022), Campbell (2023). Footprint Maine to Carolinas; budgets uneven. Villanova (Big East) is the marquee football affiliate. Media: FloSports streaming with CBS Sports Network windows (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Coastal_Athletic_Association",
+      "https://en.wikipedia.org/wiki/CAA_Football",
+      "https://caasports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "ivy",
+    "name": "Ivy League (Council of Ivy Group Presidents)",
+    "shortName": "Ivy",
+    "founded": 1954,
+    "hq": {
+      "city": "Princeton",
+      "state": "NJ"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "robin-harris",
+      "name": "Robin Harris",
+      "since": 2009,
+      "background": "attorney",
+      "contractThrough": null,
+      "note": "Executive director since 2009; former attorney/NCAA counsel background."
+    },
+    "members2026": {
+      "full": [
+        "brown",
+        "columbia",
+        "cornell",
+        "dartmouth",
+        "harvard",
+        "penn",
+        "princeton",
+        "yale"
+      ],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 7,
+      "format": "8-team round robin; 10-game schedule",
+      "autoBid": false,
+      "footballMembers": 8,
+      "championshipGame": null,
+      "schedulingAlliances": [],
+      "notes": "Historically declined FCS playoff participation; reports in 2024-25 indicated the league would begin allowing its champion into the FCS playoffs — low confidence, verify."
+    },
+    "notes": "No athletic scholarships (need-based aid only); academically driven, extremely stable. Media: ESPN (ESPN+) deal. Ivy Madness basketball tournament rotates among campuses. Not a realignment target or source in the game except as a 'prestige' scheduling partner.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ivy_League",
+      "https://ivyleague.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "meac",
+    "name": "Mid-Eastern Athletic Conference",
+    "shortName": "MEAC",
+    "founded": 1970,
+    "hq": {
+      "city": "Norfolk",
+      "state": "VA"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "sonja-stills",
+      "name": "Sonja Stills",
+      "since": 2021,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low"
+    },
+    "members2026": {
+      "full": [
+        "coppin-state",
+        "delaware-state",
+        "howard",
+        "maryland-eastern-shore",
+        "morgan-state",
+        "norfolk-state",
+        "north-carolina-central",
+        "south-carolina-state"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "coppin-state",
+        "maryland-eastern-shore"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 5,
+      "format": "6-team round robin",
+      "autoBid": false,
+      "footballMembers": 6,
+      "championshipGame": null,
+      "schedulingAlliances": [],
+      "notes": "Champion plays the SWAC champion in the Celebration Bowl (Atlanta) instead of entering the FCS playoffs."
+    },
+    "notes": "HBCU conference. Lost Florida A&M and Bethune-Cookman (SWAC, 2021), NC A&T (Big South 2021, then CAA), Hampton (2018), Savannah State (D-II, 2019). Six football members is the minimum for a viable FCS league — the most at-risk FCS football league numerically. Media: ESPN partnership; Celebration Bowl on ABC.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mid-Eastern_Athletic_Conference",
+      "https://meacsports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "mvfc",
+    "name": "Missouri Valley Football Conference",
+    "shortName": "MVFC",
+    "founded": 1985,
+    "hq": {
+      "city": "St. Louis",
+      "state": "MO"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "patty-viverito",
+      "name": "Patty Viverito",
+      "since": 1985,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Long-time commissioner of the Gateway/MVFC and Pioneer Football League; reported to be at/near retirement — verify whether a successor took over in 2024-26. Compiled without live web verification (session search budget exhausted, web fetch blocked); verify before relying on it."
+    },
+    "members2026": {
+      "full": [
+        "illinois-state",
+        "indiana-state",
+        "murray-state",
+        "north-dakota",
+        "northern-iowa",
+        "south-dakota",
+        "south-dakota-state",
+        "southern-illinois",
+        "youngstown-state"
+      ],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "missouri-state",
+        "change": "left for Conference USA (FBS)",
+        "effective": "2025-07-01",
+        "notes": ""
+      },
+      {
+        "school": "north-dakota-state",
+        "change": "left for Mountain West (football-only, FBS)",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — the design brief lists NDSU in the Mountain West; verify. If NDSU stayed, add it back here (10 members)."
+      }
+    ],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "9-team round robin (10 with NDSU)",
+      "autoBid": true,
+      "footballMembers": 9,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "notes": "Football-only league (members' other sports are in MVC, Summit, Horizon). Strongest FCS conference of the 2010s-2020s (NDSU 9 titles 2011-2021 + 2024; SDSU 2022-23). Losing NDSU and Missouri State makes it the main source of the next FBS move-ups (South Dakota State, UND, UNI). Shares St. Louis offices with the Missouri Valley Conference and Pioneer Football League.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Missouri_Valley_Football_Conference",
+      "https://valley-football.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "nec",
+    "name": "Northeast Conference",
+    "shortName": "NEC",
+    "founded": 1981,
+    "hq": {
+      "city": "Somerset",
+      "state": "NJ",
+      "confidence": "low"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "noreen-morris",
+      "name": "Noreen Morris",
+      "since": 2010,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low"
+    },
+    "members2026": {
+      "full": [
+        "central-connecticut",
+        "chicago-state",
+        "fairleigh-dickinson",
+        "le-moyne",
+        "liu",
+        "mercyhurst",
+        "new-haven",
+        "stonehill",
+        "wagner"
+      ],
+      "footballOnly": [
+        "duquesne",
+        "robert-morris"
+      ],
+      "nonFootball": [
+        "chicago-state",
+        "fairleigh-dickinson",
+        "le-moyne"
+      ],
+      "affiliates": [
+        {
+          "school": "duquesne",
+          "sports": [
+            "football"
+          ]
+        },
+        {
+          "school": "robert-morris",
+          "sports": [
+            "football"
+          ]
+        }
+      ]
+    },
+    "recentChanges": [
+      {
+        "school": "saint-francis-pa",
+        "change": "left Division I for Division III",
+        "effective": "2026-07-01",
+        "notes": "Announced 2025 citing post-House financial model; low confidence on exact effective year."
+      },
+      {
+        "school": "new-haven",
+        "change": "joined from D-II",
+        "effective": "2025-07-01",
+        "notes": ""
+      },
+      {
+        "school": "mercyhurst",
+        "change": "joined from D-II",
+        "effective": "2024-07-01",
+        "notes": ""
+      },
+      {
+        "school": "chicago-state",
+        "change": "joined (non-football)",
+        "effective": "2024-07-01",
+        "notes": ""
+      },
+      {
+        "school": "merrimack",
+        "change": "left for MAAC",
+        "effective": "2024-07-01",
+        "notes": "Football became FCS independent."
+      },
+      {
+        "school": "sacred-heart",
+        "change": "left for MAAC",
+        "effective": "2024-07-01",
+        "notes": "Football became FCS independent."
+      },
+      {
+        "school": "robert-morris",
+        "change": "football rejoined as affiliate",
+        "effective": "2025-07-01",
+        "notes": "Low confidence."
+      }
+    ],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 7,
+      "format": "8-team round robin incl. two affiliates",
+      "autoBid": true,
+      "footballMembers": 8,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "notes": "Lowest-resourced FCS league in the Northeast; survives by recruiting D-II up-movers (Stonehill, Le Moyne, Mercyhurst, New Haven). Lost Saint Francis (D-III), Merrimack and Sacred Heart (MAAC). Football depends on affiliates Duquesne and Robert Morris — at risk if either leaves. FDU's 2023 upset of Purdue is the league's signature moment.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Northeast_Conference",
+      "https://northeastconference.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "big-south-ovc",
+    "name": "Big South–OVC Football Association",
+    "shortName": "Big South-OVC",
+    "founded": 2023,
+    "hq": {
+      "city": "Brentwood",
+      "state": "TN",
+      "confidence": "low"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "beth-debauche",
+      "name": "Beth DeBauche",
+      "since": 2023,
+      "background": "attorney",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Football association jointly administered by the OVC (Beth DeBauche) and Big South (Sherika Montgomery) offices; no separate commissioner. 'since' = association start."
+    },
+    "members2026": {
+      "full": [
+        "charleston-southern",
+        "eastern-illinois",
+        "gardner-webb",
+        "lindenwood",
+        "southeast-missouri-state",
+        "tennessee-state",
+        "tennessee-tech",
+        "ut-martin",
+        "western-illinois"
+      ],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "robert-morris",
+        "change": "football left for NEC",
+        "effective": "2025-07-01",
+        "notes": "Low confidence."
+      },
+      {
+        "school": "bryant",
+        "change": "football left for CAA",
+        "effective": "2023-07-01",
+        "notes": ""
+      },
+      {
+        "school": "kennesaw-state",
+        "change": "left for FBS (CUSA)",
+        "effective": "2024-07-01",
+        "notes": "Kennesaw was Big South football before the association formed."
+      }
+    ],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "9-team round robin",
+      "autoBid": true,
+      "footballMembers": 9,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "notes": "Formed because neither the Big South (2 football schools) nor the OVC (7) could sustain a full FCS league alone after losses to FBS (Liberty, Kennesaw, Jacksonville State, EKU/Austin Peay to ASUN). Single automatic bid. Fragile by construction: any 3-4 departures break it.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_South–OVC_Football_Association",
+      "https://ovcsports.com",
+      "https://bigsouthsports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "patriot",
+    "name": "Patriot League",
+    "shortName": "Patriot",
+    "founded": 1986,
+    "hq": {
+      "city": "Center Valley",
+      "state": "PA"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "jennifer-heppel",
+      "name": "Jennifer Heppel",
+      "since": 2015,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low"
+    },
+    "members2026": {
+      "full": [
+        "american-university",
+        "army",
+        "boston-university",
+        "bucknell",
+        "colgate",
+        "holy-cross",
+        "lafayette",
+        "lehigh",
+        "loyola-maryland",
+        "navy"
+      ],
+      "footballOnly": [
+        "fordham",
+        "georgetown",
+        "richmond",
+        "william-mary"
+      ],
+      "nonFootball": [
+        "american-university",
+        "army",
+        "boston-university",
+        "loyola-maryland",
+        "navy"
+      ],
+      "affiliates": [
+        {
+          "school": "fordham",
+          "sports": [
+            "football"
+          ]
+        },
+        {
+          "school": "georgetown",
+          "sports": [
+            "football"
+          ]
+        },
+        {
+          "school": "richmond",
+          "sports": [
+            "football"
+          ]
+        },
+        {
+          "school": "william-mary",
+          "sports": [
+            "football"
+          ]
+        }
+      ]
+    },
+    "recentChanges": [
+      {
+        "school": "richmond",
+        "change": "joined as football-only member (from CAA)",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — verify."
+      },
+      {
+        "school": "william-mary",
+        "change": "joined as football-only member (from CAA)",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — verify."
+      }
+    ],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "9-team round robin if Richmond/W&M joined (7 teams/6 games otherwise)",
+      "autoBid": true,
+      "footballMembers": 9,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "notes": "Founded as the Colonial League (football) in 1986; full athletic scholarships in football only since 2013. Academic-index league; Army and Navy are full members whose football plays FBS in the American. Stable, conservative, low-cost; attractive to academically selective CAA schools. Media: CBS Sports Network/ESPN+ (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Patriot_League",
+      "https://patriotleague.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "pioneer",
+    "name": "Pioneer Football League",
+    "shortName": "Pioneer",
+    "founded": 1991,
+    "hq": {
+      "city": "St. Louis",
+      "state": "MO"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "patty-viverito",
+      "name": "Patty Viverito",
+      "since": 1991,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "PFL commissioner since founding (administered from the MVFC/MVC offices); verify whether still in office."
+    },
+    "members2026": {
+      "full": [
+        "butler",
+        "davidson",
+        "dayton",
+        "drake",
+        "marist",
+        "morehead-state",
+        "presbyterian",
+        "san-diego",
+        "st-thomas",
+        "stetson",
+        "valparaiso"
+      ],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "11 teams, 8-game partial round robin; non-scholarship football",
+      "autoBid": true,
+      "footballMembers": 11,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "notes": "Football-only, non-scholarship league whose members' other sports are in the Big East, A-10, MVC, MAAC, OVC, Big South, WCC, Summit, ASUN. First played 1993; auto bid since 2013. Coast-to-coast travel is a cost problem; St. Thomas dominance since 2022. Very low budgets — exits would be to D-III/dropping football rather than moving up.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pioneer_Football_League",
+      "https://pioneer-football.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "socon",
+    "name": "Southern Conference",
+    "shortName": "SoCon",
+    "founded": 1921,
+    "hq": {
+      "city": "Spartanburg",
+      "state": "SC"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "michael-cragg",
+      "name": "Michael Cragg",
+      "since": 2023,
+      "background": "former-ad",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Believed to have succeeded Jim Schaus (2020-23); verify. Compiled without live web verification (session search budget exhausted, web fetch blocked); verify before relying on it."
+    },
+    "members2026": {
+      "full": [
+        "chattanooga",
+        "citadel",
+        "east-tennessee-state",
+        "furman",
+        "mercer",
+        "samford",
+        "unc-greensboro",
+        "vmi",
+        "western-carolina",
+        "wofford"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "unc-greensboro"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "9-team round robin",
+      "autoBid": true,
+      "footballMembers": 9,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "notes": "Fourth-oldest conference; historically the parent of the ACC and SEC. Lost Appalachian State and Georgia Southern (Sun Belt/FBS, 2014), Elon (CAA), Davidson and College of Charleston; rebuilt with ETSU, Mercer and VMI (2014). Chattanooga is the most plausible FBS mover. Media: ESPN+ (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southern_Conference",
+      "https://soconsports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "southland",
+    "name": "Southland Conference",
+    "shortName": "Southland",
+    "founded": 1963,
+    "hq": {
+      "city": "Frisco",
+      "state": "TX"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "chris-grant",
+      "name": "Chris Grant",
+      "since": 2022,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low"
+    },
+    "members2026": {
+      "full": [
+        "east-texas-am",
+        "houston-christian",
+        "incarnate-word",
+        "lamar",
+        "mcneese",
+        "new-orleans",
+        "nicholls",
+        "northwestern-state",
+        "southeastern-louisiana",
+        "stephen-f-austin",
+        "texas-am-corpus-christi",
+        "utrgv"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "new-orleans",
+        "texas-am-corpus-christi"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "utrgv",
+        "change": "joined (football began 2025)",
+        "effective": "2024-07-01",
+        "notes": "Low confidence on exact all-sports entry year."
+      },
+      {
+        "school": "stephen-f-austin",
+        "change": "returned from WAC",
+        "effective": "2024-07-01",
+        "notes": ""
+      },
+      {
+        "school": "lamar",
+        "change": "returned from WAC",
+        "effective": "2023-07-01",
+        "notes": "Low confidence on year."
+      }
+    ],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "10 teams, no divisions",
+      "autoBid": true,
+      "footballMembers": 10,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "notes": "Raided in 2021 when the WAC took Abilene Christian, Lamar, Sam Houston, SFA and Central Arkansas (football via ASUN-WAC); Lamar and SFA came back. Sam Houston, Texas State, UTSA (earlier) moved to FBS. Texas/Louisiana footprint; Louisiana schools face state budget pressure. Media: ESPN+ (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southland_Conference",
+      "https://southland.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "swac",
+    "name": "Southwestern Athletic Conference",
+    "shortName": "SWAC",
+    "founded": 1920,
+    "hq": {
+      "city": "Birmingham",
+      "state": "AL"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "charles-mcclelland",
+      "name": "Charles McClelland",
+      "since": 2018,
+      "background": "former-ad",
+      "contractThrough": null,
+      "note": "Former Texas Southern athletic director."
+    },
+    "members2026": {
+      "full": [
+        "alabama-am",
+        "alabama-state",
+        "alcorn-state",
+        "arkansas-pine-bluff",
+        "bethune-cookman",
+        "florida-am",
+        "grambling-state",
+        "jackson-state",
+        "mississippi-valley-state",
+        "prairie-view-am",
+        "southern",
+        "texas-southern"
+      ],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "Two 6-team divisions (East/West) with SWAC Championship Game",
+      "autoBid": false,
+      "footballMembers": 12,
+      "championshipGame": {
+        "venue": "Higher seed hosts",
+        "city": null,
+        "state": null,
+        "through": null
+      },
+      "schedulingAlliances": [],
+      "notes": "Champion plays MEAC champion in the Celebration Bowl; classics (Bayou Classic, Magic City Classic, State Fair Classic, Florida Classic) drive revenue."
+    },
+    "notes": "Largest HBCU conference; leads FCS in attendance via neutral-site classics and Jackson State. Deion Sanders era (2020-22) raised national profile. Added FAMU and Bethune-Cookman in 2021. Stable membership; financial fragility at some members (MVSU, UAPB). Media: ESPN deal; HBCU GO.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southwestern_Athletic_Conference",
+      "https://swac.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "uac",
+    "name": "United Athletic Conference",
+    "shortName": "UAC",
+    "founded": 2023,
+    "hq": {
+      "city": "Englewood",
+      "state": "CO",
+      "confidence": "low"
+    },
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "rich-hilton",
+      "name": "Rich Hilton",
+      "since": 2023,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "UAC is the ASUN-WAC football partnership, administered through the WAC/ASUN offices; commissioner identity unverified (see WAC record)."
+    },
+    "members2026": {
+      "full": [
+        "abilene-christian",
+        "austin-peay",
+        "central-arkansas",
+        "eastern-kentucky",
+        "north-alabama",
+        "southern-utah",
+        "tarleton-state",
+        "utah-tech",
+        "west-georgia"
+      ],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "west-georgia",
+        "change": "joined",
+        "effective": "2024-07-01",
+        "notes": ""
+      },
+      {
+        "school": "kennesaw-state",
+        "change": "left for FBS before UAC formed (was ASUN football)",
+        "effective": "2024-07-01",
+        "notes": ""
+      }
+    ],
+    "pendingChanges": [],
+    "football": {
+      "conferenceGames": 8,
+      "format": "9-team round robin",
+      "autoBid": true,
+      "footballMembers": 9,
+      "championshipGame": null,
+      "schedulingAlliances": []
+    },
+    "notes": "Football-only partnership formed 2023 from the ASUN and WAC football leagues (ASUN: Austin Peay, Central Arkansas, EKU, North Alabama, West Georgia; WAC: Abilene Christian, Southern Utah, Tarleton, Utah Tech). Spans Georgia to Utah. Low confidence: reports that the WAC would rebrand as the UAC for all sports — verify. Tarleton and Abilene Christian are the most FBS-ambitious members.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/United_Athletic_Conference",
+      "https://wacsports.com",
+      "https://asunsports.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "america-east",
+    "name": "America East Conference",
+    "shortName": "America East",
+    "founded": 1979,
+    "hq": {
+      "city": "Cambridge",
+      "state": "MA",
+      "confidence": "low"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "amy-huchthausen",
+      "name": "Amy Huchthausen",
+      "since": 2013,
+      "background": "other",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Former NCAA championships staffer. Tenure not re-verified for 2024-26."
+    },
+    "members2026": {
+      "full": [
+        "albany",
+        "binghamton",
+        "bryant",
+        "maine",
+        "new-hampshire",
+        "njit",
+        "umass-lowell",
+        "umbc",
+        "vermont"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "albany",
+        "binghamton",
+        "bryant",
+        "maine",
+        "new-hampshire",
+        "njit",
+        "umass-lowell",
+        "umbc",
+        "vermont"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "notes": "Founded as ECAC North. Lost Hartford (dropped to D-III, 2023) and Stony Brook (CAA, 2022); added Bryant (2022). Football-playing members (Albany, Bryant, Maine, UNH) play CAA Football. One-bid basketball league; Vermont is the anchor. Media: ESPN+.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/America_East_Conference",
+      "https://americaeast.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "asun",
+    "name": "ASUN Conference",
+    "shortName": "ASUN",
+    "founded": 1978,
+    "hq": {
+      "city": "Atlanta",
+      "state": "GA"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "jeff-bacon",
+      "name": "Jeff Bacon",
+      "since": 2019,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low"
+    },
+    "members2026": {
+      "full": [
+        "austin-peay",
+        "bellarmine",
+        "central-arkansas",
+        "eastern-kentucky",
+        "florida-gulf-coast",
+        "jacksonville",
+        "lipscomb",
+        "north-alabama",
+        "north-florida",
+        "queens",
+        "stetson",
+        "west-georgia"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "austin-peay",
+        "bellarmine",
+        "central-arkansas",
+        "eastern-kentucky",
+        "florida-gulf-coast",
+        "jacksonville",
+        "lipscomb",
+        "north-alabama",
+        "north-florida",
+        "queens",
+        "stetson",
+        "west-georgia"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "kennesaw-state",
+        "change": "left for Conference USA",
+        "effective": "2024-07-01",
+        "notes": ""
+      },
+      {
+        "school": "west-georgia",
+        "change": "joined from D-II",
+        "effective": "2024-07-01",
+        "notes": ""
+      }
+    ],
+    "pendingChanges": [],
+    "notes": "Formerly Trans America Athletic Conference / Atlantic Sun. Has served as the launch pad for FBS move-ups (Jacksonville State 2023, Kennesaw State 2024, Liberty earlier via Big South). Football via the UAC (Austin Peay, UCA, EKU, UNA, UWG) and Pioneer (Stetson). Media: ESPN+.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://asunsports.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "a10",
+    "name": "Atlantic 10 Conference",
+    "shortName": "A-10",
+    "founded": 1975,
+    "hq": {
+      "city": "Newport News",
+      "state": "VA"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "bernadette-mcglade",
+      "name": "Bernadette McGlade",
+      "since": 2008,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Former ACC associate commissioner. Long tenure — verify whether she retired/was succeeded in 2024-26."
+    },
+    "members2026": {
+      "full": [
+        "davidson",
+        "dayton",
+        "duquesne",
+        "fordham",
+        "george-mason",
+        "george-washington",
+        "la-salle",
+        "loyola-chicago",
+        "rhode-island",
+        "richmond",
+        "st-bonaventure",
+        "saint-josephs",
+        "saint-louis",
+        "vcu"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "davidson",
+        "dayton",
+        "duquesne",
+        "fordham",
+        "george-mason",
+        "george-washington",
+        "la-salle",
+        "loyola-chicago",
+        "rhode-island",
+        "richmond",
+        "st-bonaventure",
+        "saint-josephs",
+        "saint-louis",
+        "vcu"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "massachusetts",
+        "change": "left for MAC (all sports)",
+        "effective": "2025-07-01",
+        "notes": ""
+      }
+    ],
+    "pendingChanges": [],
+    "mbbTournament": {
+      "venue": null,
+      "city": null,
+      "state": null,
+      "through": null,
+      "notes": "Rotated between Barclays Center (Brooklyn) and Capital One Arena (DC) in recent years — low confidence."
+    },
+    "notes": "Best non-football basketball league after the Big East/WCC tier; multi-bid in good years (Dayton, VCU, Saint Louis, Loyola Chicago). No football sponsorship: Davidson/Dayton (Pioneer), Duquesne (NEC), Fordham/Richmond (Patriot), Rhode Island (CAA). Media: CBS Sports, ESPN, USA Network/NBCU package through ~2027-28 (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference",
+      "https://atlantic10.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "big-east",
+    "name": "Big East Conference",
+    "shortName": "Big East",
+    "founded": 2013,
+    "hq": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "val-ackerman",
+      "name": "Val Ackerman",
+      "since": 2013,
+      "background": "pro-league-exec",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Founding commissioner of the reconstituted Big East (2013); first WNBA president, former NBA executive, attorney by training. Status as of 2026-11 not re-verified (search budget exhausted) — she has been the subject of succession speculation after 13 years; if a successor was named in 2025-26, replace this record."
+    },
+    "members2026": {
+      "full": [
+        "butler",
+        "creighton",
+        "depaul",
+        "georgetown",
+        "marquette",
+        "providence",
+        "st-johns",
+        "seton-hall",
+        "uconn",
+        "villanova",
+        "xavier"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "butler",
+        "creighton",
+        "depaul",
+        "georgetown",
+        "marquette",
+        "providence",
+        "st-johns",
+        "seton-hall",
+        "uconn",
+        "villanova",
+        "xavier"
+      ],
+      "affiliates": [],
+      "notes": "Football: UConn FBS independent; Villanova CAA Football (FCS); Georgetown Patriot League (FCS); Butler Pioneer (FCS). The league also has single-sport affiliates in sports such as field hockey and lacrosse (not enumerated)."
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "governance": {
+      "board": "Board of Directors (member presidents)",
+      "expansionVoteThreshold": null,
+      "expansionVoteFraction": null,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "Catholic-7 schools bought the Big East name and MSG tournament rights in the 2013 split; the football-playing charter became the American (big-east-2010 lineage)."
+    },
+    "mediaDeal": {
+      "summary": "FOX Sports has been lead partner since the 2013 re-formation (original 12-year deal, ~$500M). In 2023 the league renewed for six years through 2030-31 with FOX as primary rightsholder and added NBCUniversal (NBC/Peacock) — and reportedly TNT Sports — as secondary partners. Total annual value not verified.",
+      "partners": [
+        "fox",
+        "nbc",
+        "tnt"
+      ],
+      "through": 2031,
+      "confidence": "low"
+    },
+    "mbbTournament": {
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "through": null
+    },
+    "wbbTournament": {
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state": "CT",
+      "through": null,
+      "confidence": "low"
+    },
+    "mediaDays": {
+      "city": "New York",
+      "state": "NY",
+      "dates2026": null
+    },
+    "notes": "Basketball-first power league (UConn 2023 & 2024 national champions; Villanova 2016/2018). Highest-revenue non-FBS conference; regularly multi-bid. Founded 1979; the current legal entity dates to 2013. Stable; UConn football independence and potential P4 courtship of UConn/others are the main storylines.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://www.bigeast.com"
+    ]
+  },
+  {
+    "id": "big-south",
+    "name": "Big South Conference",
+    "shortName": "Big South",
+    "founded": 1983,
+    "hq": {
+      "city": "Charlotte",
+      "state": "NC"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "sherika-montgomery",
+      "name": "Sherika Montgomery",
+      "since": 2023,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Succeeded Kyle Kallander."
+    },
+    "members2026": {
+      "full": [
+        "charleston-southern",
+        "gardner-webb",
+        "high-point",
+        "longwood",
+        "presbyterian",
+        "radford",
+        "unc-asheville",
+        "usc-upstate",
+        "winthrop"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "charleston-southern",
+        "gardner-webb",
+        "high-point",
+        "longwood",
+        "presbyterian",
+        "radford",
+        "unc-asheville",
+        "usc-upstate",
+        "winthrop"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "notes": "Lost Liberty (2018), Coastal Carolina (2016), Campbell (CAA 2023), Hampton & NC A&T (2021-22 then CAA), Kennesaw (football). Football via the Big South-OVC association (Charleston Southern, Gardner-Webb) and Pioneer (Presbyterian). High Point's private investment is the league's growth story. Media: ESPN+.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_South_Conference",
+      "https://bigsouthsports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "big-west",
+    "name": "Big West Conference",
+    "shortName": "Big West",
+    "founded": 1969,
+    "hq": {
+      "city": "Irvine",
+      "state": "CA"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "dan-butterly",
+      "name": "Dan Butterly",
+      "since": 2016,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Start year uncertain (2012-2016)."
+    },
+    "members2026": {
+      "full": [
+        "cal-poly",
+        "cal-state-bakersfield",
+        "cal-state-fullerton",
+        "cal-state-northridge",
+        "hawaii",
+        "long-beach-state",
+        "uc-davis",
+        "uc-irvine",
+        "uc-riverside",
+        "uc-san-diego",
+        "uc-santa-barbara",
+        "utah-valley"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "cal-poly",
+        "cal-state-bakersfield",
+        "cal-state-fullerton",
+        "cal-state-northridge",
+        "hawaii",
+        "long-beach-state",
+        "uc-davis",
+        "uc-irvine",
+        "uc-riverside",
+        "uc-san-diego",
+        "uc-santa-barbara",
+        "utah-valley"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "utah-valley",
+        "change": "joined from WAC",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — verify."
+      }
+    ],
+    "pendingChanges": [],
+    "notes": "California-centric league (Pacific Coast Athletic Association lineage). Hawaii plays football in the Mountain West; low confidence whether Hawaii moved all sports to the Mountain West in 2026 — verify. Cal Poly and UC Davis play Big Sky football. Media: ESPN+ / Spectrum (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://bigwest.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "horizon",
+    "name": "Horizon League",
+    "shortName": "Horizon",
+    "founded": 1979,
+    "hq": {
+      "city": "Indianapolis",
+      "state": "IN"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "julie-roe-lach",
+      "name": "Julie Roe Lach",
+      "since": 2021,
+      "background": "attorney",
+      "contractThrough": null,
+      "note": "Former NCAA vice president (enforcement/governance); succeeded Jon LeCrone."
+    },
+    "members2026": {
+      "full": [
+        "cleveland-state",
+        "detroit-mercy",
+        "green-bay",
+        "iu-indianapolis",
+        "milwaukee",
+        "northern-kentucky",
+        "oakland",
+        "purdue-fort-wayne",
+        "robert-morris",
+        "wright-state",
+        "youngstown-state"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "cleveland-state",
+        "detroit-mercy",
+        "green-bay",
+        "iu-indianapolis",
+        "milwaukee",
+        "northern-kentucky",
+        "oakland",
+        "purdue-fort-wayne",
+        "robert-morris",
+        "wright-state",
+        "youngstown-state"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "notes": "Midwestern urban-campus league (Midwestern City Conference lineage). Lost Butler (2012), Loyola Chicago (2013), Valparaiso (2017), UIC (2022). Youngstown State plays MVFC football; Robert Morris NEC football. Media: ESPN+.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Horizon_League",
+      "https://horizonleague.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "maac",
+    "name": "Metro Atlantic Athletic Conference",
+    "shortName": "MAAC",
+    "founded": 1980,
+    "hq": {
+      "city": "Edison",
+      "state": "NJ"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "travis-tellitocci",
+      "name": "Travis Tellitocci",
+      "since": 2022,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Believed to have succeeded long-time commissioner Rich Ensor; verify."
+    },
+    "members2026": {
+      "full": [
+        "canisius",
+        "fairfield",
+        "iona",
+        "manhattan",
+        "marist",
+        "merrimack",
+        "mount-st-marys",
+        "niagara",
+        "quinnipiac",
+        "rider",
+        "sacred-heart",
+        "saint-peters",
+        "siena"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "canisius",
+        "fairfield",
+        "iona",
+        "manhattan",
+        "marist",
+        "merrimack",
+        "mount-st-marys",
+        "niagara",
+        "quinnipiac",
+        "rider",
+        "sacred-heart",
+        "saint-peters",
+        "siena"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "merrimack",
+        "change": "joined from NEC",
+        "effective": "2024-07-01",
+        "notes": ""
+      },
+      {
+        "school": "sacred-heart",
+        "change": "joined from NEC",
+        "effective": "2024-07-01",
+        "notes": ""
+      },
+      {
+        "school": "monmouth",
+        "change": "left for CAA",
+        "effective": "2022-07-01",
+        "notes": ""
+      }
+    ],
+    "pendingChanges": [],
+    "notes": "Northeast private-school basketball league (Saint Peter's 2022 Elite Eight). Sponsored football until 2007; today Marist plays Pioneer football and Merrimack/Sacred Heart play as FCS independents — a natural seed for a new Northeast football league. Media: ESPN+.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metro_Atlantic_Athletic_Conference",
+      "https://maacsports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "mvc",
+    "name": "Missouri Valley Conference",
+    "shortName": "MVC",
+    "founded": 1907,
+    "hq": {
+      "city": "St. Louis",
+      "state": "MO"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "jeff-jackson",
+      "name": "Jeff Jackson",
+      "since": 2022,
+      "background": "other",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Succeeded Doug Elgin (1988-2022). Background details unverified."
+    },
+    "members2026": {
+      "full": [
+        "belmont",
+        "bradley",
+        "drake",
+        "evansville",
+        "illinois-state",
+        "indiana-state",
+        "murray-state",
+        "northern-iowa",
+        "southern-illinois",
+        "uic",
+        "valparaiso"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "belmont",
+        "bradley",
+        "drake",
+        "evansville",
+        "illinois-state",
+        "indiana-state",
+        "murray-state",
+        "northern-iowa",
+        "southern-illinois",
+        "uic",
+        "valparaiso"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "missouri-state",
+        "change": "left for Conference USA",
+        "effective": "2025-07-01",
+        "notes": ""
+      }
+    ],
+    "pendingChanges": [],
+    "mbbTournament": {
+      "venue": "Enterprise Center",
+      "city": "St. Louis",
+      "state": "MO",
+      "through": null,
+      "notes": "'Arch Madness'."
+    },
+    "notes": "Second-oldest D-I conference. Lost Creighton (Big East 2013), Wichita State (American 2017), Loyola Chicago (A-10 2022), Missouri State (CUSA 2025); backfilled with Belmont, Murray State, UIC (2022). Football members play MVFC; Drake and Valparaiso play Pioneer. Media: ESPN+/CBS Sports Network with tournament final on CBS (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Missouri_Valley_Conference",
+      "https://mvc-sports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "ovc",
+    "name": "Ohio Valley Conference",
+    "shortName": "OVC",
+    "founded": 1948,
+    "hq": {
+      "city": "Brentwood",
+      "state": "TN"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "beth-debauche",
+      "name": "Beth DeBauche",
+      "since": 2010,
+      "background": "attorney",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Start year uncertain (2009-2015)."
+    },
+    "members2026": {
+      "full": [
+        "eastern-illinois",
+        "lindenwood",
+        "little-rock",
+        "morehead-state",
+        "siu-edwardsville",
+        "southeast-missouri-state",
+        "southern-indiana",
+        "tennessee-state",
+        "tennessee-tech",
+        "ut-martin",
+        "western-illinois"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "eastern-illinois",
+        "lindenwood",
+        "little-rock",
+        "morehead-state",
+        "siu-edwardsville",
+        "southeast-missouri-state",
+        "southern-indiana",
+        "tennessee-state",
+        "tennessee-tech",
+        "ut-martin",
+        "western-illinois"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [],
+    "pendingChanges": [],
+    "notes": "Lost Jacksonville State & Eastern Kentucky (ASUN 2021), Austin Peay, Belmont, Murray State (2022); rebuilt with Lindenwood, Southern Indiana, Little Rock (2022) and Western Illinois (2023). Football via the Big South-OVC association (7 members); Morehead State plays Pioneer. Tennessee State's institutional crisis is a risk. Media: ESPN+.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ohio_Valley_Conference",
+      "https://ovcsports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "summit",
+    "name": "The Summit League",
+    "shortName": "Summit",
+    "founded": 1982,
+    "hq": {
+      "city": "Elmwood Park",
+      "state": "IL",
+      "confidence": "low"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "josh-fenton",
+      "name": "Josh Fenton",
+      "since": 2017,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low"
+    },
+    "members2026": {
+      "full": [
+        "kansas-city",
+        "north-dakota",
+        "north-dakota-state",
+        "omaha",
+        "oral-roberts",
+        "south-dakota",
+        "south-dakota-state",
+        "st-thomas"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "kansas-city",
+        "north-dakota",
+        "north-dakota-state",
+        "omaha",
+        "oral-roberts",
+        "south-dakota",
+        "south-dakota-state",
+        "st-thomas"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "denver",
+        "change": "left for WCC",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — verify."
+      },
+      {
+        "school": "north-dakota-state",
+        "change": "football to Mountain West (FBS); other sports remain Summit",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — verify."
+      }
+    ],
+    "pendingChanges": [],
+    "mbbTournament": {
+      "venue": "Denny Sanford Premier Center",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "through": null
+    },
+    "notes": "Upper-Midwest/Plains league (AMCU-8 / Mid-Continent lineage). Dakota schools' football plays the MVFC; St. Thomas plays Pioneer football. If NDSU's FBS move is confirmed, the Summit becomes the non-football home of an FBS football program — a model the game should support. Media: Midco Sports / ESPN+ (low confidence).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Summit_League",
+      "https://thesummitleague.org"
+    ],
+    "governance": null
+  },
+  {
+    "id": "wac",
+    "name": "Western Athletic Conference",
+    "shortName": "WAC",
+    "founded": 1962,
+    "hq": {
+      "city": "Englewood",
+      "state": "CO"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "rich-hilton",
+      "name": "Rich Hilton",
+      "since": 2023,
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "confidence": "low",
+      "note": "Commissioner identity unverified for 2024-26 (Jeff Hurd led the 2021 expansion; successor uncertain). Compiled without live web verification (session search budget exhausted, web fetch blocked); verify before relying on it."
+    },
+    "members2026": {
+      "full": [
+        "abilene-christian",
+        "cal-baptist",
+        "southern-utah",
+        "tarleton-state",
+        "ut-arlington",
+        "utah-tech"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "abilene-christian",
+        "cal-baptist",
+        "southern-utah",
+        "tarleton-state",
+        "ut-arlington",
+        "utah-tech"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "utah-valley",
+        "change": "left for Big West",
+        "effective": "2026-07-01",
+        "notes": "Low confidence."
+      },
+      {
+        "school": "grand-canyon",
+        "change": "left for Mountain West (non-football)",
+        "effective": "2025-07-01",
+        "notes": ""
+      },
+      {
+        "school": "seattle-u",
+        "change": "left for WCC",
+        "effective": "2025-07-01",
+        "notes": ""
+      },
+      {
+        "school": "stephen-f-austin",
+        "change": "returned to Southland",
+        "effective": "2024-07-01",
+        "notes": ""
+      },
+      {
+        "school": "sam-houston",
+        "change": "left for CUSA (FBS)",
+        "effective": "2023-07-01",
+        "notes": ""
+      }
+    ],
+    "pendingChanges": [
+      {
+        "school": null,
+        "change": "possible rebrand of the WAC as the United Athletic Conference (all sports)",
+        "effective": null,
+        "notes": "Low confidence — reported/rumored; verify."
+      }
+    ],
+    "notes": "The original 1962 WAC (wac-2010 lineage was an FBS league) dropped football after 2012 and has been hollowed out repeatedly. Now ~6 members — at or below the NCAA multisport minimum (7 core sports/at least 7 members for automatic-bid continuity rules; grace periods apply) — so expect it to merge, rebrand or recruit. Football via the UAC. Media: ESPN+.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+      "https://wacsports.com"
+    ],
+    "governance": null
+  },
+  {
+    "id": "wcc",
+    "name": "West Coast Conference",
+    "shortName": "WCC",
+    "founded": 1952,
+    "hq": {
+      "city": "San Bruno",
+      "state": "CA",
+      "confidence": "low"
+    },
+    "division": "D1-non-football",
+    "cfpTier": null,
+    "commissioner": {
+      "id": "stu-jackson",
+      "name": "Stu Jackson",
+      "since": 2023,
+      "background": "pro-league-exec",
+      "contractThrough": null,
+      "note": "Former NBA executive/coach; succeeded Gloria Nevarez (to Mountain West, 2023)."
+    },
+    "members2026": {
+      "full": [
+        "denver",
+        "loyola-marymount",
+        "pacific",
+        "pepperdine",
+        "portland",
+        "saint-marys",
+        "san-diego",
+        "san-francisco",
+        "santa-clara",
+        "seattle-u"
+      ],
+      "footballOnly": [],
+      "nonFootball": [
+        "denver",
+        "loyola-marymount",
+        "pacific",
+        "pepperdine",
+        "portland",
+        "saint-marys",
+        "san-diego",
+        "san-francisco",
+        "santa-clara",
+        "seattle-u"
+      ],
+      "affiliates": []
+    },
+    "recentChanges": [
+      {
+        "school": "gonzaga",
+        "change": "left for Pac-12",
+        "effective": "2026-07-01",
+        "notes": ""
+      },
+      {
+        "school": "oregon-state",
+        "change": "affiliate membership (2024-26) ended on Pac-12 rebuild",
+        "effective": "2026-07-01",
+        "notes": ""
+      },
+      {
+        "school": "washington-state",
+        "change": "affiliate membership (2024-26) ended on Pac-12 rebuild",
+        "effective": "2026-07-01",
+        "notes": ""
+      },
+      {
+        "school": "seattle-u",
+        "change": "joined from WAC",
+        "effective": "2025-07-01",
+        "notes": ""
+      },
+      {
+        "school": "denver",
+        "change": "joined from Summit",
+        "effective": "2026-07-01",
+        "notes": "Low confidence — verify."
+      }
+    ],
+    "pendingChanges": [],
+    "mbbTournament": {
+      "venue": "Orleans Arena",
+      "city": "Las Vegas",
+      "state": "NV",
+      "through": null
+    },
+    "notes": "Mostly private, mostly Catholic West Coast schools. Losing Gonzaga to the Pac-12 (2026) cuts the league's NCAA-unit earnings and TV value sharply; Saint Mary's becomes the flagship. San Diego plays Pioneer football. Media: ESPN (low confidence on renewal terms).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://wccsports.com"
+    ],
+    "governance": null
+  }
+]

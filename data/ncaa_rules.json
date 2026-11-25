@@ -1,0 +1,273 @@
+{
+  "asOf": "2026-11-25",
+  "verificationNote": "Bylaw numbers are omitted where not verified. NCAA D-I bylaws were renumbered and reorganized in 2022-25 (new Constitution in 2022, D-I Cabinet replacing the Council in 2025), so cite rules by substance. Values come from researcher knowledge plus 2026 news. Web search was exhausted this session, so items marked confidence low need a primary-source check in the NCAA LSDBi before they are hard-coded.",
+  "multisportConference": {
+    "id": "d1-multisport-conference",
+    "summary": "Requirements for a Division I multisport (all-sports) conference.",
+    "minimumActiveMembers": 7,
+    "minimumMembersNote": "At least 7 active Division I member institutions. The same \"7 core institutions\" threshold governs NCAA tournament automatic qualification (see ncaaTournamentAutoBid).",
+    "sportSponsorship": {
+      "basketballRequired": true,
+      "description": "The conference must conduct conference competition and championships in men's and women's basketball plus a minimum number of other men's and women's sports. Commonly cited: at least 6 men's/mixed and 6 women's championship sports. Members individually must meet D-I sponsorship minimums of 14 sports (7 men's + 7 women's, or 6 men's + 8 women's), with at least 2 team sports per gender.",
+      "confidence": "low",
+      "note": "Conference-level sport-count minimum unverified. Member-level 14-sport rule is well established."
+    },
+    "newConferenceRecognition": "A new conference must apply to the NCAA to be recognized as a D-I member conference. It needs bylaws, a commissioner/office and a compliance function, and it must meet the membership minimums at application. It gets no automatic NCAA revenue units (those belong to existing conferences) and faces the AQ waiting period unless continuity rules apply.",
+    "gameDefault": {
+      "minMembers": 7,
+      "recommendedMembers": 10,
+      "applicationLeadMonths": 12
+    },
+    "confidence": "low",
+    "sources": [
+      "https://web3.ncaa.org/lsdbi/",
+      "https://www.ncaapublications.com/productdownloads/D126.pdf",
+      "https://en.wikipedia.org/wiki/NCAA_Division_I_Football_Bowl_Subdivision"
+    ]
+  },
+  "fbsConference": {
+    "id": "fbs-conference",
+    "summary": "A conference counts as an FBS football conference only with at least 8 members that sponsor FBS football and meet FBS requirements.",
+    "minimumFootballMembers": 8,
+    "footballOnlyAffiliatesCount": true,
+    "footballOnlyNote": "Football-only affiliates count toward the 8. The MWC (NIU and NDSU in 2026), MAC (Temple 2007-11, UMass 2012-15, Sac State 2026), Sun Belt (Idaho/NMSU 2014-17) and American (Navy 2015-, Army 2024-) all used this to keep or reach critical mass.",
+    "gracePeriod": {
+      "years": 2,
+      "description": "A conference that falls below 8 FBS members keeps FBS-conference status for a two-year grace period while it rebuilds. If it is not back to 8 when the grace period ends, it loses FBS-conference standing. That costs conference-champion CFP eligibility and bowl tie-in standing, and members effectively become independents.",
+      "precedent": "Pac-12 2024-25 and 2025-26: only Oregon State and Washington State, using the grace period. It rebuilt to exactly 8 football members (Boise State, Colorado State, Fresno State, San Diego State, Utah State, Texas State, OSU, WSU) for 2026-27, plus Gonzaga (non-football).",
+      "howHandled": "The Pac-12 played no conference football in 2024-25. OSU and WSU scheduled 6+ MWC opponents each under a paid scheduling agreement with a poaching clause, and placed non-football sports in the WCC as affiliates. The Pac-12 kept its CFP contract seat (full P5 revenue through 2025-26) and its legacy assets (CFP/NCAA units, ~$65M from departing schools), then poached the MWC. The MWC never dropped below 8: it reached 10 football members in 2026 (8 full members plus NIU and NDSU football-only)."
+    },
+    "championshipGameRule": "Since the Jan 2016 deregulation, an FBS conference may stage a football title game with fewer than 12 members (the Big 12 resumed one in 2017 with 10), and from 2024 conferences pick participants without divisions. From the 2027 season the four P4 leagues drop title games under the 24-team CFP. G6 title games survive.",
+    "gameDefault": {
+      "minFootballMembers": 8,
+      "gracePeriodSeasons": 2,
+      "idealFootballMembers": 12
+    },
+    "confidence": "low",
+    "note": "The 8-member and 2-year grace values are high confidence (widely reported in 2023-24 Pac-12 coverage). Bylaw citation and the exact post-grace consequences are low confidence.",
+    "sources": [
+      "https://web3.ncaa.org/lsdbi/",
+      "https://www.ncaapublications.com/productdownloads/D126.pdf",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://www.cbssports.com/college-football/news/washington-state-oregon-state-remain-in-control-of-pac-12-as-washington-supreme-court-denies-review-request",
+      "https://www.commerce.senate.gov/wp-content/uploads/meetings/36690a12-aa4c-e426-99ad-cc13df72e3b7/Written-testimony-of-Pac-12-Commissioner-Teresa-Gould-June-3-2026-U.S.-Senate-Committee-on-Commerce-Science-and-Transport_5a3614b4-9c9d-4f20-aa8b-e269c1b5e7f5-1.pdf",
+      "https://en.wikipedia.org/wiki/2026_Mountain_West_Conference_football_season",
+      "https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion"
+    ]
+  },
+  "fbsSchool": {
+    "id": "fbs-institution",
+    "summary": "Requirements an individual school must meet to be (and stay) FBS.",
+    "sportSponsorship": {
+      "minimumSports": 16,
+      "minMensOrMixed": 6,
+      "minWomens": 8,
+      "footballRequired": true,
+      "note": "FBS is 16 sports vs 14 for other D-I."
+    },
+    "scheduling": {
+      "minPctGamesVsFbs": 60,
+      "minHomeGamesVsFbs": 5,
+      "note": "Play at least 60% of games against FBS opponents and at least 5 home games against FBS opponents each season. Long-standing rule. Exact current wording unverified.",
+      "confidence": "low"
+    },
+    "footballScholarships": {
+      "preHouse": "Average at least 90% of the permissible maximum football grants (76.5 of 85) over a rolling 2-year period.",
+      "postHouse2025": "From 2025-26 the House settlement replaced scholarship limits with roster limits (105 in football) and let schools fund up to the roster limit. How the FBS minimum-aid test is now expressed was not verified.",
+      "confidence": "low"
+    },
+    "athleticsAid": {
+      "minimumGrantsInAid": 200,
+      "orMinimumAidUsd": 4000000,
+      "description": "Annually provide at least 200 athletics grants-in-aid (equivalencies) or at least $4M in athletics aid (pre-2025 values).",
+      "proposedChange": "The 2023 D-I Transformation Committee recommended raising financial-aid minimums (commonly reported: at least 210 grants or $6M for FBS, phased in by about 2027-28). Adoption status unverified.",
+      "confidence": "low"
+    },
+    "attendance": {
+      "minimumAverageAttendance": 15000,
+      "description": "Average at least 15,000 actual or paid home football attendance at least once every rolling two years.",
+      "status": "Still on the books in its traditional form but effectively unenforced for years. A school that fails is put on a probationary/restricted status, and no school has been reclassified down for attendance. Whether D-I formally eliminated it in its 2023-25 membership-requirement rewrite could not be verified.",
+      "gameDefault": "Model as a soft \"prestige/NCAA warning\" penalty, not a hard demotion.",
+      "confidence": "low"
+    },
+    "sources": [
+      "https://web3.ncaa.org/lsdbi/",
+      "https://www.ncaapublications.com/productdownloads/D126.pdf",
+      "https://en.wikipedia.org/wiki/NCAA_Division_I_Football_Bowl_Subdivision"
+    ]
+  },
+  "reclassification": {
+    "id": "fcs-to-fbs-reclassification",
+    "summary": "How an FCS school moves up to FBS.",
+    "invitationRequired": true,
+    "invitationRule": "An FCS school may begin FBS reclassification only with a written invitation to join an FBS conference as a full or football-only member. Waivers are rare: Liberty got one in 2017 as an independent. The D-I Council denied Sacramento State an independent-FBS waiver in June 2025, so Sac State took a MAC football-only invitation in 2026.",
+    "transitionYears": 2,
+    "transitionRules": [
+      "Year 1 (the FBS \"transition\" season) may still be played in the FCS conference or as a transitional member. The school is ineligible for the FCS playoffs.",
+      "Must meet FBS scholarship, scheduling and sport-sponsorship requirements by the end of the transition.",
+      "Ineligible for bowls and the CFP during the transition. Exception: a transitional team with a winning record may be picked for a bowl when there are not enough 6-win eligible teams (e.g., JSU and JMU in 2023). Sac State and NDSU (joining 2026) are postseason-eligible from 2028.",
+      "Counts as an FBS opponent for scheduling once the transition starts."
+    ],
+    "fees": {
+      "fcsToFbsUsd": 5000000,
+      "fcsToFbsNote": "NCAA FBS reclassification fee of $5M (reported for NDSU and Sacramento State in 2026). It was raised in the 2023-24 D-I membership reforms, and pre-2023 move-ups paid little or nothing beyond application costs.",
+      "d2ToD1Usd": 2000000,
+      "d2ToD1Note": "D-II to D-I reclassification fee about $2M (raised from ~$1.6M in recent reforms) and a 4-year reclassification period. Low confidence.",
+      "conferenceEntryFeesObserved": [
+        {
+          "school": "north-dakota-state",
+          "conference": "mountain-west",
+          "year": 2026,
+          "amountUsd": 12500000,
+          "scope": "football-only"
+        },
+        {
+          "school": "sacramento-state",
+          "conference": "mac",
+          "year": 2026,
+          "amountUsd": 18000000,
+          "scope": "football-only",
+          "note": "Plus no distributions initially."
+        },
+        {
+          "school": "northern-illinois",
+          "conference": "mountain-west",
+          "year": 2026,
+          "amountUsd": 2000000,
+          "scope": "football-only",
+          "note": "An FBS school, so no NCAA fee."
+        },
+        {
+          "school": "james-madison",
+          "conference": "american",
+          "year": 2027,
+          "amountUsd": 23000000,
+          "scope": "all",
+          "note": "An FBS school, so no NCAA fee. Pending."
+        }
+      ],
+      "confidence": "low"
+    },
+    "downgradeFbsToFcs": "An FBS school may move down. Idaho moved to the Big Sky in 2018 after losing its Sun Belt football home. No fee is known. In the game, model the reputation/brand hit and lost FBS revenue.",
+    "gameDefault": {
+      "ncaaFeeUsd": 5000000,
+      "transitionSeasons": 2,
+      "conferenceEntryFeeRangeUsd": [
+        2000000,
+        25000000
+      ],
+      "requiresInvite": true
+    },
+    "sources": [
+      "https://web3.ncaa.org/lsdbi/",
+      "https://www.ncaapublications.com/productdownloads/D126.pdf",
+      "https://www.si.com/college-football/north-dakota-state-football-to-pay-hefty-price-to-make-jump-to-fbs",
+      "https://www.espn.com/college-football/story/_/id/47870245/sources-north-dakota-state-joins-mountain-west-football",
+      "https://www.espn.com/college-football/story/_/id/47933760/mac-add-sacramento-state-football-only-member",
+      "https://hornetsports.com/news/2026/2/16/hornet-football-to-join-the-mac-in-2026.aspx",
+      "https://en.wikipedia.org/wiki/Liberty_Flames_football",
+      "https://frontofficesports.com/article/james-madison-joins-the-american-before-sun-belt-exit-fees-rise/"
+    ]
+  },
+  "autonomy": {
+    "id": "autonomy-conferences",
+    "summary": "Autonomy (power-conference) status.",
+    "created": "2014-08-07",
+    "description": "The D-I Board gave the 65 schools of the ACC, Big Ten, Big 12, Pac-12 and SEC (plus Notre Dame as an ACC member) autonomy to legislate in defined areas: cost of attendance, multi-year scholarships, athlete time demands, health. It is a fixed list of named conferences, not a criteria-based status, so a new conference cannot qualify by metrics. Becoming autonomous would need D-I governance action.",
+    "after2024": "After the 2024 Pac-12 collapse the conference kept its formal autonomy designation through the 2024-26 two-member period (it held a CFP Power-5 revenue share through 2025-26). From 2026-27 it is a G6 member in CFP revenue (9% G6 pool). The House settlement (court-approved 2025-06-06) and the P4-funded College Sports Commission made the Power 4 (ACC, Big Ten, Big 12, SEC) plus Notre Dame the de facto autonomy group, with wider room to set their own rules under the 2025 D-I governance changes.",
+    "gameDefault": "Treat \"autonomy/P4\" as a named club. Entry requires a governance vote (e.g., 3/4 of existing autonomy members) plus CFP revenue-share renegotiation. No metric qualifies a league on its own.",
+    "confidence": "low",
+    "note": "Pac-12's exact autonomy status in 2024-26 and the 2025 governance labels are unverified (see governance.json).",
+    "sources": [
+      "https://www.ncaa.org/sports/2021/2/16/governance.aspx",
+      "https://www.cbssports.com/college-basketball/news/college-football-playoff-finalizes-tv-deal-beginning-in-2026-as-fbs-leaders-settle-on-revenue-distribution",
+      "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    ]
+  },
+  "cfpAccess": {
+    "id": "cfp-access-new-conference",
+    "summary": "How conference membership maps to College Football Playoff access (see cfp.json for full formats and money).",
+    "formats": [
+      {
+        "seasons": "2024-25, 2025-26",
+        "teams": 12,
+        "autoBidRule": "Five highest-ranked conference champions (any FBS conference) plus 7 at-large."
+      },
+      {
+        "seasons": "2026-27",
+        "teams": 12,
+        "autoBidRule": "Default under the 2024 MOU because the SEC and Big Ten did not agree by 2026-01-23: the 4 P4 champions plus the highest-ranked G6 team, plus 7 at-large."
+      },
+      {
+        "seasons": "2027-28 through 2031-32",
+        "teams": 24,
+        "autoBidRule": "4 P4 champions plus the highest-ranked G6 team, plus 19 at-large. Decided 2026-11-09. P4 title games are eliminated."
+      }
+    ],
+    "cfpMembership": "The CFP is a contract among the 10 FBS conferences plus Notre Dame (Management Committee of commissioners and Board of Managers of presidents). Revenue for 2026-31 is split by fixed percentages: SEC 29, Big Ten 29, ACC 17.25, Big 12 14.75, G6 pool 9, Notre Dame ~$12.5M.",
+    "newConferenceAccess": "A newly founded FBS conference is not automatically a CFP party. To have its champion count it must (1) be a recognized FBS conference (8+ members), and (2) be admitted to the CFP agreements, which in practice means amending the MOU with the existing members' consent (historically unanimous for governance changes), most likely as a seventh G6 league sharing the 9% pool. Breakaway risk: under the 2026-31 MOU the SEC and Big Ten control the format. A P4-level new league (e.g., built from raided P4 schools) would have to negotiate a P4 share, a realistic flashpoint for the game. Under the 2024-26 rules any FBS conference champion could earn one of the 5 champion bids by ranking (Boise State 2024).",
+    "gameDefault": {
+      "newLeagueStartsAs": "g6",
+      "g6PoolPct": 9,
+      "p4UpgradeRequires": "MOU amendment + SEC/Big Ten consent"
+    },
+    "confidence": "low",
+    "note": "The MOU text on admitting new conferences is not public. The approach above is inferred.",
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion",
+      "https://www.espn.com/college-football/story/_/id/47704876/sources-college-football-playoff-remain-12-teams",
+      "https://www.cbssports.com/college-basketball/news/college-football-playoff-finalizes-tv-deal-beginning-in-2026-as-fbs-leaders-settle-on-revenue-distribution",
+      "https://www.foxsports.com/articles/cfb/a-24team-cfp-and-a-single-guaranteed-spot-where-the-group-of-six-fits-in-the-new-math",
+      "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    ]
+  },
+  "ncaaTournamentAutoBid": {
+    "id": "ncaa-automatic-qualification",
+    "summary": "NCAA championship automatic qualification (AQ), most importantly the men's and women's basketball tournaments.",
+    "coreInstitutionsRequired": 7,
+    "coreInstitutionDefinition": "An active D-I member (not in reclassification) that has been a conference member long enough to count, generally having completed the waiting period. Reclassifying schools do not count.",
+    "waitingPeriodYears": 2,
+    "waitingPeriodRule": "A newly formed conference (or one whose qualifying membership was just rebuilt) must complete a two-year waiting period with at least 7 core institutions before receiving an AQ.",
+    "continuityOfMembershipException": "A new conference formed largely of schools that were together in a prior AQ conference can receive the AQ immediately. Commonly stated: at least 6 or 7 institutions that competed together for the previous ~5 years. The MWC (1999, 7 of 8 founders were long-time WAC members) and the new Big East (2013, 7 Catholic schools together since 1979-80) both got AQs with no waiting period.",
+    "sportMinimum": "For sport-specific AQs a conference generally needs at least 6 members sponsoring that sport.",
+    "belowMinimumGrace": "A conference that drops below the AQ minimum has a two-year grace period to restore it.",
+    "unitsNote": "NCAA basketball Performance Fund units are earned by a conference over a rolling 6-year window and stay with the conference, not the school. Departing schools leave their units behind, a key asset in the 2013 Big East split and the 2024 Pac-12 fight. A new conference starts with zero units unless it negotiates a share in a separation agreement.",
+    "gameDefault": {
+      "coreMembers": 7,
+      "waitingSeasons": 2,
+      "continuityMembers": 6,
+      "continuityYearsTogether": 5,
+      "unitsFollowConference": true
+    },
+    "confidence": "low",
+    "note": "The 7-core and 2-year-wait values are well established. The exact continuity thresholds (6 vs 7 schools, 5 years) are unverified.",
+    "sources": [
+      "https://web3.ncaa.org/lsdbi/",
+      "https://www.ncaapublications.com/productdownloads/D126.pdf",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ]
+  },
+  "fcsPlayoffAutoBid": {
+    "id": "fcs-playoff-automatic-qualification",
+    "summary": "FCS playoff AQ (relevant to football-only alliances).",
+    "minimumMembers": 6,
+    "rule": "An FCS conference needs at least 6 football-playing members (that have played together for a qualifying period) to earn an automatic bid. The ASUN and WAC each fell short in 2021-22 and formed the \"ASUN-WAC Challenge\" scheduling alliance, then merged football into the United Athletic Conference (2023) to secure an AQ.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/United_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/NCAA_Division_I_Football_Championship_Subdivision"
+    ]
+  },
+  "sources": [
+    "https://web3.ncaa.org/lsdbi/",
+    "https://www.ncaapublications.com/productdownloads/D126.pdf",
+    "https://en.wikipedia.org/wiki/NCAA_Division_I_Football_Bowl_Subdivision",
+    "https://en.wikipedia.org/wiki/College_Football_Playoff",
+    "https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion",
+    "https://www.cbssports.com/college-basketball/news/college-football-playoff-finalizes-tv-deal-beginning-in-2026-as-fbs-leaders-settle-on-revenue-distribution"
+  ]
+}

@@ -1,0 +1,3572 @@
+[
+  {
+    "id": "2010-colorado-pac-12",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "colorado",
+    "from": "big-12",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2010-06-10",
+    "effective": "2011-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 6863000,
+    "entryFeeOrForgoneShares": "Joined as a full member. The new Pac-12 TV deal began in 2012-13. Any phase-in of shares is not verified.",
+    "legalAction": "Big 12 bylaws threatened forfeiture of up to ~50-80% of two years of revenue. Settled Sept 2010: CU forfeited ~$6.86M of Big 12 distributions.",
+    "keyActors": [
+      "Bruce Benson (CU system president)",
+      "Phil DiStefano (CU chancellor)",
+      "Mike Bohn (CU AD)",
+      "Larry Scott (Pac-10)",
+      "Dan Beebe (Big 12)"
+    ],
+    "notes": "First domino of Larry Scott's attempted 'Pac-16' (adding Texas, OU, OSU, Texas Tech, Colorado and possibly A&M). Texas declined on 2010-06-14, so the Pac-10 settled for Colorado and Utah.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ],
+    "confidence": "low",
+    "note": "Exit figure from researcher memory. Not re-verified (search budget exhausted)."
+  },
+  {
+    "id": "2010-nebraska-big-ten",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "nebraska",
+    "from": "big-12",
+    "to": "big-ten",
+    "sportScope": "all",
+    "announced": "2010-06-11",
+    "effective": "2011-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 9255000,
+    "entryFeeOrForgoneShares": "Phased into full Big Ten and BTN revenue shares over about six years (full share around 2017).",
+    "legalAction": "Big 12 forfeiture claim settled Sept 2010: NU forfeited ~$9.26M of Big 12 distributions.",
+    "keyActors": [
+      "Harvey Perlman (NU chancellor)",
+      "Tom Osborne (NU AD)",
+      "Jim Delany (Big Ten)",
+      "Dan Beebe (Big 12)"
+    ],
+    "notes": "Big Ten's first expansion since Penn State (1990), driven by BTN carriage and a championship game (12 teams). Nebraska cited the Big 12's instability and unequal revenue.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Ten_Conference",
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ],
+    "confidence": "low",
+    "note": "Exit figure from researcher memory."
+  },
+  {
+    "id": "2010-boise-state-mountain-west",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "boise-state",
+    "from": "wac-2010",
+    "to": "mountain-west",
+    "sportScope": "all",
+    "announced": "2010-06-11",
+    "effective": "2011-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Bob Kustra (BSU president)",
+      "Gene Bleymaier (BSU AD)",
+      "Craig Thompson (MWC)",
+      "Karl Benson (WAC)"
+    ],
+    "notes": "Part of the MWC's bid for BCS automatic-qualifier status. Boise was the top non-AQ brand after its Fiesta Bowl wins (2007, 2010).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/Boise_State_Broncos_football"
+    ]
+  },
+  {
+    "id": "2010-utah-pac-12",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "utah",
+    "from": "mountain-west",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2010-06-17",
+    "effective": "2011-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Reported phase-in of Pac-12 distributions over the first years (unverified).",
+    "legalAction": null,
+    "keyActors": [
+      "Michael Young (Utah president)",
+      "Chris Hill (Utah AD)",
+      "Larry Scott (Pac-10)"
+    ],
+    "notes": "The first non-AQ school to jump to an AQ league in the 2010 wave. Utah was unbeaten in 2004 and 2008.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference"
+    ],
+    "confidence": "low",
+    "note": "Phase-in terms unverified."
+  },
+  {
+    "id": "2010-fresno-state-mountain-west",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "fresno-state",
+    "from": "wac-2010",
+    "to": "mountain-west",
+    "sportScope": "all",
+    "announced": "2010-08-18",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "WAC members had just signed a loyalty pledge with a ~$5M-per-school buyout while courting BYU. The WAC pursued the buyout and the dispute was resolved with a 2012 departure. Terms unverified.",
+    "keyActors": [
+      "John Welty (Fresno State president)",
+      "Craig Thompson (MWC)",
+      "Karl Benson (WAC)"
+    ],
+    "notes": "The MWC moved pre-emptively, because the WAC was about to add BYU in non-football sports, which would have gutted the MWC.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Legal and fee details unverified."
+  },
+  {
+    "id": "2010-nevada-mountain-west",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "nevada",
+    "from": "wac-2010",
+    "to": "mountain-west",
+    "sportScope": "all",
+    "announced": "2010-08-18",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "Same WAC loyalty-buyout dispute as Fresno State.",
+    "keyActors": [
+      "Milton Glick (Nevada president)",
+      "Cary Groth (Nevada AD)",
+      "Craig Thompson (MWC)"
+    ],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Legal and fee details unverified."
+  },
+  {
+    "id": "2010-byu-independent-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "byu",
+    "from": "mountain-west",
+    "to": "independent",
+    "sportScope": "football-only",
+    "announced": "2010-08-31",
+    "effective": "2011-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Eight-year ESPN deal for home football (BYUtv kept rebroadcast/Olympic rights).",
+    "legalAction": null,
+    "keyActors": [
+      "Cecil Samuelson (BYU president)",
+      "Tom Holmoe (BYU AD)"
+    ],
+    "notes": "The model 'brand independent', built on its own TV network (BYUtv) and a national LDS fan base. Ended when BYU joined the Big 12 in 2023.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/BYU_Cougars_football",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference"
+    ]
+  },
+  {
+    "id": "2010-byu-wcc",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "byu",
+    "from": "mountain-west",
+    "to": "wcc",
+    "sportScope": "non-football",
+    "announced": "2010-08-31",
+    "effective": "2011-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Its non-football sports went to the WCC (fellow religious private schools) after a planned WAC home fell through when the MWC raided the WAC.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/BYU_Cougars_football",
+      "https://en.wikipedia.org/wiki/West_Coast_Conference"
+    ]
+  },
+  {
+    "id": "2010-tcu-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "tcu",
+    "from": "mountain-west",
+    "to": "big-east-2010",
+    "sportScope": "all",
+    "announced": "2010-11-29",
+    "effective": "2012-07-01",
+    "status": "reversed",
+    "exitFeePaidUsd": 5000000,
+    "entryFeeOrForgoneShares": "Paid the Big East its ~$5M exit fee to withdraw before ever competing.",
+    "legalAction": null,
+    "keyActors": [
+      "Victor Boschini (TCU chancellor)",
+      "Chris Del Conte (TCU AD)",
+      "John Marinatto (Big East)"
+    ],
+    "notes": "The Big East's Texas expansion for a BCS AQ path. Abandoned when the Big 12 invited TCU after Texas A&M's exit.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/TCU_Horned_Frogs_football",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "reversed": "2011-10-10",
+    "confidence": "low",
+    "note": "Exit-fee amount from memory."
+  },
+  {
+    "id": "2010-texas-state-wac",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "texas-state",
+    "from": "southland",
+    "to": "wac-2010",
+    "sportScope": "all",
+    "announced": "2010-11-01",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "FCS-to-FBS move-up (FBS transition 2011-12). Spent one season (2012) in the dying WAC, then the Sun Belt in 2013.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (Nov 2010)."
+  },
+  {
+    "id": "2010-utsa-wac",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "utsa",
+    "from": "southland",
+    "to": "wac-2010",
+    "sportScope": "all",
+    "announced": "2010-11-01",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Football started in 2011. One WAC season (2012), then C-USA in 2013.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (Nov 2010)."
+  },
+  {
+    "id": "2010-hawaii-mountain-west-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "hawaii",
+    "from": "wac-2010",
+    "to": "mountain-west",
+    "sportScope": "football-only",
+    "announced": "2010-12-10",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Football-only because MWC members resisted Hawaii travel in all sports. Hawaii's travel subsidy to visiting teams continued.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ]
+  },
+  {
+    "id": "2010-hawaii-big-west",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "hawaii",
+    "from": "wac-2010",
+    "to": "big-west",
+    "sportScope": "non-football",
+    "announced": "2010-12-10",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_West_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ]
+  },
+  {
+    "id": "2011-massachusetts-mac-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "massachusetts",
+    "from": "caa",
+    "to": "mac",
+    "sportScope": "football-only",
+    "announced": "2011-04-20",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "FCS-to-FBS (transition 2011-12). Played home games at Gillette Stadium. Other sports stayed in the A-10.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/UMass_Minutemen_football",
+      "https://en.wikipedia.org/wiki/Mid-American_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date from memory."
+  },
+  {
+    "id": "2011-texas-am-sec",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "texas-am",
+    "from": "big-12",
+    "to": "sec",
+    "sportScope": "all",
+    "announced": "2011-09-25",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 12410000,
+    "entryFeeOrForgoneShares": "Full SEC member on entry.",
+    "legalAction": "Baylor (president Ken Starr) threatened to sue unless the Big 12 members' waivers of legal claims were withheld. The SEC required waivers, which were eventually given.",
+    "keyActors": [
+      "R. Bowen Loftin (A&M president)",
+      "Bill Byrne (A&M AD)",
+      "Mike Slive (SEC)",
+      "Dan Beebe (Big 12)",
+      "Ken Starr (Baylor)"
+    ],
+    "notes": "Trigger: the ESPN-backed Longhorn Network (launched Aug 2011). A&M gave notice Aug 31, 2011.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southeastern_Conference",
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ],
+    "confidence": "low",
+    "note": "Exit figure from memory."
+  },
+  {
+    "id": "2011-pitt-acc",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "pitt",
+    "from": "big-east-2010",
+    "to": "acc",
+    "sportScope": "all",
+    "announced": "2011-09-18",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 7500000,
+    "entryFeeOrForgoneShares": "Full ACC share. The ACC renegotiated ESPN to ~$3.6B/15 yrs on adding Pitt and Syracuse.",
+    "legalAction": "Big East bylaws required 27 months notice plus $5M. Pitt and Syracuse negotiated a 2013 exit for $7.5M each (summer 2012).",
+    "keyActors": [
+      "Mark Nordenberg (Pitt chancellor)",
+      "Steve Pederson (Pitt AD)",
+      "John Swofford (ACC)",
+      "John Marinatto (Big East)"
+    ],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Settlement amount from memory."
+  },
+  {
+    "id": "2011-syracuse-acc",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "syracuse",
+    "from": "big-east-2010",
+    "to": "acc",
+    "sportScope": "all",
+    "announced": "2011-09-18",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 7500000,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "Same as Pitt: $7.5M negotiated early release.",
+    "keyActors": [
+      "Nancy Cantor (SU chancellor)",
+      "Daryl Gross (SU AD)",
+      "John Swofford (ACC)"
+    ],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Settlement amount from memory."
+  },
+  {
+    "id": "2011-tcu-big-12",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "tcu",
+    "from": "mountain-west",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2011-10-10",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Reportedly accepted reduced Big 12 shares during a phase-in (unverified).",
+    "legalAction": null,
+    "keyActors": [
+      "Victor Boschini (TCU chancellor)",
+      "Chris Del Conte (TCU AD)",
+      "Chuck Neinas (interim Big 12 commissioner)"
+    ],
+    "notes": "Replaced Texas A&M. TCU never played a Big East game. It reached the CFP title game in 2022.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/TCU_Horned_Frogs_football",
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "2011-west-virginia-big-12",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "west-virginia",
+    "from": "big-east-2010",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2011-10-28",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 20000000,
+    "entryFeeOrForgoneShares": "Reported phase-in of Big 12 shares. Part of the exit fee was advanced by the Big 12 and recouped from WVU distributions (unverified split).",
+    "legalAction": "WVU sued the Big East (Monongalia County, WV, Nov 2011) to escape the 27-month notice rule. The Big East sued in Rhode Island. Settled Feb 2012 for $20M total so WVU could play in the Big 12 in 2012.",
+    "keyActors": [
+      "Jim Clements (WVU president)",
+      "Oliver Luck (WVU AD)",
+      "Chuck Neinas (Big 12)",
+      "John Marinatto (Big East)"
+    ],
+    "notes": "West Virginia was geographically isolated from the rest of the Big 12, which became the travel-cost case study of this era. The Big 12 picked WVU over Louisville.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Fee split unverified. Total $20M from memory."
+  },
+  {
+    "id": "2011-missouri-sec",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "missouri",
+    "from": "big-12",
+    "to": "sec",
+    "sportScope": "all",
+    "announced": "2011-11-06",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 12410000,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Brady Deaton (MU chancellor)",
+      "Mike Alden (MU AD)",
+      "Mike Slive (SEC)"
+    ],
+    "notes": "The SEC's 14th member and the Big 12's last 2011 loss. The Big 12 then adopted a 6-year grant of rights (2011, extended 2012 with the ESPN/Fox deal).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southeastern_Conference",
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ],
+    "confidence": "low",
+    "note": "Exit figure from memory."
+  },
+  {
+    "id": "2011-boise-state-big-east-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "boise-state",
+    "from": "mountain-west",
+    "to": "big-east-2010",
+    "sportScope": "football-only",
+    "announced": "2011-12-07",
+    "effective": "2013-07-01",
+    "status": "reversed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Non-football sports were to join the Big West. To keep Boise, the MWC created national-TV appearance bonuses and let Boise sell its home football games separately.",
+    "legalAction": null,
+    "keyActors": [
+      "Bob Kustra (BSU president)",
+      "Mark Coyle (BSU AD)",
+      "Mike Aresco (Big East)",
+      "Craig Thompson (MWC)"
+    ],
+    "notes": "Reversed after the Big East lost its BCS AQ path (the CFP replaced AQ status from 2014), its TV deal shrank, and the Big West would not take Boise without SDSU.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Boise_State_Broncos_football",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference"
+    ],
+    "reversed": "2012-12-31",
+    "confidence": "low",
+    "note": "MWC concession details unverified."
+  },
+  {
+    "id": "2011-san-diego-state-big-east-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "san-diego-state",
+    "from": "mountain-west",
+    "to": "big-east-2010",
+    "sportScope": "football-only",
+    "announced": "2011-12-07",
+    "effective": "2013-07-01",
+    "status": "reversed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Elliot Hirshman (SDSU president)",
+      "Jim Sterk (SDSU AD)"
+    ],
+    "notes": "Non-football sports were to join the Big West. SDSU stayed in the MWC after Boise backed out.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/San_Diego_State_Aztecs_football",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference"
+    ],
+    "reversed": "2013-01-17"
+  },
+  {
+    "id": "2011-houston-american",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "houston",
+    "from": "cusa-2010",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2011-12-07",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Announced as a Big East member. Arrived the day the football charter became the American.",
+    "legalAction": null,
+    "keyActors": [
+      "Renu Khator (UH president)",
+      "Mack Rhoades (UH AD)",
+      "John Marinatto (Big East)",
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "Big East 'national football' expansion (with Boise State and SDSU football-only) to keep its BCS AQ. C-USA exit-fee payments unverified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ]
+  },
+  {
+    "id": "2011-smu-american",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "smu",
+    "from": "cusa-2010",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2011-12-07",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Announced as a Big East member. Arrived the day the football charter became the American.",
+    "legalAction": null,
+    "keyActors": [
+      "R. Gerald Turner (SMU president)",
+      "Steve Orsini (SMU AD)",
+      "John Marinatto (Big East)",
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "Big East 'national football' expansion (with Boise State and SDSU football-only) to keep its BCS AQ. C-USA exit-fee payments unverified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ]
+  },
+  {
+    "id": "2011-ucf-american",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "ucf",
+    "from": "cusa-2010",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2011-12-07",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Announced as a Big East member. Arrived the day the football charter became the American.",
+    "legalAction": null,
+    "keyActors": [
+      "John Hitt (UCF president)",
+      "John Marinatto (Big East)",
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "Big East 'national football' expansion (with Boise State and SDSU football-only) to keep its BCS AQ. C-USA exit-fee payments unverified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ]
+  },
+  {
+    "id": "2012-navy-american-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "navy",
+    "from": "independent",
+    "to": "american",
+    "sportScope": "football-only",
+    "announced": "2012-01-24",
+    "effective": "2015-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Chet Gladchuk (Navy AD)"
+    ],
+    "notes": "First service academy to give up football independence. Other sports stayed in the Patriot League. The Army-Navy game stays non-conference.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Navy_Midshipmen_football",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)"
+    ]
+  },
+  {
+    "id": "2012-memphis-american",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "memphis",
+    "from": "cusa-2010",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2012-02-07",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Shirley Raines (Memphis president)",
+      "R.C. Johnson (Memphis AD)"
+    ],
+    "notes": "Added for basketball value and the Memphis TV market.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ]
+  },
+  {
+    "id": "2012-temple-big-east-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "temple",
+    "from": "mac",
+    "to": "big-east-2010",
+    "sportScope": "football-only",
+    "announced": "2012-03-07",
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "Settled exits with the MAC (football) and the A-10 (other sports). Amounts unverified.",
+    "keyActors": [
+      "Ann Weaver Hart (Temple president)",
+      "Bill Bradshaw (Temple AD)",
+      "Joe Bailey/John Marinatto (Big East)"
+    ],
+    "notes": "Emergency replacement for West Virginia's 2012 schedule slot. Temple had been expelled from Big East football after 2004.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://en.wikipedia.org/wiki/Mid-American_Conference"
+    ],
+    "confidence": "low",
+    "note": "Exit settlements unverified."
+  },
+  {
+    "id": "2012-temple-american-allsports",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "temple",
+    "from": "a10",
+    "to": "american",
+    "sportScope": "non-football",
+    "announced": "2012-03-07",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference"
+    ]
+  },
+  {
+    "id": "2012-charlotte-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "charlotte",
+    "from": "a10",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2012-03-29",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "C-USA backfill after losing Houston, Memphis, SMU and UCF (and later ECU, Tulane and Tulsa). An aborted C-USA/MWC football merger plan (Feb 2012) came first. Football started 2013 (FCS). Joined C-USA football 2015.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates approximate (spring 2012)."
+  },
+  {
+    "id": "2012-fiu-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "fiu",
+    "from": "sun-belt",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2012-03-29",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "C-USA backfill after losing Houston, Memphis, SMU and UCF (and later ECU, Tulane and Tulsa). An aborted C-USA/MWC football merger plan (Feb 2012) came first.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates approximate (spring 2012)."
+  },
+  {
+    "id": "2012-north-texas-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "north-texas",
+    "from": "sun-belt",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2012-03-29",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "C-USA backfill after losing Houston, Memphis, SMU and UCF (and later ECU, Tulane and Tulsa). An aborted C-USA/MWC football merger plan (Feb 2012) came first.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates approximate (spring 2012)."
+  },
+  {
+    "id": "2012-utsa-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "utsa",
+    "from": "wac-2010",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2012-03-29",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "C-USA backfill after losing Houston, Memphis, SMU and UCF (and later ECU, Tulane and Tulsa). An aborted C-USA/MWC football merger plan (Feb 2012) came first. Left the WAC after one season.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates approximate (spring 2012)."
+  },
+  {
+    "id": "2012-louisiana-tech-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "louisiana-tech",
+    "from": "wac-2010",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2012-03-30",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "C-USA backfill after losing Houston, Memphis, SMU and UCF (and later ECU, Tulane and Tulsa). An aborted C-USA/MWC football merger plan (Feb 2012) came first.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates approximate (spring 2012)."
+  },
+  {
+    "id": "2012-fau-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "fau",
+    "from": "sun-belt",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2012-05-04",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "C-USA backfill after losing Houston, Memphis, SMU and UCF (and later ECU, Tulane and Tulsa). An aborted C-USA/MWC football merger plan (Feb 2012) came first.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates approximate (spring 2012)."
+  },
+  {
+    "id": "2012-middle-tennessee-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "middle-tennessee",
+    "from": "sun-belt",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2012-05-04",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "C-USA backfill after losing Houston, Memphis, SMU and UCF (and later ECU, Tulane and Tulsa). An aborted C-USA/MWC football merger plan (Feb 2012) came first.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates approximate (spring 2012)."
+  },
+  {
+    "id": "2012-old-dominion-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "old-dominion",
+    "from": "caa",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2012-05-17",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Britton Banowsky (C-USA)"
+    ],
+    "notes": "C-USA backfill after losing Houston, Memphis, SMU and UCF (and later ECU, Tulane and Tulsa). An aborted C-USA/MWC football merger plan (Feb 2012) came first. C-USA football began 2014 (FBS transition 2013).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates approximate (spring 2012)."
+  },
+  {
+    "id": "2012-utah-state-mountain-west",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "utah-state",
+    "from": "wac-2010",
+    "to": "mountain-west",
+    "sportScope": "all",
+    "announced": "2012-05-04",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Stan Albrecht (USU president)",
+      "Scott Barnes (USU AD)",
+      "Craig Thompson (MWC)"
+    ],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date from memory."
+  },
+  {
+    "id": "2012-san-jose-state-mountain-west",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "san-jose-state",
+    "from": "wac-2010",
+    "to": "mountain-west",
+    "sportScope": "all",
+    "announced": "2012-05-04",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Mo Qayoumi (SJSU president)",
+      "Craig Thompson (MWC)"
+    ],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date from memory."
+  },
+  {
+    "id": "2012-texas-state-sun-belt",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "texas-state",
+    "from": "wac-2010",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2012-05-01",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Denise Trauth (Texas State president)",
+      "Larry Teis (Texas State AD)"
+    ],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (spring 2012)."
+  },
+  {
+    "id": "2012-georgia-state-sun-belt",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "georgia-state",
+    "from": "caa",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2012-04-01",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "FCS-to-FBS. Football only began in 2010. Atlanta market.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (spring 2012)."
+  },
+  {
+    "id": "2012-south-alabama-sun-belt-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "south-alabama",
+    "from": "fcs-independent",
+    "to": "sun-belt",
+    "sportScope": "football-only",
+    "announced": null,
+    "effective": "2012-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "The school was already a Sun Belt member in other sports. Its football (started 2009) moved up to FBS and Sun Belt play in 2012.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date unknown."
+  },
+  {
+    "id": "2012-idaho-independent-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "idaho",
+    "from": "wac-2010",
+    "to": "independent",
+    "sportScope": "football-only",
+    "announced": "2012-05-01",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Left homeless when the WAC lost all its FBS football members. Other sports stayed in the WAC for 2013-14.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Idaho_Vandals_football",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2012-new-mexico-state-independent-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "new-mexico-state",
+    "from": "wac-2010",
+    "to": "independent",
+    "sportScope": "football-only",
+    "announced": "2012-05-01",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Other sports stayed in the WAC until 2023.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/New_Mexico_State_Aggies_football",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2012-notre-dame-acc",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "notre-dame",
+    "from": "big-east-2010",
+    "to": "acc",
+    "sportScope": "non-football",
+    "announced": "2012-09-12",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Full ACC member in non-football sports. Football stays independent but schedules 5 ACC opponents a year and gets access to the ACC bowl lineup. Must join the ACC if it ever joins a football conference before the ACC grant of rights expires (now 2036). Hockey went to Hockey East, then Big Ten hockey (2017).",
+    "legalAction": "Big East 27-month notice was resolved in the March 2013 Big East separation agreement. Terms unverified.",
+    "keyActors": [
+      "Rev. John Jenkins (ND president)",
+      "Jack Swarbrick (ND AD)",
+      "John Swofford (ACC)"
+    ],
+    "notes": "The ACC raised its exit fee to ~3x operating budget (~$50M) the same week as a stability move.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Notre_Dame_Fighting_Irish_football",
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ]
+  },
+  {
+    "id": "2012-maryland-big-ten",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "maryland",
+    "from": "acc",
+    "to": "big-ten",
+    "sportScope": "all",
+    "announced": "2012-11-19",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 31400000,
+    "entryFeeOrForgoneShares": "Reduced/advanced Big Ten shares during the phase-in (Maryland borrowed against future Big Ten revenue).",
+    "legalAction": "ACC sued in North Carolina (Nov 2012) for the $52.2M exit fee (3x budget, adopted Sept 2012 over the objections of Maryland and FSU). Maryland countersued in Maryland. Settled Aug 2014: the ACC kept ~$31.4M of withheld distributions.",
+    "keyActors": [
+      "Wallace Loh (UMD president)",
+      "Kevin Anderson (UMD AD)",
+      "Jim Delany (Big Ten)",
+      "John Swofford (ACC)"
+    ],
+    "notes": "Driver: a $21M athletic deficit, eight cut sports, and BTN money. A founding ACC member leaving was a cultural shock.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Ten_Conference",
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+    ],
+    "confidence": "low",
+    "note": "Settlement amount from memory."
+  },
+  {
+    "id": "2012-rutgers-big-ten",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "rutgers",
+    "from": "american",
+    "to": "big-ten",
+    "sportScope": "all",
+    "announced": "2012-11-20",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 11500000,
+    "entryFeeOrForgoneShares": "Reduced/advanced Big Ten shares during the phase-in.",
+    "legalAction": "Sued the Big East (Dec 2012) over the $10M fee and 27-month notice. Settled for $11.5M to leave in 2014.",
+    "keyActors": [
+      "Robert Barchi (Rutgers president)",
+      "Tim Pernetti (Rutgers AD)",
+      "Jim Delany (Big Ten)"
+    ],
+    "notes": "Announced as a Big East member. Played 2013-14 in the American, then joined the Big Ten for the New York TV market.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Ten_Conference",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Settlement amount from memory."
+  },
+  {
+    "id": "2012-tulane-american",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "tulane",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2012-11-27",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Scott Cowen (Tulane president)",
+      "Rick Dickson (Tulane AD)"
+    ],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ]
+  },
+  {
+    "id": "2012-east-carolina-american",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "east-carolina",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2012-11-27",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Steve Ballard (ECU chancellor)",
+      "Terry Holland (ECU AD)"
+    ],
+    "notes": "Invited as football-only, upgraded to all sports in early 2013.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ]
+  },
+  {
+    "id": "2012-louisville-acc",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "louisville",
+    "from": "american",
+    "to": "acc",
+    "sportScope": "all",
+    "announced": "2012-11-28",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 11000000,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "Negotiated release from the $10M / 27-month Big East-American terms. Amount from memory.",
+    "keyActors": [
+      "James Ramsey (UofL president)",
+      "Tom Jurich (UofL AD)",
+      "John Swofford (ACC)"
+    ],
+    "notes": "Replaced Maryland. Louisville beat out UConn and Cincinnati thanks to its facilities and athletic budget.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)"
+    ],
+    "confidence": "low",
+    "note": "Exit figure approximate."
+  },
+  {
+    "id": "2012-georgetown-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "georgetown",
+    "from": "big-east-2010",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2012-12-15",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Separation agreement (2013-03-08): the \"Catholic 7\" kept the Big East name and the Madison Square Garden tournament. They took only a small part (reported ~$10M) of the ~$100M+ reserve built from exit fees, which effectively paid for the brand. The football schools kept the charter, the rest of the money and the NCAA AQ.",
+    "legalAction": "None. Negotiated separation rather than a withdrawal, so no exit fees.",
+    "keyActors": [
+      "John DeGioia (Georgetown president)",
+      "Rev. Peter Donohue (Villanova president)",
+      "Mike Aresco (Big East / American)",
+      "Val Ackerman (new Big East, from June 2013)"
+    ],
+    "notes": "A basketball-first breakaway that bought out of the hybrid football league. It signed a 12-year, ~$500M FOX deal (~$40M/yr) and added Butler, Creighton and Xavier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Reserve split figures from memory."
+  },
+  {
+    "id": "2012-villanova-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "villanova",
+    "from": "big-east-2010",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2012-12-15",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Separation agreement (2013-03-08): the \"Catholic 7\" kept the Big East name and the Madison Square Garden tournament. They took only a small part (reported ~$10M) of the ~$100M+ reserve built from exit fees, which effectively paid for the brand. The football schools kept the charter, the rest of the money and the NCAA AQ.",
+    "legalAction": "None. Negotiated separation rather than a withdrawal, so no exit fees.",
+    "keyActors": [
+      "John DeGioia (Georgetown president)",
+      "Rev. Peter Donohue (Villanova president)",
+      "Mike Aresco (Big East / American)",
+      "Val Ackerman (new Big East, from June 2013)"
+    ],
+    "notes": "A basketball-first breakaway that bought out of the hybrid football league. It signed a 12-year, ~$500M FOX deal (~$40M/yr) and added Butler, Creighton and Xavier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Reserve split figures from memory."
+  },
+  {
+    "id": "2012-st-johns-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "st-johns",
+    "from": "big-east-2010",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2012-12-15",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Separation agreement (2013-03-08): the \"Catholic 7\" kept the Big East name and the Madison Square Garden tournament. They took only a small part (reported ~$10M) of the ~$100M+ reserve built from exit fees, which effectively paid for the brand. The football schools kept the charter, the rest of the money and the NCAA AQ.",
+    "legalAction": "None. Negotiated separation rather than a withdrawal, so no exit fees.",
+    "keyActors": [
+      "John DeGioia (Georgetown president)",
+      "Rev. Peter Donohue (Villanova president)",
+      "Mike Aresco (Big East / American)",
+      "Val Ackerman (new Big East, from June 2013)"
+    ],
+    "notes": "A basketball-first breakaway that bought out of the hybrid football league. It signed a 12-year, ~$500M FOX deal (~$40M/yr) and added Butler, Creighton and Xavier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Reserve split figures from memory."
+  },
+  {
+    "id": "2012-seton-hall-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "seton-hall",
+    "from": "big-east-2010",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2012-12-15",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Separation agreement (2013-03-08): the \"Catholic 7\" kept the Big East name and the Madison Square Garden tournament. They took only a small part (reported ~$10M) of the ~$100M+ reserve built from exit fees, which effectively paid for the brand. The football schools kept the charter, the rest of the money and the NCAA AQ.",
+    "legalAction": "None. Negotiated separation rather than a withdrawal, so no exit fees.",
+    "keyActors": [
+      "John DeGioia (Georgetown president)",
+      "Rev. Peter Donohue (Villanova president)",
+      "Mike Aresco (Big East / American)",
+      "Val Ackerman (new Big East, from June 2013)"
+    ],
+    "notes": "A basketball-first breakaway that bought out of the hybrid football league. It signed a 12-year, ~$500M FOX deal (~$40M/yr) and added Butler, Creighton and Xavier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Reserve split figures from memory."
+  },
+  {
+    "id": "2012-providence-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "providence",
+    "from": "big-east-2010",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2012-12-15",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Separation agreement (2013-03-08): the \"Catholic 7\" kept the Big East name and the Madison Square Garden tournament. They took only a small part (reported ~$10M) of the ~$100M+ reserve built from exit fees, which effectively paid for the brand. The football schools kept the charter, the rest of the money and the NCAA AQ.",
+    "legalAction": "None. Negotiated separation rather than a withdrawal, so no exit fees.",
+    "keyActors": [
+      "John DeGioia (Georgetown president)",
+      "Rev. Peter Donohue (Villanova president)",
+      "Mike Aresco (Big East / American)",
+      "Val Ackerman (new Big East, from June 2013)"
+    ],
+    "notes": "A basketball-first breakaway that bought out of the hybrid football league. It signed a 12-year, ~$500M FOX deal (~$40M/yr) and added Butler, Creighton and Xavier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Reserve split figures from memory."
+  },
+  {
+    "id": "2012-marquette-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "marquette",
+    "from": "big-east-2010",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2012-12-15",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Separation agreement (2013-03-08): the \"Catholic 7\" kept the Big East name and the Madison Square Garden tournament. They took only a small part (reported ~$10M) of the ~$100M+ reserve built from exit fees, which effectively paid for the brand. The football schools kept the charter, the rest of the money and the NCAA AQ.",
+    "legalAction": "None. Negotiated separation rather than a withdrawal, so no exit fees.",
+    "keyActors": [
+      "John DeGioia (Georgetown president)",
+      "Rev. Peter Donohue (Villanova president)",
+      "Mike Aresco (Big East / American)",
+      "Val Ackerman (new Big East, from June 2013)"
+    ],
+    "notes": "A basketball-first breakaway that bought out of the hybrid football league. It signed a 12-year, ~$500M FOX deal (~$40M/yr) and added Butler, Creighton and Xavier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Reserve split figures from memory."
+  },
+  {
+    "id": "2012-depaul-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "depaul",
+    "from": "big-east-2010",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2012-12-15",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Separation agreement (2013-03-08): the \"Catholic 7\" kept the Big East name and the Madison Square Garden tournament. They took only a small part (reported ~$10M) of the ~$100M+ reserve built from exit fees, which effectively paid for the brand. The football schools kept the charter, the rest of the money and the NCAA AQ.",
+    "legalAction": "None. Negotiated separation rather than a withdrawal, so no exit fees.",
+    "keyActors": [
+      "John DeGioia (Georgetown president)",
+      "Rev. Peter Donohue (Villanova president)",
+      "Mike Aresco (Big East / American)",
+      "Val Ackerman (new Big East, from June 2013)"
+    ],
+    "notes": "A basketball-first breakaway that bought out of the hybrid football league. It signed a 12-year, ~$500M FOX deal (~$40M/yr) and added Butler, Creighton and Xavier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "confidence": "low",
+    "note": "Reserve split figures from memory."
+  },
+  {
+    "id": "2013-butler-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "butler",
+    "from": "a10",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2013-03-20",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Moved Horizon to A-10 in 2012, then to the new Big East a year later, cashing in on its 2010-11 Final Four brand. Football stays in the Pioneer League (FCS).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference"
+    ]
+  },
+  {
+    "id": "2013-xavier-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "xavier",
+    "from": "a10",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2013-03-20",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference"
+    ]
+  },
+  {
+    "id": "2013-creighton-big-east",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "creighton",
+    "from": "mvc",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2013-03-20",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference"
+    ]
+  },
+  {
+    "id": "2013-tulsa-american",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "tulsa",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2013-04-02",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2013-western-kentucky-cusa",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "western-kentucky",
+    "from": "sun-belt",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2013-04-01",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2013-app-state-sun-belt",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "app-state",
+    "from": "socon",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2013-03-27",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Three-time FCS champion (2005-07) known for beating Michigan in 2007. FBS transition 2014. Bowl-eligible 2015.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Southern_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2013-georgia-southern-sun-belt",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "georgia-southern",
+    "from": "socon",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2013-03-27",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Southern_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2013-idaho-sun-belt-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "idaho",
+    "from": "independent",
+    "to": "sun-belt",
+    "sportScope": "football-only",
+    "announced": "2013-03-27",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Other sports moved WAC to Big Sky in 2014.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Idaho_Vandals_football",
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2013-idaho-big-sky-non-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "idaho",
+    "from": "wac",
+    "to": "big-sky",
+    "sportScope": "non-football",
+    "announced": "2013-03-27",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Idaho_Vandals_football",
+      "https://en.wikipedia.org/wiki/Big_Sky_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2013-new-mexico-state-sun-belt-football",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "new-mexico-state",
+    "from": "independent",
+    "to": "sun-belt",
+    "sportScope": "football-only",
+    "announced": "2013-03-27",
+    "effective": "2014-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/New_Mexico_State_Aggies_football",
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "lineage-pac-10-becomes-pac-12",
+    "type": "lineage",
+    "wave": "2010-14",
+    "school": null,
+    "from": "pac-10",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2010-07-01",
+    "effective": "2011-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Rename on adding Colorado and Utah. Divisions (North/South), conference title game from 2011, and the 2011 ESPN/Fox $3B deal plus Pac-12 Networks.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference"
+    ],
+    "confidence": "low",
+    "note": "Rename announcement date approximate."
+  },
+  {
+    "id": "lineage-big-east-2010-becomes-american",
+    "type": "lineage",
+    "wave": "2010-14",
+    "school": null,
+    "from": "big-east-2010",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2013-04-03",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "The football schools kept the 1979 charter and renamed it the American Athletic Conference (Mike Aresco commissioner). It kept the 2013 BCS AQ slot (one season only) and the ESPN 7-yr $126M deal (Nov 2012). Rebranded \"American Conference\" in 2025.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://www.cbssports.com/college-football/news/aac-changes-name-to-american-conference-introduces-mascot-soar-as-part-of-rebranding-intiative"
+    ]
+  },
+  {
+    "id": "founding-big-east-2013",
+    "type": "founding",
+    "wave": "2010-14",
+    "school": null,
+    "from": null,
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2013-03-08",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "New conference formed by the Catholic 7 plus Butler, Creighton and Xavier. It got an NCAA AQ immediately under continuity-of-membership rules. HQ New York. Val Ackerman founding commissioner.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference"
+    ]
+  },
+  {
+    "id": "lineage-wac-2010-ends-fbs-football",
+    "type": "lineage",
+    "wave": "2010-14",
+    "school": null,
+    "from": "wac-2010",
+    "to": "wac",
+    "sportScope": "all",
+    "announced": "2012-08-01",
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "The WAC dropped football after the 2012 season (last FBS season) and continued as a non-football D-I league. It re-added FCS football 2021-22, merged football into the UAC in 2023, and rebranded as the UAC in 2026.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Exact date of the decision to drop football approximate (2012)."
+  },
+  {
+    "id": "lineage-cusa-2010-to-cusa",
+    "type": "lineage",
+    "wave": "2010-14",
+    "school": null,
+    "from": "cusa-2010",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": null,
+    "effective": "2013-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Bookkeeping only. Same legal entity. The id changes on the date most 2010 members had departed.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ]
+  },
+  {
+    "id": "2014-massachusetts-mac-exit",
+    "type": "move",
+    "wave": "2010-14",
+    "school": "massachusetts",
+    "from": "mac",
+    "to": "independent",
+    "sportScope": "football-only",
+    "announced": "2014-03-04",
+    "effective": "2016-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "The MAC contract required UMass to accept full (all-sports) membership by 2014 or leave. UMass refused (A-10 basketball loyalty) and played as an independent 2016-24.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/UMass_Minutemen_football",
+      "https://en.wikipedia.org/wiki/Mid-American_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2014-uab-football-discontinued",
+    "type": "program-event",
+    "wave": "2010-14",
+    "school": "uab",
+    "from": "cusa",
+    "to": null,
+    "sportScope": "football-only",
+    "announced": "2014-12-02",
+    "effective": "2015-01-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "UAB shut football (with rifle and bowling) after a campus study, then reinstated it for 2017 after booster and city backlash. C-USA allowed it back. Precedent for the \"program death/revival\" event.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/UAB_Blazers_football"
+    ],
+    "confidence": "low",
+    "note": "Effective date approximate."
+  },
+  {
+    "id": "2015-coastal-carolina-sun-belt",
+    "type": "move",
+    "wave": "2015-20",
+    "school": "coastal-carolina",
+    "from": "big-south",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2015-08-25",
+    "effective": "2016-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Sun Belt football started 2017 (FBS transition 2016). Won the 2020 Sun Belt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Big_South_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (summer 2015)."
+  },
+  {
+    "id": "2016-idaho-big-sky-football",
+    "type": "move",
+    "wave": "2015-20",
+    "school": "idaho",
+    "from": "sun-belt",
+    "to": "big-sky",
+    "sportScope": "football-only",
+    "announced": "2016-04-28",
+    "effective": "2018-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "The Sun Belt voted (2016-03-01) not to renew Idaho's and NMSU's football-only deals after 2017. Idaho chose to drop to FCS (Big Sky) rather than be an independent. It is the only voluntary FBS-to-FCS drop of the era.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Idaho_Vandals_football",
+      "https://en.wikipedia.org/wiki/Big_Sky_Conference",
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ],
+    "confidence": "low",
+    "note": "Dates approximate."
+  },
+  {
+    "id": "2016-new-mexico-state-independent-football",
+    "type": "move",
+    "wave": "2015-20",
+    "school": "new-mexico-state",
+    "from": "sun-belt",
+    "to": "independent",
+    "sportScope": "football-only",
+    "announced": "2016-03-01",
+    "effective": "2018-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "FBS independent 2018-22, then C-USA 2023.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/New_Mexico_State_Aggies_football",
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ],
+    "confidence": "low",
+    "note": "Dates approximate."
+  },
+  {
+    "id": "2017-liberty-fbs-independent",
+    "type": "move",
+    "wave": "2015-20",
+    "school": "liberty",
+    "from": "big-south",
+    "to": "independent",
+    "sportScope": "football-only",
+    "announced": "2017-02-17",
+    "effective": "2018-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "The NCAA granted a waiver of the rule that an FCS school needs an FBS-conference invitation to reclassify (FBS transition 2017-18). Other sports moved to the ASUN (2018). C-USA in 2023.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Liberty_Flames_football"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2017-wichita-state-american",
+    "type": "move",
+    "wave": "2015-20",
+    "school": "wichita-state",
+    "from": "mvc",
+    "to": "american",
+    "sportScope": "non-football",
+    "announced": "2017-04-07",
+    "effective": "2017-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Basketball-driven add (2013 Final Four, 2014 unbeaten regular season). Joined on under three months' notice, the fastest move of the era.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Missouri_Valley_Conference"
+    ]
+  },
+  {
+    "id": "2019-uconn-big-east",
+    "type": "move",
+    "wave": "2015-20",
+    "school": "uconn",
+    "from": "american",
+    "to": "big-east",
+    "sportScope": "non-football",
+    "announced": "2019-06-27",
+    "effective": "2020-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 17000000,
+    "entryFeeOrForgoneShares": "Paid a Big East entry fee (reported ~$3.5M, unverified).",
+    "legalAction": null,
+    "keyActors": [
+      "Thomas Katsouleas (UConn president)",
+      "David Benedict (UConn AD)",
+      "Val Ackerman (Big East)"
+    ],
+    "notes": "Basketball homecoming. Football went independent and has struggled for scheduling and media revenue.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/UConn_Huskies_football",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)"
+    ],
+    "confidence": "low",
+    "note": "Entry fee unverified."
+  },
+  {
+    "id": "2019-uconn-independent-football",
+    "type": "move",
+    "wave": "2015-20",
+    "school": "uconn",
+    "from": "american",
+    "to": "independent",
+    "sportScope": "football-only",
+    "announced": "2019-06-27",
+    "effective": "2020-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/UConn_Huskies_football"
+    ]
+  },
+  {
+    "id": "2021-texas-sec",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "texas",
+    "from": "big-12",
+    "to": "sec",
+    "sportScope": "all",
+    "announced": "2021-07-30",
+    "effective": "2024-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 50000000,
+    "entryFeeOrForgoneShares": "Phased into SEC distributions (reported ~$27.5M in year one vs ~$52M full share).",
+    "legalAction": "Big 12 sent ESPN a cease-and-desist (July 2021) alleging tortious interference. The bylaws needed 18 months notice plus forfeiting about two years of revenue, and the grant of rights ran through 2025. Settled Feb 2023 for an early 2024 exit costing ~$100M combined in forfeited distributions.",
+    "keyActors": [
+      "Jay Hartzell (UT president)",
+      "Chris Del Conte (UT AD)",
+      "Greg Sankey (SEC)",
+      "Bob Bowlsby (Big 12)",
+      "Brett Yormark (Big 12)"
+    ],
+    "notes": "The 2021-26 wave began with secret talks. The schools asked for invitations on 2021-07-27 and the SEC voted on 2021-07-29/30. The original effective date was 2025-07-01.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southeastern_Conference",
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://www.cbssports.com/college-football/news/reduced-settlements-for-texas-oklahoma-joining-sec-early-leave-big-12-ads-kind-of-dumbfounded",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-oklahoma-sec",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "oklahoma",
+    "from": "big-12",
+    "to": "sec",
+    "sportScope": "all",
+    "announced": "2021-07-30",
+    "effective": "2024-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 50000000,
+    "entryFeeOrForgoneShares": "Phased into SEC distributions (reported ~$27.5M in year one vs ~$52M full share).",
+    "legalAction": "Big 12 sent ESPN a cease-and-desist (July 2021) alleging tortious interference. The bylaws needed 18 months notice plus forfeiting about two years of revenue, and the grant of rights ran through 2025. Settled Feb 2023 for an early 2024 exit costing ~$100M combined in forfeited distributions.",
+    "keyActors": [
+      "Joseph Harroz Jr. (OU president)",
+      "Joe Castiglione (OU AD)",
+      "Greg Sankey (SEC)",
+      "Bob Bowlsby (Big 12)",
+      "Brett Yormark (Big 12)"
+    ],
+    "notes": "The 2021-26 wave began with secret talks. The schools asked for invitations on 2021-07-27 and the SEC voted on 2021-07-29/30. The original effective date was 2025-07-01.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southeastern_Conference",
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://www.cbssports.com/college-football/news/reduced-settlements-for-texas-oklahoma-joining-sec-early-leave-big-12-ads-kind-of-dumbfounded",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-byu-big-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "byu",
+    "from": "independent",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2021-09-10",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Partial Big 12 shares in early years. Full shares under the 2025-31 ESPN/Fox deal.",
+    "legalAction": null,
+    "keyActors": [
+      "Bob Bowlsby (Big 12)",
+      "Mike Aresco (American)"
+    ],
+    "notes": "Football independence and WCC membership ended. Other sports also moved from the WCC.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-cincinnati-big-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "cincinnati",
+    "from": "american",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2021-09-10",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 18000000,
+    "entryFeeOrForgoneShares": "Partial Big 12 shares in early years. Full shares under the 2025-31 ESPN/Fox deal.",
+    "legalAction": "The American's bylaws required $10M plus 27 months notice. Cincinnati, Houston and UCF each paid $18M to leave in 2023 instead of 2024.",
+    "keyActors": [
+      "Bob Bowlsby (Big 12)",
+      "Mike Aresco (American)"
+    ],
+    "notes": "Big 12 backfill after Texas and OU. The American lost its top three football programs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-houston-big-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "houston",
+    "from": "american",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2021-09-10",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 18000000,
+    "entryFeeOrForgoneShares": "Partial Big 12 shares in early years. Full shares under the 2025-31 ESPN/Fox deal.",
+    "legalAction": "The American's bylaws required $10M plus 27 months notice. Cincinnati, Houston and UCF each paid $18M to leave in 2023 instead of 2024.",
+    "keyActors": [
+      "Bob Bowlsby (Big 12)",
+      "Mike Aresco (American)"
+    ],
+    "notes": "Big 12 backfill after Texas and OU. The American lost its top three football programs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-ucf-big-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "ucf",
+    "from": "american",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2021-09-10",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 18000000,
+    "entryFeeOrForgoneShares": "Partial Big 12 shares in early years. Full shares under the 2025-31 ESPN/Fox deal.",
+    "legalAction": "The American's bylaws required $10M plus 27 months notice. Cincinnati, Houston and UCF each paid $18M to leave in 2023 instead of 2024.",
+    "keyActors": [
+      "Bob Bowlsby (Big 12)",
+      "Mike Aresco (American)"
+    ],
+    "notes": "Big 12 backfill after Texas and OU. The American lost its top three football programs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-charlotte-american",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "charlotte",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2021-10-21",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA exit fees and notice periods were negotiated. Amounts unverified.",
+    "keyActors": [
+      "Mike Aresco (American)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "American backfill (a six-school raid of C-USA). It gave the American 14 football members with Army and Navy later.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exit amounts unverified."
+  },
+  {
+    "id": "2021-fau-american",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "fau",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2021-10-21",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA exit fees and notice periods were negotiated. Amounts unverified.",
+    "keyActors": [
+      "Mike Aresco (American)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "American backfill (a six-school raid of C-USA). It gave the American 14 football members with Army and Navy later.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exit amounts unverified."
+  },
+  {
+    "id": "2021-north-texas-american",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "north-texas",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2021-10-21",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA exit fees and notice periods were negotiated. Amounts unverified.",
+    "keyActors": [
+      "Mike Aresco (American)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "American backfill (a six-school raid of C-USA). It gave the American 14 football members with Army and Navy later.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exit amounts unverified."
+  },
+  {
+    "id": "2021-rice-american",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "rice",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2021-10-21",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA exit fees and notice periods were negotiated. Amounts unverified.",
+    "keyActors": [
+      "Mike Aresco (American)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "American backfill (a six-school raid of C-USA). It gave the American 14 football members with Army and Navy later.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exit amounts unverified."
+  },
+  {
+    "id": "2021-uab-american",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "uab",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2021-10-21",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA exit fees and notice periods were negotiated. Amounts unverified.",
+    "keyActors": [
+      "Mike Aresco (American)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "American backfill (a six-school raid of C-USA). It gave the American 14 football members with Army and Navy later.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exit amounts unverified."
+  },
+  {
+    "id": "2021-utsa-american",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "utsa",
+    "from": "cusa",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2021-10-21",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA exit fees and notice periods were negotiated. Amounts unverified.",
+    "keyActors": [
+      "Mike Aresco (American)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "American backfill (a six-school raid of C-USA). It gave the American 14 football members with Army and Navy later.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exit amounts unverified."
+  },
+  {
+    "id": "2021-southern-miss-sun-belt",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "southern-miss",
+    "from": "cusa",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2021-10-26",
+    "effective": "2022-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA required 14 months' notice, so the schools first aimed for 2023. Marshall sued C-USA in West Virginia and all three negotiated a 2022 exit. Payments to C-USA unverified (reported several million each).",
+    "keyActors": [
+      "Keith Gill (Sun Belt)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "Sun Belt 'regional' expansion to 14 with JMU. Created East/West divisions.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates within a day or two. Payments unverified."
+  },
+  {
+    "id": "2021-old-dominion-sun-belt",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "old-dominion",
+    "from": "cusa",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2021-10-27",
+    "effective": "2022-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA required 14 months' notice, so the schools first aimed for 2023. Marshall sued C-USA in West Virginia and all three negotiated a 2022 exit. Payments to C-USA unverified (reported several million each).",
+    "keyActors": [
+      "Keith Gill (Sun Belt)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "Sun Belt 'regional' expansion to 14 with JMU. Created East/West divisions.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates within a day or two. Payments unverified."
+  },
+  {
+    "id": "2021-marshall-sun-belt",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "marshall",
+    "from": "cusa",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2021-10-29",
+    "effective": "2022-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "C-USA required 14 months' notice, so the schools first aimed for 2023. Marshall sued C-USA in West Virginia and all three negotiated a 2022 exit. Payments to C-USA unverified (reported several million each).",
+    "keyActors": [
+      "Keith Gill (Sun Belt)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "Sun Belt 'regional' expansion to 14 with JMU. Created East/West divisions.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Announcement dates within a day or two. Payments unverified."
+  },
+  {
+    "id": "2021-james-madison-sun-belt",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "james-madison",
+    "from": "caa",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2021-11-06",
+    "effective": "2022-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "Under its bylaws the CAA barred JMU from 2021-22 CAA championships after the announcement.",
+    "keyActors": [
+      "Jonathan Alger (JMU president)",
+      "Jeff Bourne (JMU AD)",
+      "Keith Gill (Sun Belt)"
+    ],
+    "notes": "Two-time FCS champion. FBS transition 2022-23. The NCAA denied a bowl-eligibility waiver in 2023, but JMU still played a bowl because there were not enough eligible teams. It made the 2025-26 CFP as a G6 champion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Coastal_Athletic_Association",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "CFP detail per reporting, not re-verified."
+  },
+  {
+    "id": "2021-liberty-cusa",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "liberty",
+    "from": "independent",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2021-11-05",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "C-USA rebuild after losing 9 schools to the American and Sun Belt. Ended FBS independence. Other sports from the ASUN.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-new-mexico-state-cusa",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "new-mexico-state",
+    "from": "independent",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2021-11-05",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "C-USA rebuild after losing 9 schools to the American and Sun Belt. Football independence ended. Other sports from the WAC.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-jacksonville-state-cusa",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "jacksonville-state",
+    "from": "asun",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2021-11-05",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "C-USA rebuild after losing 9 schools to the American and Sun Belt. FCS-to-FBS (transition 2022-23).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2021-sam-houston-cusa",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "sam-houston",
+    "from": "wac",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2021-11-05",
+    "effective": "2023-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "C-USA rebuild after losing 9 schools to the American and Sun Belt. FCS-to-FBS (transition 2022-23). The WAC barred departing schools from its championships.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2022-usc-big-ten",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "usc",
+    "from": "pac-12",
+    "to": "big-ten",
+    "sportScope": "all",
+    "announced": "2022-06-30",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Full Big Ten media shares from 2024 (reported ~$60M+ per school). The new Big Ten deals (Fox/CBS/NBC, ~$7B/7 yrs, 2023-30) were priced with the LA market included.",
+    "legalAction": "None. The Pac-12 had no exit fee or grant of rights past 2024.",
+    "keyActors": [
+      "Carol Folt (USC president)",
+      "Mike Bohn (USC AD)",
+      "Kevin Warren (Big Ten)",
+      "George Kliavkoff (Pac-12)"
+    ],
+    "notes": "Secret talks led by the Big Ten. It triggered the Pac-12's collapse, because its media deal (ending 2024) failed to replace the LA market.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Ten_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2022-ucla-big-ten",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "ucla",
+    "from": "pac-12",
+    "to": "big-ten",
+    "sportScope": "all",
+    "announced": "2022-06-30",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Full Big Ten media shares from 2024 (reported ~$60M+ per school). The new Big Ten deals (Fox/CBS/NBC, ~$7B/7 yrs, 2023-30) were priced with the LA market included.",
+    "legalAction": "UC Regents reviewed the move. In Dec 2022 they approved it on condition that UCLA pay Cal (initially estimated $2-10M a year) and fund travel and athlete support.",
+    "keyActors": [
+      "Gene Block (UCLA chancellor)",
+      "Martin Jarmond (UCLA AD)",
+      "Kevin Warren (Big Ten)",
+      "George Kliavkoff (Pac-12)"
+    ],
+    "notes": "Secret talks led by the Big Ten. It triggered the Pac-12's collapse, because its media deal (ending 2024) failed to replace the LA market.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Ten_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2023-colorado-big-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "colorado",
+    "from": "pac-12",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2023-07-27",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Full Big 12 share. The Big 12 reportedly paid Colorado a $2.5M transition bonus.",
+    "legalAction": null,
+    "keyActors": [
+      "Justin Schwartz (CU chancellor)",
+      "Rick George (CU AD)",
+      "Brett Yormark (Big 12)"
+    ],
+    "notes": "Returned to the Big 12 after 13 years. This broke the Pac-12 before its media-deal presentation.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://ca.sports.yahoo.com/news/colorado-got-2-5-million-010051538.html"
+    ]
+  },
+  {
+    "id": "2023-oregon-big-ten",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "oregon",
+    "from": "pac-12",
+    "to": "big-ten",
+    "sportScope": "all",
+    "announced": "2023-08-04",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Reduced Big Ten media shares (reported roughly half, ~$30-35M a year) for several years, rising to full share later.",
+    "legalAction": null,
+    "keyActors": [
+      "John Karl Scholz (UO president)",
+      "Rob Mullens (UO AD)",
+      "Phil Knight (booster)",
+      "Tony Petitti (Big Ten)"
+    ],
+    "notes": "Accepted after Pac-12 presidents viewed the Apple streaming offer (Aug 4, 2023 meeting). It was the decisive day of the Pac-12's collapse.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Ten_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Share percentage unverified."
+  },
+  {
+    "id": "2023-washington-big-ten",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "washington",
+    "from": "pac-12",
+    "to": "big-ten",
+    "sportScope": "all",
+    "announced": "2023-08-04",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Reduced Big Ten media shares (reported roughly half, ~$30-35M a year) for several years, rising to full share later.",
+    "legalAction": null,
+    "keyActors": [
+      "Ana Mari Cauce (UW president)",
+      "Jen Cohen (UW AD)",
+      "Tony Petitti (Big Ten)"
+    ],
+    "notes": "Accepted after Pac-12 presidents viewed the Apple streaming offer (Aug 4, 2023 meeting). It was the decisive day of the Pac-12's collapse.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Ten_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Share percentage unverified."
+  },
+  {
+    "id": "2023-arizona-big-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "arizona",
+    "from": "pac-12",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2023-08-04",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Robert Robbins (UA president)",
+      "Dave Heeke (UA AD)",
+      "Brett Yormark (Big 12)"
+    ],
+    "notes": "Same night as Oregon and Washington left. The Big 12 became 16 in 2024, and the 'Four Corners' schools won Big 12 titles in 2024 (ASU).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "ASU/Utah formal approvals may be dated 2023-08-05."
+  },
+  {
+    "id": "2023-arizona-state-big-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "arizona-state",
+    "from": "pac-12",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2023-08-04",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Michael Crow (ASU president)",
+      "Ray Anderson (ASU AD)",
+      "Brett Yormark (Big 12)"
+    ],
+    "notes": "Same night as Oregon and Washington left. The Big 12 became 16 in 2024, and the 'Four Corners' schools won Big 12 titles in 2024 (ASU).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "ASU/Utah formal approvals may be dated 2023-08-05."
+  },
+  {
+    "id": "2023-utah-big-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "utah",
+    "from": "pac-12",
+    "to": "big-12",
+    "sportScope": "all",
+    "announced": "2023-08-04",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Taylor Randall (Utah president)",
+      "Mark Harlan (Utah AD)",
+      "Brett Yormark (Big 12)"
+    ],
+    "notes": "Same night as Oregon and Washington left. The Big 12 became 16 in 2024, and the 'Four Corners' schools won Big 12 titles in 2024 (ASU).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "ASU/Utah formal approvals may be dated 2023-08-05."
+  },
+  {
+    "id": "2023-cal-acc",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "cal",
+    "from": "pac-12",
+    "to": "acc",
+    "sportScope": "all",
+    "announced": "2023-09-01",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "About 30% of a full ACC share in years 1-7, 70% in year 8, 75% in year 9, full share in year 10.",
+    "legalAction": null,
+    "keyActors": [
+      "Carol Christ (Cal chancellor)",
+      "Jim Knowlton (Cal AD)",
+      "Jim Phillips (ACC)"
+    ],
+    "notes": "Approved 12-3 by the ACC board after FSU, Clemson and UNC initially opposed. The forgone shares fund a \"success initiatives\" pool for the legacy members.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://www.cbssports.com/college-football/news/acc-settles-florida-state-clemson-lawsuits-revised-revenue-distribution-lowered-exit-fee-among-key-details",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2023-stanford-acc",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "stanford",
+    "from": "pac-12",
+    "to": "acc",
+    "sportScope": "all",
+    "announced": "2023-09-01",
+    "effective": "2024-08-02",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "About 30% of a full ACC share in years 1-7, 70% in year 8, 75% in year 9, full share in year 10.",
+    "legalAction": null,
+    "keyActors": [
+      "Richard Saller (Stanford president)",
+      "Bernard Muir (Stanford AD)",
+      "Jim Phillips (ACC)"
+    ],
+    "notes": "Approved 12-3 by the ACC board after FSU, Clemson and UNC initially opposed. The forgone shares fund a \"success initiatives\" pool for the legacy members.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://www.cbssports.com/college-football/news/acc-settles-florida-state-clemson-lawsuits-revised-revenue-distribution-lowered-exit-fee-among-key-details",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ]
+  },
+  {
+    "id": "2023-smu-acc",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "smu",
+    "from": "american",
+    "to": "acc",
+    "sportScope": "all",
+    "announced": "2023-09-01",
+    "effective": "2024-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "No ACC media-rights distributions for 9 years (donor-funded). Other revenue (CFP, NCAA) is shared.",
+    "legalAction": "Negotiated a 2024 exit from the American (less than 27 months' notice). Amount unverified.",
+    "keyActors": [
+      "R. Gerald Turner (SMU president)",
+      "Rick Hart (SMU AD)",
+      "Jim Phillips (ACC)"
+    ],
+    "notes": "Approved 12-3 by the ACC board after FSU, Clemson and UNC initially opposed. The forgone shares fund a \"success initiatives\" pool for the legacy members.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://www.cbssports.com/college-football/news/acc-settles-florida-state-clemson-lawsuits-revised-revenue-distribution-lowered-exit-fee-among-key-details",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "2023-army-american-football",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "army",
+    "from": "independent",
+    "to": "american",
+    "sportScope": "football-only",
+    "announced": "2023-10-25",
+    "effective": "2024-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Football-only. It reunited with Navy in the American and won the American title in 2024. The Army-Navy game stays non-conference.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Army_Black_Knights_football",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)"
+    ],
+    "confidence": "low",
+    "note": "Announcement date from memory."
+  },
+  {
+    "id": "2023-kennesaw-state-cusa",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "kennesaw-state",
+    "from": "asun",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": null,
+    "effective": "2024-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "FCS-to-FBS (transition 2023-24, FBS full 2025). Football only started in 2015.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Announcement date (2023) not verified."
+  },
+  {
+    "id": "2023-delaware-cusa",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "delaware",
+    "from": "caa",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2023-11-28",
+    "effective": "2025-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "FCS-to-FBS (2024 transition season). 2003 FCS (I-AA) national champion, plus earlier small-college titles.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://conferenceusa.com/news/2025/6/30/general-conference-usa-officially-welcomes-delaware-missouri-state.aspx"
+    ],
+    "confidence": "low",
+    "note": "Announcement date from memory."
+  },
+  {
+    "id": "2023-oregon-state-mwc-scheduling",
+    "type": "scheduling-agreement",
+    "wave": "2021-26",
+    "school": "oregon-state",
+    "from": "pac-12",
+    "to": "mountain-west",
+    "sportScope": "football-only",
+    "announced": "2023-12-29",
+    "effective": "2024-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Paid per-game fees to the MWC. The agreement included a \"poaching penalty\" owed if the Pac-12 took MWC schools (tiered, tens of millions).",
+    "legalAction": "The poaching penalty became the subject of MWC v. Pac-12 litigation after the Pac-12 took five MWC schools. Settled 2026-08-04 (OSU and WSU each ~$10M).",
+    "keyActors": [],
+    "notes": "Not a membership move. Football scheduling agreement for 2024 (6 MWC games each), partly extended for 2025. Non-football sports were WCC affiliates in 2024-26.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (late Dec 2023)."
+  },
+  {
+    "id": "2023-washington-state-mwc-scheduling",
+    "type": "scheduling-agreement",
+    "wave": "2021-26",
+    "school": "washington-state",
+    "from": "pac-12",
+    "to": "mountain-west",
+    "sportScope": "football-only",
+    "announced": "2023-12-29",
+    "effective": "2024-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Same as Oregon State.",
+    "legalAction": "Same as Oregon State.",
+    "keyActors": [],
+    "notes": "Not a membership move. Non-football sports were WCC affiliates 2024-26.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2024-oregon-state-wcc-affiliate",
+    "type": "affiliation",
+    "wave": "2021-26",
+    "school": "oregon-state",
+    "from": "pac-12",
+    "to": "wcc",
+    "sportScope": "non-football",
+    "announced": "2024-01-01",
+    "effective": "2024-07-01",
+    "status": "ended",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Two-year affiliate membership (2024-25, 2025-26) for most non-football sports while the Pac-12 had two members. Ended 2026-06-30.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (early 2024)."
+  },
+  {
+    "id": "2024-washington-state-wcc-affiliate",
+    "type": "affiliation",
+    "wave": "2021-26",
+    "school": "washington-state",
+    "from": "pac-12",
+    "to": "wcc",
+    "sportScope": "non-football",
+    "announced": "2024-01-01",
+    "effective": "2024-07-01",
+    "status": "ended",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Same as Oregon State.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/Pac-12_Conference"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate."
+  },
+  {
+    "id": "2024-massachusetts-mac",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "massachusetts",
+    "from": "independent",
+    "to": "mac",
+    "sportScope": "all",
+    "announced": "2024-02-29",
+    "effective": "2025-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Full member this time (football plus other sports from the A-10). It ended a nine-year football independence.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mid-American_Conference",
+      "https://en.wikipedia.org/wiki/UMass_Minutemen_football"
+    ],
+    "confidence": "low",
+    "note": "Announcement date from memory."
+  },
+  {
+    "id": "2024-missouri-state-cusa",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "missouri-state",
+    "from": "mvc",
+    "to": "cusa",
+    "sportScope": "all",
+    "announced": "2024-05-10",
+    "effective": "2025-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "FCS-to-FBS (2024 transition). Left the Missouri Valley (all sports) and the MVFC (football).",
+    "sources": [
+      "https://news.missouristate.edu/2024/05/10/missouri-state-accepts-invitation-to-join-conference-usa/",
+      "https://conferenceusa.com/news/2025/6/30/general-conference-usa-officially-welcomes-delaware-missouri-state.aspx"
+    ],
+    "fromFootball": "mvfc"
+  },
+  {
+    "id": "2024-boise-state-pac-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "boise-state",
+    "from": "mountain-west",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2024-09-12",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 9800000,
+    "entryFeeOrForgoneShares": "Full Pac-12 member from 2026-27. The new Pac-12 media package (CBS primary, The CW, USA Network/Versant) is reported at ~$68M a year in total.",
+    "legalAction": "MWC bylaw exit fees were ~2x the annual distribution (~$17-19M) with timely notice. The schools sued to void them and the MWC sued the Pac-12 over the poaching penalty. Settled Aug 2026: $49M total from the five departing schools ($9.8M each withheld from final MWC distributions), plus ~$10M each from OSU and WSU on the poaching claim.",
+    "keyActors": [
+      "Marlene Tromp (BSU president)",
+      "Jeramiah Dickey (BSU AD)",
+      "Teresa Gould (Pac-12)",
+      "Gloria Nevarez (MWC)",
+      "Kirk Schulz (WSU president)",
+      "Jayathi Murthy (OSU president)"
+    ],
+    "notes": "First wave of the Pac-12 rebuild.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://www.sportico.com/leagues/college-sports/2026/mountain-west-five-schools-settlement-payment-amount-1234942167/",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees",
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exact announcement dates for each school (Sept 12-13, 2024) not re-verified."
+  },
+  {
+    "id": "2024-fresno-state-pac-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "fresno-state",
+    "from": "mountain-west",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2024-09-12",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 9800000,
+    "entryFeeOrForgoneShares": "Full Pac-12 member from 2026-27. The new Pac-12 media package (CBS primary, The CW, USA Network/Versant) is reported at ~$68M a year in total.",
+    "legalAction": "MWC bylaw exit fees were ~2x the annual distribution (~$17-19M) with timely notice. The schools sued to void them and the MWC sued the Pac-12 over the poaching penalty. Settled Aug 2026: $49M total from the five departing schools ($9.8M each withheld from final MWC distributions), plus ~$10M each from OSU and WSU on the poaching claim.",
+    "keyActors": [
+      "Saul Jimenez-Sandoval (Fresno State president)",
+      "Garrett Klassy (Fresno State AD)",
+      "Teresa Gould (Pac-12)",
+      "Gloria Nevarez (MWC)",
+      "Kirk Schulz (WSU president)",
+      "Jayathi Murthy (OSU president)"
+    ],
+    "notes": "First wave of the Pac-12 rebuild.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://www.sportico.com/leagues/college-sports/2026/mountain-west-five-schools-settlement-payment-amount-1234942167/",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees",
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exact announcement dates for each school (Sept 12-13, 2024) not re-verified."
+  },
+  {
+    "id": "2024-san-diego-state-pac-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "san-diego-state",
+    "from": "mountain-west",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2024-09-12",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 9800000,
+    "entryFeeOrForgoneShares": "Full Pac-12 member from 2026-27. The new Pac-12 media package (CBS primary, The CW, USA Network/Versant) is reported at ~$68M a year in total.",
+    "legalAction": "MWC bylaw exit fees were ~2x the annual distribution (~$17-19M) with timely notice. The schools sued to void them and the MWC sued the Pac-12 over the poaching penalty. Settled Aug 2026: $49M total from the five departing schools ($9.8M each withheld from final MWC distributions), plus ~$10M each from OSU and WSU on the poaching claim.",
+    "keyActors": [
+      "Adela de la Torre (SDSU president)",
+      "John David Wicker (SDSU AD)",
+      "Teresa Gould (Pac-12)",
+      "Gloria Nevarez (MWC)",
+      "Kirk Schulz (WSU president)",
+      "Jayathi Murthy (OSU president)"
+    ],
+    "notes": "SDSU nearly left in 2023. It sent the MWC a letter suggesting it would leave, then retracted it by the June 30, 2023 deadline. It was then the Pac-12's most-sought market (San Diego).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://www.sportico.com/leagues/college-sports/2026/mountain-west-five-schools-settlement-payment-amount-1234942167/",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees",
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exact announcement dates for each school (Sept 12-13, 2024) not re-verified."
+  },
+  {
+    "id": "2024-colorado-state-pac-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "colorado-state",
+    "from": "mountain-west",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2024-09-12",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 9800000,
+    "entryFeeOrForgoneShares": "Full Pac-12 member from 2026-27. The new Pac-12 media package (CBS primary, The CW, USA Network/Versant) is reported at ~$68M a year in total.",
+    "legalAction": "MWC bylaw exit fees were ~2x the annual distribution (~$17-19M) with timely notice. The schools sued to void them and the MWC sued the Pac-12 over the poaching penalty. Settled Aug 2026: $49M total from the five departing schools ($9.8M each withheld from final MWC distributions), plus ~$10M each from OSU and WSU on the poaching claim.",
+    "keyActors": [
+      "Amy Parsons (CSU president)",
+      "John Weber (CSU AD)",
+      "Teresa Gould (Pac-12)",
+      "Gloria Nevarez (MWC)",
+      "Kirk Schulz (WSU president)",
+      "Jayathi Murthy (OSU president)"
+    ],
+    "notes": "First wave of the Pac-12 rebuild.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://www.sportico.com/leagues/college-sports/2026/mountain-west-five-schools-settlement-payment-amount-1234942167/",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees",
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exact announcement dates for each school (Sept 12-13, 2024) not re-verified."
+  },
+  {
+    "id": "2024-utah-state-pac-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "utah-state",
+    "from": "mountain-west",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2024-09-24",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 9800000,
+    "entryFeeOrForgoneShares": "Full Pac-12 member from 2026-27. The new Pac-12 media package (CBS primary, The CW, USA Network/Versant) is reported at ~$68M a year in total.",
+    "legalAction": "MWC bylaw exit fees were ~2x the annual distribution (~$17-19M) with timely notice and more for late notice (Utah State billed ~$38M). The MWC also pursued grant-of-rights claims against Utah State. Lawsuits in multiple courts (2024-25) were settled Aug 2026: $49M total from the five, $9.8M each withheld from final distributions.",
+    "keyActors": [
+      "Elizabeth Cantwell (USU president)",
+      "Diana Sabau (USU AD)",
+      "Teresa Gould (Pac-12)",
+      "Gloria Nevarez (MWC)",
+      "Kirk Schulz (WSU president)",
+      "Jayathi Murthy (OSU president)"
+    ],
+    "notes": "Fifth MWC school. With OSU and WSU this gave the Pac-12 seven football members. Texas State (June 2025) became the eighth.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://www.sportico.com/leagues/college-sports/2026/mountain-west-five-schools-settlement-payment-amount-1234942167/",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees",
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Exact announcement dates for each school (Sept 12-13, 2024) not re-verified."
+  },
+  {
+    "id": "2024-utep-mountain-west",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "utep",
+    "from": "cusa",
+    "to": "mountain-west",
+    "sportScope": "all",
+    "announced": "2024-10-31",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 8000000,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [
+      "Heather Wilson (UTEP president)",
+      "Jim Senter (UTEP AD)",
+      "Gloria Nevarez (MWC)"
+    ],
+    "notes": "MWC backfill. UTEP was a WAC rival of the MWC founders (pre-1999).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://frontofficesports.com/louisiana-tech-conference-usa-sun-belt-football-exit-fee-utep/",
+      "https://fbschedules.com/college-football-realignment-conference-changes-for-2026-take-effect-today/"
+    ],
+    "confidence": "low",
+    "note": "The ~$8M C-USA exit figure comes from Front Office Sports coverage of the La Tech fee comparison."
+  },
+  {
+    "id": "2024-uc-davis-mountain-west",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "uc-davis",
+    "from": "big-west",
+    "to": "mountain-west",
+    "sportScope": "non-football",
+    "announced": "2024-12-10",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "All MWC-sponsored sports except football, which stays FCS in the Big Sky. Water polo and beach volleyball sought Big West affiliation.",
+    "sources": [
+      "https://ucdavisaggies.com/news/2024/12/10/athletics-uc-davis-to-join-mountain-west-conference-in-2026-27",
+      "https://www.espn.com/college-sports/story/_/id/42899713/uc-davis-join-mountain-west-some-sports-not-football"
+    ]
+  },
+  {
+    "id": "2025-grand-canyon-mountain-west",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "grand-canyon",
+    "from": "wac",
+    "to": "mountain-west",
+    "sportScope": "non-football",
+    "announced": "2025-01-13",
+    "effective": "2025-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "No football. GCU reclassified from D-II to D-I via the WAC (2013). It joined the MWC a year before the Pac-12 departures (the WCC had also courted it). GCU's for-profit-to-nonprofit conversion was controversial in D-I in the 2010s.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://www.abqjournal.com/sports/mountain-west-conference-2026-27-here-are-the-14-schools-full-members-and-sport-specific-newcomers/3074907"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (Jan 2025). Effective 2025-07-01 per fbs-conferences agent's verified roster."
+  },
+  {
+    "id": "2025-northern-illinois-mountain-west-football",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "northern-illinois",
+    "from": "mac",
+    "to": "mountain-west",
+    "sportScope": "football-only",
+    "announced": "2025-01-14",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Reported $2M MWC entry fee (football-only). MAC exit payment not verified.",
+    "legalAction": null,
+    "keyActors": [
+      "Lisa Freeman (NIU president)",
+      "Sean Frazier (NIU AD)",
+      "Gloria Nevarez (MWC)"
+    ],
+    "notes": "NIU first sought Pac-12 football-only membership and was rebuffed. Women's gymnastics also joined the MWC.",
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/43324617/northern-illinois-join-mountain-west-football-only-26",
+      "https://www.cbssports.com/college-football/news/northern-illinois-joins-mountain-west-huskies-will-compete-as-football-only-member-beginning-in-2026-season"
+    ],
+    "confidence": "low",
+    "note": "Entry fee per fbs-conferences agent."
+  },
+  {
+    "id": "2025-northern-illinois-horizon",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "northern-illinois",
+    "from": "mac",
+    "to": "horizon",
+    "sportScope": "non-football",
+    "announced": "2025-01-14",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/43324617/northern-illinois-join-mountain-west-football-only-26",
+      "https://en.wikipedia.org/wiki/Horizon_League"
+    ]
+  },
+  {
+    "id": "2025-hawaii-mountain-west-full",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "hawaii",
+    "from": "big-west",
+    "to": "mountain-west",
+    "sportScope": "non-football",
+    "announced": null,
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "Already a football-only member since 2012. Became a full member and kept beach volleyball, men's volleyball, water polo and men's swimming in the Big West.",
+    "sources": [
+      "https://www.hawaii.edu/news/2026/07/01/uh-joins-mountain-west-as-full-member/",
+      "https://www.abqjournal.com/sports/mountain-west-conference-2026-27-here-are-the-14-schools-full-members-and-sport-specific-newcomers/3074907"
+    ],
+    "confidence": "low",
+    "note": "Announcement date (2024-25) not verified."
+  },
+  {
+    "id": "2025-texas-state-pac-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "texas-state",
+    "from": "sun-belt",
+    "to": "pac-12",
+    "sportScope": "all",
+    "announced": "2025-06-30",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Reportedly accepted reduced/deferred Pac-12 distributions in early years (unverified).",
+    "legalAction": "Sun Belt exit fee paid. Amount not verified (the Sun Belt fee was ~$5M class before its 2026 increase).",
+    "keyActors": [
+      "Kelly Damphousse (Texas State president)",
+      "Don Coryell (Texas State AD)",
+      "Teresa Gould (Pac-12)"
+    ],
+    "notes": "Eighth football member. It gave the Pac-12 an Austin/San Antonio market. The NCAA's 8-member FBS minimum forced the Pac-12 to reach 8 by 2026.",
+    "sources": [
+      "https://pac-12.com/news/2025/6/30/general-pac-12-conference-welcomes-the-addition-of-texas-state-university.aspx",
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027"
+    ],
+    "confidence": "low",
+    "note": "Fee terms unverified."
+  },
+  {
+    "id": "2025-gonzaga-pac-12",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "gonzaga",
+    "from": "wcc",
+    "to": "pac-12",
+    "sportScope": "non-football",
+    "announced": "2025-07-01",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "No football. Basketball anchor for the new Pac-12. The Big 12 had courted Gonzaga in 2023-24.",
+    "sources": [
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027",
+      "https://en.wikipedia.org/wiki/West_Coast_Conference",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "confidence": "low",
+    "note": "Announcement date approximate (late June/early July 2025)."
+  },
+  {
+    "id": "2025-louisiana-tech-sun-belt",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "louisiana-tech",
+    "from": "cusa",
+    "to": "sun-belt",
+    "sportScope": "all",
+    "announced": "2025-07-15",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": 8000000,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": "Invited 'no later than July 1, 2027'. The school then sought 2026, but C-USA's 14-month notice bylaw stood in the way. The University of Louisiana System sued C-USA on the school's behalf. Both leagues put La Tech on their 2026 schedules (20 games), and C-USA threatened punitive scheduling. Settled April 2026 with a reported C-USA-record exit fee of more than $8M.",
+    "keyActors": [
+      "Jim Henderson (UL System president)",
+      "Keith Gill (Sun Belt)",
+      "Judy MacLeod (C-USA)"
+    ],
+    "notes": "Return to the Sun Belt (it was a member 1993-2001). It replaced Texas State.",
+    "sources": [
+      "https://latechsports.com/news/2025/7/15/general-la-tech-accepts-invitation-to-join-sun-belt-conference.aspx",
+      "https://wtop.com/ncaa-football/2026/04/louisiana-tech-clear-for-move-this-summer-to-sun-belt-after-settlement-with-conference-usa/",
+      "https://fbschedules.com/report-louisiana-tech-to-pay-record-exit-fee-to-leave-cusa-join-sun-belt/",
+      "https://frontofficesports.com/louisiana-tech-conference-usa-sun-belt-football-exit-fee-utep/",
+      "https://www.espn.com/college-football/story/_/id/48197344/louisiana-tech-c-usa-sun-belt-schedules-amid-standoff"
+    ],
+    "confidence": "low",
+    "note": "Fee is reported as \">$8M\". Value is a floor."
+  },
+  {
+    "id": "2026-north-dakota-state-mountain-west-football",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "north-dakota-state",
+    "from": "mvfc",
+    "to": "mountain-west",
+    "sportScope": "football-only",
+    "announced": "2026-02-09",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "MWC entry fee ~$12-12.5M (ESPN/agreement reporting) plus the $5M NCAA FCS-to-FBS reclassification fee. Other sports stay in the Summit League.",
+    "legalAction": null,
+    "keyActors": [
+      "David Cook (NDSU president)",
+      "Matt Larsen (NDSU AD)",
+      "Gloria Nevarez (MWC)"
+    ],
+    "notes": "The 10th MWC football member. Ten FCS titles from 2011 through the 2024 season. Postseason-ineligible (bowls/CFP) through its transition, eligible from 2028. The MWC kept an 8-game league schedule.",
+    "sources": [
+      "https://www.ndsu.edu/news/2026-02-09-ndsu-joining-mountain-west-conference",
+      "https://www.ndsu.edu/mountain-west",
+      "https://www.espn.com/college-football/story/_/id/47870245/sources-north-dakota-state-joins-mountain-west-football",
+      "https://www.si.com/college-football/north-dakota-state-football-to-pay-hefty-price-to-make-jump-to-fbs",
+      "https://nevadasportsnet.com/news/reporters/inside-north-dakota-state-footballs-membership-agreement-to-join-the-mountain-west"
+    ],
+    "confidence": "low",
+    "note": "NDSU president and AD names from memory. FCS title count approximate."
+  },
+  {
+    "id": "2026-sacramento-state-mac-football",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "sacramento-state",
+    "from": "big-sky",
+    "to": "mac",
+    "sportScope": "football-only",
+    "announced": "2026-02-16",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": "Reported $18M MAC entry fee (with ~$6M due in year 1) and no MAC distributions initially, plus the $5M NCAA reclassification fee. Five-year football-only term.",
+    "legalAction": "In June 2025 the NCAA D-I Council denied Sac State a waiver to reclassify to FBS as an independent without a conference invitation.",
+    "keyActors": [
+      "Luke Wood (Sac State president)",
+      "Mark Orr (Sac State AD)",
+      "Jon Steinbrecher (MAC)"
+    ],
+    "notes": "Replaced NIU in the MAC. Not eligible for the MAC title in its first two seasons. Bowl/CFP-eligible from 2028.",
+    "sources": [
+      "https://hornetsports.com/news/2026/2/16/hornet-football-to-join-the-mac-in-2026.aspx",
+      "https://www.espn.com/college-football/story/_/id/47933760/mac-add-sacramento-state-football-only-member",
+      "https://ballstatesports.com/news/2026/2/16/sacramento-state-joins-mid-american-conference-as-football-only-member",
+      "https://www.on3.com/news/report-mac-votes-sacramento-state-into-leauge-as-football-only-member/"
+    ],
+    "confidence": "low",
+    "note": "Fee schedule as reported. Sac State AD name from memory."
+  },
+  {
+    "id": "2026-sacramento-state-big-west",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "sacramento-state",
+    "from": "big-sky",
+    "to": "big-west",
+    "sportScope": "non-football",
+    "announced": "2026-02-16",
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "",
+    "sources": [
+      "https://hornetsports.com/news/2026/2/16/hornet-football-to-join-the-mac-in-2026.aspx",
+      "https://en.wikipedia.org/wiki/Big_West_Conference"
+    ]
+  },
+  {
+    "id": "2026-james-madison-american",
+    "type": "move",
+    "wave": "2021-26",
+    "school": "james-madison",
+    "from": "sun-belt",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2026-10-12",
+    "effective": "2027-07-01",
+    "status": "pending",
+    "exitFeePaidUsd": 5000000,
+    "entryFeeOrForgoneShares": "Reported $23M American entry fee. Both the entry and Sun Belt exit money (~$5M) were raised privately.",
+    "legalAction": "None reported. JMU moved before a pending Sun Belt vote to raise exit fees.",
+    "keyActors": [
+      "Jim Schmidt (JMU president)",
+      "Matt Roan (JMU AD)",
+      "Tim Pernetti (American)",
+      "Keith Gill (Sun Belt)"
+    ],
+    "notes": "The American's CEOs voted unanimously on 2026-10-12. The board resolution said 'no later than July 1, 2028', and AP/Fox (2026-11-19) report the move was accelerated to 2027. JMU was a 2025-26 CFP team. The Sun Belt (13 after JMU) needs a replacement: an FCS move-up or a C-USA poach.",
+    "sources": [
+      "https://jmusports.com/news/2026/10/12/administration-james-madison-university-accepts-membership-invitation-to-the-american-conference",
+      "https://frontofficesports.com/article/james-madison-joins-the-american-before-sun-belt-exit-fees-rise/",
+      "https://www.foxsports.com/stories/college-football/james-madison-american-conference-sun-belt-transition",
+      "https://www.deseret.com/sports/2026/10/12/conference-realignment-james-madison-leaving-sun-belt-conference-for-american-conference/",
+      "https://www.newsweek.com/sports/ncaa/2026-college-football-playoff-team-joins-new-conference-12556729"
+    ],
+    "confidence": "low",
+    "note": "Effective date conflict (2027 vs no later than 2028). JMU officials' names from memory."
+  },
+  {
+    "id": "lineage-american-rebrand-2025",
+    "type": "lineage",
+    "wave": "2021-26",
+    "school": null,
+    "from": "american",
+    "to": "american",
+    "sportScope": "all",
+    "announced": "2025-04-01",
+    "effective": "2025-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "American Athletic Conference rebranded as \"American Conference\" (Commissioner Tim Pernetti). Same id.",
+    "sources": [
+      "https://www.cbssports.com/college-football/news/aac-changes-name-to-american-conference-introduces-mascot-soar-as-part-of-rebranding-intiative",
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)"
+    ],
+    "confidence": "low",
+    "note": "Dates approximate (spring/summer 2025)."
+  },
+  {
+    "id": "lineage-wac-becomes-uac-2026",
+    "type": "lineage",
+    "wave": "2021-26",
+    "school": null,
+    "from": "wac",
+    "to": "uac",
+    "sportScope": "all",
+    "announced": null,
+    "effective": "2026-07-01",
+    "status": "completed",
+    "exitFeePaidUsd": null,
+    "entryFeeOrForgoneShares": null,
+    "legalAction": null,
+    "keyActors": [],
+    "notes": "The WAC's remaining Texas members joined the ASUN's five football-playing schools in a newly branded multisport league under the United Athletic Conference name. Grand Canyon, Utah Valley, Seattle U and California Baptist had left the WAC.",
+    "sources": [
+      "https://www.bloggingthebracket.com/conference-realignment/10418/college-basketball-division-i-conference-realignment-2026-27",
+      "https://en.wikipedia.org/wiki/United_Athletic_Conference"
+    ],
+    "confidence": "low",
+    "note": "Membership specifics unverified."
+  }
+]
