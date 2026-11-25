@@ -1,0 +1,832 @@
+[
+  {
+    "id": "sec",
+    "name": "Southeastern Conference",
+    "shortName": "SEC",
+    "founded": 1932,
+    "hq": { "city": "Birmingham", "state": "AL" },
+    "division": "FBS",
+    "cfpTier": "P4",
+    "commissioner": {
+      "id": "greg-sankey",
+      "name": "Greg Sankey",
+      "since": 2015,
+      "startDate": "2015-08-01",
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "note": "Former SEC executive associate commissioner/COO and ex-Southland Conference commissioner; succeeded Mike Slive. Contract terms not public; no 2025-26 change found."
+    },
+    "members2026": {
+      "full": ["alabama", "arkansas", "auburn", "florida", "georgia", "kentucky", "lsu", "mississippi-state", "missouri", "oklahoma", "ole-miss", "south-carolina", "tennessee", "texas", "texas-am", "vanderbilt"],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": []
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": "SEC Presidents and Chancellors",
+      "expansionVoteThreshold": "3/4 of members (12 of 16)",
+      "expansionVoteFraction": 0.75,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "Texas/Oklahoma admitted unanimously (July 2021) under the 3/4 rule (11 of 14 then). Bylaw-amendment and removal thresholds not public.",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": null,
+      "feeDescription": "No published withdrawal fee. Practical exit cost = forfeited distributions plus breaking the grant of rights that runs with the ESPN/ABC deal.",
+      "feeSchedule": [],
+      "grantOfRights": { "through": 2034, "description": "Members' media rights pooled for the life of the ESPN/ABC agreement (2024-25 through 2033-34).", "confidence": "low" },
+      "notes": "No SEC member has tried to leave since the league formed; exit is modeled as near-impossible."
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": "FY2025",
+      "totalUsd": null,
+      "perSchoolUsd": 52500000,
+      "notes": "Reported ~$52.5M to each of the 14 legacy members; Oklahoma and Texas phased in at ~$27.5M in year one. Not re-verified this session; distributions.json (money agent) is authoritative.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 9,
+      "format": "16 teams, no divisions; 3 annual opponents + 6 rotating (every team plays every other at least once every 2 years); top two meet in SEC Championship; each team must also play 1 non-conference Power 4 opponent (ACC, Big Ten, Big 12 or Notre Dame). Annual opponents reviewed every 4 years (2026-29 cycle). 2026 is the first nine-game season.",
+      "protectedRivalries": [
+        ["alabama", "auburn"], ["alabama", "tennessee"], ["alabama", "mississippi-state"],
+        ["arkansas", "lsu"], ["arkansas", "missouri"], ["arkansas", "texas"],
+        ["auburn", "georgia"], ["auburn", "vanderbilt"],
+        ["florida", "georgia"], ["florida", "kentucky"], ["florida", "south-carolina"],
+        ["georgia", "south-carolina"],
+        ["kentucky", "tennessee"], ["kentucky", "vanderbilt"],
+        ["tennessee", "vanderbilt"],
+        ["lsu", "ole-miss"], ["lsu", "texas-am"],
+        ["ole-miss", "mississippi-state"], ["ole-miss", "oklahoma"],
+        ["texas", "oklahoma"], ["texas", "texas-am"],
+        ["missouri", "oklahoma"], ["missouri", "south-carolina"],
+        ["mississippi-state", "texas-am"]
+      ],
+      "protectedRivalriesNote": "2026-29 annual opponents (24 pairings). Alabama, Arkansas, Auburn and Florida sets verified via search; the remaining pairings are reconstructed from memory of the Sept 2025 release and are low confidence.",
+      "championshipGame": { "venue": "Mercedes-Benz Stadium", "city": "Atlanta", "state": "GA", "through": 2031, "confidence": "low" },
+      "schedulingAlliances": []
+    },
+    "mbbTournament": { "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "through": null, "confidence": "low" },
+    "wbbTournament": { "venue": "Bon Secours Wellness Arena", "city": "Greenville", "state": "SC", "through": null, "confidence": "low" },
+    "springMeetings": { "city": "Destin", "state": "FL", "month": 5 },
+    "mediaDays": { "city": null, "state": null, "dates2026": "mid-July 2026 (site rotates Atlanta/Nashville/Dallas; 2026 site and dates not verified)", "confidence": "low" },
+    "sources": [
+      "https://www.espn.com/college-football/story/_/id/46355065/sec-college-football-future-schedule-release-2026-2029",
+      "https://www.cbssports.com/college-football/news/sec-football-schedule-league-releases-every-game-for-2026-29-with-three-annual-opponents-for-each-team",
+      "https://www.cbssports.com/college-football/news/sec-to-reveal-nine-game-schedules-next-week-with-annual-opponents-to-be-reviewed-every-four-years",
+      "https://en.wikipedia.org/wiki/Greg_Sankey",
+      "https://www.si.com/college/oklahoma/football/oklahoma-optimistic-for-the-future-as-sec-announces-most-recent-revenue-distribution-01kgqqv40e30"
+    ]
+  },
+  {
+    "id": "big-ten",
+    "name": "Big Ten Conference",
+    "shortName": "Big Ten",
+    "founded": 1896,
+    "hq": { "city": "Rosemont", "state": "IL" },
+    "division": "FBS",
+    "cfpTier": "P4",
+    "commissioner": {
+      "id": "tony-petitti",
+      "name": "Tony Petitti",
+      "since": 2023,
+      "startDate": "2023-05-15",
+      "background": "media-exec",
+      "contractThrough": 2033,
+      "note": "Ex-CBS Sports exec, MLB Network president, MLB deputy commissioner, Activision Blizzard Esports. Council of Presidents/Chancellors unanimously approved a 5-year extension through June 2033 (announced 2026-08-26); terms undisclosed. Will negotiate the next media deal (current ~$7B deal expires 2030)."
+    },
+    "members2026": {
+      "full": ["illinois", "indiana", "iowa", "maryland", "michigan", "michigan-state", "minnesota", "nebraska", "northwestern", "ohio-state", "oregon", "penn-state", "purdue", "rutgers", "ucla", "usc", "washington", "wisconsin"],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": [
+        { "school": "johns-hopkins", "sports": ["mens-lacrosse", "womens-lacrosse"] },
+        { "school": "notre-dame", "sports": ["mens-ice-hockey"] }
+      ]
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": "Council of Presidents/Chancellors (COP/C)",
+      "expansionVoteThreshold": "Supermajority of COP/C (reported ~70%)",
+      "expansionVoteFraction": 0.7,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "USC/UCLA (2022) and Oregon/Washington (2023) were approved unanimously. 2025 'Big Ten Enterprises' private-capital plan (UC Investments, GOR extension to ~2046) stalled after Michigan/USC objections; status in late 2026 not verified.",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": null,
+      "feeDescription": "No published withdrawal fee. Exit cost = forfeited distributions plus grant of rights tied to media deals (Fox/CBS/NBC through 2029-30).",
+      "feeSchedule": [],
+      "grantOfRights": { "through": 2030, "description": "Media rights pooled for the term of the Fox/CBS/NBC deals (2023-24 through 2029-30); exact GOR end date not public.", "confidence": "low" },
+      "notes": "Maryland (2014) and Rutgers took reduced/advanced shares on entry; that phase-in is now over."
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": "FY2024",
+      "totalUsd": null,
+      "perSchoolUsd": 60500000,
+      "notes": "First year of the new media deal; reported ~$60.5M per full-share school on ~$929M conference revenue. USC/UCLA/Oregon/Washington entered on reduced shares. Not re-verified this session.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 9,
+      "format": "18 teams, no divisions (since 2024); 'Flex Protect' model with a small set of protected annual games; top two meet in the Big Ten Championship.",
+      "protectedRivalries": [
+        ["michigan", "ohio-state"], ["michigan", "michigan-state"], ["indiana", "purdue"],
+        ["illinois", "northwestern"], ["illinois", "purdue"], ["iowa", "minnesota"],
+        ["iowa", "nebraska"], ["iowa", "wisconsin"], ["minnesota", "wisconsin"],
+        ["maryland", "rutgers"], ["oregon", "washington"], ["ucla", "usc"]
+      ],
+      "protectedRivalriesNote": "From memory of the 2024-28 Flex Protect list; low confidence.",
+      "championshipGame": { "venue": "Lucas Oil Stadium", "city": "Indianapolis", "state": "IN", "through": 2028, "confidence": "low" },
+      "schedulingAlliances": []
+    },
+    "mbbTournament": { "venue": "Gainbridge Fieldhouse", "city": "Indianapolis", "state": "IN", "through": null, "confidence": "low", "note": "Rotates Indianapolis/Chicago (United Center); 2027 site not verified." },
+    "wbbTournament": { "venue": "Gainbridge Fieldhouse", "city": "Indianapolis", "state": "IN", "through": null, "confidence": "low" },
+    "springMeetings": { "city": "Rosemont", "state": "IL", "month": 5, "confidence": "low" },
+    "mediaDays": { "city": "Las Vegas", "state": "NV", "dates2026": "late July 2026 (2025 edition was Las Vegas; 2026 site/dates not verified)", "confidence": "low" },
+    "sources": [
+      "https://bigten.org/article/60264/",
+      "https://www.foxsports.com/stories/college-football/big-ten-commissioner-tony-petitti-extension-b1g",
+      "https://www.ibj.com/articles/big-ten-leaders-unanimously-approve-5-year-contract-extension-for-commissioner-tony-petitti",
+      "https://en.wikipedia.org/wiki/Tony_Petitti"
+    ]
+  },
+  {
+    "id": "big-12",
+    "name": "Big 12 Conference",
+    "shortName": "Big 12",
+    "founded": 1994,
+    "hq": { "city": "Irving", "state": "TX" },
+    "division": "FBS",
+    "cfpTier": "P4",
+    "commissioner": {
+      "id": "brett-yormark",
+      "name": "Brett Yormark",
+      "since": 2022,
+      "startDate": "2022-08-01",
+      "background": "pro-league-exec",
+      "contractThrough": 2027,
+      "departs": "2027-01-31",
+      "note": "Ex-NASCAR VP, Brooklyn Nets/BSE CEO, Roc Nation COO. Had a 3-year extension (May 2025) through 2030, but on 2026-10-30 announced he will step down effective 2027-01-31 to become CEO of a RedBird Capital sports/venue company in Milan (AC Milan parent group). Board of Directors (chair: Kansas chancellor Douglas Girod) is running a national search; no successor named as of 2026-11-25. Speculated candidates include American commissioner Tim Pernetti; a rumor linking Texas Tech booster Cody Campbell was denied by Campbell."
+    },
+    "members2026": {
+      "full": ["arizona", "arizona-state", "baylor", "byu", "cincinnati", "colorado", "houston", "iowa-state", "kansas", "kansas-state", "oklahoma-state", "tcu", "texas-tech", "ucf", "utah", "west-virginia"],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": [
+        { "school": "denver", "sports": ["womens-gymnastics"] },
+        { "school": "air-force", "sports": ["wrestling"] },
+        { "school": "missouri", "sports": ["wrestling"] },
+        { "school": "north-dakota-state", "sports": ["wrestling"] },
+        { "school": "northern-colorado", "sports": ["wrestling"] },
+        { "school": "northern-iowa", "sports": ["wrestling"] },
+        { "school": "south-dakota-state", "sports": ["wrestling"] },
+        { "school": "utah-valley", "sports": ["wrestling"] },
+        { "school": "wyoming", "sports": ["wrestling"] }
+      ],
+      "affiliatesNote": "Affiliate list from memory (2024-25); low confidence."
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": "Board of Directors",
+      "expansionVoteThreshold": "3/4 of directors",
+      "expansionVoteFraction": 0.75,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "2021 expansion (BYU, Cincinnati, Houston, UCF) needed 8 of 10 votes. Board chair 2026-27: Douglas Girod (Kansas). Big 12 courted/considered Memphis at some point (AP: Pernetti commented on Memphis' 'attempted move to Big 12'); details not verified.",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": 18,
+      "feeDescription": "Bylaws (as reported during the 2021-23 Texas/Oklahoma exit): a member leaving before the grant of rights expires forfeits roughly two years of distributions and must give ~18 months' notice. Texas/OU negotiated early release for ~$100M in foregone distributions.",
+      "feeSchedule": [],
+      "grantOfRights": { "through": 2031, "description": "Members' rights granted through the ESPN/Fox deals running 2025-26 through 2030-31.", "confidence": "low" },
+      "notes": "Big 12 sold the 2022 renewal early, 6 years/$2.28B. Colorado received a $2.5M transition bonus on rejoining (2024)."
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": "FY2024",
+      "totalUsd": 470000000,
+      "perSchoolUsd": 39800000,
+      "notes": "Reported record ~$470M total; full share ~$39.8M (Texas/OU received full share in their final year); 2023 newcomers on partial shares. Not re-verified this session.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 9,
+      "format": "16 teams, no divisions; top two meet in Big 12 Championship.",
+      "protectedRivalries": [["arizona", "arizona-state"], ["byu", "utah"], ["kansas", "kansas-state"]],
+      "protectedRivalriesNote": "No formal protected list confirmed; these rivalries were preserved in the 2024-27 rotation (low confidence).",
+      "championshipGame": { "venue": "AT&T Stadium", "city": "Arlington", "state": "TX", "through": 2030, "confidence": "low" },
+      "schedulingAlliances": []
+    },
+    "mbbTournament": { "venue": "T-Mobile Center", "city": "Kansas City", "state": "MO", "through": null, "confidence": "low" },
+    "wbbTournament": { "venue": "T-Mobile Center", "city": "Kansas City", "state": "MO", "through": null, "confidence": "low" },
+    "springMeetings": { "city": "Irving", "state": "TX", "month": 5, "confidence": "low" },
+    "mediaDays": { "city": "Frisco", "state": "TX", "dates2026": "July 2026 (The Star in Frisco hosted 2025; 2026 not verified)", "confidence": "low" },
+    "sources": [
+      "https://big12sports.com/news/2026/10/30/general-commissioner-brett-yormark-to-leave-big-12-conference.aspx",
+      "https://www.kctv5.com/2026/10/30/big-12-commissioner-brett-yormark-step-down-january-2027/",
+      "https://www.deseret.com/sports/2026/11/13/brett-yormark-has-a-new-home-in-milan/",
+      "https://www.heartlandcollegesports.com/2026/10/30/big-12-commissioner-candidates-replace-brett-yormark/",
+      "https://www.nbcsports.com/college-football/news/big-12-commissioner-brett-yormark-receives-3-year-contract-extension-through-2030",
+      "https://www.cbssports.com/college-football/news/reduced-settlements-for-texas-oklahoma-joining-sec-early-leave-big-12-ads-kind-of-dumbfounded",
+      "https://arizonasports.com/ncaa/arizona-state/asu-football/big-12-schools-share-record-470-million-revenue-distribution-pac-12",
+      "https://ca.sports.yahoo.com/news/colorado-got-2-5-million-010051538.html"
+    ]
+  },
+  {
+    "id": "acc",
+    "name": "Atlantic Coast Conference",
+    "shortName": "ACC",
+    "founded": 1953,
+    "hq": { "city": "Charlotte", "state": "NC" },
+    "division": "FBS",
+    "cfpTier": "P4",
+    "commissioner": {
+      "id": "jim-phillips",
+      "name": "Jim Phillips",
+      "since": 2021,
+      "startDate": "2021-02-01",
+      "background": "former-ad",
+      "contractThrough": 2029,
+      "note": "Ex-Northwestern AD. 2023 three-year extension keeps him into 2029 (signed amid Big Ten interest). No 2026 extension found. On NCAA Board of Governors. Says he expects 'four or five years' of ACC stability post-settlement; in May 2026 backed the Big Ten's 24-team CFP push."
+    },
+    "members2026": {
+      "full": ["boston-college", "cal", "clemson", "duke", "florida-state", "georgia-tech", "louisville", "miami-fl", "nc-state", "north-carolina", "pitt", "smu", "stanford", "syracuse", "virginia", "virginia-tech", "wake-forest"],
+      "footballOnly": [],
+      "nonFootball": ["notre-dame"],
+      "affiliates": []
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": "Board of Directors",
+      "expansionVoteThreshold": "3/4 of directors (12 of 15 in 2023)",
+      "expansionVoteFraction": 0.75,
+      "bylawAmendmentThreshold": "2/3",
+      "commissionerRemovalThreshold": null,
+      "notes": "SMU/Cal/Stanford admitted Sept 2023 by 12-3 vote (Clemson, FSU, UNC no; NC State flipped). Bylaw-amendment threshold low confidence.",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": 13,
+      "feeDescription": "Under the March 4, 2025 settlement with Florida State and Clemson: exit fee $165M in FY2026, falling $18M per year to $75M from FY2031 through FY2036. A school that pays the fee leaves with its own media rights (the grant of rights no longer binds it). Before: 3x annual operating budget (~$130M+) plus GOR damages (FSU estimated total cost >$572M).",
+      "feeSchedule": [
+        { "fiscalYear": 2026, "amountUsd": 165000000 },
+        { "fiscalYear": 2027, "amountUsd": 147000000 },
+        { "fiscalYear": 2028, "amountUsd": 129000000 },
+        { "fiscalYear": 2029, "amountUsd": 111000000 },
+        { "fiscalYear": 2030, "amountUsd": 93000000 },
+        { "fiscalYear": 2031, "amountUsd": 75000000 },
+        { "fiscalYear": 2032, "amountUsd": 75000000 },
+        { "fiscalYear": 2033, "amountUsd": 75000000 },
+        { "fiscalYear": 2034, "amountUsd": 75000000 },
+        { "fiscalYear": 2035, "amountUsd": 75000000 },
+        { "fiscalYear": 2036, "amountUsd": 75000000 }
+      ],
+      "grantOfRights": { "through": 2036, "description": "Grant of rights runs to June 30, 2036, matching the ESPN deal (ESPN exercised its option to extend through 2035-36). Paying the exit fee releases the leaving school's rights." },
+      "notes": "Fiscal year = July-June (FY2027 = 2026-27). Notice deadline reportedly moved by the settlement to June 1 of the year before departure (from Aug 15); single-source, low confidence. Fee schedule widely reported (On3, Sportskeeda, CBS) and matches the brief."
+    },
+    "distribution": {
+      "model": "hybrid",
+      "latestFiscalYear": "FY2024",
+      "totalUsd": null,
+      "perSchoolUsd": null,
+      "notes": "From FY2026 the settlement's 'brand initiative' applies: 40% of TV revenue split equally among the 14 longstanding members, 60% by a 5-year rolling TV-viewership ranking (favors Clemson, FSU, UNC, Miami). Separate 'success initiatives' performance pool. SMU takes no media-rights share for 9 years; Cal/Stanford started at 30% shares rising to full by year 10. Per-school dollar amounts not verified (~$40-45M range pre-tiering).",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 9,
+      "format": "17 football teams, no divisions. AD vote (Sept 2025): 9 conference games + at least 10 Power 4 games a year starting 2026. Most teams play 9 ACC games in 2026; some play 8 because of existing non-conference contracts; 16 of 17 play 9 in 2027, with one team at 8 + two P4 non-conference games (odd-number fix). Top two meet in ACC Championship. Notre Dame plays ~5 ACC opponents a year.",
+      "protectedRivalries": [
+        ["duke", "north-carolina"], ["nc-state", "north-carolina"], ["virginia", "virginia-tech"],
+        ["florida-state", "miami-fl"], ["clemson", "florida-state"], ["cal", "stanford"],
+        ["boston-college", "syracuse"]
+      ],
+      "protectedRivalriesNote": "Exact structure of the nine-game model not verified; these traditional rivalries are assumed annual (low confidence).",
+      "championshipGame": { "venue": "Bank of America Stadium", "city": "Charlotte", "state": "NC", "through": 2030, "confidence": "low" },
+      "schedulingAlliances": ["notre-dame"]
+    },
+    "mbbTournament": { "venue": "Spectrum Center", "city": "Charlotte", "state": "NC", "through": null, "confidence": "low" },
+    "wbbTournament": { "venue": "Greensboro Coliseum", "city": "Greensboro", "state": "NC", "through": null, "confidence": "low" },
+    "springMeetings": { "city": "Amelia Island", "state": "FL", "month": 5 },
+    "mediaDays": { "city": "Charlotte", "state": "NC", "dates2026": "July 2026 (ACC Football Kickoff; Charlotte hosted 2024-25; 2026 not verified)", "confidence": "low" },
+    "sources": [
+      "https://www.cbssports.com/college-football/news/acc-settles-florida-state-clemson-lawsuits-revised-revenue-distribution-lowered-exit-fee-among-key-details",
+      "https://www.on3.com/nil/news/acc-year-by-year-exit-fees-revealed-florida-state-clemson-settlement",
+      "https://www.espn.com/college-football/story/_/id/44108761",
+      "https://news.fsu.edu/acclawsuit/",
+      "https://www.essentiallysports.com/ncaa-college-football-news-clemson-fsu-to-pay-two-hundred-ninety-fourm-exit-price-after-acc-makes-new-deadline-announcement/",
+      "https://www.cbssports.com/college-football/news/acc-votes-to-expand-football-schedule-to-nine-conference-games-10-power-4-games-each-season",
+      "https://africa.espn.com/college-football/story/_/id/46349266/acc-moving-9-league-games-aligning-rest-power-4",
+      "https://www.cbssports.com/college-football/news/acc-commissioner-jim-phillips-to-sign-three-year-extension-after-being-a-target-to-lead-big-ten",
+      "https://www.sportsvideo.org/2025/01/30/espn-and-acc-re-up-media-rights-deal-through-2035-36/"
+    ]
+  },
+  {
+    "id": "pac-12",
+    "name": "Pac-12 Conference",
+    "shortName": "Pac-12",
+    "founded": 1915,
+    "hq": { "city": "San Ramon", "state": "CA", "confidence": "low" },
+    "division": "FBS",
+    "cfpTier": "G6",
+    "commissioner": {
+      "id": "teresa-gould",
+      "name": "Teresa Gould",
+      "since": 2024,
+      "startDate": "2024-03-01",
+      "background": "conference-deputy",
+      "contractThrough": 2031,
+      "note": "Former Pac-12 deputy commissioner and ex-WCC associate commissioner; first woman to lead an autonomy conference. Board extended her contract 5 years through the 2030-31 season (June 15-16, 2026). Testified to Senate Commerce Committee June 3, 2026."
+    },
+    "members2026": {
+      "full": ["oregon-state", "washington-state", "boise-state", "colorado-state", "fresno-state", "san-diego-state", "utah-state", "texas-state"],
+      "footballOnly": [],
+      "nonFootball": ["gonzaga"],
+      "affiliates": []
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": "Board of Directors",
+      "expansionVoteThreshold": null,
+      "expansionVoteFraction": null,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "OSU and WSU ran the conference as a two-member board from Dec 2023 (Washington Supreme Court let stand the injunction) until the relaunch on July 1, 2026, when seven new full members joined. New bylaw thresholds not public. Exactly 8 football members = NCAA FBS minimum, so one defection would endanger FBS status.",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": null,
+      "feeDescription": "New-member withdrawal terms not publicly disclosed.",
+      "feeSchedule": [],
+      "grantOfRights": { "through": null, "description": "Rebuilt-Pac-12 media package (CBS as primary partner) reportedly runs ~2026-27 through 2030-31; GOR terms not verified.", "confidence": "low" },
+      "notes": "The conference owed the Mountain West a scheduling-agreement 'poaching penalty' (up to $55M claimed); settled Aug 4, 2026 (OSU/WSU ~$10M each; see legal-exit-fees-gor.md)."
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": null,
+      "totalUsd": null,
+      "perSchoolUsd": null,
+      "notes": "FY2027 is the first year of the rebuilt league; per-school figures not verified. OSU/WSU held legacy assets (CFP/NCAA units, ~$65M from departing schools) in 2024-26.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 7,
+      "format": "8 football members, full round robin (7 games) assumed; top two meet in the Pac-12 Championship.",
+      "protectedRivalries": [["oregon-state", "washington-state"], ["boise-state", "fresno-state"], ["fresno-state", "san-diego-state"]],
+      "protectedRivalriesNote": "Round robin makes protection moot; listed pairs are marquee rivalries.",
+      "championshipGame": { "venue": null, "city": null, "state": null, "through": null, "confidence": "low", "note": "2026 site not verified (likely higher seed's campus or a neutral site)." },
+      "schedulingAlliances": [],
+      "notes": "The 2024-25 Pac-12/Mountain West scheduling agreement for OSU/WSU has expired."
+    },
+    "mbbTournament": { "venue": null, "city": null, "state": null, "through": null, "confidence": "low" },
+    "wbbTournament": { "venue": null, "city": null, "state": null, "through": null, "confidence": "low" },
+    "springMeetings": { "city": null, "state": null, "month": null },
+    "mediaDays": { "city": null, "state": null, "dates2026": "July 2026 (not verified)", "confidence": "low" },
+    "sources": [
+      "https://pac-12.com/news/2026/6/15/general-pac-12-board-of-directors-extends-contract-of-commissioner-teresa-gould.aspx",
+      "https://africa.espn.com/college-sports/story/_/id/49077989/pac-12-commissioner-teresa-gould-gets-5-year-extension",
+      "https://pac-12.com/news/2025/6/30/general-pac-12-conference-welcomes-the-addition-of-texas-state-university.aspx",
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027",
+      "https://www.commerce.senate.gov/wp-content/uploads/meetings/36690a12-aa4c-e426-99ad-cc13df72e3b7/Written-testimony-of-Pac-12-Commissioner-Teresa-Gould-June-3-2026-U.S.-Senate-Committee-on-Commerce-Science-and-Transport_5a3614b4-9c9d-4f20-aa8b-e269c1b5e7f5-1.pdf",
+      "https://www.cbssports.com/college-football/news/cbs-sports-pac-12-extend-partnership-with-network-becoming-primary-partner-as-league-eyes-expansion/",
+      "https://www.cbssports.com/college-football/news/washington-state-oregon-state-remain-in-control-of-pac-12-as-washington-supreme-court-denies-review-request"
+    ]
+  },
+  {
+    "id": "mountain-west",
+    "name": "Mountain West Conference",
+    "shortName": "Mountain West",
+    "founded": 1998,
+    "hq": { "city": "Colorado Springs", "state": "CO" },
+    "division": "FBS",
+    "cfpTier": "G6",
+    "commissioner": {
+      "id": "gloria-nevarez",
+      "name": "Gloria Nevarez",
+      "since": 2023,
+      "startDate": "2023-01-01",
+      "background": "attorney",
+      "contractThrough": 2030,
+      "note": "Attorney; former WCC commissioner (2018-22) and ex-Pac-12 senior associate commissioner; succeeded Craig Thompson. Board extended her 4 years through Dec 31, 2030 (announced Dec 2025)."
+    },
+    "members2026": {
+      "full": ["air-force", "hawaii", "nevada", "new-mexico", "san-jose-state", "unlv", "wyoming", "utep"],
+      "footballOnly": ["northern-illinois", "north-dakota-state"],
+      "nonFootball": ["grand-canyon", "uc-davis"],
+      "affiliates": [
+        { "school": "northern-illinois", "sports": ["womens-gymnastics"] },
+        { "school": "utah-tech", "sports": ["mens-soccer", "baseball"] }
+      ],
+      "notes": "ABQ Journal counts 14 schools for 2026-27; 13 identified here. Hawaii became a full member July 1, 2026 (was football-only) but keeps beach volleyball, men's volleyball, water polo and men's swimming in the Big West. UC Davis football stays in the Big Sky. Grand Canyon (no football) joined July 1, 2025. Five schools (Boise State, Colorado State, Fresno State, San Diego State, Utah State) left for the Pac-12 on July 1, 2026. 10 football teams in 2026."
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": "Board of Directors",
+      "expansionVoteThreshold": null,
+      "expansionVoteFraction": null,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "Board chair at the Nevarez extension: Ed Seidel (Wyoming president). UNLV signed a membership extension in 2024 with incentives. NDSU (FCS power) is in its FBS transition: ineligible for the MW title game, CFP and bowls for two years unless the NCAA grants its waiver petition (status not verified).",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": 12,
+      "feeDescription": "Bylaw exit fee of about 2x annual distribution with timely notice (~$17-19M per school in the 2024 Pac-12 departures); larger for late notice (Utah State billed ~$38M). Departing schools' claims were settled in Aug 2026 for $49M total ($9.8M each withheld from final distributions).",
+      "feeSchedule": [],
+      "grantOfRights": { "through": null, "description": "No grant of rights confirmed." },
+      "notes": "Entry fees: NDSU $12.5M (football-only), NIU $2M (football-only). Media: CW deal through 2031 (see media_deals.json)."
+    },
+    "distribution": {
+      "model": "hybrid",
+      "latestFiscalYear": null,
+      "totalUsd": null,
+      "perSchoolUsd": null,
+      "notes": "Settlement proceeds (~$69-70M combined from the departing schools plus the Pac-12 side) go to remaining members, e.g. UNM ~$5.6M. Regular per-school share not verified.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 8,
+      "format": "10 football teams, no divisions; top two meet in the MW Championship at the higher seed's stadium.",
+      "protectedRivalries": [["nevada", "unlv"], ["air-force", "wyoming"], ["new-mexico", "utep"]],
+      "protectedRivalriesNote": "Schedule model for 2026 not verified (low confidence).",
+      "championshipGame": { "venue": "Campus site (higher seed)", "city": null, "state": null, "through": null },
+      "schedulingAlliances": []
+    },
+    "mbbTournament": { "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "through": null, "confidence": "low" },
+    "wbbTournament": { "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "through": null, "confidence": "low" },
+    "springMeetings": { "city": null, "state": null, "month": 5, "confidence": "low" },
+    "mediaDays": { "city": "Las Vegas", "state": "NV", "dates2026": "July 2026 (not verified)", "confidence": "low" },
+    "sources": [
+      "https://www.abqjournal.com/sports/mountain-west-conference-2026-27-here-are-the-14-schools-full-members-and-sport-specific-newcomers/3074907",
+      "https://www.espn.com/college-football/story/_/id/47870245/sources-north-dakota-state-joins-mountain-west-football",
+      "https://nevadasportsnet.com/news/reporters/inside-north-dakota-state-footballs-membership-agreement-to-join-the-mountain-west",
+      "https://www.espn.com/college-sports/story/_/id/43324617/northern-illinois-join-mountain-west-football-only-26",
+      "https://www.hawaii.edu/news/2026/07/01/uh-joins-mountain-west-as-full-member/",
+      "https://swimswam.com/uc-davis-joining-mountain-west-conference-in-the-2026-2027-school-year/",
+      "https://niuhuskies.com/news/2025/10/2/womens-gymnastics-niu-gymnastics-to-join-mountain-west-conference.aspx",
+      "https://wtop.com/news/2025/12/mountain-west-conference-extends-commissioner-gloria-nevarezs-contract-4-years-through-2030",
+      "https://www.sportico.com/leagues/college-sports/2026/mountain-west-five-schools-settlement-payment-amount-1234942167/",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees",
+      "https://www.kunm.org/news/2026-08-19/unm-could-receive-5-6m-from-mountain-west-settlement"
+    ]
+  },
+  {
+    "id": "american",
+    "name": "American Conference",
+    "shortName": "American",
+    "founded": 1979,
+    "foundedNote": "Legal successor to the 1979 Big East charter; became the American Athletic Conference in 2013; renamed 'American Conference' in 2025.",
+    "hq": { "city": "Irving", "state": "TX" },
+    "division": "FBS",
+    "cfpTier": "G6",
+    "commissioner": {
+      "id": "tim-pernetti",
+      "name": "Tim Pernetti",
+      "since": 2023,
+      "startDate": "2023-07-01",
+      "background": "former-ad",
+      "contractThrough": null,
+      "note": "Former Rutgers AD (2009-13, resigned over the Mike Rice scandal) and ex-CBS College Sports Network exec; succeeded Mike Aresco. Led the 2025 rebrand. Named in speculation for the open Big 12 job (Oct-Nov 2026); interviewed for it in 2022."
+    },
+    "members2026": {
+      "full": ["charlotte", "east-carolina", "fau", "memphis", "north-texas", "rice", "south-florida", "temple", "tulane", "tulsa", "uab", "utsa"],
+      "footballOnly": ["army", "navy"],
+      "nonFootball": ["wichita-state"],
+      "affiliates": [],
+      "notes": "14 football members in 2026. A July 2026 Bay News 9 piece said '15 in football'; likely a miscount (no 15th school found)."
+    },
+    "pendingChanges": [
+      { "school": "james-madison", "change": "join", "effective": "2027-07-01", "notes": "JMU board voted unanimously Oct 12, 2026 to join 'no later than July 1, 2028'; AP/Fox (Nov 19, 2026) report the move was moved up to 2027. Entry fee $23M; Sun Belt exit fee ~$5M, both privately raised; JMU moved fast because the Sun Belt was about to vote on higher exit fees.", "confidence": "low" }
+    ],
+    "governance": {
+      "board": "Board of Directors",
+      "expansionVoteThreshold": null,
+      "expansionVoteFraction": null,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "Pernetti publicly open to further expansion; courted Air Force (2024). Pac-12 courted Memphis (and others) in 2025.",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": 27,
+      "feeDescription": "Historical bylaw: $10M withdrawal fee plus 27 months' notice; early releases negotiated higher (UConn $17M, 2020; Cincinnati/Houston/UCF $18M each to leave in 2023). Current fee may have been raised (not verified).",
+      "feeSchedule": [],
+      "grantOfRights": { "through": null, "description": "ESPN deal through 2031-32; GOR not confirmed." },
+      "notes": "Army and Navy are football-only; their annual game is non-conference."
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": null,
+      "totalUsd": null,
+      "perSchoolUsd": null,
+      "notes": "ESPN deal (~$1B over 12 years, 2020-32) is the base; per-school figures not verified.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 8,
+      "format": "14 football teams, no divisions; top two meet in the American Championship at the higher seed.",
+      "protectedRivalries": [["navy", "memphis"], ["rice", "north-texas"], ["tulane", "memphis"], ["east-carolina", "charlotte"]],
+      "protectedRivalriesNote": "Protected list not verified (low confidence).",
+      "championshipGame": { "venue": "Campus site (higher seed)", "city": null, "state": null, "through": null },
+      "schedulingAlliances": []
+    },
+    "mbbTournament": { "venue": null, "city": null, "state": null, "through": null, "confidence": "low", "note": "Dickies Arena (Fort Worth) hosted recent editions; 2027 site not verified." },
+    "wbbTournament": { "venue": null, "city": null, "state": null, "through": null, "confidence": "low" },
+    "springMeetings": { "city": null, "state": null, "month": 5, "confidence": "low" },
+    "mediaDays": { "city": null, "state": null, "dates2026": "July 2026 ('American Football Kickoff'; site not verified)", "confidence": "low" },
+    "sources": [
+      "https://theamerican.org/news/2025/7/25/general-commissioner-pernettis-press-conference-at-the-american-kickoff.aspx",
+      "https://www.cbssports.com/college-football/news/aac-changes-name-to-american-conference-introduces-mascot-soar-as-part-of-rebranding-intiative",
+      "https://www.12onyourside.com/2026/10/12/james-madison-accepted-into-american-conference-will-leave-sun-belt-by-2028/",
+      "https://www.foxsports.com/stories/college-football/james-madison-american-conference-sun-belt-transition",
+      "https://www.yourvalley.net/stories/james-madison-is-leaving-the-sun-belt-for-the-american-conference-in-2027-not-2028,742500",
+      "https://frontofficesports.com/article/james-madison-joins-the-american-before-sun-belt-exit-fees-rise/",
+      "https://baynews9.com/fl/tampa/news/2026/07/24/usf-football-has-plenty-to-offer-in-era-of-conference-realignment",
+      "https://www.heartlandcollegesports.com/2026/10/30/big-12-commissioner-candidates-replace-brett-yormark/"
+    ]
+  },
+  {
+    "id": "cusa",
+    "name": "Conference USA",
+    "shortName": "C-USA",
+    "founded": 1995,
+    "hq": { "city": "Dallas", "state": "TX" },
+    "division": "FBS",
+    "cfpTier": "G6",
+    "commissioner": {
+      "id": "judy-macleod",
+      "name": "Judy MacLeod",
+      "since": 2015,
+      "startDate": "2015-10-01",
+      "background": "conference-deputy",
+      "contractThrough": null,
+      "note": "Promoted from C-USA executive associate commissioner/COO; first woman to lead an FBS conference. Wants to rebuild to 12 members. Contract terms not public."
+    },
+    "members2026": {
+      "full": ["delaware", "fiu", "jacksonville-state", "kennesaw-state", "liberty", "middle-tennessee", "missouri-state", "new-mexico-state", "sam-houston", "western-kentucky"],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": [
+        { "school": "nebraska", "sports": ["bowling"] },
+        { "school": "sacred-heart", "sports": ["bowling"] },
+        { "school": "wright-state", "sports": ["bowling"] }
+      ],
+      "notes": "Down to 10 after Louisiana Tech (Sun Belt) and UTEP (Mountain West) left July 1, 2026. Delaware and Missouri State joined July 1, 2025."
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": "Board of Directors",
+      "expansionVoteThreshold": null,
+      "expansionVoteFraction": null,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "Active expansion candidate pool: FCS move-ups (it has taken Liberty, NMSU, JSU, SHSU, KSU, Delaware, Missouri State since 2023).",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": 14,
+      "feeDescription": "Bylaws require 14 months' notice plus a withdrawal fee. Louisiana Tech (announced July 2025 'no later than July 1, 2027', then sought 2026) sued and settled in April 2026, paying a reported C-USA-record >$8M to leave July 1, 2026.",
+      "feeSchedule": [],
+      "grantOfRights": { "through": null, "description": "No grant of rights confirmed." },
+      "notes": "C-USA threatened to impose punitive schedules (e.g., a 20-game basketball schedule) during the La Tech standoff."
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": null,
+      "totalUsd": null,
+      "perSchoolUsd": null,
+      "notes": "ESPN/CBS Sports Network deal; per-school amounts small (est. <$2M) and not verified.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 8,
+      "format": "10 football teams, no divisions; top two meet in the C-USA Championship at the higher seed.",
+      "protectedRivalries": [["jacksonville-state", "kennesaw-state"], ["middle-tennessee", "western-kentucky"]],
+      "protectedRivalriesNote": "Conference game count for 10 teams (8 vs 9) not verified.",
+      "championshipGame": { "venue": "Campus site (higher seed)", "city": null, "state": null, "through": null },
+      "schedulingAlliances": []
+    },
+    "mbbTournament": { "venue": "Von Braun Center (Propst Arena)", "city": "Huntsville", "state": "AL", "through": null, "confidence": "low" },
+    "wbbTournament": { "venue": "Von Braun Center (Propst Arena)", "city": "Huntsville", "state": "AL", "through": null, "confidence": "low" },
+    "springMeetings": { "city": null, "state": null, "month": 5, "confidence": "low" },
+    "mediaDays": { "city": null, "state": null, "dates2026": "July 2026 (not verified)", "confidence": "low" },
+    "sources": [
+      "https://conferenceusa.com/news/2025/6/30/general-conference-usa-officially-welcomes-delaware-missouri-state.aspx",
+      "https://wtop.com/ncaa-football/2026/04/louisiana-tech-clear-for-move-this-summer-to-sun-belt-after-settlement-with-conference-usa/",
+      "https://fbschedules.com/report-louisiana-tech-to-pay-record-exit-fee-to-leave-cusa-join-sun-belt/",
+      "https://www.si.com/fannation/college/cfb-hq/news/louisiana-tech-pays-cusa-over-8m-prevent-20-game-schedule-",
+      "https://frontofficesports.com/article/conference-usa-commissioner-seeks-to-expand-to-12-teams/",
+      "https://conferenceusa.com/news/2025/8/4/womens-bowling-bowl-cusa-adds-nebraska-sacred-heart-and-wright-state-as-affiliate-members-for-bowling.aspx"
+    ]
+  },
+  {
+    "id": "sun-belt",
+    "name": "Sun Belt Conference",
+    "shortName": "Sun Belt",
+    "founded": 1976,
+    "hq": { "city": "New Orleans", "state": "LA" },
+    "division": "FBS",
+    "cfpTier": "G6",
+    "commissioner": {
+      "id": "keith-gill",
+      "name": "Keith Gill",
+      "since": 2019,
+      "startDate": "2019-07-01",
+      "background": "former-ad",
+      "contractThrough": null,
+      "note": "Former Richmond AD; succeeded Karl Benson. Background and contract not re-verified this session.",
+      "confidence": "low"
+    },
+    "members2026": {
+      "full": ["app-state", "coastal-carolina", "georgia-southern", "georgia-state", "james-madison", "marshall", "old-dominion", "arkansas-state", "louisiana", "ulm", "south-alabama", "southern-miss", "troy", "louisiana-tech"],
+      "footballOnly": [],
+      "nonFootball": [],
+      "affiliates": [
+        { "school": "kentucky", "sports": ["mens-soccer"] },
+        { "school": "west-virginia", "sports": ["mens-soccer"] }
+      ],
+      "notes": "14 football members: Louisiana Tech (July 1, 2026) replaced Texas State (to Pac-12). Soccer affiliates from memory (low confidence)."
+    },
+    "pendingChanges": [
+      { "school": "james-madison", "change": "leave", "effective": "2027-07-01", "notes": "To the American; originally 'no later than July 1, 2028', reportedly moved up to 2027 (AP/Fox, Nov 19, 2026). Leaves the East at 6.", "confidence": "low" }
+    ],
+    "governance": {
+      "board": "Board of Directors",
+      "expansionVoteThreshold": null,
+      "expansionVoteFraction": null,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "Board was preparing (mid-Oct 2026) to vote on raising exit fees; outcome not verified. JMU's exit will prompt a replacement search (likely FCS move-up or C-USA poach).",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": null,
+      "feeDescription": "JMU's reported exit fee ~$5M (before any increase). Texas State's 2026 exit fee not verified. An increase was pending in Oct 2026.",
+      "feeSchedule": [],
+      "grantOfRights": { "through": null, "description": "No grant of rights confirmed." },
+      "notes": ""
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": null,
+      "totalUsd": null,
+      "perSchoolUsd": null,
+      "notes": "ESPN deal; per-school share not verified.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 8,
+      "format": "14 teams in East (App State, Coastal, Georgia Southern, Georgia State, JMU, Marshall, ODU) and West (Arkansas State, Louisiana, ULM, South Alabama, Southern Miss, Troy, Louisiana Tech) divisions; division winners meet in the Sun Belt Championship at the higher seed.",
+      "protectedRivalries": [["georgia-southern", "app-state"], ["louisiana", "ulm"], ["troy", "south-alabama"], ["marshall", "old-dominion"]],
+      "protectedRivalriesNote": "Protected cross-division games not verified.",
+      "championshipGame": { "venue": "Campus site (higher seed)", "city": null, "state": null, "through": null },
+      "schedulingAlliances": []
+    },
+    "mbbTournament": { "venue": "Pensacola Bay Center", "city": "Pensacola", "state": "FL", "through": null, "confidence": "low" },
+    "wbbTournament": { "venue": "Pensacola Bay Center", "city": "Pensacola", "state": "FL", "through": null, "confidence": "low" },
+    "springMeetings": { "city": null, "state": null, "month": 5, "confidence": "low" },
+    "mediaDays": { "city": "New Orleans", "state": "LA", "dates2026": "July 2026 (not verified)", "confidence": "low" },
+    "sources": [
+      "https://www.cbssports.com/college-football/news/louisiana-tech-accepts-invitation-to-sun-belt-replacing-texas-state-after-departure-to-pac-12",
+      "https://africa.espn.com/college-sports/story/_/id/45737935/louisiana-tech-returns-sun-belt-conference-14th-team",
+      "https://www.si.com/college-football/louisiana-tech-settles-conference-drama-contentious-split-cusa-sun-belt",
+      "https://www.deseret.com/sports/2026/10/12/conference-realignment-james-madison-leaving-sun-belt-conference-for-american-conference/",
+      "https://frontofficesports.com/article/james-madison-joins-the-american-before-sun-belt-exit-fees-rise/",
+      "https://www.foxsports.com/stories/college-football/james-madison-american-conference-sun-belt-transition"
+    ]
+  },
+  {
+    "id": "mac",
+    "name": "Mid-American Conference",
+    "shortName": "MAC",
+    "founded": 1946,
+    "hq": { "city": "Cleveland", "state": "OH" },
+    "division": "FBS",
+    "cfpTier": "G6",
+    "commissioner": {
+      "id": "jon-steinbrecher",
+      "name": "Jon Steinbrecher",
+      "since": 2009,
+      "startDate": "2009-07-01",
+      "background": "other",
+      "contractThrough": null,
+      "note": "Career conference administrator; Ohio Valley Conference commissioner before the MAC. No retirement or successor news found (Nov 2026 search). Contract not public.",
+      "confidence": "low"
+    },
+    "members2026": {
+      "full": ["akron", "ball-state", "bowling-green", "buffalo", "central-michigan", "eastern-michigan", "kent-state", "massachusetts", "miami-oh", "ohio", "toledo", "western-michigan"],
+      "footballOnly": ["sacramento-state"],
+      "nonFootball": [],
+      "affiliates": [],
+      "notes": "Sacramento State joined July 1, 2026 as a football-only member on a 5-year term (other sports to the Big West), replacing Northern Illinois (left for the Horizon League, with football and women's gymnastics in the Mountain West). UMass became a full member July 1, 2025. MAC sport-affiliates (wrestling, field hockey, lacrosse, etc.) not enumerated."
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": "Council of Presidents",
+      "expansionVoteThreshold": null,
+      "expansionVoteFraction": null,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "Sacramento State admitted Feb 2026 after the NCAA denied it a waiver to play FBS as an independent.",
+      "confidence": "low"
+    },
+    "exitTerms": {
+      "noticeMonths": null,
+      "feeDescription": "Not public. NIU's 2026 exit payment not verified.",
+      "feeSchedule": [],
+      "grantOfRights": { "through": null, "description": "No grant of rights confirmed." },
+      "notes": "Sacramento State reportedly pays an $18M MAC entry fee plus a $5M NCAA FBS reclassification fee."
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": null,
+      "totalUsd": null,
+      "perSchoolUsd": null,
+      "notes": "ESPN deal; per-school share small and not verified.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 8,
+      "format": "13 football teams, no divisions (since 2024); top two meet in the MAC Championship at Ford Field.",
+      "protectedRivalries": [["akron", "kent-state"], ["bowling-green", "toledo"], ["central-michigan", "western-michigan"], ["miami-oh", "ohio"]],
+      "protectedRivalriesNote": "Protected rivalries assumed from tradition; not verified.",
+      "championshipGame": { "venue": "Ford Field", "city": "Detroit", "state": "MI", "through": null, "confidence": "low" },
+      "schedulingAlliances": []
+    },
+    "mbbTournament": { "venue": "Rocket Arena", "city": "Cleveland", "state": "OH", "through": null },
+    "wbbTournament": { "venue": "Rocket Arena", "city": "Cleveland", "state": "OH", "through": null },
+    "springMeetings": { "city": null, "state": null, "month": 5, "confidence": "low" },
+    "mediaDays": { "city": "Detroit", "state": "MI", "dates2026": "July 2026 at Ford Field (not verified)", "confidence": "low" },
+    "sources": [
+      "https://hornetsports.com/news/2026/2/16/hornet-football-to-join-the-mac-in-2026.aspx",
+      "https://ballstatesports.com/news/2026/2/16/sacramento-state-joins-mid-american-conference-as-football-only-member",
+      "https://africa.espn.com/college-football/story/_/id/47933760/mac-add-sacramento-state-football-only-member",
+      "https://fbschedules.com/sacramento-state-football-to-move-up-from-fcs-join-mac-in-2026/",
+      "https://www.espn.com/college-sports/story/_/id/43324617/northern-illinois-join-mountain-west-football-only-26",
+      "https://en.wikipedia.org/wiki/Jon_Steinbrecher"
+    ]
+  },
+  {
+    "id": "independent",
+    "name": "FBS Independents",
+    "shortName": "Independent",
+    "founded": null,
+    "hq": { "city": null, "state": null },
+    "division": "FBS",
+    "cfpTier": null,
+    "commissioner": null,
+    "members2026": {
+      "full": [],
+      "footballOnly": ["notre-dame", "uconn"],
+      "nonFootball": [],
+      "affiliates": [],
+      "notes": "Notre Dame: ACC in all other sports. UConn: Big East in all other sports. Army and Navy are not independents (American football-only)."
+    },
+    "pendingChanges": [],
+    "governance": {
+      "board": null,
+      "expansionVoteThreshold": null,
+      "expansionVoteFraction": null,
+      "bylawAmendmentThreshold": null,
+      "commissionerRemovalThreshold": null,
+      "notes": "Pseudo-record for the engine; no governing body."
+    },
+    "exitTerms": {
+      "noticeMonths": null,
+      "feeDescription": "Not applicable. Notre Dame's ACC agreement requires it to join the ACC if it joins any football conference before the ACC grant of rights expires (2036).",
+      "feeSchedule": [],
+      "grantOfRights": { "through": 2036, "description": "Notre Dame's non-football rights are in the ACC grant of rights through 2036." },
+      "notes": ""
+    },
+    "distribution": {
+      "model": "equal",
+      "latestFiscalYear": null,
+      "totalUsd": null,
+      "perSchoolUsd": null,
+      "notes": "Notre Dame keeps its own NBC deal (renewed 2023, reportedly ~$50M/yr through 2034) and a fixed CFP share; UConn sells its own home games (CBS Sports Network/CW-era deals). Not re-verified.",
+      "confidence": "low"
+    },
+    "football": {
+      "conferenceGames": 0,
+      "format": "Independent. Notre Dame plays ~5 ACC opponents a year under its ACC scheduling agreement.",
+      "protectedRivalries": [],
+      "championshipGame": null,
+      "schedulingAlliances": ["acc"]
+    },
+    "mbbTournament": null,
+    "wbbTournament": null,
+    "springMeetings": null,
+    "mediaDays": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Notre_Dame_Fighting_Irish_football",
+      "https://en.wikipedia.org/wiki/UConn_Huskies_football"
+    ],
+    "confidence": "low",
+    "note": "Independent membership for 2026 not re-verified with a 2026 source; no change was found in realignment coverage."
+  }
+]
