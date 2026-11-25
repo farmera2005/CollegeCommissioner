@@ -49,7 +49,7 @@ A unit is earned for each game played in the men's tournament, the title game ex
 
 ## 4. Bowls and championship games
 
-The 2026-27 bowl season runs Dec 12 (Celebration) / Dec 15 (Salute to Veterans, Montgomery) through the Jan 25 CFP final in Las Vegas. The new **Puerto Rico Bowl** is Dec 22 in Bayamón, approved 2026-05-08 ([Wikipedia](https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games), [CFN tie-ins](https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027)). Three tie-ins are confirmed: Liberty (Big 12 vs SEC), Rate (Big 12 vs Big Ten), New Orleans (Sun Belt vs CUSA) and 68 Ventures (Sun Belt vs MAC). The rest follow the 2020-25 cycle. Payouts are **tiered estimates** (A $4M, B $2.75M, C $1.2M, D $0.5M per team).
+The 2026-27 bowl season runs Dec 12 (Celebration) / Dec 15 (Salute to Veterans, Montgomery) through the Jan 25 CFP final in Las Vegas. The new **Puerto Rico Bowl** is Dec 22 in Bayamón, approved 2026-05-08 ([Wikipedia](https://en.wikipedia.org/wiki/2026%E2%80%9327_NCAA_football_bowl_games), [CFN tie-ins](https://collegefootballnews.com/college-football/college-football-bowl-ties-affiliations-conference-2026-2027)). Four tie-ins are confirmed: Liberty (Big 12 vs SEC), Rate (Big 12 vs Big Ten), New Orleans (Sun Belt vs CUSA) and 68 Ventures (Sun Belt vs MAC). The rest follow the 2020-25 cycle. Payouts are **tiered estimates** (A $4M, B $2.75M, C $1.2M, D $0.5M per team).
 
 **Title games.** 2026 is the last year of Power 4 title games: SEC in Atlanta, Big Ten in Indianapolis, Big 12 in Arlington, ACC in Charlotte. Their rebate values (~$140M/yr across ESPN's three, ~$50M/yr for the Big Ten on Fox) are the best public proxies for what the games were worth.
 
