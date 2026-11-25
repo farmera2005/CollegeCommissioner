@@ -1,0 +1,267 @@
+[
+  {
+    "id": "allstate",
+    "name": "Allstate",
+    "parent": "The Allstate Corporation",
+    "category": "insurance",
+    "knownCollegeDeals": [
+      { "property": "Sugar Bowl (CFP New Year's Six)", "role": "title sponsor ('Allstate Sugar Bowl')", "since": 2007, "through": null, "valueUsd": null },
+      { "property": "College Football Playoff", "role": "corporate partner", "since": 2014, "through": null, "valueUsd": null },
+      { "property": "'Good Hands Net' field-goal nets at many FBS stadiums", "role": "in-stadium branding / charity per kick", "since": null, "through": null, "valueUsd": null },
+      { "property": "AFCA Good Works Team", "role": "presenting sponsor", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "One of college football's most entrenched sponsors; a good 'blue-chip' partner archetype for the game.",
+    "confidence": "low",
+    "sources": ["https://www.allstatesugarbowl.org/"]
+  },
+  {
+    "id": "capital-one",
+    "name": "Capital One",
+    "parent": "Capital One Financial (acquired Discover Financial, May 2025)",
+    "category": "financial-services",
+    "knownCollegeDeals": [
+      { "property": "Orange Bowl (CFP New Year's Six)", "role": "title sponsor ('Capital One Orange Bowl')", "since": 2014, "through": null, "valueUsd": null },
+      { "property": "NCAA", "role": "NCAA Corporate Champion (top-tier NCAA/March Madness partner)", "since": null, "through": null, "valueUsd": null },
+      { "property": "College Football Playoff", "role": "corporate partner", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "Its acquisition of Discover (a former CFP partner and Big Ten Championship presenting sponsor) consolidated two of the biggest college-sports financial sponsors.",
+    "confidence": "low",
+    "sources": ["https://www.orangebowl.org/", "https://www.ncaa.com/"]
+  },
+  {
+    "id": "discover",
+    "name": "Discover",
+    "parent": "Capital One Financial (since May 2025)",
+    "category": "financial-services",
+    "knownCollegeDeals": [
+      { "property": "Orange Bowl", "role": "former title sponsor ('Discover Orange Bowl')", "since": 2011, "through": 2014, "valueUsd": null },
+      { "property": "College Football Playoff", "role": "corporate partner", "since": 2014, "through": null, "valueUsd": null },
+      { "property": "Big Ten Football Championship Game", "role": "presenting sponsor", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "Brand may be retired or rolled into Capital One deals after the merger. Status of the CFP and Big Ten deals is unverified.",
+    "confidence": "low",
+    "sources": ["https://www.orangebowl.org/"]
+  },
+  {
+    "id": "dr-pepper",
+    "name": "Dr Pepper",
+    "parent": "Keurig Dr Pepper",
+    "category": "beverage",
+    "knownCollegeDeals": [
+      { "property": "College Football Playoff", "role": "official soft drink; 'Dr Pepper Tuition Giveaway' at championship games", "since": 2014, "through": null, "valueUsd": null },
+      { "property": "SEC Football Championship Game", "role": "presenting sponsor", "since": null, "through": 2026, "valueUsd": null },
+      { "property": "Big 12 Football Championship Game", "role": "presenting sponsor", "since": null, "through": 2026, "valueUsd": null },
+      { "property": "ACC Football Championship Game", "role": "presenting sponsor (reported)", "since": null, "through": 2026, "valueUsd": null }
+    ],
+    "notes": "Its conference championship sponsorships lose their property when the 24-team CFP eliminates Power 4 title games from 2027, so expect the money to move to CFP first-round or campus games. The 'through: 2026' dates reflect that elimination, not contract terms.",
+    "confidence": "low",
+    "sources": ["https://collegefootballplayoff.com/", "https://www.secsports.com/"]
+  },
+  {
+    "id": "att",
+    "name": "AT&T",
+    "parent": "AT&T Inc.",
+    "category": "telecom",
+    "knownCollegeDeals": [
+      { "property": "CFP National Championship", "role": "presenting sponsor ('presented by AT&T'); 'AT&T Playoff Playbook'", "since": 2014, "through": null, "valueUsd": null },
+      { "property": "NCAA", "role": "NCAA Corporate Champion", "since": null, "through": null, "valueUsd": null },
+      { "property": "Cotton Bowl", "role": "former title sponsor ('AT&T Cotton Bowl', 2007-2014); AT&T Stadium naming rights (Arlington)", "since": 2007, "through": 2014, "valueUsd": null }
+    ],
+    "notes": "Corporate champion-tier sponsor of both the NCAA and the CFP.",
+    "confidence": "low",
+    "sources": ["https://collegefootballplayoff.com/", "https://www.ncaa.com/"]
+  },
+  {
+    "id": "coca-cola",
+    "name": "Coca-Cola",
+    "parent": "The Coca-Cola Company",
+    "category": "beverage",
+    "knownCollegeDeals": [
+      { "property": "NCAA", "role": "NCAA Corporate Champion / official beverage (incl. Powerade)", "since": null, "through": null, "valueUsd": null },
+      { "property": "Many school pouring-rights deals", "role": "campus beverage rights (through school multimedia-rights holders)", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "Coke and Pepsi split campus and conference pouring rights; Dr Pepper holds the CFP soft-drink category.",
+    "confidence": "low",
+    "sources": ["https://www.ncaa.com/"]
+  },
+  {
+    "id": "goodyear",
+    "name": "Goodyear",
+    "parent": "The Goodyear Tire & Rubber Company",
+    "category": "automotive",
+    "knownCollegeDeals": [
+      { "property": "Cotton Bowl Classic (CFP New Year's Six)", "role": "title sponsor ('Goodyear Cotton Bowl Classic')", "since": 2014, "through": null, "valueUsd": null },
+      { "property": "College Football Playoff", "role": "corporate partner / Goodyear Blimp aerials", "since": 2014, "through": null, "valueUsd": null }
+    ],
+    "notes": "",
+    "confidence": "low",
+    "sources": ["https://www.cottonbowl.com/"]
+  },
+  {
+    "id": "vrbo",
+    "name": "Vrbo",
+    "parent": "Expedia Group",
+    "category": "travel",
+    "knownCollegeDeals": [
+      { "property": "Fiesta Bowl (CFP New Year's Six)", "role": "title sponsor ('Vrbo Fiesta Bowl')", "since": 2021, "through": null, "valueUsd": null }
+    ],
+    "notes": "Replaced PlayStation as Fiesta Bowl title sponsor.",
+    "confidence": "low",
+    "sources": ["https://www.fiestabowl.org/"]
+  },
+  {
+    "id": "chick-fil-a",
+    "name": "Chick-fil-A",
+    "parent": "Chick-fil-A, Inc. (private)",
+    "category": "restaurant",
+    "knownCollegeDeals": [
+      { "property": "Peach Bowl (CFP New Year's Six)", "role": "title sponsor ('Chick-fil-A Peach Bowl')", "since": 1997, "through": null, "valueUsd": null },
+      { "property": "College Football Hall of Fame (Atlanta)", "role": "partner", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "The Peach Bowl organization also runs the Atlanta Week 1 kickoff games; its title sponsor changed to Aflac in 2024 (see aflac).",
+    "confidence": "low",
+    "sources": ["https://www.chick-fil-apeachbowl.com/"]
+  },
+  {
+    "id": "aflac",
+    "name": "Aflac",
+    "parent": "Aflac Incorporated",
+    "category": "insurance",
+    "knownCollegeDeals": [
+      { "property": "Atlanta Week 1 neutral-site 'Kickoff Game' (Peach Bowl Inc.)", "role": "title sponsor ('Aflac Kickoff Game', formerly Chick-fil-A Kickoff)", "since": 2024, "through": null, "valueUsd": null },
+      { "property": "College football broadcasts", "role": "heavy ESPN/FOX college advertiser", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "Kickoff Game title change from prior knowledge.",
+    "confidence": "low",
+    "sources": ["https://www.chick-fil-apeachbowl.com/"]
+  },
+  {
+    "id": "prudential",
+    "name": "Prudential",
+    "parent": "Prudential Financial",
+    "category": "financial-services",
+    "knownCollegeDeals": [
+      { "property": "Rose Bowl Game (CFP New Year's Six)", "role": "presenting sponsor ('Rose Bowl Game presented by Prudential')", "since": 2023, "through": null, "valueUsd": null }
+    ],
+    "notes": "Earlier Rose Bowl presenting sponsors include Northwestern Mutual, Vizio and Citi. The Rose Bowl never sells full title naming.",
+    "confidence": "low",
+    "sources": ["https://www.rosebowlgame.com/"]
+  },
+  {
+    "id": "home-depot",
+    "name": "The Home Depot",
+    "parent": "The Home Depot, Inc.",
+    "category": "retail",
+    "knownCollegeDeals": [
+      { "property": "ESPN College GameDay", "role": "presenting sponsor ('College GameDay Built by The Home Depot')", "since": null, "through": null, "valueUsd": null },
+      { "property": "The Home Depot College Football Awards (ESPN)", "role": "title sponsor", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "Sponsors the media property (ESPN) rather than a conference. In the game, GameDay visits work as a 'brand exposure' event.",
+    "confidence": "low",
+    "sources": ["https://espnpressroom.com/us/"]
+  },
+  {
+    "id": "nissan",
+    "name": "Nissan",
+    "parent": "Nissan Motor Co.",
+    "category": "automotive",
+    "knownCollegeDeals": [
+      { "property": "Heisman Trophy", "role": "presenting sponsor ('Heisman Trophy presented by Nissan'; Nissan Heisman House tour)", "since": 2006, "through": null, "valueUsd": null }
+    ],
+    "notes": "",
+    "confidence": "low",
+    "sources": ["https://www.heisman.com/"]
+  },
+  {
+    "id": "phillips-66",
+    "name": "Phillips 66 / 76",
+    "parent": "Phillips 66",
+    "category": "energy",
+    "knownCollegeDeals": [
+      { "property": "Big 12 men's/women's basketball championships", "role": "title sponsor ('Phillips 66 Big 12 Championship')", "since": null, "through": null, "valueUsd": null },
+      { "property": "Pac-12 Football Championship Game (old Pac-12)", "role": "presenting sponsor ('presented by 76')", "since": null, "through": 2023, "valueUsd": null }
+    ],
+    "notes": "Current status of both deals unverified.",
+    "confidence": "low",
+    "sources": ["https://big12sports.com/"]
+  },
+  {
+    "id": "kellanova",
+    "name": "Kellanova (Cheez-It, Pop-Tarts)",
+    "parent": "Mars, Inc. (acquired Kellanova, 2025)",
+    "category": "food",
+    "knownCollegeDeals": [
+      { "property": "Citrus Bowl (Orlando)", "role": "title sponsor ('Cheez-It Citrus Bowl')", "since": 2023, "through": null, "valueUsd": null },
+      { "property": "Pop-Tarts Bowl (Orlando)", "role": "title sponsor; edible-mascot stunt became a viral marketing benchmark", "since": 2023, "through": null, "valueUsd": null }
+    ],
+    "notes": "Model of 'viral bowl sponsorship': cheap naming rights, huge social reach.",
+    "confidence": "low",
+    "sources": ["https://fbschedules.com/"]
+  },
+  {
+    "id": "reliaquest",
+    "name": "ReliaQuest",
+    "parent": "ReliaQuest (private)",
+    "category": "technology",
+    "knownCollegeDeals": [
+      { "property": "ReliaQuest Bowl (Tampa; formerly Outback Bowl)", "role": "title sponsor", "since": 2023, "through": null, "valueUsd": null }
+    ],
+    "notes": "",
+    "confidence": "low",
+    "sources": ["https://fbschedules.com/"]
+  },
+  {
+    "id": "taxslayer",
+    "name": "TaxSlayer",
+    "parent": "TaxSlayer LLC",
+    "category": "financial-services",
+    "knownCollegeDeals": [
+      { "property": "Gator Bowl (Jacksonville)", "role": "title sponsor ('TaxSlayer Gator Bowl')", "since": 2012, "through": null, "valueUsd": null }
+    ],
+    "notes": "",
+    "confidence": "low",
+    "sources": ["https://fbschedules.com/"]
+  },
+  {
+    "id": "dukes-mayo",
+    "name": "Duke's Mayo",
+    "parent": "Sauer Brands",
+    "category": "food",
+    "knownCollegeDeals": [
+      { "property": "Duke's Mayo Bowl (Charlotte; ACC tie-in)", "role": "title sponsor; mayo bath for the winning coach", "since": 2020, "through": null, "valueUsd": null },
+      { "property": "Duke's Mayo Classic (Charlotte Week 1 neutral-site games)", "role": "title sponsor", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "",
+    "confidence": "low",
+    "sources": ["https://fbschedules.com/"]
+  },
+  {
+    "id": "learfield",
+    "name": "Learfield",
+    "parent": "Learfield (private; recapitalized 2023)",
+    "category": "multimedia-rights-agency",
+    "knownCollegeDeals": [
+      { "property": "Multimedia rights (radio, signage, sponsorship sales) for many FBS schools", "role": "rights holder/sales agent paying guaranteed fees to schools", "since": null, "through": null, "valueUsd": null },
+      { "property": "Learfield Directors' Cup", "role": "title", "since": null, "through": null, "valueUsd": null }
+    ],
+    "notes": "With Playfly and in-house models, this is the school-level sponsorship channel. Conferences sell their own league-level partners (Big 12 corporate push under Yormark). Useful as the mechanism for a 'school sponsorship revenue' stat.",
+    "confidence": "low",
+    "sources": ["https://www.learfield.com/"]
+  },
+  {
+    "id": "redbird-capital",
+    "name": "RedBird Capital Partners",
+    "parent": "RedBird Capital Partners (Gerry Cardinale)",
+    "category": "private-capital",
+    "knownCollegeDeals": [
+      { "property": "big-12", "role": "reported 2025 private-capital talks (with Weatherford Capital) for a league-level investment; not consummated", "since": null, "through": null, "valueUsd": null },
+      { "property": "Brett Yormark", "role": "hired as CEO of RedBird's Milan Sports & Entertainment holding company; leaves the Big 12 Jan. 31, 2027", "since": 2027, "through": null, "valueUsd": null }
+    ],
+    "notes": "Not a sponsor but a commercial partner archetype. Detailed private-capital data belongs in money-postseason/private_capital.json. The 2025 Big 12 talks are from prior knowledge (low); the Yormark hire is verified.",
+    "confidence": "low",
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/50327726/commissioner-brett-yormark-leaving-big-12-january",
+      "https://sports.yahoo.com/articles/brett-yormark-next-job-lined-154247202.html"
+    ]
+  }
+]

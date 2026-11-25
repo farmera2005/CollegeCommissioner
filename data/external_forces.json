@@ -1,0 +1,705 @@
+[
+  {
+    "id": "protect-college-sports-act",
+    "type": "legislation",
+    "name": "Protect College Sports Act of 2026 (S. 4668 / H.R. 9137)",
+    "status": "Passed the Senate 77-22 on 2026-09-28. House floor vote scheduled for the week of 2026-12-08 on a modified version with a 22-school cap. Odds are poor after Democrats swept the 2026-11-03 midterms. If the House passes it amended, the Senate must vote again before the 119th Congress ends on 2027-01-03. Otherwise it must be reintroduced.",
+    "timeline": [
+      { "date": "2026-05-27", "event": "Cruz, Cantwell, Schmitt and Coons announce a bipartisan deal merging the stalled SCORE Act with Senate proposals. Bill introduced (Wikipedia gives 2026-06-02)." },
+      { "date": "2026-06-04", "event": "House companion H.R. 9137 introduced." },
+      { "date": "2026-06", "event": "Senate Commerce Committee advances it 19-9. Majority Leader Scalise opposes it then because it does not ban athletes from being employees." },
+      { "date": "2026-09-22", "event": "Cloture on the Cruz-Cantwell substitute, 70-21." },
+      { "date": "2026-09-24", "event": "Substitute (September 17 amendment text) adopted 77-23. Sen. Ashley Moody's amendment raises the P4 cap from 19 to 20." },
+      { "date": "2026-09-28", "event": "Senate passes it 77-22. The White House formally supports it." },
+      { "date": "2026-10", "event": "FSU, Miami, Clemson and UNC ask Congress to raise the cap to 22 and drop the 3-year independence rule." },
+      { "date": "2026-11-03", "event": "Democrats sweep the midterms. Front Office Sports reports passage chances 'nearly nonexistent'." },
+      { "date": "2026-11-19", "event": "Cruz pushes to pass it before the deadline. House GOP leaders announce a December push and admit 'real challenges'." },
+      { "date": "2026-11-20", "event": "House revision: 22-school cap, and schools with $50M+ media revenue may not use student fees to subsidize athletics. Floor consideration set for the week of 2026-12-08. Government funding runs out 2026-12-11, and the House's last scheduled day is 2026-12-17." }
+    ],
+    "summary": "First comprehensive federal college-sports framework. Main provisions: (1) a conditional antitrust safe harbor for the NCAA, conferences, schools and the CSC, tied to staying under the revenue-share cap; (2) one national NIL standard that preempts state laws, with deals needing a valid business purpose and fair market value, effectively endorsing the CSC/NIL Go clearinghouse; (3) agents must register with a state, and agent fees are capped at 5%; (4) five-year eligibility and one penalty-free transfer; (5) neutral on whether athletes are employees (Sec. 122), with a 24-member commission to study employment and collective bargaining; (6) a Title IX savings clause and a ban on cutting women's or Olympic sports, roster spots or scholarships; (7) a P4 conference membership cap of 20 (House version 22), and schools switching between covered P4 conferences must spend 3 years as independents, a rule that expires 6 years after enactment; (8) a retention or Olympic fund on top of the cap (reported figures conflict: $22.5M plus $5M, or a cap effectively reaching $48.8M). It does not end pending lawsuits.",
+    "stakeholders": ["Sen. Ted Cruz", "Sen. Maria Cantwell", "Sen. Eric Schmitt", "Sen. Chris Coons", "Sen. Ashley Moody", "House Majority Leader Steve Scalise", "Speaker Mike Johnson", "Minority Leader Hakeem Jeffries", "Congressional Black Caucus", "President Trump", "NCAA (Charlie Baker)", "P4 commissioners", "ACC schools seeking exit (FSU, Miami, Clemson, UNC)", "Women's sports advocates (Title IX critics)", "College Sports Commission"],
+    "gameImpact": {
+      "mechanic": "Legislative tracker. Each game-week in December 2026, roll for House passage. If it passes with an amendment, roll for Senate concurrence. If it lapses, reintroduce it in the 120th Congress with an athlete-friendlier tilt (more likely employee or collective-bargaining language). If enacted: hard cap on conference size (20/22), a 3-year independence penalty for P4-to-P4 moves (very costly, so it blocks raids for about 6 years), antitrust cover for cap enforcement (CSC penalties stick), state NIL laws preempted (ends LSU/Ohio-style defiance), and a ban on cutting sports.",
+      "probabilities": { "housePassesLameDuck2026": 0.15, "senateConcursIfHouseAmends": 0.5, "enactedBy2027-01-03": 0.08, "reintroducedAndEnactedIn120thCongress": 0.2, "enactedVersionIncludesEmployeeOrCBRights": 0.35 },
+      "effects": { "ifEnacted": { "conferenceSizeCap": 20, "p4SwitchIndependenceYears": 3, "realignmentRaidProbabilityMultiplier": 0.25, "csCEnforcementSuccessMultiplier": 1.6, "stateLawDefianceEventsMultiplier": 0.2, "olympicSportCutsAllowed": false } },
+      "commissionerLevers": ["Lobby for or against the cap number (presidentialRelations, network)", "Publicly back or oppose it (publicImage)", "Prepare contingency realignment before enactment (vision)"]
+    },
+    "confidence": "low",
+    "note": "The retention-fund dollar figures conflict between Husch Blackwell and Sportico. The midseason-coaching-change ban appears in one summary but is not confirmed.",
+    "sources": [
+      "https://www.congress.gov/bill/119th-congress/senate-bill/4668",
+      "https://www.congress.gov/bill/119th-congress/house-bill/9137",
+      "https://www.commerce.senate.gov/press/rep/release/senate-overwhelmingly-passes-protect-college-sports-act/",
+      "https://www.espn.com/college-sports/story/_/id/50056206/us-senate-votes-77-22-pass-protect-college-sports-act",
+      "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
+      "https://www.huschblackwell.com/newsandinsights/executive-summary-protect-college-sports-act-of-2026-september-17-2026-amendment",
+      "https://www.cozen.com/news-resources/publications/2026/protect-college-sports-act-of-2026-s-4668-the-bill-passed-the-senate-so-what-comes-next-",
+      "https://www.sportico.com/leagues/college-sports/2026/protect-college-sports-act-senate-passes-antitrust-1234945916/",
+      "https://www.espn.com/college-sports/story/_/id/50545220/protect-college-sports-act-revised-donald-trump-voices-support",
+      "https://www.washingtonpost.com/sports/2026/11/20/congress-college-sports/816f43ce-e547-11f1-a99e-b3e3805c6b8b_story.html",
+      "https://www.cbssports.com/college-football/news/house-gop-protect-college-sports-act/",
+      "https://frontofficesports.com/article/college-sports-bill-in-peril-after-democrats-sweep-midterm-elections/",
+      "https://www.deseret.com/sports/2026/11/19/cruz-pushes-to-save-pcsa-before-deadline/",
+      "https://en.wikipedia.org/wiki/Protect_College_Sports_Act_of_2026"
+    ]
+  },
+  {
+    "id": "score-act",
+    "type": "legislation",
+    "name": "SCORE Act (Student Compensation and Opportunity through Rights and Endorsements Act, H.R. 4312)",
+    "status": "Stalled and effectively superseded. Floor votes were pulled in December 2025 and again in mid-May 2026 for lack of votes. Its content was folded into the Senate's Protect College Sports Act.",
+    "timeline": [
+      { "date": "2025-07", "event": "Introduced by House Republicans (Energy & Commerce chair Brett Guthrie, Education & Workforce chair Tim Walberg, Gus Bilirakis and others) with Democratic co-sponsors Janelle Bynum and Shomari Figures." },
+      { "date": "2025-07-23", "event": "Marked up and advanced by the House Education & Workforce and Energy & Commerce committees on party-line votes." },
+      { "date": "2025-12", "event": "House leaders schedule a floor vote, then cancel it hours before. The White House and Olympic leaders had backed the bill." },
+      { "date": "2026-05", "event": "Speaker Johnson cancels a second vote. The CBC opposes it, Figures and Bynum withdraw their support, and Chip Roy and Byron Donalds object that it gives the NCAA too much power." }
+    ],
+    "summary": "House GOP bill. Athletes declared non-employees, broad antitrust protection for the NCAA and conferences, preemption of state NIL laws, codification of House-settlement revenue sharing, agent regulation. Critics (Sen. Cantwell, Rep. Lori Trahan, the CBC) called it an NCAA bailout.",
+    "stakeholders": ["Rep. Brett Guthrie", "Rep. Tim Walberg", "Rep. Gus Bilirakis", "Speaker Mike Johnson", "Congressional Black Caucus", "Rep. Lori Trahan", "Sen. Maria Cantwell", "NCAA", "P4 conferences"],
+    "gameImpact": {
+      "mechanic": "Historical/flavor. Inactive at game start. A small chance it revives as the House GOP's preferred text in the PCSA negotiation, which would add a non-employee clause.",
+      "probabilities": { "revivesAsVehicle": 0.03 },
+      "effects": {}
+    },
+    "sources": [
+      "https://rules.house.gov/bill/119/hr-4312",
+      "https://thehill.com/policy/sports-gaming/5884675-score-act-house-cbc-ncaa/",
+      "https://frontofficesports.com/as-score-act-vote-gets-canceled-a-new-college-sports-bill-may-emerge/",
+      "https://www.sportico.com/law/analysis/2026/score-act-vote-congress-ncaa-rules-1234899628/",
+      "https://www.commerce.senate.gov/index.php/2025/12/cantwell-slams-new-score-act-ahead-of-expected-house-vote",
+      "https://www.nbcboston.com/news/sports/white-house-olympic-leaders-lend-support-score-act-regulate-college-sports/3853880/"
+    ]
+  },
+  {
+    "id": "earlier-federal-bills",
+    "type": "legislation",
+    "name": "Earlier federal college-sports bills (2020-2025)",
+    "status": "All expired without passage. They supply the ideas later merged into SCORE and the PCSA.",
+    "timeline": [
+      { "date": "2020-12", "event": "Sens. Cory Booker and Richard Blumenthal introduce the College Athletes Bill of Rights (revenue sharing, health protections)." },
+      { "date": "2020", "event": "Sen. Roger Wicker's Collegiate Athlete Compensation Rights Act. Several other drafts follow NCAA v. Alston (2021)." },
+      { "date": "2024-07", "event": "Sens. Tommy Tuberville and Joe Manchin introduce the PROTECT Act (Protecting Athletes, Schools, and Sports Act): antitrust immunity, non-employee status, state-law preemption, transfer limits. Dies with the 118th Congress." },
+      { "date": "2024", "event": "Sen. Ted Cruz circulates a discussion draft that becomes the base of the 2026 PCSA." },
+      { "date": "2025", "event": "Rep. Greg Steube's 'Protection of College Sports Act' would codify Trump's July 2025 executive order." }
+    ],
+    "summary": "Twenty-plus federal bills since 2020 competed on three questions: antitrust immunity, employee status and state-law preemption. Democrats (Booker, Blumenthal, Murphy, Trahan) favored athlete rights. Republicans and the NCAA favored immunity and a non-employee declaration. The PCSA compromise is neutral on employment.",
+    "stakeholders": ["Sen. Cory Booker", "Sen. Richard Blumenthal", "Sen. Tommy Tuberville", "Sen. Joe Manchin", "Sen. Roger Wicker", "Rep. Greg Steube", "NCAA"],
+    "gameImpact": { "mechanic": "Background. Explains why each Congress restarts the fight. Use as flavor in 'Capitol Hill testimony' events.", "probabilities": {}, "effects": {} },
+    "confidence": "low",
+    "note": "Introduction dates and bill titles are from memory and not re-verified this session.",
+    "sources": ["https://steube.house.gov/press-releases/rep-steube-introduces-protection-of-college-sports-act-to-codify-trump-executive-order/", "https://en.wikipedia.org/wiki/NCAA_v._Alston"]
+  },
+  {
+    "id": "eo-14322-saving-college-sports",
+    "type": "executive-action",
+    "name": "Executive Order 14322, 'Saving College Sports' (2025-07-24)",
+    "status": "In effect, but mostly instructions to agencies and the NCAA. It created no binding rules for schools and was followed by EO 14400.",
+    "timeline": [
+      { "date": "2025-05", "event": "Reports that Trump would set up a presidential commission on college sports co-led by Nick Saban and Texas Tech's Cody Campbell. The commission idea was shelved in June 2025 in favor of an executive order." },
+      { "date": "2025-07-24", "event": "EO 14322 signed." }
+    ],
+    "summary": "Directs the Labor Secretary and the NLRB to clarify athletes' status (leaning against employee status). Directs DOJ and the FTC to protect schools from litigation that threatens scholarships. Bars third-party 'pay-for-play' disguised as NIL. Requires revenue-generating programs to keep or expand women's and non-revenue scholarships and roster spots. Calls for curbs on 'unscrupulous agents'. Analysts (CBS, NBC) note the president cannot impose NCAA rules on his own.",
+    "stakeholders": ["President Trump", "Nick Saban", "Cody Campbell", "Department of Labor", "NLRB", "DOJ", "FTC", "Department of Education", "NCAA"],
+    "gameImpact": {
+      "mechanic": "Sets a federal 'political climate' modifier. While in force, events about athlete employment (union drives, NLRB complaints) are less likely and federal pressure to protect Olympic sports goes up.",
+      "probabilities": {},
+      "effects": { "athleteEmployeeEventsMultiplier": 0.6, "olympicSportCutPublicBacklashMultiplier": 1.3 }
+    },
+    "sources": [
+      "https://www.presidency.ucsb.edu/documents/executive-order-14322-saving-college-sports",
+      "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-saves-college-sports",
+      "https://www.nbcnews.com/sports/college-sports/know-donald-trumps-executive-order-nil-college-sports-rcna221157",
+      "https://www.cbssports.com/college-football/news/will-donald-trumps-order-on-college-sports-have-immediate-impact-no-but-wheels-are-in-motion-for-change"
+    ]
+  },
+  {
+    "id": "eo-14400-urgent-national-action",
+    "type": "executive-action",
+    "name": "Executive Order 14400, 'Urgent National Action to Save College Sports' (2026-04-03)",
+    "status": "Signed 2026-04-03. Sections 3-6 took effect 2026-08-01. The NCAA adopted 5-in-5 eligibility in June 2026, partly in response. Analysts (Morgan Lewis, Lexology) say several provisions conflict with court rulings and the White House may have reached the limit of its authority.",
+    "timeline": [
+      { "date": "2026-04-03", "event": "EO 14400 signed after Congress failed to pass SCORE." },
+      { "date": "2026-06-23", "event": "NCAA D-I Cabinet adopts the 5-years-to-play-5 model." },
+      { "date": "2026-08-01", "event": "Operative sections take effect." }
+    ],
+    "summary": "Calls for a five-year participation limit (exceptions for military, missionary and public-interest service), a bar on professional athletes returning to college, and stricter transfer rules 'subject to applicable law and court orders'. Agencies are to weigh a school's compliance with NCAA rules when deciding whether it is a 'responsible' recipient of federal grants and contracts, which gives Washington leverage over defiant schools. One unofficial summary also mentions a 120-day interagency task force and a DOJ antitrust review (low confidence).",
+    "stakeholders": ["President Trump", "federal grant-making agencies", "DOJ", "NCAA", "state governors (e.g., Ohio's DeWine)", "athletes"],
+    "gameImpact": {
+      "mechanic": "Federal-funding pressure. When a member defies NCAA or conference eligibility rules through state courts (LSU-style), roll for federal intervention: a threatened review of grants and contracts that pushes the school's president toward compliance.",
+      "probabilities": { "federalInterventionOnDefiance": 0.25, "courtBlocksFundingConditionIfInvoked": 0.4 },
+      "effects": { "rogueMemberComplianceBoost": 0.2 }
+    },
+    "sources": [
+      "https://www.whitehouse.gov/presidential-actions/2026/04/urgent-national-action-to-save-college-sports/",
+      "https://www.presidency.ucsb.edu/documents/executive-order-14400-urgent-national-action-save-college-sports",
+      "https://en.wikipedia.org/wiki/Executive_Order_14400",
+      "https://www.bricker.com/insights/publications/a-new-presidential-executive-order-to-save-college-sports-why-it-matters-for-campus-decision-makers-now",
+      "https://www.lexology.com/library/detail.aspx?g=f57beb3e-6ec0-4713-a1c2-3f8ca251be83",
+      "https://www.morganlewis.com/pubs/2026/05/no-score-congress-leaves-college-sports-in-regulatory-limbo-forcing-the-white-house-to-sub-in"
+    ]
+  },
+  {
+    "id": "eo-14201-womens-sports",
+    "type": "executive-action",
+    "name": "Executive Order 14201, 'Keeping Men Out of Women's Sports' (2025-02-05), and Title IX enforcement",
+    "status": "In effect. The NCAA changed its transgender-participation policy on 2025-02-06. The Education Department's Title IX investigations of schools such as Penn and San Jose State produced resolutions and funding threats.",
+    "timeline": [
+      { "date": "2024-10", "event": "San Jose State volleyball controversy. Several opponents forfeit, and an MWC tournament dispute follows." },
+      { "date": "2025-02-05", "event": "EO 14201 signed." },
+      { "date": "2025-02-06", "event": "NCAA limits women's competition to athletes assigned female at birth." },
+      { "date": "2025-07", "event": "Penn reaches a Title IX resolution with the Education Department over Lia Thomas's records." }
+    ],
+    "summary": "Federal executive action ties Title IX funding to bans on transgender women in women's sports. For a conference, the main risk is forfeits, protests and investigations at members (SJSU/MWC precedent) plus state laws that conflict across a multi-state footprint.",
+    "stakeholders": ["Department of Education Office for Civil Rights", "NCAA", "Mountain West (SJSU precedent)", "state legislatures"],
+    "gameImpact": {
+      "mechanic": "Culture-war event generator for women's sports. Forfeits, protests and investigations. Tests crisisManagement and publicImage.",
+      "probabilities": { "annualEventPerConference": 0.08 },
+      "effects": {}
+    },
+    "confidence": "low",
+    "note": "Exact dates of the Penn and SJSU resolutions not re-verified.",
+    "sources": ["https://en.wikipedia.org/wiki/Executive_Order_14201", "https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association"]
+  },
+  {
+    "id": "midterms-2026",
+    "type": "executive-action",
+    "name": "2026 midterm elections: Democrats sweep, and the lame-duck clock runs",
+    "status": "Democrats won on 2026-11-03. Republicans hold a 218-214 lame-duck House majority until 2027-01-03. A new Congress more skeptical of the NCAA and P4 takes over in January 2027.",
+    "timeline": [
+      { "date": "2026-11-03", "event": "Midterms. Democratic sweep." },
+      { "date": "2026-11-04", "event": "Front Office Sports: college sports bill 'in peril'." },
+      { "date": "2027-01-03", "event": "119th Congress ends. Pending bills die." }
+    ],
+    "summary": "A Democratic House (and possibly Senate) shifts federal college-sports policy toward athletes' rights (employment, collective bargaining, Title IX scrutiny) and away from antitrust immunity. Key Democrats' past statements (Jeffries, the CBC, Trahan, Murphy, Blumenthal, Booker) suggest any 2027-28 bill will look different.",
+    "stakeholders": ["Hakeem Jeffries", "Congressional Black Caucus", "Sen. Chris Murphy", "Rep. Lori Trahan", "Sen. Richard Blumenthal", "Sen. Cory Booker"],
+    "gameImpact": {
+      "mechanic": "Political-climate shift in January 2027. Antitrust-immunity bills less likely to pass; employee or collective-bargaining legislation becomes possible. Congressional hearings that call commissioners to testify become more likely.",
+      "probabilities": { "commissionerHearingSubpoenaOrInvite2027": 0.35, "athleteEmploymentBillPassesHouse2027_28": 0.25 },
+      "effects": { "antitrustImmunityPassageMultiplier": 0.5 }
+    },
+    "confidence": "low",
+    "note": "Scale of the 'sweep' (House vs. Senate control) not independently verified. Comes from FOS, Daily Wire and SI headlines.",
+    "sources": [
+      "https://frontofficesports.com/article/college-sports-bill-in-peril-after-democrats-sweep-midterm-elections/",
+      "https://www.si.com/college/what-key-democratic-politicians-have-said-college-sports-legislation-midterm-rout",
+      "https://www.dailywire.com/news/protect-college-sports-act-might-be-on-life-support-after-democrats-sweep-midterms",
+      "https://news.bgov.com/bloomberg-government-news/college-sports-bills-chances-in-congress-dwindle-after-midterms"
+    ]
+  },
+  {
+    "id": "johnson-v-ncaa",
+    "type": "lawsuit",
+    "name": "Johnson v. NCAA (athletes as employees under the FLSA)",
+    "status": "Back in the Eastern District of Pennsylvania after the Third Circuit's 2024 ruling. Unresolved as of November 2026, and pending NLRB and employment litigation is untouched by the PCSA (Sec. 122 is neutral).",
+    "timeline": [
+      { "date": "2019-11", "event": "Filed by Trey Johnson (former Villanova football) and other athletes against the NCAA and schools." },
+      { "date": "2021-09", "event": "Judge John Padova denies the motion to dismiss." },
+      { "date": "2024-07-11", "event": "Third Circuit holds that college athletes can be employees under the FLSA under an 'economic realities' test, rejects the amateurism defense, and sends the case back." },
+      { "date": "2025-2026", "event": "Proceedings continue on remand. Executive orders push agencies toward non-employee status." }
+    ],
+    "summary": "The main legal route to athletes as employees (minimum wage, overtime, and eventually collective bargaining). A loss for the NCAA in the Third Circuit's footprint (PA, NJ, DE) could spread nationally.",
+    "stakeholders": ["athletes (plaintiffs)", "NCAA", "Villanova and other named schools", "Department of Labor"],
+    "gameImpact": {
+      "mechanic": "Long-running lawsuit with a yearly chance of a major ruling. An employee-status ruling adds payroll, benefits and workers' compensation costs to athletic budgets and makes collective bargaining with a conference possible.",
+      "probabilities": { "employeeStatusRulingFavoringAthletesBy2028": 0.25, "annualMajorRuling": 0.2 },
+      "effects": { "ifEmployees": { "athleticBudgetIncreasePct": 0.08, "collectiveBargainingUnlocked": true } }
+    },
+    "confidence": "low",
+    "note": "2025-26 procedural status on remand not re-verified.",
+    "sources": ["https://www2.ca3.uscourts.gov/opinarch/221223p.pdf", "https://www.cozen.com/news-resources/publications/2026/protect-college-sports-act-of-2026-s-4668-the-bill-passed-the-senate-so-what-comes-next-"]
+  },
+  {
+    "id": "nlrb-dartmouth-union",
+    "type": "labor",
+    "name": "NLRB and the Dartmouth men's basketball union",
+    "status": "Dormant. SEIU withdrew the Dartmouth petition on 2024-12-31 ahead of a Trump-appointed NLRB. The pro-athlete general counsel memo was rescinded in February 2025, and EO 14322 pushed against employee status. Could revive under a future Democratic NLRB (2029+).",
+    "timeline": [
+      { "date": "2021-09-29", "event": "NLRB General Counsel Jennifer Abruzzo's memo says scholarship athletes can be employees." },
+      { "date": "2024-02-05", "event": "NLRB Region 1 Director Laura Sacks rules Dartmouth men's basketball players are employees." },
+      { "date": "2024-03-05", "event": "Players vote 13-2 to join SEIU Local 560. Dartmouth refuses to bargain." },
+      { "date": "2024-12-31", "event": "SEIU withdraws the petition to avoid an adverse precedent." },
+      { "date": "2025-02", "event": "Acting GC rescinds the Abruzzo memo. A related complaint against USC, the Pac-12 and the NCAA is dropped." }
+    ],
+    "summary": "The first college athlete union vote. It showed that private schools (outside state public-employee laws) are the most exposed to unionization.",
+    "stakeholders": ["NLRB", "SEIU Local 560", "Dartmouth", "Ivy League", "private-school members"],
+    "gameImpact": {
+      "mechanic": "Union-drive event at private members. Very low probability under the current NLRB, rising after 2029 or if Johnson v. NCAA goes to athletes.",
+      "probabilities": { "annualUnionPetitionAtPrivateMember2026_28": 0.02, "annualUnionPetitionAfter2029": 0.12 },
+      "effects": {}
+    },
+    "sources": ["https://www.nlrb.gov/case/01-RC-325633", "https://en.wikipedia.org/wiki/Dartmouth_College"]
+  },
+  {
+    "id": "house-settlement-appeals",
+    "type": "lawsuit",
+    "name": "House v. NCAA settlement: approval and appeals",
+    "status": "Approved 2025-06-06 by Judge Claudia Wilken (N.D. Cal.). Revenue sharing began 2025-07-01. Appeals by objectors, mainly Title IX and roster-limit challengers, are pending in the Ninth Circuit. Enforcement disputes between the plaintiffs' lawyers and the CSC over collective deals continue.",
+    "timeline": [
+      { "date": "2024-05-23", "event": "NCAA and P5 agree to settlement terms." },
+      { "date": "2024-10-07", "event": "Preliminary approval." },
+      { "date": "2025-04", "event": "Wilken requires changes to roster limits (grandfathering 'Designated Student-Athletes')." },
+      { "date": "2025-06-06", "event": "Final approval. About $2.8B in back damages over 10 years, plus a revenue-share cap starting at $20.5M." },
+      { "date": "2025-07-01", "event": "Revenue sharing starts. CSC and NIL Go go live." },
+      { "date": "2025-2026", "event": "Title IX objectors' appeals pending at the Ninth Circuit. CSC rulings on collective deals contested." }
+    ],
+    "summary": "The settlement behind the current system: school-paid revenue sharing, roster limits, and CSC review of NIL. A reversal on appeal, especially on Title IX grounds over the damages split or revenue-share allocation, could reopen everything.",
+    "stakeholders": ["Judge Claudia Wilken", "Steve Berman and Jeffrey Kessler (class counsel)", "Title IX objectors", "NCAA", "P4 conferences", "College Sports Commission"],
+    "gameImpact": {
+      "mechanic": "Appellate ruling event, 2026-27. Possible outcomes: affirmed, remanded for Title IX changes (schools must re-split revenue toward women's sports), or vacated (system thrown into chaos).",
+      "probabilities": { "affirmed": 0.6, "remandedForModification": 0.25, "vacated": 0.15 },
+      "effects": { "ifRemanded": { "womensRevShareMinimumPct": 0.3 }, "ifVacated": { "csCAuthority": 0, "lawsuitEventMultiplier": 2.0 } }
+    },
+    "confidence": "low",
+    "note": "Ninth Circuit scheduling and status not re-verified.",
+    "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA", "https://frontofficesports.com/one-year-after-house-settlement-nil-enforcement-is-still-muddled/"]
+  },
+  {
+    "id": "title-ix-revenue-share",
+    "type": "lawsuit",
+    "name": "Title IX challenges to revenue-share allocation",
+    "status": "Ongoing. Objectors' appeals of House plus individual suits and complaints against schools that give most revenue-share money to football and men's basketball. Biden-era Education Department guidance (January 2025) saying payments are financial aid subject to proportionality was rescinded in February 2025. The PCSA includes a Title IX savings clause, and critics (Ms. Magazine, November 2026) say it still threatens women's sports.",
+    "timeline": [
+      { "date": "2025-01-16", "event": "Education Department fact sheet: NIL and revenue-share payments are subject to Title IX." },
+      { "date": "2025-02-12", "event": "The new administration rescinds the guidance." },
+      { "date": "2025-2026", "event": "Typical P4 allocations: about 75% football, 15% MBB, 5% WBB, 5% other. Objectors and advocacy groups challenge them." },
+      { "date": "2026-11-23", "event": "Ms. Magazine op-ed argues the PCSA 'threatens to decimate women's sports'." }
+    ],
+    "summary": "How schools split the cap is a lasting Title IX risk, and the next administration could reverse federal guidance again.",
+    "stakeholders": ["Department of Education OCR", "women's sports advocates", "Title IX plaintiffs' bar", "schools"],
+    "gameImpact": {
+      "mechanic": "Each season, members with very football-heavy allocations face a Title IX suit roll. The commissioner can push a conference-wide minimum share for women's sports (costs boosterInfluence goodwill, gains publicImage).",
+      "probabilities": { "annualTitleIXSuitPerConference": 0.2, "federalGuidanceReinstatedAfter2029": 0.5 },
+      "effects": {}
+    },
+    "confidence": "low",
+    "note": "Allocation percentages are typical reported splits, not exact.",
+    "sources": ["https://msmagazine.com/2026/11/23/protect-college-sports-act-title-ix-womens-sports-gender-equity-trans-girls/", "https://en.wikipedia.org/wiki/House_v._NCAA"]
+  },
+  {
+    "id": "state-nil-laws-anti-enforcement",
+    "type": "legislation",
+    "name": "State NIL and anti-enforcement laws that conflict with the settlement",
+    "status": "Active patchwork. Many states (notably Tennessee, Texas, Louisiana, Arkansas, Mississippi, Oklahoma, Missouri, Ohio) passed laws or orders allowing direct pay, protecting schools from NCAA, conference or CSC penalties for state-law-compliant conduct, or limiting enforcement. State AGs object to the CSC participation agreement. The PCSA would preempt these laws if enacted.",
+    "timeline": [
+      { "date": "2021-07-01", "event": "First state NIL laws (Florida, Alabama, Georgia, Mississippi and others) take effect, forcing the NCAA's interim NIL policy." },
+      { "date": "2024-01-31", "event": "Tennessee and Virginia AGs sue the NCAA over NIL-in-recruiting rules. Preliminary injunction 2024-02-23 (E.D. Tenn.) bars enforcement." },
+      { "date": "2025", "event": "Wave of state laws on direct institutional pay and blocking enforcement against schools following state law." },
+      { "date": "2025-2026", "event": "State AGs object to the CSC participation agreement's waiver and arbitration clauses." },
+      { "date": "2026-09", "event": "Louisiana state courts enjoin the SEC from penalizing LSU over eligibility." },
+      { "date": "2026-10-13", "event": "Ohio Gov. DeWine's Executive Order 2026-04D lets Ohio schools ignore part of the NCAA's eligibility rule." }
+    ],
+    "summary": "States are where members escape conference and CSC discipline. A commissioner's enforcement power depends on the member's state.",
+    "stakeholders": ["state legislatures", "state attorneys general (TN Jonathan Skrmetti, LA Liz Murrill)", "governors (OH Mike DeWine)", "NCAA", "CSC"],
+    "gameImpact": {
+      "mechanic": "A 'shield-law' flag per state. Members in shield states get a defiance option in enforcement events (resolved in state court). Commissioner responses: sue in federal court, withhold distributions, or move to expel (needs a membership vote).",
+      "probabilities": { "annualNewShieldLawInFootprintState": 0.35, "memberUsesShieldInEnforcementEvent": 0.3, "stateCourtGrantsInjunction": 0.55 },
+      "effects": {}
+    },
+    "confidence": "low",
+    "note": "Which states passed what in 2025 is not itemized here (not re-verified). Treat the state list as illustrative.",
+    "sources": ["https://www.espn.com/college-football/story/_/id/49869481/sec-files-amendment-authority-expel-lsu-conference", "https://frontofficesports.com/article/ncaa-sues-ohio-governor-fifth-year-eligibility/", "https://www.mondaq.com/unitedstates/sport/1772728/uniformity-or-uncertainty-the-college-sports-commissions-effort-to-implement-university-participation-standards"]
+  },
+  {
+    "id": "ohio-dewine-eligibility-eo",
+    "type": "executive-action",
+    "name": "Ohio Executive Order 2026-04D (fifth year for the HS class of 2022) and NCAA v. DeWine",
+    "status": "The NCAA sued Gov. Mike DeWine in federal court (S.D. Ohio) in mid-October 2026, asking that the order be declared unconstitutional and blocked. The Ohio Supreme Court asked for briefing on the order's effect on Borovicanin v. NCAA. Pending.",
+    "timeline": [
+      { "date": "2026-10-02", "event": "Ohio First District Court of Appeals reverses a fifth-year injunction in Borovicanin v. NCAA." },
+      { "date": "2026-10-13", "event": "DeWine signs EO 2026-04D allowing public and private Ohio schools to play class-of-2022 athletes for a fifth season." },
+      { "date": "2026-10-15", "event": "NCAA files a 39-page complaint in S.D. Ohio. Baker calls it an 'extraordinary step'." },
+      { "date": "2026-10-19", "event": "Ohio Supreme Court supplemental briefs due on the order's effect." }
+    ],
+    "summary": "A governor using executive power to override an NCAA eligibility rule for his state's schools (Ohio State, Cincinnati, Xavier and others). A template for state-level competitive advantage.",
+    "stakeholders": ["Gov. Mike DeWine", "NCAA", "Ohio State", "Cincinnati", "Xavier", "Ohio Supreme Court", "class-of-2022 athletes"],
+    "gameImpact": {
+      "mechanic": "Governor-intervention event. A member's governor issues an order favoring that member. Rival members demand the conference respond. Choices: follow the NCAA, set a conference rule, or seek a waiver.",
+      "probabilities": { "annualGovernorEligibilityOrderInFootprint": 0.1, "federalCourtBlocksOrder": 0.6 },
+      "effects": {}
+    },
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/50196596/ncaa-sues-ohio-gov-eligibility-order-5th-year-athletes",
+      "https://www.sportico.com/law/analysis/2026/ncaa-sues-dewine-says-eligibility-order-unconstitutional-1234952392/",
+      "https://www.courthousenews.com/ncaa-sues-ohio-governor-over-order-expanding-college-athlete-eligibility-rules/",
+      "https://www.spokesman.com/stories/2026/oct/16/ncaa-sues-ohio-gov-mike-dewine-after-executive-ord/"
+    ]
+  },
+  {
+    "id": "borovicanin-v-ncaa",
+    "type": "lawsuit",
+    "name": "Borovicanin v. NCAA (Ohio fifth-year eligibility)",
+    "status": "The Ohio Supreme Court stayed the appeals court's reversal, restoring the trial court's injunction for now. Final ruling pending as of November 2026, and reports conflict on whether it has been decided.",
+    "timeline": [
+      { "date": "2026", "event": "Ohio trial court grants class-of-2022 athletes (including Cincinnati and Xavier players) an injunction for a fifth season." },
+      { "date": "2026-10-02", "event": "First District Court of Appeals reverses." },
+      { "date": "2026-10", "event": "Ohio Supreme Court stays the reversal and orders briefing on DeWine's order." }
+    ],
+    "summary": "A test of state courts' power over NCAA eligibility after the 5-in-5 transition.",
+    "stakeholders": ["athletes", "NCAA", "Cincinnati", "Xavier", "Ohio Supreme Court"],
+    "gameImpact": { "mechanic": "Feeds the eligibility-injunction event generator.", "probabilities": { "athletesPrevail": 0.5 }, "effects": {} },
+    "confidence": "low",
+    "sources": ["https://sports.yahoo.com/articles/ohio-supreme-court-allows-players-152821073.html", "https://sports.yahoo.com/articles/ohio-supreme-court-rule-dewine-204902511.html", "https://www.sportico.com/law/analysis/2026/ncaa-sues-dewine-says-eligibility-order-unconstitutional-1234952392/"]
+  },
+  {
+    "id": "sec-v-lsu",
+    "type": "lawsuit",
+    "name": "SEC v. LSU (N.D. Ala.) and the SEC membership-termination vote",
+    "status": "SEC federal suit pending. LSU moved to dismiss (sovereign immunity, standing). The judge ordered LSU's counsel to apologize (~2026-11-18). The SEC amended its complaint to add RJ Luis Jr., sought a TRO and preliminary injunction, and set a 2026-12-03 presidents' vote on terminating LSU (needs 2/3 of the other 15). Reports of private settlement talks.",
+    "timeline": [
+      { "date": "2025-11-30", "event": "Lane Kiffin leaves Ole Miss for LSU." },
+      { "date": "2026-08", "event": "A Louisiana state judge clears former NFL-contract players Dae'Quan Wright (TE) and Zxavian Harris (DT), both ex-Ole Miss under Kiffin, to play." },
+      { "date": "2026-09-03", "event": "SEC sues LSU in federal court just after midnight, before LSU's opener. First expulsion vote scheduled." },
+      { "date": "2026-09", "event": "LSU doesn't roster the two players. Expulsion vote canceled, but the suit continues." },
+      { "date": "2026-10", "event": "RJ Luis Jr. adds the SEC to his eligibility lawsuit." },
+      { "date": "2026-11-18", "event": "Judge orders LSU attorneys to apologize for accusing the SEC of 'hallucinating' citations. Louisiana AG Liz Murrill declines." },
+      { "date": "2026-11-23", "event": "Amended complaint. Termination vote set for 2026-12-03." }
+    ],
+    "summary": "The first serious move by a modern P4 conference to expel a flagship member. It tests whether conference bylaws can bind a public university protected by its own state's courts and AG. LSU argues 'forced association' violates the conference's First Amendment rights, an odd mirror of the SEC's position.",
+    "stakeholders": ["Greg Sankey", "SEC presidents", "LSU (President William Tate IV)", "Lane Kiffin", "Louisiana AG Liz Murrill", "RJ Luis Jr.", "Louisiana courts", "federal court (N.D. Ala.)"],
+    "gameImpact": {
+      "mechanic": "Template for a 'rogue member' crisis. A member uses home-state courts to defy eligibility or cap rules. Escalation ladder: warning, fines or withheld distribution, federal suit, expulsion vote (needs 2/3). Each step costs presidentialRelations with the member's allies and tests legalGovernance.",
+      "probabilities": { "lsuBacksDownBeforeVote": 0.6, "expulsionVotePassesIfHeld": 0.35, "negotiatedSettlement": 0.5 },
+      "effects": { "ifExpelled": { "leagueMediaValueMultiplier": 0.95, "otherRogueMembersMultiplier": 0.3 } }
+    },
+    "note": "Core facts (2026-09-03 suit, 2026-12-03 vote, the 2/3 threshold, the apology order) come from multiple outlets. The date of the Louisiana ruling (late August or early September 2026) and of Luis joining the SEC to his suit (about October 2026) are approximate. Probabilities are design estimates. Analysts such as Rece Davis expect LSU to back down.",
+    "sources": [
+      "https://www.espn.com/college-football/story/_/id/49869481/sec-files-amendment-authority-expel-lsu-conference",
+      "https://cbssports.com/college-football/news/sec-lsu-expulsion-vote-rj-luis-will-wade-lane-kiffin",
+      "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/sec-to-vote-on-potentially-terminating-lsus-membership-amid-legal-battle-rj-luis-eligibility-saga-234123957.html",
+      "https://www.lawcommentary.com/articles/sec-sues-lsu-former-nfl-players-college-football",
+      "https://www.wdsu.com/article/lsu-sec-eligibility-lawsuit-apology/74469489",
+      "https://www.foxnews.com/outkick-sports/sec-threatens-nuclear-option-lsu-rebellion-puts-conference-future-risk",
+      "https://en.wikipedia.org/wiki/2026_LSU_Tigers_football_team"
+    ]
+  },
+  {
+    "id": "pavia-v-ncaa",
+    "type": "lawsuit",
+    "name": "Pavia v. NCAA (JUCO years counting against eligibility)",
+    "status": "Preliminary injunction granted 2024-12-18 (M.D. Tenn.). The NCAA then issued a blanket one-year waiver for former JUCO athletes for 2025-26. The 5-in-5 model (2026) replaces the seasons-of-competition framework that Pavia attacked.",
+    "timeline": [
+      { "date": "2024-11", "event": "Vanderbilt QB Diego Pavia (ex-New Mexico Military Institute JUCO) sues, arguing JUCO seasons shouldn't count." },
+      { "date": "2024-12-18", "event": "Judge William Campbell grants a preliminary injunction." },
+      { "date": "2024-12", "event": "NCAA grants a blanket 2025-26 waiver to similarly situated athletes." },
+      { "date": "2025", "event": "Pavia leads Vanderbilt's breakout 2025 season. Copycat suits multiply (dozens of eligibility suits)." }
+    ],
+    "summary": "It opened the floodgates on eligibility litigation and pushed the NCAA toward the age-based 5-in-5 rule.",
+    "stakeholders": ["Diego Pavia", "Vanderbilt", "NCAA", "JUCO athletes"],
+    "gameImpact": { "mechanic": "Feeds the eligibility-injunction generator (see event seed legal-eligibility-injunction).", "probabilities": {}, "effects": {} },
+    "sources": ["https://en.wikipedia.org/wiki/Diego_Pavia"]
+  },
+  {
+    "id": "pro-player-eligibility-fights",
+    "type": "lawsuit",
+    "name": "Former pro and G League players seeking college eligibility (Bediako, Nnaji, LSU 2026 cases)",
+    "status": "Active. NCAA, SEC and EO 14400 position: athletes who signed pro contracts are ineligible. State courts have sometimes disagreed (Louisiana 2026). Bediako's January 2026 case outcome not verified.",
+    "timeline": [
+      { "date": "2025-12", "event": "Baylor adds James Nnaji (2023 NBA draft pick who never signed an NBA contract). NCAA clears him." },
+      { "date": "2026-01", "event": "Former Alabama center Charles Bediako, who played in the G League, sues in Alabama state court to return. Reported TRO." },
+      { "date": "2026-04-03", "event": "EO 14400 calls for barring professional athletes from returning." },
+      { "date": "2026-08", "event": "Louisiana judge clears ex-NFL-contract players for LSU football." },
+      { "date": "2026-11", "event": "RJ Luis Jr. (pro experience) and LSU basketball. The SEC sues and moves toward expulsion." }
+    ],
+    "summary": "Coaches are recruiting from pro ranks for experienced players. Leagues and the NCAA see a threat to the amateur and college identity.",
+    "stakeholders": ["NCAA", "SEC", "Alabama", "Baylor", "LSU", "Charles Bediako", "James Nnaji", "RJ Luis Jr.", "NBA/G League"],
+    "gameImpact": {
+      "mechanic": "Each season, a member may try to roster a former pro. Choices: allow (rivals protest, integrity hit), block (lawsuit risk), or set a conference rule.",
+      "probabilities": { "annualAttemptPerP4Conference": 0.35, "stateCourtTRO": 0.5 },
+      "effects": {}
+    },
+    "confidence": "low",
+    "note": "Bediako and Nnaji details are from memory (training data through mid-2026) and not re-verified.",
+    "sources": ["https://www.lawcommentary.com/articles/sec-sues-lsu-former-nfl-players-college-football", "https://en.wikipedia.org/wiki/2025%E2%80%9326_NCAA_Division_I_men%27s_basketball_season", "https://www.whitehouse.gov/presidential-actions/2026/04/urgent-national-action-to-save-college-sports/"]
+  },
+  {
+    "id": "ncaa-five-in-five",
+    "type": "regulatory",
+    "name": "NCAA '5 years to play 5' age-based eligibility model",
+    "status": "Adopted by the D-I Cabinet 2026-06-23 (unanimous). Mandatory for 2027-28 enrollees, optional for current athletes. Most waivers eliminated. Class of 2022 excluded, which drove the Ohio fight.",
+    "timeline": [
+      { "date": "2025", "event": "5-in-5 floated after Pavia and dozens of eligibility suits." },
+      { "date": "2026-04", "event": "D-I Board briefed on its intent. EO 14400 calls for a five-year window." },
+      { "date": "2026-06-23", "event": "Cabinet adopts it." },
+      { "date": "2026-10-13", "event": "Ohio governor's order carves out an exception for class-of-2022 athletes." }
+    ],
+    "summary": "Replaces the 4-seasons-in-5-years-plus-waivers system with a clock (5 seasons in 5 years from enrollment or age 19). Ends redshirt and injury waiver games and penalizes late starters.",
+    "stakeholders": ["NCAA D-I Cabinet", "athletes", "coaches"],
+    "gameImpact": { "mechanic": "Rule change affecting roster churn. Eligibility litigation in 2026-27 is about 1.5x normal, falling below normal from 2028.", "probabilities": {}, "effects": { "eligibilitySuitMultiplier2026_27": 1.5, "eligibilitySuitMultiplier2028Plus": 0.7 } },
+    "sources": ["https://www.pbs.org/newshour/nation/ncaa-panel-approves-new-eligibility-rules-giving-division-i-athletes-5-years-to-play-5-seasons", "https://sports.ksl.com/ncaa/ncaa-eligibility/575177", "https://sportsrecruits.com/resources/ncaa-eligibility-and-rules/age-based-eligibility-model"]
+  },
+  {
+    "id": "csc-cap-enforcement",
+    "type": "regulatory",
+    "name": "College Sports Commission cap-circumvention investigations",
+    "status": "More than a dozen active investigations and inquiries (2026-11-11) at P4 programs. Staff of 30. No penalties yet. Enforcement hampered because the participation agreement is not universally signed.",
+    "timeline": [
+      { "date": "2025-06-11", "event": "NIL Go launches." },
+      { "date": "2025-10", "event": "First data report. Deloitte error overstates cleared deals ($79.8M corrected to $35.4M)." },
+      { "date": "2026-05-11", "event": "CSC wins arbitration brought by Nebraska football players." },
+      { "date": "2026-08", "event": "Memo describes long-term cap-evasion investigations." },
+      { "date": "2026-10-08", "event": "5-10 P4 programs under inquiry." },
+      { "date": "2026-11-11", "event": "More than a dozen active investigations. No penalties." }
+    ],
+    "summary": "The first real test of whether the post-House system can punish anyone. Possible penalties include postseason bans and reduced caps. A first penalty against a playoff contender would trigger lawsuits and state-AG fights.",
+    "stakeholders": ["Bryan Seeley", "P4 conferences", "investigated schools (unnamed)", "collectives", "state AGs"],
+    "gameImpact": {
+      "mechanic": "Each season, roll for a CSC penalty against a member. The commissioner chooses to back the CSC, stay neutral, or support the member's appeal. Conference-level cap policies (SEC luxury tax, Big Ten combined limit) let the commissioner act first.",
+      "probabilities": { "firstCSCPenaltyBy2027-06": 0.55, "penalizedSchoolSues": 0.6, "penaltyUpheld": 0.6 },
+      "effects": {}
+    },
+    "sources": ["https://www.espn.com/college-football/story/_/id/50142371/reports-watchdog-eyes-nil-violations-5-10-power-4-schools", "https://www.timesfreepress.com/news/2026/oct/09/college-sports-commission-looks-into-potential/", "https://frontofficesports.com/college-sports-commission-enforce-nil-rules-without-legal-backing/", "https://www.1011now.com/2026/05/12/college-sports-commission-wins-key-nil-arbitration-case-brought-by-nebraska-football-players/"]
+  },
+  {
+    "id": "college-basketball-point-shaving-2025-26",
+    "type": "regulatory",
+    "name": "College basketball point-shaving cases (2025-26)",
+    "status": "NCAA enforcement found point-shaving by players at several D-I programs in 2025 (e.g., Fresno State, San Jose State, New Orleans). Federal prosecutors charged fixers and former players in a wider scheme in early 2026. Sportsbook integrity monitors and state regulators remain on alert.",
+    "timeline": [
+      { "date": "2024-03", "event": "Temple games flagged by integrity monitors for unusual betting. Hysier Miller investigated." },
+      { "date": "2025", "event": "NCAA rules players at Fresno State, San Jose State and New Orleans manipulated performances for betting. Bans issued." },
+      { "date": "2025-10", "event": "Federal NBA gambling indictments (E.D.N.Y.) show organized-crime links to prop-bet manipulation." },
+      { "date": "2026-01", "event": "Federal indictment charges fixers and roughly two dozen former college players across many D-I programs with fixing games in 2023-25." }
+    ],
+    "summary": "Legal sports betting (39+ states) plus player props and low-paid mid-major players create bribery targets. The schools and conferences most at risk are low-major and mid-major basketball.",
+    "stakeholders": ["NCAA enforcement", "U.S. Attorney's offices", "sportsbook integrity firms (e.g., IC360, U.S. Integrity)", "state gaming regulators", "mid-major conferences"],
+    "gameImpact": {
+      "mechanic": "Annual integrity-scandal roll, weighted by how much of the conference is mid- or low-major and how many games have player props. Commissioner preventive options: integrity-monitoring contract, athlete education, lobbying for prop bans.",
+      "probabilities": { "annualPointShavingCaseP4Conference": 0.06, "annualPointShavingCaseG6OrMidMajor": 0.18, "preventionContractReducesBy": 0.35 },
+      "effects": {}
+    },
+    "confidence": "low",
+    "note": "Details of the January 2026 federal indictment (district, number of schools, names) not re-verified. 2025 NCAA findings at Fresno State, SJSU and New Orleans are from memory.",
+    "sources": ["https://en.wikipedia.org/wiki/2025%E2%80%9326_NCAA_Division_I_men%27s_basketball_season", "https://en.wikipedia.org/wiki/1978%E2%80%9379_Boston_College_basketball_point_shaving_scandal"]
+  },
+  {
+    "id": "college-player-prop-bans",
+    "type": "regulatory",
+    "name": "State bans on college player prop bets, and the NCAA betting rules",
+    "status": "Ongoing campaign. NCAA President Baker has pushed states since 2024 to ban college player props. A growing list of states (e.g., Ohio, Maryland, Vermont, Louisiana) bans or limits them. In October 2025 the NCAA voted to let athletes bet on pro sports, then reversed itself in November 2025 after member backlash.",
+    "timeline": [
+      { "date": "2024-02", "event": "Ohio bans college player props at the NCAA's request." },
+      { "date": "2024", "event": "Baker campaigns publicly against college props as athlete harassment and integrity risks." },
+      { "date": "2025-10", "event": "D-I committee approves allowing athletes to bet on pro sports." },
+      { "date": "2025-11", "event": "Members vote to rescind." }
+    ],
+    "summary": "Prop bets fuel harassment of athletes on social media and point-shaving incentives. Conference footprints span states with different rules.",
+    "stakeholders": ["NCAA", "state gaming regulators", "sportsbooks (FanDuel, DraftKings)", "athletes"],
+    "gameImpact": { "mechanic": "A lobby-the-state action: the commissioner can spend network or political capital to push footprint states to ban props, lowering betting-scandal odds.", "probabilities": { "stateBanSuccessPerLobbyAttempt": 0.3 }, "effects": { "betScandalReductionPerBannedState": 0.04 } },
+    "confidence": "low",
+    "sources": ["https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association", "https://en.wikipedia.org/wiki/2025%E2%80%9326_NCAA_Division_I_men%27s_basketball_season"]
+  },
+  {
+    "id": "prediction-markets-college-sports",
+    "type": "regulatory",
+    "name": "Prediction markets offering college sports contracts (Kalshi, Polymarket, Robinhood)",
+    "status": "Active and growing. CFTC-regulated event contracts on college games (including the NCAA Tournament since 2025) are offered nationwide, including in states that ban sports betting. State regulators and tribes are suing over jurisdiction. The NCAA has asked federal regulators to restrict college contracts.",
+    "timeline": [
+      { "date": "2025-01", "event": "Kalshi launches sports event contracts. Offers NCAA Tournament contracts in March 2025." },
+      { "date": "2025", "event": "Cease-and-desists from Nevada, New Jersey, Maryland, Ohio and others. Federal suits in several circuits. Robinhood offers football contracts." },
+      { "date": "2025-late", "event": "Polymarket re-enters the U.S. under CFTC registration." },
+      { "date": "2025-2026", "event": "NCAA asks the CFTC to pause or limit college contracts, citing integrity and harassment." }
+    ],
+    "summary": "Prediction markets get around state sports-betting law and college-prop bans, opening uncapped, nationwide college betting markets including in non-betting states.",
+    "stakeholders": ["Kalshi", "Polymarket", "Robinhood", "CFTC", "state gaming regulators", "NCAA", "tribal gaming"],
+    "gameImpact": { "mechanic": "Global modifier on integrity risk. Also a commercial option: a conference data-licensing or sponsorship deal with a prediction market (high revenue, high integrity and publicImage risk).", "probabilities": { "cftcRestrictsCollegeContractsBy2028": 0.2 }, "effects": { "betScandalMultiplier": 1.2, "predictionMarketSponsorshipValueUsd": 5000000 } },
+    "confidence": "low",
+    "note": "2026 regulatory developments not re-verified. The sponsorship value is a design placeholder.",
+    "sources": ["https://en.wikipedia.org/wiki/Kalshi", "https://en.wikipedia.org/wiki/Polymarket"]
+  },
+  {
+    "id": "transfer-rule-litigation",
+    "type": "lawsuit",
+    "name": "Transfer-rule antitrust litigation (Ohio et al. v. NCAA) and new transfer limits",
+    "status": "Since 2024, the NCAA is permanently barred from enforcing the two-time-transfer sit-out rule. EO 14400 and the PCSA (one free transfer) try to limit transfers again. The single January football window started in 2025-26.",
+    "timeline": [
+      { "date": "2023-12-07", "event": "Seven state AGs led by Ohio sue (N.D. W.Va.). The DOJ joins in January 2024." },
+      { "date": "2023-12-13", "event": "Judge John Preston Bailey issues a TRO against the transfer rule." },
+      { "date": "2024-04", "event": "NCAA drops sit-out requirements. A consent decree makes it permanent." },
+      { "date": "2026-04-03", "event": "EO 14400 urges transfer limits." },
+      { "date": "2026-09-28", "event": "Senate-passed PCSA allows one penalty-free transfer." }
+    ],
+    "summary": "Unlimited free agency is the reality, and only federal law can reverse it.",
+    "stakeholders": ["state AGs", "DOJ Antitrust Division", "NCAA", "athletes"],
+    "gameImpact": { "mechanic": "Roster churn is high while there is no federal law. Enacting the PCSA cuts churn.", "probabilities": {}, "effects": { "ifPCSA": { "transferVolumeMultiplier": 0.6 } } },
+    "confidence": "low",
+    "sources": ["https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association", "https://en.wikipedia.org/wiki/Protect_College_Sports_Act_of_2026"]
+  },
+  {
+    "id": "ncaa-v-alston",
+    "type": "lawsuit",
+    "name": "NCAA v. Alston (Supreme Court, 2021)",
+    "status": "Decided 2021-06-21, 9-0 against the NCAA's limits on education-related benefits. Justice Kavanaugh's concurrence invited broader antitrust attacks.",
+    "timeline": [
+      { "date": "2021-06-21", "event": "Unanimous Supreme Court ruling." },
+      { "date": "2021-07-01", "event": "NCAA interim NIL policy, the same month state NIL laws take effect." }
+    ],
+    "summary": "The legal foundation of the NIL era. Every later antitrust case (House, Johnson-adjacent, transfer, eligibility) builds on it.",
+    "stakeholders": ["NCAA", "Shawne Alston", "Justice Brett Kavanaugh"],
+    "gameImpact": { "mechanic": "Background. Raises the base win probability for athlete plaintiffs in antitrust-style eligibility suits.", "probabilities": {}, "effects": { "athletePlaintiffBaseWinProbability": 0.5 } },
+    "sources": ["https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf", "https://en.wikipedia.org/wiki/NCAA_v._Alston"]
+  },
+  {
+    "id": "acc-fsu-clemson-litigation",
+    "type": "lawsuit",
+    "name": "Florida State and Clemson v. ACC (grant-of-rights and exit-fee litigation)",
+    "status": "Settled March 2025. Lower, declining exit fees and brand-weighted revenue distribution. ESPN exercised its option to extend the ACC deal through 2036. The PCSA realignment rules (20/22 cap, 3-year independence) now shape whether FSU or Clemson can actually leave.",
+    "timeline": [
+      { "date": "2023-08", "event": "FSU trustees publicly discuss leaving. The 'Magnificent Seven' consult lawyers." },
+      { "date": "2023-12-21", "event": "ACC pre-emptively sues FSU in Mecklenburg County, NC." },
+      { "date": "2023-12-22", "event": "FSU sues the ACC in Leon County, FL." },
+      { "date": "2024-03-19", "event": "Clemson sues the ACC in Pickens County, SC." },
+      { "date": "2024", "event": "Florida and NC courts issue competing rulings. Florida AG Ashley Moody seeks ESPN contract records." },
+      { "date": "2025-03", "event": "Global settlement." },
+      { "date": "2026-10", "event": "FSU, Clemson, Miami and UNC lobby Congress on the PCSA realignment terms." }
+    ],
+    "summary": "Shows how unhappy members use state courts, state AGs and public-records law against their own conference, and how a commissioner can trade money (revenue model changes) for peace.",
+    "stakeholders": ["Jim Phillips", "FSU Board of Trustees (Peter Collins)", "Clemson Board", "ESPN", "Florida AG Ashley Moody", "NC courts"],
+    "gameImpact": { "mechanic": "Template for the 'member sues conference' event (event seed legal-member-sues-conference).", "probabilities": {}, "effects": {} },
+    "confidence": "low",
+    "note": "Settlement exit-fee amounts are in legal-exit-fees-gor.md (fbs-conferences agent). Filing dates from memory.",
+    "sources": ["https://en.wikipedia.org/wiki/Atlantic_Coast_Conference", "https://sports.yahoo.com/articles/exclusive-fsu-miami-clemson-unc-200833994.html"]
+  },
+  {
+    "id": "wsu-osu-v-pac-12",
+    "type": "lawsuit",
+    "name": "Washington State and Oregon State v. Pac-12 (board control after the 2023 collapse)",
+    "status": "Resolved for WSU and OSU (2023-24), followed by settlements with the departing 10 members and the rebuild of the Pac-12 (live 2026-07-01).",
+    "timeline": [
+      { "date": "2023-08-04", "event": "Oregon and Washington leave for the Big Ten, and Arizona, ASU and Utah for the Big 12, after an Apple-led media offer." },
+      { "date": "2023-09-08", "event": "WSU and OSU sue in Whitman County Superior Court." },
+      { "date": "2023-11-14", "event": "Judge Gary Libey grants a preliminary injunction: departing members lose board votes." },
+      { "date": "2023-12-15", "event": "Washington Supreme Court declines review." },
+      { "date": "2023-12", "event": "Settlement with the departing members over withheld revenue and liabilities." }
+    ],
+    "summary": "Precedent: in some bylaws, notice of withdrawal ends a member's governance rights. The schools left behind can keep the conference's charter and assets.",
+    "stakeholders": ["WSU (Kirk Schulz)", "OSU (Jayathi Murthy)", "Pac-12", "departing 10 members", "Washington courts"],
+    "gameImpact": { "mechanic": "Bylaw toggle: a 'notice strips vote' clause. If present, departing members cannot block remaining members from using league assets.", "probabilities": {}, "effects": {} },
+    "confidence": "low",
+    "note": "Exact ruling dates from memory.",
+    "sources": ["https://en.wikipedia.org/wiki/Pac-12_Conference"]
+  },
+  {
+    "id": "pac-12-v-mountain-west",
+    "type": "lawsuit",
+    "name": "Pac-12 v. Mountain West (poaching penalties and exit fees)",
+    "status": "Litigation and negotiation from 2024 over the 2024-25 scheduling agreement's 'poaching penalty' (about $10M+ per school) and departing members' exit fees. Exact resolution not verified.",
+    "timeline": [
+      { "date": "2023-12", "event": "Pac-12 and MWC scheduling agreement for 2024 includes penalties if the Pac-12 recruits MWC schools." },
+      { "date": "2024-09-12", "event": "Pac-12 invites Boise State, Colorado State, Fresno State and SDSU. Utah State follows on 2024-09-24." },
+      { "date": "2024-09", "event": "Pac-12, OSU and WSU sue the MWC (N.D. Cal.), calling the poaching penalty an unlawful restraint. Countersuits follow." },
+      { "date": "2026-07-01", "event": "Departures take effect." }
+    ],
+    "summary": "A conference-against-conference legal war over contract penalties. A model for the 'poaching clause' governance choice.",
+    "stakeholders": ["Teresa Gould", "Gloria Nevarez", "departing MWC schools"],
+    "gameImpact": { "mechanic": "When you poach from a conference that has an anti-poaching clause, roll a lawsuit with damages and settlement.", "probabilities": { "suedIfPoachingClause": 0.8, "settlementShareOfPenalty": 0.5 }, "effects": {} },
+    "confidence": "low",
+    "sources": ["https://en.wikipedia.org/wiki/Mountain_West_Conference", "https://en.wikipedia.org/wiki/Pac-12_Conference"]
+  },
+  {
+    "id": "big-ten-private-capital-scrutiny",
+    "type": "regulatory",
+    "name": "Congressional scrutiny of private equity in college sports (Big Ten Enterprises)",
+    "status": "Big Ten deal paused since November 2025. Cantwell (October 2025) and Rep. Haley Stevens (2025-11-25) warned about tax-exempt status and mission drift. Other leagues and schools (Big 12, Utah) explored private capital.",
+    "timeline": [
+      { "date": "2025-07", "event": "Big Ten opens talks with UC Investments ($2.4B for 10%)." },
+      { "date": "2025-10", "event": "Sen. Cantwell's letter to Big Ten presidents." },
+      { "date": "2025-11-17", "event": "Deal paused. Michigan and USC opposed." },
+      { "date": "2025-11-25", "event": "Rep. Stevens's letter to Petitti." }
+    ],
+    "summary": "Selling a share of a conference's media rights invites regulatory and tax scrutiny and political backlash at public universities. Proposals with a unanimity requirement give any single member a veto.",
+    "stakeholders": ["Sen. Maria Cantwell", "Rep. Haley Stevens", "UC Investments", "Big Ten", "Michigan regents", "USC trustees"],
+    "gameImpact": { "mechanic": "Private-capital deals trigger a political-scrutiny roll (hearing, letters, IRS risk). The commissioner can structure the deal (minority stake, no control) to lower the risk.", "probabilities": { "scrutinyEventIfDealAnnounced": 0.6, "dealCollapseIfOneHoldout": 0.7 }, "effects": {} },
+    "sources": ["https://www.commerce.senate.gov/index.php/2025/10/sen-cantwell-warns-big-ten-presidents-of-dangers-in-selling-university-assets-to-private-equity-firms", "https://stevens.house.gov/sites/evo-subsites/stevens.house.gov/files/evo-media-document/letter-in-opposition-to-big-10-private-equity-deal-11-24-2025.pdf", "https://www.espn.com/college-sports/story/_/id/47003108/opposition-michigan-usc-pauses-24b-big-ten-deal"]
+  },
+  {
+    "id": "obbba-endowment-tax",
+    "type": "legislation",
+    "name": "One Big Beautiful Bill Act endowment tax (2025)",
+    "status": "Enacted 2025-07-04. Tiered excise tax on net investment income of wealthy private universities (up to 8% for the highest endowment per student). Starts in tax years after 2025.",
+    "timeline": [{ "date": "2025-07-04", "event": "Signed into law." }],
+    "summary": "Pressures budgets at rich private members (e.g., Stanford, Notre Dame, Northwestern, Vanderbilt, Duke). Combined with federal research-grant cuts, presidents of private schools have less room to subsidize athletics.",
+    "stakeholders": ["private universities", "Congress", "IRS"],
+    "gameImpact": { "mechanic": "Lowers private members' athletics-subsidy capacity and makes their presidents more cost-hawkish in votes.", "probabilities": {}, "effects": { "privateMemberSubsidyCapacityMultiplier": 0.9 } },
+    "confidence": "low",
+    "note": "Tier thresholds from memory.",
+    "sources": ["https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"]
+  },
+  {
+    "id": "federal-pressure-on-universities",
+    "type": "executive-action",
+    "name": "Federal pressure on university leadership and funding (2025-26)",
+    "status": "Ongoing. Research-grant freezes and settlements at elite universities. UVA President Jim Ryan resigned in June 2025 under DOJ pressure. University presidents face higher turnover and political risk.",
+    "timeline": [
+      { "date": "2025-03", "event": "Federal funding freezes at several universities (e.g., Columbia, Harvard, Penn, Northwestern, Cornell, Brown)." },
+      { "date": "2025-06-27", "event": "UVA President Jim Ryan resigns amid a DOJ investigation into DEI." },
+      { "date": "2026-04-03", "event": "EO 14400 adds NCAA-compliance considerations to federal funding decisions." }
+    ],
+    "summary": "Presidents (who make up conference boards) are more exposed politically than ever. Board seats turn over faster, and presidents may defer to governors or legislators.",
+    "stakeholders": ["White House", "DOJ", "Department of Education", "university presidents", "boards of trustees"],
+    "gameImpact": { "mechanic": "Presidential-turnover modifier. Higher annual chance that a member's president changes, which resets that member's relationship with the commissioner.", "probabilities": { "annualPresidentTurnoverPerMember": 0.15 }, "effects": {} },
+    "confidence": "low",
+    "note": "Turnover rate is a design estimate. The 'revolving door' at Big Ten schools is reported by Times Higher Education.",
+    "sources": ["https://www.timeshighereducation.com/revolving-door-presidents-big-ten-institutions", "https://en.wikipedia.org/wiki/Executive_Order_14400"]
+  },
+  {
+    "id": "state-legislature-texas-1994",
+    "type": "legislation",
+    "name": "Texas Legislature forces Baylor and Texas Tech into the Big 12 (1994)",
+    "status": "Historical precedent.",
+    "timeline": [
+      { "date": "1994-02-25", "event": "The Big Eight and four Southwest Conference schools announce a merger. Texas politicians (Gov. Ann Richards, a Baylor graduate; Lt. Gov. Bob Bullock; legislators tied to Texas Tech) push for Baylor and Texas Tech to be included with Texas and Texas A&M." },
+      { "date": "1996", "event": "Big 12 begins. Rice, SMU, TCU and Houston are left out." }
+    ],
+    "summary": "The classic case of a state legislature dictating realignment through public-university appropriations and political pressure.",
+    "stakeholders": ["Gov. Ann Richards", "Lt. Gov. Bob Bullock", "Texas Legislature", "Texas", "Texas A&M", "Baylor", "Texas Tech"],
+    "gameImpact": { "mechanic": "When a high-statePoliticalPressure school's departure or admission is on the table, the legislature may demand a package deal (add an in-state partner).", "probabilities": { "packageDemandIfTexasSchoolMoves": 0.5 }, "effects": {} },
+    "sources": ["https://en.wikipedia.org/wiki/Southwest_Conference", "https://en.wikipedia.org/wiki/Big_12_Conference"]
+  },
+  {
+    "id": "state-legislature-virginia-2003",
+    "type": "legislation",
+    "name": "Virginia politics pushes Virginia Tech into the ACC (2003)",
+    "status": "Historical precedent.",
+    "timeline": [
+      { "date": "2003-06", "event": "The ACC moves to add Miami, Syracuse and Boston College. Virginia Tech is suing the ACC alongside Big East schools. Gov. Mark Warner and legislators pressure UVA President John Casteen to back VT." },
+      { "date": "2003-06-30", "event": "ACC invites Miami and Virginia Tech (BC follows in October 2003). Syracuse is dropped." }
+    ],
+    "summary": "A governor making a flagship's realignment vote conditional on bringing along the in-state rival.",
+    "stakeholders": ["Gov. Mark Warner", "UVA", "Virginia Tech", "ACC", "Big East"],
+    "gameImpact": { "mechanic": "Same package-demand mechanic as Texas 1994, used in member votes: an in-state member's president votes as the governor directs.", "probabilities": { "governorDirectsVote": 0.4 }, "effects": {} },
+    "sources": ["https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"]
+  },
+  {
+    "id": "state-politics-realignment-2010-2024",
+    "type": "legislation",
+    "name": "State political intervention in realignment, 2010-2024 (Texas, Oklahoma, Washington/Oregon, Florida, North Carolina, Connecticut)",
+    "status": "Historical precedents. They established a recurring pattern.",
+    "timeline": [
+      { "date": "2010-06", "event": "Big 12 nearly collapses. Texas lawmakers and Baylor allies lobby to keep Baylor from being stranded if Texas goes to the Pac-10." },
+      { "date": "2011", "event": "Texas A&M leaves for the SEC. Baylor (President Ken Starr) threatens to sue. Connecticut Gov. Dan Malloy lobbies for UConn in the ACC, unsuccessfully." },
+      { "date": "2021-07-21", "event": "Houston Chronicle reveals Texas and OU's SEC talks. Texas legislators hold hearings (House Higher Education Committee, August 2021). Oklahoma State and Oklahoma politicians attack OU." },
+      { "date": "2023-08", "event": "Pac-12 collapse. Washington and Oregon lawmakers condemn UW and UO for leaving WSU and OSU behind. Oregon legislators later float revenue-sharing demands on UO." },
+      { "date": "2023-2024", "event": "Florida officials back FSU's fight (AG Ashley Moody's records action against the ACC). North Carolina legislators float rules requiring UNC and NC State to stay together or get state approval." }
+    ],
+    "summary": "Public flagships' conference moves are political events. Lawmakers protect in-state 'little brothers' and threaten budget riders.",
+    "stakeholders": ["Texas Legislature", "Oklahoma officials", "Washington and Oregon legislators", "Florida AG", "North Carolina General Assembly", "Connecticut governor"],
+    "gameImpact": { "mechanic": "Political backlash roll whenever a public school with statePoliticalPressure above 60 moves. Possible outcomes: hearings (reputation cost), a budget-rider threat, a demand to include an in-state school, or a lawsuit by the state AG.", "probabilities": { "hearings": 0.5, "budgetRiderThreat": 0.25, "packageDemand": 0.3, "agLawsuit": 0.15 }, "effects": {} },
+    "confidence": "low",
+    "note": "The NC and Oregon legislative proposals are from memory and not re-verified.",
+    "sources": ["https://en.wikipedia.org/wiki/2010%E2%80%932014_NCAA_conference_realignment", "https://en.wikipedia.org/wiki/2021%E2%80%932024_NCAA_conference_realignment", "https://en.wikipedia.org/wiki/Pac-12_Conference"]
+  },
+  {
+    "id": "state-ag-defends-member-vs-conference-2026",
+    "type": "lawsuit",
+    "name": "Louisiana attorney general defends LSU against the SEC (2026)",
+    "status": "Active. AG Liz Murrill personally fights the SEC in federal court and refused the judge's apology order.",
+    "timeline": [
+      { "date": "2026-09", "event": "Louisiana courts enjoin the SEC from sanctioning LSU." },
+      { "date": "2026-11-18", "event": "Murrill declines to apologize after the judge's order." }
+    ],
+    "summary": "State government as a member's legal shield against its own conference: sovereign immunity, state-court injunctions, and political cover.",
+    "stakeholders": ["Louisiana AG Liz Murrill", "LSU", "SEC"],
+    "gameImpact": { "mechanic": "When disciplining a public member in a high-pressure state, roll for the state AG to step in. That raises legal costs and lowers the odds the punishment sticks.", "probabilities": { "agIntervenesHighPressureState": 0.45 }, "effects": { "disciplineSuccessMultiplier": 0.6 } },
+    "sources": ["https://www.wdsu.com/article/lsu-sec-eligibility-lawsuit-apology/74469489", "https://sports.yahoo.com/mens-college-basketball/article/judge-rips-lsu-attorneys-amid-sec-eligibility-lawsuit-you-put-the-pig-out-there-205459557.html"]
+  }
+]

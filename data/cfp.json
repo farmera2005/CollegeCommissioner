@@ -1,0 +1,410 @@
+{
+  "asOf": "2026-11-25",
+  "formats": [
+    {
+      "id": "cfp-2024-25",
+      "season": "2024-25",
+      "seasonStartYear": 2024,
+      "teams": 12,
+      "model": "5+7",
+      "autoBids": {
+        "count": 5,
+        "rule": "five-highest-ranked-conference-champions",
+        "p4ChampionsGuaranteed": false,
+        "g6Guaranteed": false,
+        "notes": "The 5 highest-ranked conference champions got bids. In practice this always included at least one G5 champion. The original 6+6 model (approved 2022-09-02) changed to 5+7 in 2024 after the Pac-12 collapsed."
+      },
+      "atLargeBids": 7,
+      "notreDameRule": "No special access. Notre Dame earned an at-large bid.",
+      "seeding": "Top 4 seeds and first-round byes went to the four highest-ranked conference champions (Oregon, Georgia, Boise State, Arizona State).",
+      "byes": 4,
+      "firstRound": { "site": "campus", "hosts": "seeds 5-8", "games": 4, "dates": "2024-12-20/2024-12-21" },
+      "quarterfinalBowls": ["fiesta", "peach", "rose", "sugar"],
+      "semifinalBowls": ["orange", "cotton"],
+      "championship": { "date": "2025-01-20", "venue": "Mercedes-Benz Stadium", "city": "Atlanta", "state": "GA" },
+      "champion": "ohio-state",
+      "runnerUp": "notre-dame",
+      "notes": "First 12-team CFP. Ohio State beat Notre Dame 34-23. The Sugar Bowl quarterfinal moved to Jan 2 after the New Orleans attack. Bowl tie-ins (Rose: Big Ten, Sugar: SEC, etc.) still decided which bowls the top-4 champions went to.",
+      "sources": [
+        "https://collegefootballplayoff.com/sports/2024/5/29/12-team-format",
+        "https://en.wikipedia.org/wiki/College_Football_Playoff",
+        "https://www.ncaa.com/news/football/article/2024-11-27/how-college-football-playoff-works"
+      ]
+    },
+    {
+      "id": "cfp-2025-26",
+      "season": "2025-26",
+      "seasonStartYear": 2025,
+      "teams": 12,
+      "model": "5+7, straight seeding",
+      "autoBids": {
+        "count": 5,
+        "rule": "five-highest-ranked-conference-champions",
+        "p4ChampionsGuaranteed": false,
+        "g6Guaranteed": false,
+        "notes": "Same access rule as 2024-25. On 2025-05-22 the Management Committee switched to straight seeding, so the top 4 ranked teams get byes whether or not they won their conference."
+      },
+      "atLargeBids": 7,
+      "notreDameRule": "No special access.",
+      "seeding": "Straight seeding by committee ranking. Top 4 teams get byes.",
+      "byes": 4,
+      "firstRound": { "site": "campus", "hosts": "seeds 5-8", "games": 4, "dates": "2025-12-19/2025-12-20" },
+      "quarterfinalBowls": ["cotton", "orange", "rose", "sugar"],
+      "semifinalBowls": ["fiesta", "peach"],
+      "championship": { "date": "2026-01-19", "venue": "Hard Rock Stadium", "city": "Miami Gardens", "state": "FL" },
+      "champion": "indiana",
+      "runnerUp": "miami-fl",
+      "confidence": "low",
+      "note": "Champion and runner-up are from researcher knowledge and were not re-verified this session. Search snippets confirm Miami beat Ole Miss in a semifinal and that no SEC team reached the title game.",
+      "notes": "The SEC earned close to $40M in CFP money despite having no team in the final. Miami kept all of its CFP money, $14M+ (the ACC passes 100% through to schools).",
+      "sources": [
+        "https://collegefootballplayoff.com/news/2025/5/22/2526-seeding-rev.aspx",
+        "https://www.cbssports.com/college-football/news/college-football-playoff-rankings-seeding-model-changes-2025-bracket",
+        "https://www.ajc.com/sports/2026/01/even-with-no-teams-in-cfp-title-game-sec-playoff-earnings-near-40-million/",
+        "https://frontofficesports.com/article/miamis-cfp-run-nets-14m-so-far-and-canes-keep-it-all/",
+        "https://bleacherreport.com/articles/25354470-how-much-money-will-miami-earn-cfp-championship-run-after-win-vs-ole-miss"
+      ]
+    },
+    {
+      "id": "cfp-2026-27",
+      "season": "2026-27",
+      "seasonStartYear": 2026,
+      "teams": 12,
+      "model": "5+7 (P4 champions + top G6 team), straight seeding",
+      "autoBids": {
+        "count": 5,
+        "rule": "p4-champions-plus-top-g6",
+        "p4ChampionsGuaranteed": true,
+        "g6Guaranteed": true,
+        "notes": "This is the default from the 2024 MOU, which applied because the SEC and Big Ten did not agree on expansion by the 2026-01-23 deadline. The ACC, Big 12, Big Ten and SEC champions get automatic bids regardless of ranking. One more bid goes to the highest-ranked team from the Group of Six (American, CUSA, MAC, Mountain West, Pac-12, Sun Belt). NCAA.com and OutKick report that this team does not have to be a conference champion. Some outlets describe it as the top-ranked G6 champion."
+      },
+      "atLargeBids": 7,
+      "notreDameRule": "Notre Dame is guaranteed a bid, but not a seed, if it finishes in the committee's top 12 (2026 MOU term). It still takes an at-large slot.",
+      "seeding": "Straight seeding. The top 4 ranked teams get byes. Seeds 1, 2 and 3 pick their quarterfinal bowl in that order, and the No. 1 seed also picks its semifinal path. Seed 4 gets the remaining bowl. All conference tie-ins to the Rose, Sugar and Orange bowls are gone.",
+      "byes": 4,
+      "selectionDay": "2026-12-06",
+      "firstRound": { "site": "campus", "hosts": "seeds 5-8", "games": 4, "dates": "2026-12-18/2026-12-19" },
+      "quarterfinalBowls": ["fiesta", "cotton", "peach", "rose"],
+      "quarterfinalDates": { "fiesta": "2026-12-30", "cotton": "2027-01-01", "peach": "2027-01-01", "rose": "2027-01-01" },
+      "semifinalBowls": ["orange", "sugar"],
+      "semifinalDates": { "orange": "2027-01-14", "sugar": "2027-01-15" },
+      "championship": { "date": "2027-01-25", "venue": "Allegiant Stadium", "city": "Las Vegas", "state": "NV" },
+      "broadcast": "ESPN family, plus 5 games sublicensed to TNT Sports: the two first-round games on 2026-12-19 (3:30 and 7:30 pm ET on TNT, truTV and HBO Max) and more. Sources conflict on whether TNT has the Orange Bowl semifinal; the official schedule lists the Sugar semifinal on ABC/ESPN.",
+      "champion": null,
+      "notes": "Season in progress on 2026-11-25. This is the last 12-team season and the last season with Power 4 conference championship games.",
+      "sources": [
+        "https://www.cbssports.com/college-football/news/college-football-playoff-expansion-tabled-big-ten-sec-stalemate-12-team-format/",
+        "https://www.espn.com/college-football/story/_/id/47704876/sources-college-football-playoff-remain-12-teams",
+        "https://www.news4jax.com/sports/2026/01/23/college-football-playoff-to-remain-at-12-teams-after-sec-and-big-ten-fail-to-agree-on-expansion/",
+        "https://www.ncaa.com/news/football/article/2026-02-03/how-12-team-college-football-playoff-will-work-teams-schedule-bids",
+        "https://www.cbssports.com/college-football/news/college-football-playoff-selection-notre-dame-mou-2026-schedule",
+        "https://www.outkick.com/sports/cfp-group-of-six-college-football-playoff-mou-confusion-sec-big-ten",
+        "https://collegefootballplayoff.com/news/2026/2/3/2627-2728-bowls",
+        "https://www.ncaa.com/news/football/article/2026-08-11/how-college-football-playoff-works-schedule-selections-rankings-byes-and-more",
+        "https://espnpressroom.com/us/press-releases/2026/06/2026-27-cfp-broadcast-schedule-revealed/",
+        "https://www.sportsvideo.org/2026/06/03/cfp-espn-and-tnt-sports-announce-2026-27-college-football-playoff-broadcast-schedule/"
+      ]
+    },
+    {
+      "id": "cfp-2027-28",
+      "season": "2027-28",
+      "seasonStartYear": 2027,
+      "teams": 24,
+      "model": "5+19 (P4 champions + top G6 team + 19 at-large)",
+      "decided": "2026-11-09",
+      "decidedBy": "CFP Management Committee (10 FBS commissioners + Notre Dame AD), unanimous, with the presidents' Board of Managers' sign-off. This came well ahead of the 2026-12-01 deadline for a 2027 format.",
+      "autoBids": {
+        "count": 5,
+        "rule": "p4-champions-plus-top-g6",
+        "p4ChampionsGuaranteed": true,
+        "g6Guaranteed": true,
+        "notes": "ACC, Big 12, Big Ten and SEC champions, plus the highest-ranked G6 team. There is still only one guaranteed G6 slot. With no Power 4 title games, each P4 conference names its champion from regular-season standings and tiebreakers."
+      },
+      "atLargeBids": 19,
+      "notreDameRule": "Competes for at-large bids. Reporting on the 24-team deal did not mention a separate Notre Dame guarantee beyond the at-large pool.",
+      "seeding": "Committee ranks the field. Seeds 1-8 get first-round byes and host second-round games on campus. Seeds 9-16 host seeds 17-24 in the first round on campus.",
+      "byes": 8,
+      "firstRound": { "site": "campus", "hosts": "seeds 9-16", "games": 8, "dates": "first full week of December 2027 (exact dates TBA)" },
+      "secondRound": { "site": "campus", "hosts": "seeds 1-8", "games": 8 },
+      "campusGamesTotal": 16,
+      "newGamesVs12Team": 12,
+      "quarterfinalBowls": ["sugar", "fiesta", "peach", "rose"],
+      "quarterfinalDates": { "sugar": "2027-12-31", "fiesta": "2028-01-01", "peach": "2028-01-01", "rose": "2028-01-01" },
+      "semifinalBowls": ["orange", "cotton"],
+      "semifinalDates": { "orange": "2028-01-13", "cotton": "2028-01-14" },
+      "championship": { "date": "2028-01-24", "venue": "Caesars Superdome", "city": "New Orleans", "state": "LA" },
+      "conferenceChampionshipGames": "The Power 4 (SEC, Big Ten, ACC, Big 12) title games are eliminated from 2027. Rights holders get rebates: about $140M a year from the SEC, ACC and Big 12 to ESPN, and a reported ~$50M a year from the Big Ten to Fox. G6 title games are undecided (each league chooses).",
+      "regularSeasonCalendar": "Two open weeks are built into the regular season. Army-Navy moves to the first weekend of December, the old championship weekend (per Yahoo).",
+      "runsThrough": "2031-32",
+      "notes": "This matches the brief's 24-team claim (19 at-large + P4 champions + top G6) and its 5-year ~$1.7B ESPN deal, which comes on top of the existing $7.8B contract. The bracket also adds Power 4 teams to lower bowls: reporting describes teams that miss the CFP filling the remaining bowls (e.g., Music City, Texas).",
+      "sources": [
+        "https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion",
+        "https://collegefootballplayoff.com/sports/2026/11/9/24-team-format",
+        "https://www.nbcnews.com/sports/college-football/college-football-playoff-expanding-24-teams-2027-rcna608336",
+        "https://www.cbssports.com/college-football/news/college-football-playoff-format-expanding-to-24-teams-for-2027-season/",
+        "https://www.espn.com/college-football/story/_/id/50433738/cfp-playoff-24-team-format-faq",
+        "https://www.ncaa.com/news/football/article/2026-11-10/college-football-playoff-expand-24-teams-2027-28-season",
+        "https://www.ncaa.com/news/football/article/2026-11-11/everything-know-about-24-team-college-football-playoff-bracket",
+        "https://www.pressdemocrat.com/2026/11/09/cfp-expansion-format-24-teams-calendar/",
+        "https://sports.yahoo.com/articles/cfp-expanding-24-teams-big-195954646.html",
+        "https://sports.yahoo.com/college-football/article/inside-college-football-playoffs-24-team-expansion-what-to-know-about-the-new-format-schedule-and-fallout-135930768.html",
+        "https://fbschedules.com/college-football-playoff-sets-scheduling-standards-for-24-team-era/"
+      ]
+    },
+    {
+      "id": "cfp-2028-32",
+      "season": "2028-29 through 2031-32",
+      "seasonStartYear": 2028,
+      "teams": 24,
+      "model": "5+19",
+      "autoBids": { "count": 5, "rule": "p4-champions-plus-top-g6", "p4ChampionsGuaranteed": true, "g6Guaranteed": true },
+      "atLargeBids": 19,
+      "byes": 8,
+      "championshipSites": [
+        { "season": "2028-29", "date": "2029-01-22", "venue": "Raymond James Stadium", "city": "Tampa", "state": "FL" },
+        { "season": "2029-30", "date": null, "venue": "Hard Rock Stadium", "city": "Miami Gardens", "state": "FL", "confidence": "low", "note": "Reported, not officially confirmed in the sources found." },
+        { "season": "2030-31", "date": null, "venue": null, "city": null, "state": null },
+        { "season": "2031-32", "date": null, "venue": null, "city": null, "state": null }
+      ],
+      "notes": "The format is locked through the 2031-32 season, when both the base ESPN deal and the expansion deal end. The Rose Bowl will not host a semifinal in 2028-31; it keeps its Jan 1 slot.",
+      "sources": [
+        "https://collegefootballplayoff.com/news/2026/7/9/2028-31-bowls",
+        "https://fbschedules.com/college-football-playoff-sets-quarterfinal-semifinal-dates-sites-for-2028-through-2031/",
+        "https://www.cbssports.com/college-football/news/college-football-playoff-tampa-bay-set-host-cfp-national-championship-in-2029",
+        "https://collegefootballplayoff.com/news/2025/10/29/tampabay-29.aspx"
+      ]
+    }
+  ],
+  "expansionDebate": [
+    { "date": "2022-09-02", "event": "Board of Managers approves a 12-team 6+6 format, originally for 2026.", "sources": ["https://en.wikipedia.org/wiki/College_Football_Playoff"] },
+    { "date": "2022-12-01", "event": "12-team start moved up to the 2024 season.", "sources": ["https://en.wikipedia.org/wiki/College_Football_Playoff"] },
+    { "date": "2024-03-15", "event": "FBS conferences and Notre Dame agree to a 6-year CFP deal for 2026-31 with a revenue split weighted toward the SEC and Big Ten. ESPN agrees to a $7.8B, 6-year extension. A memorandum of understanding gives the SEC and Big Ten control of the format from 2026.", "sources": ["https://sports.yahoo.com/conferences-notre-dame-agree-6-200552103.html", "https://www.sportsbusinessdaily.com/Daily/Closing-Bell/2024/03/15.aspx"] },
+    { "date": "2024-04", "event": "Format changes from 6+6 to 5+7 after the Pac-12's collapse.", "confidence": "low", "note": "Month from researcher knowledge.", "sources": ["https://en.wikipedia.org/wiki/College_Football_Playoff"] },
+    { "date": "2025-05-22", "event": "Straight seeding adopted for 2025-26.", "sources": ["https://collegefootballplayoff.com/news/2025/5/22/2526-seeding-rev.aspx"] },
+    { "date": "2025-05", "event": "16-team models are debated. The 4-4-2-2-1(+3 at-large) model, backed by the Big Ten and initially the SEC, gives the Big Ten and SEC 4 automatic bids each, the ACC and Big 12 2 each, and the G6 1. The 5+11 model is backed by the ACC and Big 12. SEC coaches push back on the 4-4 model.", "sources": ["https://sports.yahoo.com/college-football/breaking-news/article/future-cfp-formats-heres-where-things-stand-after-sec-coaches-pushed-back-on-model-guaranteeing-league-4-playoff-spots-234145858.html", "https://www.dallasnews.com/sports/college-sports/2025/06/04/college-football-playoff-16-team-format-debate-5-11-model-big-12-sec-committee/"] },
+    { "date": "2025-fall", "event": "The SEC moves to 5+11. The Big Ten pivots to a 24-team field with multiple automatic bids per conference. Big Ten ADs say they would accept 5+11 only if the SEC plays 9 conference games. The Big Ten floats a 16-team stopgap tied to a commitment to go to 24 later.", "sources": ["https://www.on3.com/news/big-ten-ads-discussed-5-plus-11-cfp-model-would-support-sec-adds-9th-conference-game-college-football-playoff-16-teams/", "https://www.cbssports.com/college-football/news/still-undecided-sec-holds-the-key-to-college-football-playoff-as-5-11-format-gains-steam", "https://new.cbssports.com/college-football/news/college-football-playoff-expansion-big-ten-16-team-field-sec/"] },
+    { "date": "2026-01-23", "event": "Deadline passes with the Big Ten and SEC deadlocked. The 2026 default applies: 12 teams, P4 champions + top G6, straight seeding, and a Notre Dame top-12 guarantee. The next deadline (for 2027) is set for 2026-12-01.", "sources": ["https://www.cbssports.com/college-football/news/college-football-playoff-expansion-tabled-big-ten-sec-stalemate-12-team-format/", "https://www.on3.com/news/college-football-playoff-expansion-stalemate-remains-as-deadline-looms/", "https://www.news4jax.com/sports/2026/01/23/college-football-playoff-to-remain-at-12-teams-after-sec-and-big-ten-fail-to-agree-on-expansion/"] },
+    { "date": "2026-10", "event": "CFP reaches a 'handshake agreement' with ESPN to air a 24-team playoff.", "sources": ["https://www.espn.com/mlb/story/_/id/50198507/espn-lands-handshake-agreement-air-24-team-cfp"] },
+    { "date": "2026-11-09", "event": "Unanimous approval of 24 teams from 2027-28 through 2031-32. ESPN signs a 5-year ~$1.7B deal for the new games. Power 4 title games are eliminated.", "sources": ["https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion", "https://www.espn.com/college-football/story/_/id/50433381/cfp-espn-ink-5-year-17b-deal-expand-field-sources-say"] }
+  ],
+  "revenueDistribution": {
+    "period": "2026-27 through 2031-32",
+    "basis": "Net CFP revenue after participation and expense payments, split by fixed conference percentages. ESPN reports the 24-team deal keeps this distribution unchanged.",
+    "shares": [
+      { "conference": "sec", "sharePct": 29.0, "estPerSchoolUsd": 22000000 },
+      { "conference": "big-ten", "sharePct": 29.0, "estPerSchoolUsd": 21000000 },
+      { "conference": "acc", "sharePct": 17.25, "estPerSchoolUsd": 12000000 },
+      { "conference": "big-12", "sharePct": 14.75, "estPerSchoolUsd": 12000000 },
+      { "conference": "g6", "members": ["american", "cusa", "mac", "mountain-west", "pac-12", "sun-belt"], "sharePct": 9.0, "estPerSchoolUsd": null, "notes": "Shared by the six G6 leagues. The split among them is not necessarily equal. One outlet cites a 10% G6 share for 2026-27, and another says the G6 got ~25% of base revenue under the old contract. Treat these as unreconciled." },
+      { "conference": "notre-dame", "sharePct": null, "fixedUsd": 12500000, "notes": "About $12.5M a year, double its old amount, plus a performance bonus. Some reports round to $12M (~1%)." }
+    ],
+    "previousModel2014to2026": "Equal base shares for each Power 5 conference, a smaller pooled share for the Group of Five, fixed payments for Notre Dame and independents, plus academic-performance and participation payments. Under the 2024-26 12-team contract the Pac-12 kept full P5 status through 2025-26.",
+    "notes": "Brief's 29/29/17/15/9 + ND ~$12M is confirmed, more precisely ACC 17.25% and Big 12 14.75%. Per-school estimates come from CBS/Yahoo March 2024 reporting: roughly $21-22M per Big Ten/SEC school and ~$12M per ACC/Big 12 school per year.",
+    "sources": [
+      "https://www.cbssports.com/college-basketball/news/college-football-playoff-finalizes-tv-deal-beginning-in-2026-as-fbs-leaders-settle-on-revenue-distribution",
+      "https://sports.yahoo.com/conferences-notre-dame-agree-6-200552103.html",
+      "https://sports.yahoo.com/sources-college-football-playoff-agrees-to-new-contract-with-espn-161830007.html",
+      "https://businessofcollegesports.com/finance/what-college-football-playoff-expansion-means-for-revenue-distribution/",
+      "https://www.foxsports.com/articles/cfb/a-24team-cfp-and-a-single-guaranteed-spot-where-the-group-of-six-fits-in-the-new-math"
+    ]
+  },
+  "participationPayments": {
+    "seasons2024to2026": {
+      "appliesTo": ["2024-25", "2025-26"],
+      "perTeamUsd": { "selectedFirstRoundOrBye": 4000000, "quarterfinal": 4000000, "semifinal": 6000000, "championship": 6000000 },
+      "maxPerTeamUsd": 20000000,
+      "travelExpenseAllowancePerTeamPerGameUsd": 3000000,
+      "notes": "Paid to the team's conference, not the school. The travel allowance figure comes from secondary reporting.",
+      "sources": [
+        "https://businessofcollegesports.com/football/2025-2026-college-football-playoff-schedule-and-payouts/",
+        "https://sports.yahoo.com/articles/college-football-playoff-payouts-explained-224048470.html",
+        "https://www.forbes.com/sites/kristidosh/2025/12/31/which-teams-are-making-the-most-in-the-college-football-playoff/"
+      ]
+    },
+    "season2026_27": {
+      "perTeamUsd": { "selectedFirstRoundOrBye": 4000000, "quarterfinal": 4000000, "semifinal": 6000000, "championship": 6000000 },
+      "confidence": "low",
+      "note": "Assumed to continue the 2024-26 ladder. A 2026-27 schedule was not found.",
+      "sources": ["https://businessofcollegesports.com/football/2025-2026-college-football-playoff-schedule-and-payouts/"]
+    },
+    "seasons2027plus": {
+      "perTeamUsd": null,
+      "note": "Not published. With 23 games and 16 on campus, the per-round amounts are expected to be reworked. Campus hosts keep their home gate.",
+      "sources": ["https://businessofcollegesports.com/finance/what-college-football-playoff-expansion-means-for-revenue-distribution/"]
+    },
+    "conferencePassThrough": [
+      { "conference": "acc", "policy": "Schools keep 100% of CFP participation payments. This is the only P4 league that does so.", "sources": ["https://frontofficesports.com/article/acc-only-power-conference-giving-cfp-teams-100-of-payout/"] },
+      { "conference": "sec", "policy": "School keeps $3.0M (first round), $3.5M (quarterfinal), $3.75M (semifinal), $4.0M (title game) plus a travel allowance. The rest is pooled and shared equally.", "sources": ["https://www.forbes.com/sites/kristidosh/2025/12/31/which-teams-are-making-the-most-in-the-college-football-playoff/"] },
+      { "conference": "big-12", "policy": "School keeps at least $1.9M plus travel for each of the first two rounds and $2.2M plus travel for the semifinal and title game. The rest is pooled.", "sources": ["https://www.forbes.com/sites/kristidosh/2025/12/31/which-teams-are-making-the-most-in-the-college-football-playoff/"] },
+      { "conference": "big-ten", "policy": "Mostly pooled. Ohio State ($91.6M) and Penn State ($88.9M) topped FY2025 distributions after their CFP runs, so participants do keep a meaningful premium. A fan-forum report claims the participant share rose from ~$5.5M to ~$21M.", "confidence": "low", "sources": ["https://sports.yahoo.com/articles/ohio-state-every-big-ten-230658862.html"] }
+    ]
+  },
+  "espnContract": {
+    "base": {
+      "network": "espn",
+      "announced": "2024-03-19",
+      "seasons": "2026-27 through 2031-32",
+      "years": 6,
+      "totalUsd": 7800000000,
+      "avgAnnualUsd": 1300000000,
+      "sublicense": "ESPN sublicenses some games to TNT Sports (tnt). TNT has aired first-round and quarterfinal games since 2024-25, and its package was extended to include a semifinal from 2026-27. TNT has 5 games in 2026-27.",
+      "notes": "Confirmed: 6 years, $7.8B, through 2031-32.",
+      "sources": [
+        "https://www.sportsbusinessdaily.com/Daily/Closing-Bell/2024/03/15.aspx",
+        "https://sports.yahoo.com/sources-college-football-playoff-agrees-to-new-contract-with-espn-161830007.html",
+        "https://www.espn.com/college-football/story/_/id/40198650/tnt-sports-air-select-cfp-games-sublicense-espn",
+        "https://www.on3.com/nil/news/espn-extend-college-football-playoff-sublicense-deal-tnt-sports-include-semifinal-games-cfp"
+      ]
+    },
+    "expansion": {
+      "network": "espn",
+      "announced": "2026-11-09",
+      "seasons": "2027-28 through 2031-32",
+      "years": 5,
+      "totalUsd": 1700000000,
+      "avgAnnualUsd": 345000000,
+      "inventory": "12 new games per year: 8 first-round games and 4 added second-round games. All are on campus.",
+      "broadcastCommitments": "At least 3 games from each of the new first and second rounds on ABC. ESPN may sublicense up to half of the new inventory (up to 4 first-round and 2 second-round games).",
+      "netOfRebates": "ESPN gets back about $140M a year from the SEC, ACC and Big 12 for their canceled title games, so its net new spend is about $205M a year. Fox reportedly gets about $50M a year back from the Big Ten for its title game. Yahoo calls the net gain to conferences 'minimal on a per-school basis', roughly $125M a year shared, much of it replacing lost championship-game gate and sponsorship.",
+      "altFigures": "On3 reported more than $320M a year extra, and others reported ~$340M a year.",
+      "confidence": "low",
+      "note": "The headline $1.7B is well sourced. The rebate figures come from single outlets.",
+      "sources": [
+        "https://www.espn.com/college-football/story/_/id/50433381/cfp-espn-ink-5-year-17b-deal-expand-field-sources-say",
+        "https://sports.yahoo.com/college-football/breaking-news/article/college-football-playoff-espn-agree-to-5-year-17-billion-deal-expanding-field-to-24-teams-starting-in-2027-164137662.html",
+        "https://sports.yahoo.com/articles/espn-cfp-agree-24-team-171705328.html",
+        "https://sports.yahoo.com/articles/media-revenue-gains-cfp-expansion-173042311.html",
+        "https://espnpressroom.com/press-release/espn-secures-exclusive-media-rights-to-new-games-in-expanded-24-team-college-football-playoff/",
+        "https://frontofficesports.com/newsletter/cfp-espn-s-1-7b-expansion-deal/"
+      ]
+    },
+    "previous": {
+      "network": "espn",
+      "seasons": "2014-15 through 2025-26",
+      "years": 12,
+      "totalUsd": 5640000000,
+      "avgAnnualUsd": 470000000,
+      "notes": "The original 4-team contract. ESPN paid more for the added 12-team games in 2024-25 and 2025-26.",
+      "confidence": "low",
+      "note": "Totals from researcher knowledge.",
+      "sources": ["https://en.wikipedia.org/wiki/College_Football_Playoff"]
+    }
+  },
+  "governance": {
+    "managementCommittee": {
+      "composition": "The 10 FBS commissioners plus Notre Dame's athletic director. It runs day-to-day operations and the format, and recommends to the Board of Managers.",
+      "members": [
+        { "conference": "sec", "person": "greg-sankey", "name": "Greg Sankey" },
+        { "conference": "big-ten", "person": "tony-petitti", "name": "Tony Petitti" },
+        { "conference": "acc", "person": "jim-phillips", "name": "Jim Phillips" },
+        { "conference": "big-12", "person": "brett-yormark", "name": "Brett Yormark" },
+        { "conference": "pac-12", "person": "teresa-gould", "name": "Teresa Gould" },
+        { "conference": "mountain-west", "person": "gloria-nevarez", "name": "Gloria Nevarez", "confidence": "low", "note": "FOS headline (Nov 2026): 'Mountain West commissioner steps down after CFP expansion'. She may be outgoing; successor not verified." },
+        { "conference": "american", "person": "tim-pernetti", "name": "Tim Pernetti" },
+        { "conference": "cusa", "person": "judy-macleod", "name": "Judy MacLeod" },
+        { "conference": "sun-belt", "person": "keith-gill", "name": "Keith Gill" },
+        { "conference": "mac", "person": "jon-steinbrecher", "name": "Jon Steinbrecher", "confidence": "low", "note": "Not re-verified for 2026." },
+        { "conference": "independent", "school": "notre-dame", "person": "pete-bevacqua", "name": "Pete Bevacqua", "title": "Notre Dame AD" }
+      ],
+      "executiveDirector": { "person": "rich-clark", "name": "Richard (Rich) Clark", "since": 2024, "confidence": "low", "note": "Replaced Bill Hancock in 2024. A Sept 2026 FOS headline says the CFP 'heads into expansion era in search of new leader', so Clark may be leaving." },
+      "sources": [
+        "https://www.cbssports.com/college-football/news/in-hiring-richard-clark-college-football-playoff-leans-on-leadership-as-sport-readies-to-enter-a-new-era",
+        "https://frontofficesports.com/cfp-heads-into-expansion-era-in-search-of-new-leader",
+        "https://frontofficesports.com/mountain-west-commissioner-steps-down-after-cfp-expansion",
+        "https://collegefootballplayoff.com/sports/2019/4/3/governance.aspx"
+      ]
+    },
+    "boardOfManagers": {
+      "composition": "One president or chancellor for each of the 10 FBS conferences plus Notre Dame's president. It is the CFP's top authority.",
+      "chair": { "name": "Mark Keenum", "school": "mississippi-state", "confidence": "low", "note": "Named chair in older CFP governance materials. 2026 chair not verified." },
+      "knownMembers2026": [
+        { "conference": "sec", "name": "Mark Keenum", "school": "mississippi-state", "confidence": "low" },
+        { "conference": "acc", "name": "Lee H. Roberts", "school": "north-carolina", "since": "2026-01", "notes": "Replaced Clemson's Jim Clements, who retired 2025-12-31." },
+        { "conference": "big-12", "name": "Lawrence Schovanec", "school": "texas-tech", "since": "2025-07" },
+        { "conference": "mountain-west", "name": "Wendy Hensel", "school": "hawaii", "since": "2026-07" },
+        { "conference": "mac", "name": "Geoffrey Mearns", "school": "ball-state", "since": "2026-07" },
+        { "conference": "independent", "name": "Rev. Robert A. Dowd", "school": "notre-dame", "confidence": "low" },
+        { "conference": "big-ten", "name": null, "school": null },
+        { "conference": "pac-12", "name": null, "school": null },
+        { "conference": "american", "name": null, "school": null },
+        { "conference": "cusa", "name": null, "school": null },
+        { "conference": "sun-belt", "name": null, "school": null }
+      ],
+      "notes": "A FOS item from Oct 2026 says the board is weighing a break from the NCAA. Details not retrieved.",
+      "sources": [
+        "https://www.unc.edu/posts/2026/01/22/chancellor-roberts-joins-college-football-playoff-board-of-managers/",
+        "https://www.ttu.edu/now/posts/2025/07/texas-tech-president-named-to-college-football-playoff-board-of-managers.php",
+        "https://www.hawaii.edu/news/2026/07/14/hensel-college-football-playoff-board/",
+        "https://ballstatesports.com/news/2026/7/29/GEN_MearnsCFP",
+        "https://frontofficesports.com/article/cfp-board-weighs-breaking-away-from-the-ncaa/"
+      ]
+    },
+    "votingRules": {
+      "through2025_26": "Substantive changes such as format and revenue needed unanimous approval of the 11-member Board of Managers, on the Management Committee's recommendation.",
+      "from2026_27": "Under the 2024 MOU, the SEC and Big Ten jointly control format decisions. They consult the other conferences, who cannot block. Fixed guarantees: at least 12 teams, automatic access for the ACC and Big 12 champions, at least one G6 bid, and the Notre Dame top-12 guarantee. If the SEC and Big Ten deadlock, the default continues (this happened for 2026). Revenue shares are fixed through 2031-32. Reports said weighted voting would likely replace unanimity on other matters.",
+      "nov2026Decision": "The 24-team decision was reported as unanimous, even though only the SEC and Big Ten's agreement was legally required.",
+      "confidence": "low",
+      "note": "No MOU text was retrieved. Reconstructed from news summaries.",
+      "sources": [
+        "https://frontofficesports.com/cfp-agrees-post-2026-terms-sec-big-ten",
+        "https://www.cbssports.com/college-football/news/why-the-big-ten-sec-alliance-turned-sour-and-what-it-means-for-future-college-football-playoff-format",
+        "https://www.cbssports.com/college-football/news/heres-what-big-ten-sec-could-demand-as-college-football-playoff-holds-critical-meeting-in-texas"
+      ]
+    },
+    "selectionCommittee": {
+      "size": 13,
+      "chair2026": { "name": "Hunter Yurachek", "title": "Arkansas AD", "notes": "Took over mid-2025 after Mack Rhoades (Baylor) resigned. Returned as chair for 2026." },
+      "sources": [
+        "https://www.cbssports.com/college-football/news/college-football-playoff-committee-arkansas-hunter-yurachek-new-chairman-utah-ad-mark-harlan",
+        "https://collegefootballplayoff.com/news/2026/3/30/selection-committee-update.aspx"
+      ]
+    }
+  },
+  "sites": {
+    "ny6Bowls": [
+      { "id": "rose", "name": "Rose Bowl Game", "venue": "Rose Bowl", "city": "Pasadena", "state": "CA", "notes": "Will not host a semifinal in 2028-31. Keeps its Jan 1 time slot as a quarterfinal." },
+      { "id": "sugar", "name": "Allstate Sugar Bowl", "venue": "Caesars Superdome", "city": "New Orleans", "state": "LA" },
+      { "id": "orange", "name": "Capital One Orange Bowl", "venue": "Hard Rock Stadium", "city": "Miami Gardens", "state": "FL" },
+      { "id": "cotton", "name": "Goodyear Cotton Bowl Classic", "venue": "AT&T Stadium", "city": "Arlington", "state": "TX" },
+      { "id": "fiesta", "name": "Vrbo Fiesta Bowl", "venue": "State Farm Stadium", "city": "Glendale", "state": "AZ" },
+      { "id": "peach", "name": "Chick-fil-A Peach Bowl", "venue": "Mercedes-Benz Stadium", "city": "Atlanta", "state": "GA" }
+    ],
+    "rotation": [
+      { "season": "2024-25", "quarterfinals": ["fiesta", "peach", "rose", "sugar"], "semifinals": ["orange", "cotton"] },
+      { "season": "2025-26", "quarterfinals": ["cotton", "orange", "rose", "sugar"], "semifinals": ["fiesta", "peach"] },
+      { "season": "2026-27", "quarterfinals": ["fiesta", "cotton", "peach", "rose"], "semifinals": ["orange", "sugar"] },
+      { "season": "2027-28", "quarterfinals": ["sugar", "fiesta", "peach", "rose"], "semifinals": ["orange", "cotton"] },
+      { "season": "2028-29", "quarterfinals": ["sugar", "rose"], "semifinals": ["peach"], "confidence": "low", "note": "Partial. Sugar is a quarterfinal (2029-01-01) and Peach/Mercedes-Benz hosts a semifinal. Rest of the rotation not retrieved." },
+      { "season": "2029-30", "quarterfinals": ["peach", "rose"], "semifinals": ["sugar"], "confidence": "low", "note": "Partial. Sugar semifinal on 2030-01-10." },
+      { "season": "2030-31", "quarterfinals": ["peach", "rose"], "semifinals": ["sugar"], "confidence": "low", "note": "Partial. Sugar semifinal on 2031-01-10." },
+      { "season": "2031-32", "quarterfinals": ["sugar", "rose"], "semifinals": ["peach"], "confidence": "low", "note": "Partial. Sugar quarterfinal on 2032-01-01." }
+    ],
+    "campusGames": "4 first-round campus games a year (seeds 5-8 host) from 2024-25 to 2026-27. From 2027-28, 16 campus games: seeds 9-16 host the first round and seeds 1-8 host the second round.",
+    "nationalChampionship": [
+      { "season": "2024-25", "date": "2025-01-20", "venue": "Mercedes-Benz Stadium", "city": "Atlanta", "state": "GA" },
+      { "season": "2025-26", "date": "2026-01-19", "venue": "Hard Rock Stadium", "city": "Miami Gardens", "state": "FL" },
+      { "season": "2026-27", "date": "2027-01-25", "venue": "Allegiant Stadium", "city": "Las Vegas", "state": "NV" },
+      { "season": "2027-28", "date": "2028-01-24", "venue": "Caesars Superdome", "city": "New Orleans", "state": "LA", "notes": "Announced 2025-10-01. First 24-team final." },
+      { "season": "2028-29", "date": "2029-01-22", "venue": "Raymond James Stadium", "city": "Tampa", "state": "FL", "notes": "Chosen 2025-10-29. Tampa replaced Dallas, which had a scheduling conflict. Phoenix and Houston were backups." },
+      { "season": "2029-30", "date": null, "venue": "Hard Rock Stadium", "city": "Miami Gardens", "state": "FL", "confidence": "low", "note": "Reported, not confirmed." },
+      { "season": "2030-31", "date": null, "venue": null, "city": null, "state": null }
+    ],
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/2/3/2627-2728-bowls",
+      "https://collegefootballplayoff.com/news/2026/7/9/2028-31-bowls",
+      "https://allstatesugarbowl.org/news/2026/7/9/college-football-playoff-announces-cfp-quarterfinal-and-semifinal-dates-for-the-2028-31.aspx",
+      "https://www.ajc.com/sports/2026/07/cfp-reveals-atlantas-place-in-2028-2031-quarterfinals-semifinals/",
+      "https://rosebowlgame.com/news/2026/2/3/general-cfp-announces-2026-and-2027-playoff-sites-rose-bowl-game-to-be-quarterfinal.aspx",
+      "https://new.cbssports.com/college-football/news/college-football-playoff-schedule-quarterfinals-semifinals-2028-2031/",
+      "https://fbschedules.com/college-football-playoff-sets-national-championship-site-for-2028-season/",
+      "https://on3.com/news/college-football-playoff-announces-2027-national-championship-game-will-be-at-las-vegas-allegiant-stadium",
+      "https://www.cbssports.com/college-football/news/college-football-playoff-tampa-bay-set-host-cfp-national-championship-in-2029"
+    ]
+  },
+  "sources": [
+    "https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion",
+    "https://www.espn.com/college-football/story/_/id/50433381/cfp-espn-ink-5-year-17b-deal-expand-field-sources-say",
+    "https://www.cbssports.com/college-basketball/news/college-football-playoff-finalizes-tv-deal-beginning-in-2026-as-fbs-leaders-settle-on-revenue-distribution",
+    "https://en.wikipedia.org/wiki/College_Football_Playoff"
+  ]
+}

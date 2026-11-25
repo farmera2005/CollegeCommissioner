@@ -1,0 +1,196 @@
+[
+  {
+    "id": "sec-network",
+    "name": "SEC Network",
+    "conference": "sec",
+    "type": "linear-cable",
+    "owners": [{ "entity": "espn", "stakePct": 100 }],
+    "partners": ["espn"],
+    "launched": "2014-08-14",
+    "shutDown": null,
+    "status": "active",
+    "streaming": "SEC Network+ (inside the ESPN app / ESPN Select and Unlimited tiers)",
+    "estimatedSubscribers": 55000000,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": null,
+    "carriageFeeNotes": "Premium in-footprint carriage fee (reported at well over $1 per subscriber per month in SEC states) and much lower out of footprint. The SEC shares network revenue under its 20-year ESPN agreement through 2033-34.",
+    "notes": "Announced May 2013 and launched with Dish and AT&T U-verse at first; Comcast signed on launch eve. The biggest single reason SEC per-school media revenue passed the Big Ten's in the mid-2010s. Gained Texas and Oklahoma inventory in 2024, when Longhorn Network content was folded in. The 24-team CFP ends the SEC Championship Game (ABC) after 2026, but SEC Network inventory is unaffected.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/SEC_Network",
+      "https://frontofficesports.com/espn-wants-more-sec-games-but-conference-eyes-a-bigger-payday"
+    ]
+  },
+  {
+    "id": "btn",
+    "name": "Big Ten Network (BTN)",
+    "conference": "big-ten",
+    "type": "linear-cable",
+    "owners": [{ "entity": "fox", "stakePct": 61 }, { "entity": "big-ten", "stakePct": 39 }],
+    "partners": ["fox"],
+    "launched": "2007-08-30",
+    "shutDown": null,
+    "status": "active",
+    "streaming": "B1G+ (subscription streaming for non-televised events); BTN authenticated on the FOX Sports app and FOX One",
+    "estimatedSubscribers": 50000000,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": null,
+    "carriageFeeNotes": "First successful conference-owned network. In-footprint fee over $1 per subscriber per month; expansion into new markets (New York/New Jersey with Rutgers, D.C./Baltimore with Maryland, LA, Seattle and Portland from 2024) was a core motive for adding members.",
+    "notes": "Founded by Commissioner Jim Delany as a JV with News Corp/FOX (Big Ten originally 51%, later diluted). Search reporting confirms FOX's majority stake and that BTN holds the licensing rights for the conference's media inventory, which let FOX block NBC's plan to sublicense the 2026 Big Ten title game to a streamer. Pays the conference both rights fees and equity distributions. BTN also holds national audio rights (Compass Media extension, Aug. 2026).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Ten_Network",
+      "https://www.on3.com/news/report-fox-to-buy-back-big-ten-2026-championship-game-from-nbc-for-45-55-million/",
+      "https://www.compassmedianetworks.com/index.php/2026/08/17/the-big-ten-network-announces-a-multi-year-extension-with-compass-media-networks/"
+    ]
+  },
+  {
+    "id": "acc-network",
+    "name": "ACC Network",
+    "conference": "acc",
+    "type": "linear-cable",
+    "owners": [{ "entity": "espn", "stakePct": 100 }],
+    "partners": ["espn"],
+    "launched": "2019-08-22",
+    "shutDown": null,
+    "status": "active",
+    "streaming": "ACCNX (inside the ESPN app)",
+    "estimatedSubscribers": 45000000,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": null,
+    "carriageFeeNotes": "In-footprint fee lower than the SEC Network's. Carriage was the main reason the 2016 agreement was extended to 2036, since ESPN needed a long grant of rights to launch the network.",
+    "notes": "Its launch required all members to sign a grant of rights to 2036. The network's existence (and the ESPN option exercised Jan. 30, 2025) is central to the FSU/Clemson litigation narrative. Cal, Stanford and SMU (2024) expanded the footprint to the Bay Area and Dallas.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ACC_Network",
+      "https://espnpressroom.com/us/press-releases/2025/01/acc-and-espn-announce-long-term-renewed-commitment/"
+    ]
+  },
+  {
+    "id": "pac-12-network",
+    "name": "Pac-12 Networks",
+    "conference": "pac-12",
+    "type": "linear-cable",
+    "owners": [{ "entity": "pac-12", "stakePct": 100 }],
+    "partners": [],
+    "launched": "2012-08-15",
+    "shutDown": "2024-06-30",
+    "status": "defunct",
+    "streaming": "Pac-12 Now app (defunct)",
+    "estimatedSubscribers": 12000000,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": 2000000,
+    "carriageFeeNotes": "Wholly conference-owned (no media partner equity) and never carried by DirecTV. It distributed only low single-digit millions per school a year, against roughly $30M+ per school from BTN-plus-Big Ten deals.",
+    "notes": "Larry Scott's 'own 100% of the network' bet (2012). Without a national distribution partner it underperformed, which is a key cautionary precedent: conference-owned networks need a distributor with leverage. It closed after the conference collapsed in 2024. Its production arm survives as Pac-12 Enterprises, which produces the rebuilt league's CW games.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Network",
+      "https://www.cbssports.com/college-football/news/pac-12-secures-long-term-media-rights-deal-with-the-cw-as-conference-gains-more-momentum-ahead-of-expansion"
+    ]
+  },
+  {
+    "id": "longhorn-network",
+    "name": "Longhorn Network",
+    "conference": "big-12",
+    "type": "linear-cable (single school)",
+    "owners": [{ "entity": "espn", "stakePct": 100 }],
+    "partners": ["espn", "IMG College (marketing partner)"],
+    "launched": "2011-08-26",
+    "shutDown": "2024-06-30",
+    "status": "defunct",
+    "streaming": null,
+    "estimatedSubscribers": null,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": 15000000,
+    "carriageFeeNotes": "20-year, $300M deal (about $15M a year to Texas, with IMG). Carriage was poor and ESPN reportedly lost money on it.",
+    "notes": "A school-level Tier 3 network that came to symbolize Texas's outsized leverage inside the Big 12, and helped drive Nebraska, Colorado, Texas A&M and Missouri out in 2010-12. Ended when Texas joined the SEC (July 1, 2024); its content moved to SEC Network/SEC Network+. Precedent for a 'school network' event chain.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Longhorn_Network"
+    ]
+  },
+  {
+    "id": "the-mtn",
+    "name": "The Mtn. – MountainWest Sports Network",
+    "conference": "mountain-west",
+    "type": "linear-cable",
+    "owners": [{ "entity": "comcast", "stakePct": null }, { "entity": "cbs (CSTV/CBS College Sports)", "stakePct": null }],
+    "partners": ["cbs"],
+    "launched": "2006-09-01",
+    "shutDown": "2012-05-31",
+    "status": "defunct",
+    "streaming": null,
+    "estimatedSubscribers": null,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": null,
+    "carriageFeeNotes": "Limited distribution; fans complained about the low exposure. The precursor 'conference network' failure.",
+    "notes": "Active in the 2010-11 start year of the game. The Mountain West's pre-2013 deal (CBS College Sports/Versus/The Mtn.) was replaced by CBS/ESPN arrangements when the network folded in 2012.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Mtn."
+    ]
+  },
+  {
+    "id": "big-12-now",
+    "name": "Big 12 Now on ESPN+",
+    "conference": "big-12",
+    "type": "streaming",
+    "owners": [{ "entity": "espn", "stakePct": 100 }],
+    "partners": ["espn"],
+    "launched": "2019-08-01",
+    "shutDown": null,
+    "status": "active",
+    "streaming": "ESPN streaming (ESPN Select / Unlimited)",
+    "estimatedSubscribers": null,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": null,
+    "carriageFeeNotes": "No separate carriage fee; part of the ESPN rights fee. School-produced events (campus production), with schools pooling their former Tier 3 inventory.",
+    "notes": "The Big 12's substitute for a linear conference network. Launch date given as Aug. 2019 (day approximate).",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference",
+      "https://www.espn.com/college-football/story/_/id/34910144/big-12-nears-six-year-228b-tv-extension-deal-espn-fox"
+    ]
+  },
+  {
+    "id": "mountain-west-network",
+    "name": "Mountain West Network (Kiswe DTC)",
+    "conference": "mountain-west",
+    "type": "streaming (conference-owned DTC)",
+    "owners": [{ "entity": "mountain-west", "stakePct": 100 }],
+    "partners": ["kiswe"],
+    "launched": "2026-07-01",
+    "shutDown": null,
+    "status": "active",
+    "streaming": "Subscription app replacing the free MW app",
+    "estimatedSubscribers": null,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": null,
+    "carriageFeeNotes": "Subscription-based. Revenue is uncertain and small; a useful 'risky DTC' option in the game.",
+    "notes": "Part of the Feb. 3, 2026 package with CBS, FOX and The CW. The launch date is the reported 'July 2026' (day approximate).",
+    "sources": [
+      "https://fbschedules.com/mountain-west-announces-new-media-rights-deal-with-cbs-fox-the-cw/",
+      "https://www.kunc.org/news/2026-02-05/mountain-west-announces-media-rights-package-featuring-cbs-fox-the-cw-and-kiswe-streaming-platform"
+    ]
+  },
+  {
+    "id": "pac-12-enterprises",
+    "name": "Pac-12 Enterprises (production arm)",
+    "conference": "pac-12",
+    "type": "production company",
+    "owners": [{ "entity": "pac-12", "stakePct": 100 }],
+    "partners": ["cw"],
+    "launched": "2012-08-15",
+    "shutDown": null,
+    "status": "active",
+    "streaming": null,
+    "estimatedSubscribers": null,
+    "estimatedRevenueUsd": null,
+    "perSchoolContribution": null,
+    "carriageFeeNotes": "Produces games for partners (all 66 Pac-12 events a year on The CW), which lowers the network's costs and supports the rights fee.",
+    "notes": "What survives of Pac-12 Networks. A model for a 'conference self-production' upgrade in the game.",
+    "sources": [
+      "https://www.cbssports.com/college-football/news/pac-12-secures-long-term-media-rights-deal-with-the-cw-as-conference-gains-more-momentum-ahead-of-expansion"
+    ]
+  }
+]

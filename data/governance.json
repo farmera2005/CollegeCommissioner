@@ -1,0 +1,490 @@
+{
+  "asOf": "2026-11-25",
+  "notes": "Governance structures, voting rules and factions for the P4 + Pac-12/MWC/AAC, plus NCAA, College Sports Commission (CSC) and CFP governance. Bloc 'cohesion' (0-1) and 'leverage' (0-1) are design estimates for the voting model, not sourced facts. Late-2026 facts come from news searches on 2026-11-25. WebFetch could not reach outside hosts, and the shared web-search budget ran out partway through, so MWC/AAC board chairs and some NCAA committee chairs could not be checked (marked low confidence).",
+  "conferenceBoards": [
+    {
+      "id": "sec",
+      "conference": "sec",
+      "boardName": "SEC Presidents and Chancellors (governing body); SEC Executive Committee (7 members) runs fiscal affairs and the budget",
+      "chair": { "id": "donde-plowman", "name": "Donde Plowman", "school": "tennessee", "title": "President, SEC Executive Committee", "since": "2025-07-01", "termEnds": "2027-06-30" },
+      "viceChair": { "id": "mun-choi", "name": "Mun Choi", "school": "missouri", "title": "Vice President, SEC Executive Committee (2025-26)", "since": "2025-07-01", "confidence": "low", "note": "2025-26 role confirmed. Whether he holds it in 2026-27 is unverified." },
+      "executiveCommittee": {
+        "size": 7,
+        "composition": "Three conference officers (president, vice president, secretary) plus four members elected at the annual meeting, traditionally including an athletics director and a faculty athletics representative",
+        "powers": ["approves SEC operating budget", "oversees fiscal affairs", "acts between full meetings of presidents"]
+      },
+      "commissioner": { "id": "greg-sankey", "name": "Greg Sankey", "since": 2015 },
+      "votingRules": {
+        "admission": "3/4 of members (12 of 16)",
+        "admissionFraction": 0.75,
+        "membershipTermination": "At least 2/3 of the other members (10 of 15) voting to terminate a member",
+        "terminationFraction": 0.6667,
+        "notes": "The termination clause was never used until 2026. On 2026-12-03 the presidents meet on whether to end LSU's membership. Sankey's office runs league policy through the presidents, and consensus is usually reached privately before any formal vote."
+      },
+      "votingBlocs": [
+        {
+          "id": "sec-texas-oklahoma",
+          "name": "Texas/Oklahoma integration bloc",
+          "members": ["texas", "oklahoma"],
+          "interests": "Newest members (joined 2024-07-01). Texas carries brand and media leverage. They want full standing in league policy, scheduling equity and the revived Texas-Texas A&M game.",
+          "cohesion": 0.6, "leverage": 0.7,
+          "notes": "Texas's brand gives it outsized informal influence. OU is less powerful but still a blue blood. They do not always vote together."
+        },
+        {
+          "id": "sec-blue-bloods",
+          "name": "Blue-blood spenders",
+          "members": ["alabama", "georgia", "texas", "lsu", "tennessee", "florida", "auburn", "texas-am"],
+          "interests": "Maximum roster spending and as many CFP bids as possible (favor 16-team straight seeding). They resist hard caps but accept standardized contracts.",
+          "cohesion": 0.55, "leverage": 0.8,
+          "notes": "They split over the November 2026 'luxury tax' cap policy, which fines total roster spend above about $50.5M, rising to 10% above $70.5M."
+        },
+        {
+          "id": "sec-instate-acc-rivals",
+          "name": "In-state ACC rivalry schools",
+          "members": ["florida", "georgia", "south-carolina", "kentucky"],
+          "interests": "Annual non-conference rivals (FSU, Georgia Tech, Clemson, Louisville). They were wary of a 9-game SEC schedule without CFP strength-of-schedule credit.",
+          "cohesion": 0.65, "leverage": 0.4,
+          "confidence": "low",
+          "note": "Assigned from well-known scheduling positions during the 8-vs-9 game debate, not from a specific source."
+        },
+        {
+          "id": "sec-middle-class",
+          "name": "Middle-class / cost-conscious",
+          "members": ["mississippi-state", "ole-miss", "arkansas", "missouri", "kentucky", "south-carolina", "vanderbilt"],
+          "interests": "Keep spending affordable. They support cap enforcement and fines that slow the top spenders. Vanderbilt is private and academically focused.",
+          "cohesion": 0.45, "leverage": 0.45
+        },
+        {
+          "id": "sec-lsu-rogue",
+          "name": "LSU (rogue member, 2026)",
+          "members": ["lsu"],
+          "interests": "Use Louisiana state-court injunctions to roster players the NCAA/SEC treat as ineligible: former NFL-contract players Dae'Quan Wright and Zxavian Harris (football, September 2026) and RJ Luis Jr. (basketball, November 2026). LSU claims sovereign immunity and a First Amendment 'forced association' defense.",
+          "cohesion": 1.0, "leverage": 0.5,
+          "notes": "Louisiana Attorney General Liz Murrill represents LSU. Football coach Lane Kiffin, hired from Ole Miss in November 2025, is at the center of the fight. This is the first live expulsion threat in modern P4 history."
+        }
+      ],
+      "adCouncil": { "name": "SEC Athletics Directors", "structure": "16 ADs meet at the Destin spring meetings and on regular calls. They make recommendations on scheduling, revenue-share contracts and cap policy to the presidents. Coaches meet separately by sport." },
+      "recentGovernanceEvents": [
+        { "date": "2024-07-01", "event": "Texas and Oklahoma join (16 members)." },
+        { "date": "2025-08", "event": "Presidents approve a 9-game conference schedule starting in 2026.", "confidence": "low" },
+        { "date": "2026-09-03", "event": "SEC sues LSU in U.S. District Court (N.D. Alabama) after a Louisiana state judge cleared former NFL-contract players. An expulsion vote is scheduled, then dropped when LSU does not roster the players." },
+        { "date": "2026-11", "event": "SEC presidents adopt standardized revenue-share and NIL contracts. A tiered cap-penalty ('luxury tax') proposal circulates, possibly retroactive to 2026-10-01." },
+        { "date": "2026-11-18", "event": "The federal judge orders LSU's lawyers to apologize for saying the SEC had 'hallucinated' citations. Louisiana AG Murrill declines.", "confidence": "low" },
+        { "date": "2026-11-23", "event": "SEC files an amended complaint adding the RJ Luis Jr. dispute, seeks a TRO/preliminary injunction, and sets a 2026-12-03 vote on terminating LSU's membership.", "confidence": "low", "note": "Date given as 'Monday' in coverage." }
+      ],
+      "sources": [
+        "https://www.secsports.com/news/2025/06/southeastern-conference-announces-2025-26-executive-committee",
+        "https://chancellor.utk.edu/2025/06/30/plowman-begins-term-as-sec-executive-committee-president/",
+        "https://showme.missouri.edu/2025/choi-begins-term-as-vice-president-of-southeastern-conference-executive-committee/",
+        "https://www.espn.com/college-football/story/_/id/49869481/sec-files-amendment-authority-expel-lsu-conference",
+        "https://cbssports.com/college-football/news/sec-lsu-expulsion-vote-rj-luis-will-wade-lane-kiffin",
+        "https://www.on3.com/news/sec-confirms-presidents-chancellors-to-deliberate-lsu-membership-in-conference-federal-lawsuit-filing/",
+        "https://sports.yahoo.com/articles/sec-proposed-cap-policy-league-001851563.html",
+        "https://www.athleticbusiness.com/operations/governing-bodies/article/15837418/sec-becomes-second-power-4-conference-to-adopt-standardized-nil-contracts"
+      ]
+    },
+    {
+      "id": "big-ten",
+      "conference": "big-ten",
+      "boardName": "Council of Presidents/Chancellors (COP/C)",
+      "chair": { "id": "pamela-whitten", "name": "Pamela Whitten", "school": "indiana", "title": "Chair, COP/C", "since": "2026-07", "confidence": "low", "note": "Whitten is quoted as COP/C chair in the 2026-08-26 Petitti extension coverage. Big Ten material from June 2026 lists Darryll Pines (Maryland) as chair and Whitten as vice chair, which suggests the usual July 1 handover." },
+      "previousChair": { "id": "darryll-pines", "name": "Darryll J. Pines", "school": "maryland", "title": "Chair, COP/C (through ~2026-06)" },
+      "executiveCommittee": { "composition": "COP/C chair, vice chair and a small executive committee of presidents. Composition not verified.", "confidence": "low" },
+      "commissioner": { "id": "tony-petitti", "name": "Tony Petitti", "since": 2023, "contractThrough": "2033-06", "notes": "COP/C unanimously extended him through June 2033 on 2026-08-26." },
+      "votingRules": {
+        "admission": "COP/C supermajority. Recent admissions (USC/UCLA 2022, Oregon/Washington 2023) were unanimous.",
+        "admissionFraction": null,
+        "notes": "The proposed $2.4B Big Ten Enterprises/UC Investments private-capital deal required unanimous approval under its terms. The Big Ten avoids votes that won't pass unanimously, so no vote was held in November 2025."
+      },
+      "votingBlocs": [
+        {
+          "id": "b1g-west-coast",
+          "name": "West Coast four",
+          "members": ["usc", "ucla", "oregon", "washington"],
+          "interests": "Less travel (Olympic sports, mid-week trips), kickoff windows that don't hurt Pacific-time audiences, and an end to the reduced shares for Oregon and Washington.",
+          "cohesion": 0.6, "leverage": 0.55,
+          "notes": "UCLA is financially distressed and was under UC Regents conditions after its 2022 exit from the Pac-12. Phil Knight's money gives Oregon large informal pull."
+        },
+        {
+          "id": "b1g-anti-private-capital",
+          "name": "Michigan-USC resistance",
+          "members": ["michigan", "usc"],
+          "interests": "Opposed selling a 10% stake in Big Ten media and sponsorship rights to UC Investments for about $2.4B. Michigan Regents chair Mark Bernstein publicly accused Petitti of coercion, which the Big Ten denied.",
+          "cohesion": 0.85, "leverage": 0.75,
+          "notes": "Their opposition paused the deal in November 2025, and UC Investments said it would not proceed without them. Rep. Haley Stevens (MI) and Sen. Maria Cantwell wrote letters against it."
+        },
+        {
+          "id": "b1g-heavyweights",
+          "name": "Heavyweights",
+          "members": ["ohio-state", "michigan", "penn-state", "oregon", "usc"],
+          "interests": "Revenue and CFP access. They back the Big Ten's multi-automatic-qualifier CFP models and cap structures that keep their spending room.",
+          "cohesion": 0.5, "leverage": 0.85
+        },
+        {
+          "id": "b1g-financially-stressed",
+          "name": "Cash-hungry",
+          "members": ["maryland", "rutgers", "ucla", "minnesota", "northwestern", "purdue"],
+          "interests": "Up-front cash (they favored the private-capital infusion) and cost controls.",
+          "cohesion": 0.5, "leverage": 0.35,
+          "confidence": "low",
+          "note": "Membership inferred from reported athletics deficits and private-capital reporting. Individual positions not confirmed."
+        },
+        {
+          "id": "b1g-indiana-ascendant",
+          "name": "New contenders",
+          "members": ["indiana", "illinois", "nebraska"],
+          "interests": "Indiana won the 2025-26 national title, and these programs want more access as contenders. Indiana's president Whitten now chairs the COP/C.",
+          "cohesion": 0.4, "leverage": 0.45,
+          "confidence": "low"
+        }
+      ],
+      "adCouncil": { "name": "Big Ten Joint Group (ADs, faculty reps, senior woman administrators)", "structure": "18 ADs. Recommendations go to the COP/C. The Big Ten set a combined 2026-27 roster-spending cap of about $49M ($21.6M revenue share plus $27.5M third-party NIL), reported 2026-10-28.", "confidence": "low" },
+      "recentGovernanceEvents": [
+        { "date": "2023-11-10", "event": "Petitti suspends Jim Harbaugh for Michigan's last three regular-season games under the Sportsmanship Policy over the Stalions sign-stealing scheme." },
+        { "date": "2024-08-02", "event": "USC, UCLA, Oregon and Washington join (18 members)." },
+        { "date": "2025-07", "event": "COP/C opens talks with UC Investments on 'Big Ten Enterprises'." },
+        { "date": "2025-11-17", "event": "Private-capital deal paused after Michigan and USC object. UC Investments says it won't sign without them." },
+        { "date": "2026-08-26", "event": "Petitti extended through June 2033 (unanimous)." },
+        { "date": "2026-10-28", "event": "Big Ten sets a combined revenue-share plus third-party NIL spending limit of about $49M.", "confidence": "low" }
+      ],
+      "sources": [
+        "https://bigten.org/article/60116/",
+        "https://www.nationalfootballpost.com/big-ten-extends-contract-of-commissioner-tony-petitti-to-2033",
+        "https://deadspin.com/big-ten-extends-contract-of-commissioner-tony-petitti-to-2033/",
+        "https://www.espn.com/college-football/story/_/id/47040871/michigan-board-publicly-opposed-big-ten-private-equity",
+        "https://www.espn.com/college-sports/story/_/id/47003108/opposition-michigan-usc-pauses-24b-big-ten-deal",
+        "https://www.detroitnews.com/story/sports/college/university-michigan/2025/11/18/big-ten-denies-michigan-regents-claim-of-coercion-over-2-4-billion-private-equity-plan/87343031007/",
+        "https://frontofficesports.com/uc-investments-says-big-ten-deal-is-off-until-schools-can-agree/",
+        "https://www.commerce.senate.gov/index.php/2025/10/sen-cantwell-warns-big-ten-presidents-of-dangers-in-selling-university-assets-to-private-equity-firms",
+        "https://sports.yahoo.com/articles/sec-proposed-cap-policy-league-001851563.html"
+      ]
+    },
+    {
+      "id": "big-12",
+      "conference": "big-12",
+      "boardName": "Big 12 Board of Directors (16 presidents/chancellors)",
+      "chair": { "id": "douglas-girod", "name": "Douglas A. Girod", "school": "kansas", "title": "Chair, Big 12 Board of Directors", "since": null, "confidence": "low", "note": "Named as chair in the 2026-10-30 coverage of Yormark's departure. Start date not found. Baylor's Linda Livingstone chaired earlier." },
+      "previousChair": { "id": "linda-livingstone", "name": "Linda Livingstone", "school": "baylor" },
+      "commissioner": { "id": "brett-yormark", "name": "Brett Yormark", "since": 2022, "contractThrough": 2030, "notes": "Announced 2026-10-30 that he will step down effective 2027-01-31 for a new job (which job is unverified). The board launched an immediate national search. Texas Tech regent Cody Campbell was rumored as a replacement and publicly responded." },
+      "votingRules": {
+        "admission": "Board vote by supermajority. Fraction not verified, see conferences.json.",
+        "admissionFraction": null,
+        "notes": "Grant of rights runs with the ESPN/FOX deal through 2030-31. Texas and OU paid a combined $100M (Feb 2023) to leave a year early. The vacancy now opening means the board, not the commissioner, controls the agenda into 2027."
+      },
+      "votingBlocs": [
+        {
+          "id": "b12-texas-schools",
+          "name": "Texas schools",
+          "members": ["baylor", "tcu", "texas-tech", "houston"],
+          "interests": "Texas recruiting and political ties, Dallas-Fort Worth and Houston markets, and aggressive NIL spending (Texas Tech under booster/regent Cody Campbell).",
+          "cohesion": 0.55, "leverage": 0.7,
+          "notes": "The Texas Legislature is historically willing to step in (1994 Big 12 formation, 2010-11 and 2021 crises). Campbell has influence in Washington and in the 2025 executive-order effort."
+        },
+        {
+          "id": "b12-four-corners",
+          "name": "Four Corners (former Pac-12)",
+          "members": ["arizona", "arizona-state", "utah", "colorado"],
+          "interests": "West-time-zone kickoffs, travel, basketball strength (Arizona) and brand (Colorado's Deion Sanders era). Arizona's finances are fragile.",
+          "cohesion": 0.6, "leverage": 0.5
+        },
+        {
+          "id": "b12-2023-newcomers",
+          "name": "2023 newcomers",
+          "members": ["byu", "cincinnati", "houston", "ucf"],
+          "interests": "Full revenue shares (phased in), big-market access (Orlando, Cincinnati, Houston) and BYU's no-Sunday-play scheduling constraint.",
+          "cohesion": 0.4, "leverage": 0.45
+        },
+        {
+          "id": "b12-legacy-core",
+          "name": "Legacy core",
+          "members": ["kansas", "kansas-state", "iowa-state", "oklahoma-state", "west-virginia"],
+          "interests": "Stability above all. They survived 2010-11 and 2021, prioritize grant-of-rights security and are wary of being left behind if the SEC or Big Ten expand under the Protect College Sports Act's 20/22-school caps.",
+          "cohesion": 0.65, "leverage": 0.5
+        }
+      ],
+      "adCouncil": { "name": "Big 12 Athletics Directors Council", "structure": "16 ADs. Advisory to the Board. Separately, Yormark created a Business Advisory Board of celebrities and executives (e.g., Garth Brooks, Jason Kidd)." },
+      "recentGovernanceEvents": [
+        { "date": "2023-07-27", "event": "Colorado accepts an invitation. Arizona, ASU and Utah follow 2023-08-04." },
+        { "date": "2024-07-01", "event": "Four Corners schools join. Texas and OU leave for the SEC." },
+        { "date": "2026-05", "event": "First P4 conference with every member signed to the CSC participation agreement." },
+        { "date": "2026-10-30", "event": "Yormark announces he will leave 2027-01-31. Girod's board starts a national search." }
+      ],
+      "sources": [
+        "https://www.kctv5.com/2026/10/30/big-12-commissioner-brett-yormark-step-down-january-2027/",
+        "https://www.deseret.com/sports/2026/10/30/big-12-commissioner-brett-yormark-leaving-conference/",
+        "https://frontofficesports.com/article/brett-yormark-stepping-down-as-big-12-commissioner-after-4-years/",
+        "https://www.essentiallysports.com/ncaa-college-football-news-texas-techs-billionaire-booster-breaks-silence-after-rumrs-link-him-to-replace-departing-big-twelve-commissioner-cody-campbell-brett-yormark/",
+        "https://www.espn.com/college-football/story/_/id/48913026/big-12-first-power-conference-full-csc-participation",
+        "https://www.on3.com/news/big-12-business-advisory-board-garth-brooks-jason-kidd-brett-yormark"
+      ]
+    },
+    {
+      "id": "acc",
+      "conference": "acc",
+      "boardName": "ACC Board of Directors (presidents/chancellors of the 18 members)",
+      "chair": { "id": "timothy-sands", "name": "Timothy D. Sands", "school": "virginia-tech", "title": "Chair, ACC Board of Directors (2026-27)", "since": "2026-07" },
+      "viceChair": { "id": "joan-gabel", "name": "Joan Gabel", "school": "pitt", "title": "Vice Chair, ACC Board of Directors (2026-27)", "since": "2026-07" },
+      "commissioner": { "id": "jim-phillips", "name": "Jim Phillips", "since": 2021 },
+      "votingRules": {
+        "admission": "3/4 of members. The 2023-09-01 vote admitting Cal, Stanford and SMU passed 12-3 (UNC, FSU and Clemson voted no) after NC State switched to yes.",
+        "admissionFraction": 0.75,
+        "notes": "Grant of rights with ESPN runs through 2036; ESPN exercised its extension option in 2025. The March 2025 settlement with FSU and Clemson replaced the old exit penalties with a declining exit fee and added 'brand-based' (viewership-weighted) revenue distribution. Exact amounts are in legal-exit-fees-gor.md."
+      },
+      "votingBlocs": [
+        {
+          "id": "acc-magnificent-seven",
+          "name": "'Magnificent Seven'",
+          "members": ["clemson", "florida-state", "miami-fl", "north-carolina", "nc-state", "virginia", "virginia-tech"],
+          "interests": "In 2023 they met with outside counsel about challenging the grant of rights and exit fees. They want revenue that reflects brand value.",
+          "cohesion": 0.5, "leverage": 0.7
+        },
+        {
+          "id": "acc-fsu-clemson",
+          "name": "FSU/Clemson litigants",
+          "members": ["florida-state", "clemson"],
+          "interests": "Sued the ACC (FSU December 2023, Clemson March 2024) and settled in March 2025 for lower exit costs and brand-based distribution. Most likely to leave if the SEC or Big Ten call.",
+          "cohesion": 0.8, "leverage": 0.75
+        },
+        {
+          "id": "acc-pcsa-lobby",
+          "name": "Protect College Sports Act realignment lobby",
+          "members": ["florida-state", "miami-fl", "clemson", "north-carolina"],
+          "interests": "In October 2026 they asked Congress to raise the P4 membership cap from 20 to 22 and drop the 3-year independence rule for schools switching power conferences. Miami president Joe Echevarria: 'You cannot lock us into a conference.'",
+          "cohesion": 0.75, "leverage": 0.6
+        },
+        {
+          "id": "acc-west-newcomers",
+          "name": "2024 newcomers",
+          "members": ["cal", "stanford", "smu"],
+          "interests": "Joined on reduced shares (Cal/Stanford about 30% for the early years, SMU 0% for nine years). They carry the heaviest cross-country travel and depend on the ACC's survival.",
+          "cohesion": 0.7, "leverage": 0.25
+        },
+        {
+          "id": "acc-loyalists",
+          "name": "Stay-together loyalists",
+          "members": ["duke", "wake-forest", "boston-college", "syracuse", "pitt", "georgia-tech", "louisville", "notre-dame"],
+          "interests": "Keep the league intact and the ESPN money flowing. Private and academic schools have few landing spots. Notre Dame (football independent, five ACC games a year) keeps the ACC's basketball and Olympic-sports value.",
+          "cohesion": 0.55, "leverage": 0.4
+        }
+      ],
+      "adCouncil": { "name": "ACC Athletics Directors", "structure": "18 ADs. Recommendations go to the Board. The 'success initiatives' pool funded by the newcomers' forgone shares is distributed by performance." },
+      "recentGovernanceEvents": [
+        { "date": "2023-09-01", "event": "Board admits Cal, Stanford and SMU, 12-3." },
+        { "date": "2023-12-22", "event": "FSU trustees vote to sue the ACC in Leon County, FL. The ACC had already pre-emptively sued FSU in Mecklenburg County, NC." },
+        { "date": "2025-03", "event": "ACC, FSU and Clemson settle. New exit-fee schedule and brand-based distribution." },
+        { "date": "2026-07-27", "event": "Sands (VT) named 2026-27 chair, Gabel (Pitt) vice chair." },
+        { "date": "2026-10", "event": "FSU, Miami, Clemson and UNC lobby Congress to loosen the PCSA realignment rules." }
+      ],
+      "sources": [
+        "https://theacc.com/news/2026/7/27/general-acc-announces-2026-27-conference-leadership.aspx",
+        "https://hokiesports.com/news/2026/07/27/virginia-tech-president-timothy-d-sands-to-serve-as-chair-of-the-acc-board-of-directors",
+        "https://sports.yahoo.com/articles/exclusive-fsu-miami-clemson-unc-200833994.html",
+        "https://www.tomahawknation.com/florida-state-football/138068/fsu-miami-clemson-unc-expansion-realignment-conference-independent-protect-college-sports-act-congress-senate-bill",
+        "https://cardinalnews.org/2026/10/03/the-protect-college-sports-act-set-out-to-stabilize-conference-membership-but-the-acc-is-still-at-risk-of-being-picked-apart/",
+        "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+      ]
+    },
+    {
+      "id": "pac-12",
+      "conference": "pac-12",
+      "boardName": "Pac-12 Board of Directors",
+      "chair": { "id": "kelly-damphousse", "name": "Kelly Damphousse", "school": "texas-state", "title": "Chair, Pac-12 Board of Directors (2026-27)", "since": "2026-07", "notes": "One-year rotating chair." },
+      "viceChair": { "id": "amy-parsons", "name": "Amy Parsons", "school": "colorado-state", "title": "Vice Chair (2026-27)" },
+      "previousChair": { "id": "jayathi-murthy", "name": "Jayathi Murthy", "school": "oregon-state" },
+      "commissioner": { "id": "teresa-gould", "name": "Teresa Gould", "since": 2024, "contractThrough": "2031", "notes": "Extended through the 2030-31 season (announced 2026-06-15/16)." },
+      "votingRules": {
+        "admission": "Board vote. Threshold not verified.",
+        "admissionFraction": null,
+        "notes": "Precedent from 2023: OSU and WSU sued in Whitman County, WA. Judge Gary Libey ruled that the 10 departing members lost their board votes once they gave notice, and the Washington Supreme Court declined to intervene, leaving the 'Pac-2' in control of the conference's assets and charter. Expanded Pac-12 launched 2026-07-01."
+      },
+      "votingBlocs": [
+        {
+          "id": "pac12-founders",
+          "name": "Pac-2 founders",
+          "members": ["oregon-state", "washington-state"],
+          "interests": "Hold the legacy Pac-12 assets, brand and NCAA tournament units. They carried the conference through 2024-26 and absorbed big budget cuts.",
+          "cohesion": 0.9, "leverage": 0.6
+        },
+        {
+          "id": "pac12-mwc-defectors",
+          "name": "Former Mountain West members",
+          "members": ["boise-state", "colorado-state", "fresno-state", "san-diego-state", "utah-state"],
+          "interests": "Recover the costs of leaving the MWC (exit fees, poaching penalties). Boise State wants recognition and revenue matched to its brand. SDSU wants Southern California market value.",
+          "cohesion": 0.55, "leverage": 0.55
+        },
+        {
+          "id": "pac12-outliers",
+          "name": "Outliers",
+          "members": ["texas-state", "gonzaga"],
+          "interests": "Texas State brings a Texas footprint and Austin/San Antonio ties. Gonzaga (non-football) brings elite men's basketball and NCAA tournament revenue.",
+          "cohesion": 0.2, "leverage": 0.4
+        }
+      ],
+      "adCouncil": { "name": "Pac-12 Athletics Directors", "structure": "Nine ADs plus Gould's staff (Rick Hart, deputy commissioner, from 2026-01; Kendall Tyson, CFO, from 2026-04)." },
+      "recentGovernanceEvents": [
+        { "date": "2023-09-08", "event": "OSU and WSU sue the Pac-12 and Commissioner George Kliavkoff over board control." },
+        { "date": "2024-09", "event": "Pac-12 invites Boise State, Colorado State, Fresno State and SDSU, then Utah State. The fight with the MWC over exit fees and poaching penalties begins." },
+        { "date": "2026-06-15", "event": "Gould extended through 2030-31." },
+        { "date": "2026-07-01", "event": "Expanded Pac-12 begins (nine members: eight football, plus Gonzaga)." }
+      ],
+      "sources": [
+        "https://news.txst.edu/accolades-and-achievements/2026/txst-president-kelly-damphousse-named-pac-12-board-of-directors-chair.html",
+        "https://pac-12.com/news/2026/6/15/general-pac-12-board-of-directors-extends-contract-of-commissioner-teresa-gould.aspx",
+        "https://pac-12.com/news/2026/1/7/general-rick-hart-named-pac-12-senior-vice-president-deputy-commissioner.aspx",
+        "https://pac-12.com/news/2026/4/2/general-kendall-tyson-named-pac-12-chief-financial-officer.aspx",
+        "https://en.wikipedia.org/wiki/Pac-12_Conference"
+      ]
+    },
+    {
+      "id": "mountain-west",
+      "conference": "mountain-west",
+      "boardName": "Mountain West Board of Directors (presidents)",
+      "chair": null,
+      "commissioner": { "id": "gloria-nevarez", "name": "Gloria Nevarez", "since": 2023 },
+      "votingRules": { "admission": "Board vote. Threshold not verified.", "admissionFraction": null, "notes": "After losing five schools to the Pac-12 (effective 2026), the MWC went to court over the 2024-25 'poaching penalty' in its scheduling agreement with the Pac-12, and over the departing schools' exit fees. It rebuilt with UTEP, Grand Canyon (non-football) and Northern Illinois (football-only). See conferences.json for the verified roster." },
+      "votingBlocs": [
+        { "id": "mwc-remaining-core", "name": "Remaining core", "members": ["air-force", "nevada", "new-mexico", "san-jose-state", "unlv", "wyoming", "hawaii"], "interests": "Survival, collecting exit fees and penalties, protecting the media deal. Air Force has looked at alternatives and is the swing vote.", "cohesion": 0.6, "leverage": 0.5 },
+        { "id": "mwc-newcomers", "name": "Newcomers", "members": ["utep", "grand-canyon", "northern-illinois"], "interests": "Integration, travel cost (NIU is football-only and far from the footprint), and GCU's basketball profile.", "cohesion": 0.3, "leverage": 0.25 }
+      ],
+      "adCouncil": { "name": "MWC Athletics Directors", "structure": "Advisory to the Board." },
+      "confidence": "low",
+      "note": "Board chair and voting thresholds could not be checked after the search budget ran out.",
+      "sources": ["https://en.wikipedia.org/wiki/Mountain_West_Conference"]
+    },
+    {
+      "id": "american",
+      "conference": "american",
+      "boardName": "American Athletic Conference Board of Directors (presidents)",
+      "chair": null,
+      "commissioner": { "id": "tim-pernetti", "name": "Tim Pernetti", "since": 2024 },
+      "votingRules": { "admission": "Board vote. Threshold not verified.", "admissionFraction": null, "notes": "Media deal with ESPN through 2031-32. Members aiming for the P4 (Memphis, USF, Tulane, UTSA) are the main threat to stability." },
+      "votingBlocs": [
+        { "id": "aac-service-academies", "name": "Service academies", "members": ["army", "navy"], "interests": "Army-Navy scheduling, federal or academy constraints, national TV value. Army is football-only.", "cohesion": 0.85, "leverage": 0.45 },
+        { "id": "aac-p4-aspirants", "name": "P4 aspirants", "members": ["memphis", "south-florida", "tulane", "utsa"], "interests": "Spending heavily (Memphis and USF facilities) to position for a P4 invitation. If the SEC or Big Ten expand under the PCSA cap, P4 leagues that lose members may come shopping for replacements.", "cohesion": 0.4, "leverage": 0.5 },
+        { "id": "aac-texas-florida", "name": "Texas and Florida markets", "members": ["north-texas", "rice", "utsa", "fau", "south-florida"], "interests": "Recruiting footprint and big-market TV. They push for conference games in their markets.", "cohesion": 0.35, "leverage": 0.35 },
+        { "id": "aac-stability", "name": "Stability bloc", "members": ["charlotte", "east-carolina", "temple", "tulsa", "uab", "wichita-state"], "interests": "Keep the league whole and costs under control.", "cohesion": 0.5, "leverage": 0.3 }
+      ],
+      "adCouncil": { "name": "AAC Athletics Directors", "structure": "Advisory to the Board." },
+      "confidence": "low",
+      "note": "Board chair and thresholds not verified. Members follow the brief's ID list.",
+      "sources": ["https://en.wikipedia.org/wiki/American_Athletic_Conference"]
+    }
+  ],
+  "ncaa": {
+    "president": { "id": "charlie-baker", "name": "Charlie Baker", "since": "2023-03-01", "background": "politician", "notes": "Former Massachusetts governor. In October 2026 he called the NCAA's federal suit against Ohio Gov. DeWine an 'extraordinary step'." },
+    "boardOfGovernors": { "role": "Association-wide top body (all divisions)", "notes": "Kansas chancellor Douglas Girod was appointed to the NCAA's governing board in August 2025.", "sources": ["https://www2.ljworld.com/news/ku/2025/aug/19/as-college-athletics-undergoes-big-change-kus-girod-appointed-to-serve-on-ncaas-governing-board/"] },
+    "d1BoardOfDirectors": { "role": "Presidents-led top body for Division I. Approves the D-I strategic direction and settlement implementation.", "chair": null, "confidence": "low", "note": "Current chair not verified. Georgia's Jere Morehead chaired around 2023-25." },
+    "d1Cabinet": { "role": "Main Division I legislative and policy body since the 2024-25 restructuring, replacing much of the old D-I Council's work. It unanimously adopted the '5 years to play 5' eligibility model on 2026-06-23.", "notes": "The D-I Council (once chaired by Illinois AD Josh Whitman) was the old ADs-led legislative body.", "sources": ["https://sportsrecruits.com/resources/ncaa-eligibility-and-rules/age-based-eligibility-model", "https://www.on3.com/os/news/illinois-athletic-director-josh-whitman-new-chair-of-ncaa-division-i-councili"] },
+    "d1Council": { "status": "historical / superseded", "notes": "The ADs-heavy legislative body under the 2014 autonomy structure, with the Power 5 'autonomy' bloc voting separately on autonomy items." },
+    "convention": { "month": 1, "notes": "Annual January convention where D-I legislation is presented and voted on, and the president gives a State of the Association speech. The 2027 location was not verified." },
+    "autonomy": {
+      "2014": "On 2014-08-07 the D-I Board granted the 65 schools of the ACC, Big Ten, Big 12, Pac-12 and SEC (plus Notre Dame) autonomy to write their own rules in set areas. First outputs at the January 2015 convention: full cost-of-attendance stipends, multi-year scholarships, concussion protocols.",
+      "2022-23": "New NCAA constitution (ratified January 2022) and the D-I Transformation Committee (final report January 2023) pushed more decisions to divisions and conferences.",
+      "2024-26": "Restructuring around the House settlement. The NCAA approved the settlement in May 2024 and the court approved it 2025-06-06. Roster limits replaced scholarship limits. The P4 created the College Sports Commission (outside the NCAA) to enforce the cap and review NIL. The D-I Cabinet became the main rule-making body, and the P4 gained wider room to set their own rules.",
+      "confidence": "low",
+      "note": "The 2024-26 governance labels (Cabinet replacing Council, scope of new P4 autonomy) come from memory plus 2026 search snippets. Check ncaa_rules.json (history agent)."
+    },
+    "rules2025_26": [
+      { "id": "roster-limits", "summary": "Roster limits replace scholarship limits from 2025-26: football 105, MBB 15, WBB 15, baseball 34, softball 25, others by sport. Athletes cut by the limits are grandfathered as 'Designated Student-Athletes'.", "sources": ["https://en.wikipedia.org/wiki/House_v._NCAA"] },
+      { "id": "revenue-share-cap", "summary": "Schools that opt in may share up to $20.5M with athletes in 2025-26, rising about 4% a year. 2026-27 cap reported at about $21.5M-$21.6M. The CSC enforces it.", "sources": ["https://www.espn.com/college-football/story/_/id/50142371/reports-watchdog-eyes-nil-violations-5-10-power-4-schools", "https://sports.yahoo.com/articles/sec-proposed-cap-policy-league-001851563.html"] },
+      { "id": "five-in-five", "summary": "On 2026-06-23 the D-I Cabinet unanimously adopted an age-based 'five years to play five seasons' model. The clock starts at full-time enrollment or the academic year after the 19th birthday, whichever is first. Mandatory for 2027-28 enrollees, optional for current athletes. It largely ends extension waivers (exceptions: religious mission, maternity, active military) and excludes the high school class of 2022 that exhausted eligibility in 2025-26. That exclusion led to Ohio's executive order and the Borovicanin case.", "sources": ["https://www.pbs.org/newshour/nation/ncaa-panel-approves-new-eligibility-rules-giving-division-i-athletes-5-years-to-play-5-seasons", "https://www.nbcsports.com/college-football/news/ncaa-panel-approves-new-eligibility-rules-giving-division-i-athletes-5-years-to-play-5-seasons", "https://www.wisn.com/article/ncaa-new-eligibility-rules-5-years-5-seasons/71681882"] },
+      { "id": "pro-player-eligibility", "summary": "Athletes who signed NBA or NFL contracts (including G League and two-way deals) stay ineligible under NCAA/SEC rules. Draft picks who never signed (e.g., James Nnaji, Baylor, December 2025) were cleared. Charles Bediako (Alabama, January 2026) and LSU's 2026 cases (Dae'Quan Wright, Zxavian Harris, RJ Luis Jr.) used state courts to fight this. EO 14400 also calls for barring pro athletes from returning.", "confidence": "low", "note": "Outcome of Bediako's case not verified.", "sources": ["https://www.lawcommentary.com/articles/sec-sues-lsu-former-nfl-players-college-football", "https://www.whitehouse.gov/presidential-actions/2026/04/urgent-national-action-to-save-college-sports/"] },
+      { "id": "football-transfer-window", "summary": "A single football transfer window in January (spring window eliminated), approved October 2025 for 2025-26.", "confidence": "low", "sources": ["https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association"] },
+      { "id": "pro-sports-betting-reversal", "summary": "In October 2025 the D-I Administrative Committee voted to let athletes and staff bet on professional sports (effective November 2025). After pushback, members voted to rescind it in November 2025. Betting on college sports stays banned.", "confidence": "low", "sources": ["https://en.wikipedia.org/wiki/2025%E2%80%9326_NCAA_Division_I_men%27s_basketball_season"] },
+      { "id": "chl-eligibility", "summary": "Canadian Hockey League players made eligible for NCAA hockey from 2025-08-01 (approved November 2024).", "sources": ["https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association"] }
+    ],
+    "litigationPosture": "The NCAA sued Ohio Gov. Mike DeWine in federal court (S.D. Ohio, October 2026) over his eligibility executive order. It is defending dozens of eligibility suits, and its rules are now enforced largely through conference bylaws and CSC agreements.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charlie_Baker",
+      "https://www.espn.com/college-sports/story/_/id/50196596/ncaa-sues-ohio-gov-eligibility-order-5th-year-athletes",
+      "https://frontofficesports.com/article/ncaa-sues-ohio-governor-fifth-year-eligibility/"
+    ]
+  },
+  "collegeSportsCommission": {
+    "id": "college-sports-commission",
+    "ceo": { "id": "bryan-seeley", "name": "Bryan Seeley", "since": 2025, "background": "attorney", "notes": "Former MLB executive vice president for legal and investigations and former federal prosecutor. Named CEO in May 2025." },
+    "founded": 2025,
+    "foundingConferences": ["acc", "big-ten", "big-12", "sec"],
+    "coverage": "Enforces the House settlement rules (revenue-share cap, third-party NIL review, roster limits) at the 68 P4 schools and at other D-I schools that opted into revenue sharing.",
+    "governance": { "notes": "Formed and funded by the four P4 conferences as the settlement's enforcement body, separate from the NCAA. Its legal authority depends on contracts with schools (the participation agreement) because no federal law backs it. The Senate-passed PCSA would endorse it.", "confidence": "low" },
+    "nilGo": {
+      "operator": "Deloitte",
+      "launched": "2025-06-11",
+      "threshold": "Third-party NIL deals of $600 or more must be reported",
+      "standard": "Deals must have a 'valid business purpose' and pay within a fair-market 'range of compensation'. Pay-for-play through collectives that don't sell real goods or services is rejected.",
+      "stats": [
+        { "period": "2025-06-11 to 2025-08-31", "dealsCleared": 6090, "valueClearedUsd": 35420000, "notes": "First report claimed 8,359 deals worth $79.8M. Corrected the next day, with the CSC blaming Deloitte." },
+        { "period": "launch to ~2026-06-30", "valueClearedUsd": 355000000, "valueRejectedUsd": 90000000, "notes": "ESPN: about $355M approved and nearly $90M rejected since launch. From May 1 to June 30, 2026 alone: $113M cleared, $34M rejected.", "confidence": "low" },
+        { "period": "to ~2026-11-22", "dealsRejected": 1000, "valueRejectedUsd": 56000000, "notes": "Front Office Sports: more than 1,000 deals worth $56M rejected. Does not match ESPN's figure.", "confidence": "low" }
+      ]
+    },
+    "participationAgreement": {
+      "summary": "A contract the CSC sent to P4 schools in late 2025. Schools agree to follow CSC rules and penalties, waive the right to sue the CSC, take disputes to neutral arbitration, and not use state laws to get around enforcement. It becomes enforceable only once all 68 P4 schools sign.",
+      "status": "Not universal as of November 2026. The Big 12 was the first conference with every member signed (May 2026). The deadline passed without all schools signing. Some state attorneys general object. Seeley warned that schools' proposed edits 'would water the document down such that it has no enforcement'.",
+      "sources": ["https://sports.yahoo.com/college-football/breaking-news/article/college-sports-commission-issues-long-awaited-participation-agreement-to-power-conference-schools-201024977.html", "https://www.espn.com/college-football/story/_/id/48913026/big-12-first-power-conference-full-csc-participation", "https://www.mondaq.com/unitedstates/sport/1772728/uniformity-or-uncertainty-the-college-sports-commissions-effort-to-implement-university-participation-standards"]
+    },
+    "arbitration": [
+      { "date": "2026-05-11", "matter": "Nebraska football players vs. CSC (third-party NIL deals)", "outcome": "Arbitrator ruled for the CSC." },
+      { "date": "2026-06-10", "matter": "University of Georgia matter", "outcome": "Final neutral arbitration decision posted by the CSC. Agreements cleared after updated review.", "confidence": "low" }
+    ],
+    "enforcementFramework": {
+      "tools": ["deal rejection via NIL Go", "investigations (campus visits, interviews)", "reduced revenue-share cap for specific sports", "postseason bans", "penalties on athletes, institutions and third parties"],
+      "staff": 30,
+      "notes": "Seeley's message to schools: 'These are your rules.' His biggest concern is schools guaranteeing third-party NIL money to portal recruits."
+    },
+    "enforcementActions2025_26": [
+      { "date": "2026-08", "event": "Internal CSC memo (partly published by CBS) describes 'multiple, longer-term investigations into potential cap evasion and NIL-related violations by institutions, student-athletes, and certain third parties.'" },
+      { "date": "2026-10-08", "event": "Reports: the CSC is questioning 5-10 P4 programs, including playoff contenders, over cap breaches and third-party payments. No schools named." },
+      { "date": "2026-11-11", "event": "More than a dozen active investigations and inquiries, staff of 30. No school has yet been penalized for cap circumvention." }
+    ],
+    "conferenceLevelEnforcement": [
+      { "conference": "sec", "summary": "Standardized revenue-share and NIL contracts adopted. Proposed tiered fines on total roster spend: under 1% just above $50.5M, rising to 10% above $70.5M (fines of $7M-$10M+). School-affiliated third-party NIL counted as institutional pay. Possibly retroactive to 2026-10-01." },
+      { "conference": "big-ten", "summary": "League-wide limit of about $49M ($21.6M revenue share plus $27.5M third-party NIL), reported 2026-10-28.", "confidence": "low" }
+    ],
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/45468012/mlb-exec-bryan-seeley-ceo-new-college-sports-commission",
+      "https://www.espn.com/college-football/story/_/id/48837934/ceo-nil-enforcement-reminds-schools-your-rules",
+      "https://www.collegesportscommission.org/",
+      "https://www.1011now.com/2026/05/12/college-sports-commission-wins-key-nil-arbitration-case-brought-by-nebraska-football-players/",
+      "https://www.espn.com/college-football/story/_/id/50142371/reports-watchdog-eyes-nil-violations-5-10-power-4-schools",
+      "https://www.footballscoop.com/2026/10/08/5-10-power-four-programs-including-playoff-contenders-reportedly-under-investigation-for-nil-related-violations",
+      "https://africa.espn.com/college-sports/story/_/id/49308194/nil-clearinghouse-rejected-90m-deals",
+      "https://frontofficesports.com/nil-go-corrects-its-data-from-80m-in-deals-cleared-to-35m-blames-deloitte/",
+      "https://frontofficesports.com/one-year-after-house-settlement-nil-enforcement-is-still-muddled/"
+    ]
+  },
+  "cfpGovernance": {
+    "boardOfManagers": { "composition": "Presidents/chancellors representing the 10 FBS conferences plus Notre Dame's president", "role": "Final authority on policy, budget and contracts." },
+    "managementCommittee": {
+      "composition": "The 10 FBS commissioners plus Notre Dame's AD",
+      "members": [
+        { "id": "greg-sankey", "conference": "sec" },
+        { "id": "tony-petitti", "conference": "big-ten" },
+        { "id": "brett-yormark", "conference": "big-12", "notes": "Leaves 2027-01-31." },
+        { "id": "jim-phillips", "conference": "acc" },
+        { "id": "teresa-gould", "conference": "pac-12" },
+        { "id": "gloria-nevarez", "conference": "mountain-west" },
+        { "id": "tim-pernetti", "conference": "american" },
+        { "id": "judy-macleod", "conference": "cusa" },
+        { "id": "keith-gill", "conference": "sun-belt" },
+        { "id": "jon-steinbrecher", "conference": "mac" },
+        { "id": "pete-bevacqua", "school": "notre-dame", "title": "Notre Dame AD" }
+      ],
+      "role": "Runs operations, format proposals and selection protocol."
+    },
+    "executiveDirector": { "name": "Rich Clark", "since": 2025, "confidence": "low", "note": "Succeeded Bill Hancock. Not re-verified." },
+    "mou2024": "The 2024 memorandum of understanding behind the 2026-2031 CFP contract (ESPN, about $7.8B over six years) gives the SEC and Big Ten effective control over format decisions from 2026, after consulting the others. Revenue split roughly SEC/Big Ten 29% each, ACC about 17%, Big 12 about 15%, G6 about 9%, Notre Dame a fixed share. Exact figures are in cfp.json (money agent).",
+    "format": "12 teams (5 highest-ranked conference champions plus 7 at-large, straight seeding since 2025). Expansion beyond 12 for 2027+ is contested: the SEC favors 16 teams with straight seeding, the Big Ten favors multiple automatic qualifiers per conference.",
+    "confidence": "low",
+    "note": "MOU, executive director and 2026/2027 format details are from memory and not re-verified. data/cfp.json is authoritative.",
+    "sources": ["https://en.wikipedia.org/wiki/College_Football_Playoff"]
+  },
+  "sources": [
+    "https://www.espn.com/college-football/story/_/id/49869481/sec-files-amendment-authority-expel-lsu-conference",
+    "https://theacc.com/news/2026/7/27/general-acc-announces-2026-27-conference-leadership.aspx",
+    "https://news.txst.edu/accolades-and-achievements/2026/txst-president-kelly-damphousse-named-pac-12-board-of-directors-chair.html",
+    "https://www.kctv5.com/2026/10/30/big-12-commissioner-brett-yormark-step-down-january-2027/",
+    "https://www.nationalfootballpost.com/big-ten-extends-contract-of-commissioner-tony-petitti-to-2033",
+    "https://www.collegesportscommission.org/"
+  ]
+}

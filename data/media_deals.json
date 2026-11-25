@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "sec-espn-2024",
+    "conference": "sec",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "sec-espn",
+    "packageAnnualValueUsd": 710000000,
+    "rightsDescription": "Top-tier SEC package formerly held by CBS (SEC on CBS, 1996-2023): first weekly football selection on ABC, ABC primetime games, the SEC Championship Game on ABC, and top men's basketball inventory. Sits on top of the separate ESPN/SEC Network agreement (sec-espn-network-2014).",
+    "startYear": 2024,
+    "endYear": 2034,
+    "firstSeason": "2024-25",
+    "lastSeason": "2033-34",
+    "lastFootballSeason": 2033,
+    "annualValueUsd": 300000000,
+    "totalValueUsd": 3000000000,
+    "escalator": "Not disclosed; reported as an average of about $300M a year over 10 years.",
+    "inventory": [
+      "ABC 3:30 p.m. ET 'SEC on ABC': the first SEC pick each week (the old CBS slot)",
+      "ABC primetime (Saturday Night Football) SEC games",
+      "SEC Championship Game on ABC (Atlanta); ends after the 2026 game because the 24-team CFP drops Power 4 title games from 2027",
+      "Men's basketball: ABC/ESPN top games, incl. the SEC tournament final"
+    ],
+    "exclusivity": "Exclusive. Together with sec-espn-network-2014 it makes ESPN/ABC the SEC's only national partner.",
+    "proRataClause": true,
+    "proRataNotes": "ESPN's SEC agreements were reportedly amended pro rata when Texas and Oklahoma joined in July 2024 (one On3-cited estimate: about $21M per new school). The exact amendment is not public.",
+    "renegotiationTriggers": [
+      "SEC moved to a 9-game conference schedule from 2026. Front Office Sports reported that ESPN wanted more SEC games while the SEC wanted more money; the outcome was not confirmed",
+      "Loss of the SEC Championship Game from 2027 (24-team CFP). ESPN reportedly gets back about $140M a year in Power 4 title-game rights inside the new CFP addendum"
+    ],
+    "networkLinked": "sec-network",
+    "note": "Announced Dec. 10, 2020 under Greg Sankey. CBS chose not to match. Front Office Sports and Awful Announcing put ESPN's all-in SEC spend at about $710M a year, and Sankey has called the deal undervalued compared with the Big Ten.",
+    "sources": [
+      "https://www.sportsvideo.org/2020/12/11/espn-sec-ink-10-year-rights-deal-top-football-package-shift-from-cbs-to-abc/",
+      "https://www.sportsmediawatch.com/2020/12/sec-espn-deal-official-abc-replacing-cbs/",
+      "https://espnpressroom.com/press-release/espn-and-southeastern-conference-reach-a-new-10-year-agreement/",
+      "https://frontofficesports.com/espn-wants-more-sec-games-but-conference-eyes-a-bigger-payday",
+      "https://awfulannouncing.com/espn/greg-sankey-sec-media-rights-deal-undervalued.html"
+    ]
+  },
+  {
+    "id": "sec-espn-network-2014",
+    "conference": "sec",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "sec-espn",
+    "packageAnnualValueUsd": 710000000,
+    "rightsDescription": "20-year ESPN–SEC agreement, announced May 2013, that created the SEC Network (launched Aug. 14, 2014) and absorbed the 2008 ESPN deal (15 years, $2.25B). Covers all SEC inventory not in the top package: ESPN/ESPN2/ESPNU, SEC Network, SEC Network+ and ESPN streaming.",
+    "startYear": 2014,
+    "endYear": 2034,
+    "firstSeason": "2014-15",
+    "lastSeason": "2033-34",
+    "lastFootballSeason": 2033,
+    "annualValueUsd": 410000000,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed. Includes SEC Network revenue sharing, so value moves with network carriage fees and subscribers.",
+    "inventory": [
+      "ESPN/ESPN2 Saturday windows (noon, 4 p.m., 7:45 p.m. ET)",
+      "SEC Network: usually 3 football games per Saturday (noon / 4:15 / 7:45) plus most basketball and Olympic sports",
+      "SEC Network+ / ESPN streaming (ESPN Unlimited/Select): non-conference and Olympic-sport events"
+    ],
+    "exclusivity": "Exclusive grant of conference rights; ESPN owns and runs the SEC Network.",
+    "proRataClause": true,
+    "proRataNotes": "Amended with the top-tier deal for Texas and Oklahoma (2024).",
+    "renegotiationTriggers": [
+      "Network carriage renewals (e.g. the Disney–YouTube TV blackout from Oct. 30 to Nov. 14, 2025 took SEC Network off YouTube TV for two weeks)"
+    ],
+    "networkLinked": "sec-network",
+    "confidence": "low",
+    "note": "The $410M a year is derived: the reported $710M a year all-in ESPN figure minus the $300M top-tier package. The split is not public. Not re-verified this session because the shared web-search budget ran out.",
+    "sources": [
+      "https://frontofficesports.com/espn-wants-more-sec-games-but-conference-eyes-a-bigger-payday",
+      "https://www.sportsmediawatch.com/2020/12/sec-espn-deal-official-abc-replacing-cbs/",
+      "https://en.wikipedia.org/wiki/SEC_Network"
+    ]
+  },
+  {
+    "id": "big-ten-fox-2023",
+    "conference": "big-ten",
+    "partner": "fox",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-ten-2023",
+    "packageAnnualValueUsd": 1100000000,
+    "rightsDescription": "Lead Big Ten partner: FOX noon window ('Big Noon Saturday'), FOX/FS1 football and men's basketball, the Big Ten Championship Game in most years, and the conference's BTN joint venture (see big-ten-btn-2007).",
+    "startYear": 2023,
+    "endYear": 2030,
+    "firstSeason": "2023-24",
+    "lastSeason": "2029-30",
+    "lastFootballSeason": 2029,
+    "annualValueUsd": 400000000,
+    "totalValueUsd": 2800000000,
+    "escalator": "Back-loaded. A Big Ten source said the biggest increases come in Years 3–7 of the 7-year term.",
+    "inventory": [
+      "FOX 'Big Noon Saturday' noon ET window: the Big Ten's top game most weeks (about 24-25 games a year across FOX and FS1)",
+      "Big Ten Championship Game: originally 4 of 7 years (2023, 2025, 2027, 2029); FOX also bought NBC's 2026 game for a reported $45-55M. The 2027 and 2029 games disappear under the 24-team CFP",
+      "FS1 football and men's basketball, incl. Big Ten tournament games",
+      "Black Friday / Thanksgiving-week games (shared rotation)"
+    ],
+    "exclusivity": "Exclusive national window; the networks license their inventory through BTN, which FOX controls.",
+    "proRataClause": null,
+    "proRataNotes": "No automatic pro rata clause has been reported. USC and UCLA were included in the 2022 negotiation; Oregon and Washington (2024) joined on reduced, phased shares.",
+    "renegotiationTriggers": [
+      "24-team CFP from 2027 removes the Big Ten Championship Game (FOX inventory); no compensation terms reported",
+      "Deal expires after 2029-30; the next negotiation window is expected about 2027-29",
+      "Paused 'Big Ten Enterprises' private-capital plan (UC Investments, $2.4B for about 10%, grant of rights to 2046) would have bundled media and sponsorship rights"
+    ],
+    "networkLinked": "btn",
+    "confidence": "low",
+    "note": "The $400M+ a year is a Bloomberg-reported estimate (2022); the total is derived (7 x $400M). The overall 7-year package was reported at 'more than $7 billion'.",
+    "sources": [
+      "https://www.bnnbloomberg.ca/big-ten-sets-college-record-with-1-billion-a-year-broadcast-deal-1.1807434",
+      "https://www.cbssports.com/college-football/news/big-ten-reaches-seven-year-media-rights-deal-with-cbs-fox-and-nbc-for-football-basketball-through-2029-30",
+      "https://www.espn.com/college-football/story/_/id/34417911/big-ten-completes-7-year-7-billion-media-rights-agreement-fox-cbs-nbc",
+      "https://www.on3.com/news/report-fox-to-buy-back-big-ten-2026-championship-game-from-nbc-for-45-55-million/",
+      "https://frontofficesports.com/uc-investments-says-big-ten-deal-is-off-until-schools-can-agree/"
+    ]
+  },
+  {
+    "id": "big-ten-cbs-2023",
+    "conference": "big-ten",
+    "partner": "cbs",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-ten-2023",
+    "packageAnnualValueUsd": 1100000000,
+    "rightsDescription": "'Big Ten on CBS' 3:30 p.m. ET Saturday window (replacing the SEC on CBS slot), plus men's basketball incl. the Big Ten tournament final, and the Big Ten Championship Game in 2 of 7 years.",
+    "startYear": 2023,
+    "endYear": 2030,
+    "firstSeason": "2023-24",
+    "lastSeason": "2029-30",
+    "lastFootballSeason": 2029,
+    "annualValueUsd": 350000000,
+    "totalValueUsd": 2450000000,
+    "escalator": "Back-loaded (see big-ten-fox-2023).",
+    "inventory": [
+      "CBS 3:30 p.m. ET Saturday national window (about 14-15 football games a year, incl. a Black Friday game)",
+      "Big Ten Championship Game 2024 (aired) and 2028 (removed by the 24-team CFP)",
+      "Men's basketball on CBS, incl. the tournament championship; Paramount+ simulcasts"
+    ],
+    "exclusivity": "Exclusive window.",
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "Loss of the 2028 Big Ten Championship Game under the 24-team CFP"
+    ],
+    "networkLinked": "btn",
+    "confidence": "low",
+    "note": "About $350M a year per 2022 multi-outlet reports; the total is derived.",
+    "sources": [
+      "https://www.bnnbloomberg.ca/big-ten-sets-college-record-with-1-billion-a-year-broadcast-deal-1.1807434",
+      "https://fortune.com/2022/08/18/big-ten-historic-tv-deal-college-football-basketball-1-billion-a-year/",
+      "https://www.si.com/college/2022/08/18/big-ten-announces-new-media-tv-rights-deal-kevin-warren"
+    ]
+  },
+  {
+    "id": "big-ten-nbc-2023",
+    "conference": "big-ten",
+    "partner": "nbc",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-ten-2023",
+    "packageAnnualValueUsd": 1100000000,
+    "rightsDescription": "'Big Ten Saturday Night' primetime package on NBC, Peacock-exclusive football games, and men's and women's basketball on NBC/Peacock. NBC's single Big Ten Championship Game (2026) was resold to FOX.",
+    "startYear": 2023,
+    "endYear": 2030,
+    "firstSeason": "2023-24",
+    "lastSeason": "2029-30",
+    "lastFootballSeason": 2029,
+    "annualValueUsd": 350000000,
+    "totalValueUsd": 2450000000,
+    "escalator": "Back-loaded (see big-ten-fox-2023).",
+    "inventory": [
+      "NBC Saturday primetime (7:30 p.m. ET) 'Big Ten Saturday Night' (about 14-16 games a year)",
+      "Peacock-exclusive football games (streaming only)",
+      "Basketball on NBC/Peacock",
+      "2026 Big Ten Championship Game sold back to FOX for a reported $45-55M (NBC had asked about $70M); NBC received extra regular-season games in return"
+    ],
+    "exclusivity": "Exclusive primetime window.",
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "April 2026 resale of the 2026 title game to FOX shows a network can sublicense or resell inventory, but FOX (through BTN's licensing role) blocked NBC from selling it to a streamer"
+    ],
+    "networkLinked": "btn",
+    "confidence": "low",
+    "note": "About $350M a year per 2022 reports; the total is derived.",
+    "sources": [
+      "https://www.bnnbloomberg.ca/big-ten-sets-college-record-with-1-billion-a-year-broadcast-deal-1.1807434",
+      "https://www.on3.com/news/report-fox-to-buy-back-big-ten-2026-championship-game-from-nbc-for-45-55-million/",
+      "https://awfulannouncing.com/college-football/fox-nearing-deal-acquire-2026-big-ten-championship-game-nbc.html",
+      "https://barrettmedia.com/2026/04/23/fox-sports-reportedly-purchases-2026-big-ten-championship-from-nbc-sports/"
+    ]
+  },
+  {
+    "id": "big-ten-btn-2007",
+    "conference": "big-ten",
+    "partner": "fox",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-ten-2023",
+    "packageAnnualValueUsd": 1100000000,
+    "rightsDescription": "Big Ten Network joint venture (launched Aug. 30, 2007): FOX majority owner (about 61%), Big Ten about 39%. BTN holds the licensing rights for the conference's media inventory and carries third-tier football, most basketball and Olympic sports. The Big Ten earns equity profits plus rights fees.",
+    "startYear": 2007,
+    "endYear": 2032,
+    "firstSeason": "2007-08",
+    "lastSeason": null,
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Driven by carriage fees: high in-footprint rates, low out-of-footprint rates.",
+    "inventory": [
+      "BTN football: noon/3:30/primetime games not chosen by FOX/CBS/NBC",
+      "Most men's/women's basketball and Olympic sports",
+      "B1G+ subscription streaming for non-televised events"
+    ],
+    "exclusivity": "Conference network; wholly in-house JV.",
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "Expansion into new TV markets (LA, Seattle, Portland in 2024) lets BTN demand in-footprint carriage fees from distributors there"
+    ],
+    "networkLinked": "btn",
+    "confidence": "low",
+    "note": "The ownership split and the JV term (originally 25 years, which would run to about 2032) come from prior knowledge, not re-verified this session. Search reporting does confirm that FOX holds a majority stake and that BTN holds the licensing rights for Big Ten inventory.",
+    "sources": [
+      "https://www.on3.com/news/report-fox-to-buy-back-big-ten-2026-championship-game-from-nbc-for-45-55-million/",
+      "https://en.wikipedia.org/wiki/Big_Ten_Network"
+    ]
+  },
+  {
+    "id": "big-12-espn-2025",
+    "conference": "big-12",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-12-2025",
+    "packageAnnualValueUsd": 507000000,
+    "rightsDescription": "Six-year extension, signed Oct. 2022, nearly 18 months before the exclusive window opened: ESPN/ABC share of Big 12 football and basketball, plus 'Big 12 Now on ESPN+' streaming of non-televised events.",
+    "startYear": 2025,
+    "endYear": 2031,
+    "firstSeason": "2025-26",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": 2030,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "ABC 3:30 p.m. ET and ABC primetime Big 12 games (ESPN and FOX alternate picks)",
+      "ESPN/ESPN2/ESPNU windows incl. Thursday/Friday night games",
+      "Big 12 Now on ESPN+ (streaming-only, roughly 1,000 events a year incl. some football)",
+      "Big 12 Championship Game (alternates ABC/FOX) through the 2026 season; dropped from 2027 under the 24-team CFP",
+      "Men's and women's basketball, incl. the Big 12 tournament in Kansas City"
+    ],
+    "exclusivity": "Exclusive, split between two partners.",
+    "proRataClause": true,
+    "proRataNotes": "Both the ESPN and FOX contracts include a pro rata clause for expansion. Adding Arizona, Arizona State, Colorado and Utah (2024) raised payments by about one average share each (about $31.7M).",
+    "renegotiationTriggers": [
+      "Pro rata increases when members are added",
+      "Next cycle expected around 2029-30. A May 2026 report had Yormark already planning it, but he leaves on Jan. 31, 2027 to run RedBird Capital's Milan Sports & Entertainment",
+      "Big 12 Championship Game eliminated from 2027 (24-team CFP)"
+    ],
+    "networkLinked": "big-12-now",
+    "confidence": "low",
+    "note": "The package was $2.28B over 6 years (about $380M a year) for 12 members, roughly $31.7M per school. The 16-member figure (about $507M a year) is derived at $31.7M per school. The ESPN/FOX split is not public, so the per-partner value is null.",
+    "sources": [
+      "https://www.espn.com/college-football/story/_/id/34910144/big-12-nears-six-year-228b-tv-extension-deal-espn-fox",
+      "https://awfulannouncing.com/ncaa/big-12s-new-media-rights-deals-reportedly-contain-pro-rata-clause-in-case-of-future-expansion.html",
+      "https://www.cbssports.com/college-football/news/big-12-finalizing-six-year-2-3-billion-extension-of-media-rights-deal-with-espn-and-fox-sports",
+      "https://on3.com/news/report-big-12-officially-signs-television-contract-running-through-2031-with-fox-espn",
+      "https://www.espn.com/college-sports/story/_/id/50327726/commissioner-brett-yormark-leaving-big-12-january"
+    ]
+  },
+  {
+    "id": "big-12-fox-2025",
+    "conference": "big-12",
+    "partner": "fox",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-12-2025",
+    "packageAnnualValueUsd": 507000000,
+    "rightsDescription": "FOX share of the six-year Big 12 extension: FOX/FS1 football incl. Big Noon Saturday appearances, and FS1 basketball.",
+    "startYear": 2025,
+    "endYear": 2031,
+    "firstSeason": "2025-26",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": 2030,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "FOX 'Big Noon Saturday' Big 12 games (shared with the Big Ten)",
+      "FOX/FS1 afternoon and primetime football",
+      "Big 12 Championship Game in alternating years through 2026",
+      "FS1 men's basketball"
+    ],
+    "exclusivity": "Exclusive, split with ESPN.",
+    "proRataClause": true,
+    "proRataNotes": "See big-12-espn-2025.",
+    "renegotiationTriggers": [
+      "See big-12-espn-2025"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "Package value: see big-12-espn-2025.",
+    "sources": [
+      "https://www.espn.com/college-football/story/_/id/34910144/big-12-nears-six-year-228b-tv-extension-deal-espn-fox",
+      "https://awfulannouncing.com/ncaa/big-12s-new-media-rights-deals-reportedly-contain-pro-rata-clause-in-case-of-future-expansion.html",
+      "https://www.sportcal.com/media/espn-and-fox-finalize-long-term-big-12-rights-extensions/"
+    ]
+  },
+  {
+    "id": "acc-espn-2016",
+    "conference": "acc",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "acc-espn",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "20-year ESPN agreement (announced July 2016) covering all ACC rights and creating the ACC Network (launched Aug. 22, 2019), tied to a grant of rights through 2035-36. ESPN had an option, due Feb. 1, 2025, to keep the 2027-28 to 2035-36 years; it exercised the option on Jan. 30, 2025.",
+    "startYear": 2016,
+    "endYear": 2036,
+    "firstSeason": "2016-17",
+    "lastSeason": "2035-36",
+    "lastFootballSeason": 2035,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed. The original 2012 deal was reported at $3.6B over 15 years (about $240M a year), and value has risen with ACC Network carriage.",
+    "inventory": [
+      "ABC Saturday windows incl. ABC primetime ACC games",
+      "ESPN/ESPN2 incl. Thursday and Friday night ACC games",
+      "ACC Network: 1-3 football games most Saturdays plus most basketball and Olympic sports",
+      "ACCNX / ESPN streaming for non-televised events",
+      "ACC Championship Game (ABC, Charlotte) through the 2026 season; eliminated from 2027 under the 24-team CFP",
+      "Some games sublicensed to The CW (see acc-cw-2023)"
+    ],
+    "exclusivity": "Exclusive; ESPN owns and runs the ACC Network.",
+    "proRataClause": true,
+    "proRataNotes": "ESPN pays pro rata for Cal, Stanford and SMU (joined 2024). Cal and Stanford took reduced shares (about 30% at first) and SMU took none for 9 years; the money they gave up funds a performance and success-initiative pool. Per-school pro rata amount reportedly about $24M (low confidence).",
+    "renegotiationTriggers": [
+      "ESPN option exercised Jan. 30, 2025. Commissioner Jim Phillips called it a 'look-in' that could also cover time slots and network designations",
+      "March 2025 settlement with Florida State and Clemson: revenue distribution partly tied to viewership/brand value, and lower exit costs after 2030-31 (see the legal-exit-fees-gor research)",
+      "ACC Championship Game eliminated from 2027 (24-team CFP)"
+    ],
+    "networkLinked": "acc-network",
+    "confidence": "low",
+    "note": "The extension and option facts are verified. Value is undisclosed; the game model can estimate ACC TV income at about $24-28M per school a year before the success-initiative pool.",
+    "sources": [
+      "https://espnpressroom.com/us/press-releases/2025/01/acc-and-espn-announce-long-term-renewed-commitment/",
+      "https://www.cbssports.com/college-football/news/acc-extends-media-rights-deal-through-2036-what-it-means-for-florida-state-lawsuit-conference-realignment",
+      "https://www.sportsvideo.org/2025/01/30/espn-and-acc-re-up-media-rights-deal-through-2035-36/",
+      "https://www.on3.com/news/acc-commissioner-jim-phillips-publicly-addresses-conferences-extension-with-espn",
+      "https://abc7chicago.com/post/sources-espn-oks-option-televise-acc-sports-36/15848852/"
+    ]
+  },
+  {
+    "id": "acc-cw-2023",
+    "conference": "acc",
+    "partner": "cw",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "acc-espn",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "The CW sublicenses a slate of ACC football (Saturday afternoon) and men's/women's basketball games from ESPN, giving the ACC free over-the-air exposure.",
+    "startYear": 2023,
+    "endYear": null,
+    "firstSeason": "2023-24",
+    "lastSeason": null,
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "The CW Saturday ACC football (about 13 games a year)",
+      "ACC basketball on The CW"
+    ],
+    "exclusivity": "Sublicense from ESPN; money flows through ESPN, not to the ACC directly.",
+    "proRataClause": false,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge; the end year is not confirmed. Not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_CW"
+    ]
+  },
+  {
+    "id": "pac-12-cbs-2026",
+    "conference": "pac-12",
+    "partner": "cbs",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "pac-12-2026",
+    "packageAnnualValueUsd": 68000000,
+    "rightsDescription": "Primary long-term partner of the rebuilt Pac-12 (announced June 2025): football and men's basketball on CBS, CBS Sports Network and Paramount+, incl. both championship games.",
+    "startYear": 2026,
+    "endYear": 2031,
+    "firstSeason": "2026-27",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": 2030,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "At least 3 regular-season football games a year on CBS",
+      "Pac-12 Football Championship Game on CBS (G6 title games are not affected by the 24-team CFP change)",
+      "At least 3 regular-season men's basketball games a year on CBS, plus the Pac-12 men's tournament final",
+      "CBS Sports Network: an unspecified number of football and men's basketball games",
+      "Paramount+ simulcasts"
+    ],
+    "exclusivity": "Exclusive windows within a 3-partner package (CBS, The CW, USA).",
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "Membership changes (e.g. further expansion beyond 8 football members + Gonzaga)"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "Terms are verified; financials undisclosed. Octagon advised. Commissioner Teresa Gould called publishing revenue figures 'inappropriate'. Outlets project the total package at $7-10M per school a year ($56-80M total for 8 football schools); $68M is the midpoint, and The Athletic's Dellenger reported the final figure would be below earlier $8-15M projections.",
+    "sources": [
+      "https://www.foxsports.com/articles/cfb/rebuilding-pac12-reaches-deal-with-cbs-for-its-football-and-mens-basketball-games",
+      "https://www.thescore.com/ncaaf/news/3303353/pac-12-reaches-broadcast-deal-with-cbs-through-2031",
+      "https://www.deseret.com/sports/2025/06/18/projections-for-new-pac-12-conference-media-deal/",
+      "https://awfulannouncing.com/college-football/pac-12-teresa-gould-inappropriate-release-media-revenue-figures.html",
+      "https://pac-12.com/news/2024/11/19/general-pac-12-conference-selects-octagon-to-lead-media-rights-strategy-for-its-new-era.aspx"
+    ]
+  },
+  {
+    "id": "pac-12-cw-2024",
+    "conference": "pac-12",
+    "partner": "cw",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "pac-12-2026",
+    "packageAnnualValueUsd": 68000000,
+    "rightsDescription": "Started in 2024 as a short deal for Oregon State/Washington State home football and basketball. Extended in Aug. 2025 through 2030-31 for the rebuilt league.",
+    "startYear": 2024,
+    "endYear": 2031,
+    "firstSeason": "2024-25",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": 2030,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "13 regular-season football games a year on The CW (broadcast, free over the air)",
+      "35 men's basketball games a year",
+      "15 women's basketball games a year",
+      "All 66 CW events produced by Pac-12 Enterprises, the conference's in-house production arm left over from Pac-12 Networks"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "note": "Package value: see pac-12-cbs-2026.",
+    "sources": [
+      "https://www.cbssports.com/college-football/news/pac-12-secures-long-term-media-rights-deal-with-the-cw-as-conference-gains-more-momentum-ahead-of-expansion",
+      "https://www.tvtechnology.com/news/the-cw-network-extends-pac-12-deal-through-2030-31-season",
+      "https://wtop.com/sports/2025/08/pac-12-secures-extension-of-tv-deal-with-the-cw-for-football-and-basketball"
+    ]
+  },
+  {
+    "id": "pac-12-versant-2026",
+    "conference": "pac-12",
+    "partner": "versant",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "pac-12-2026",
+    "packageAnnualValueUsd": 68000000,
+    "rightsDescription": "USA Network (USA Sports, part of Versant, the cable networks spun off from NBCUniversal) 5-year deal, announced Nov. 2025, for Pac-12 football.",
+    "startYear": 2026,
+    "endYear": 2031,
+    "firstSeason": "2026-27",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": 2030,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "22 regular-season football games a year on USA Network",
+      "With CBS, CBSSN and The CW, every Pac-12 home regular-season football game airs on linear TV"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "note": "Package value: see pac-12-cbs-2026.",
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/46953746/pac-12-signs-tv-deal-usa-sports-2030-31",
+      "https://www.si.com/college/boise-state/football/pac-12-usa-network-agree-to-media-rights-deal",
+      "https://www.on3.com/nil/news/pac-12-announces-5-year-media-rights-deal-usa-sports"
+    ]
+  },
+  {
+    "id": "mountain-west-cbs-2026",
+    "conference": "mountain-west",
+    "partner": "cbs",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "mountain-west-2026",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "Renewed CBS deal (announced Feb. 3, 2026): CBS is the lead basketball partner and carries 15 regular-season football games a year.",
+    "startYear": 2026,
+    "endYear": 2032,
+    "firstSeason": "2026-27",
+    "lastSeason": "2031-32",
+    "lastFootballSeason": 2031,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "15 regular-season football games a year on CBS/CBS Sports Network/Paramount+",
+      "Lead men's basketball partner, incl. the MW men's tournament championship game each year"
+    ],
+    "exclusivity": "Exclusive windows within a 4-partner package.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": "mountain-west-network",
+    "note": "Financial terms not released. The prior CBS+FOX deal was 6 years, $270M (about $45M a year, 2020-21 to 2025-26) for a 12-team league; the new deal covers the post-Pac-12-exit league.",
+    "sources": [
+      "https://fbschedules.com/mountain-west-announces-new-media-rights-deal-with-cbs-fox-the-cw/",
+      "https://awfulannouncing.com/college-football/mountain-west-inks-media-rights-deals-cbs-fox-cw.html",
+      "https://www.kunc.org/news/2026-02-05/mountain-west-announces-media-rights-package-featuring-cbs-fox-the-cw-and-kiswe-streaming-platform"
+    ]
+  },
+  {
+    "id": "mountain-west-fox-2026",
+    "conference": "mountain-west",
+    "partner": "fox",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "mountain-west-2026",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "Renewed FOX deal (announced Feb. 3, 2026): 12 regular-season football games and the exclusive Mountain West Championship Game every year.",
+    "startYear": 2026,
+    "endYear": 2032,
+    "firstSeason": "2026-27",
+    "lastSeason": "2031-32",
+    "lastFootballSeason": 2031,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "12 regular-season football games a year across FOX, FS1 and FS2",
+      "Mountain West Championship Game, exclusive every year (G6 title games survive the 24-team CFP)",
+      "Late-night 'Mountain time' kickoff windows on FS1"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": "mountain-west-network",
+    "note": "Financial terms not released.",
+    "sources": [
+      "https://fbschedules.com/mountain-west-announces-new-media-rights-deal-with-cbs-fox-the-cw/",
+      "https://awfulannouncing.com/college-football/mountain-west-inks-media-rights-deals-cbs-fox-cw.html"
+    ]
+  },
+  {
+    "id": "mountain-west-cw-2026",
+    "conference": "mountain-west",
+    "partner": "cw",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "mountain-west-2026",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "New CW partnership: 13 regular-season football games a year on broadcast TV, for 5 years.",
+    "startYear": 2026,
+    "endYear": 2031,
+    "firstSeason": "2026-27",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": 2030,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "13 regular-season football games a year on The CW"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "note": "Ends one year before the CBS/FOX/Kiswe deals (2030-31 vs 2031-32).",
+    "sources": [
+      "https://fbschedules.com/mountain-west-announces-new-media-rights-deal-with-cbs-fox-the-cw/",
+      "https://www.si.com/college/unlv/football/mountain-west-conference-agrees-to-new-media-rights-partnerships"
+    ]
+  },
+  {
+    "id": "mountain-west-kiswe-2026",
+    "conference": "mountain-west",
+    "partner": "kiswe",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "mountain-west-2026",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "6-year deal with Kiswe to build a paid direct-to-consumer Mountain West streaming service, replacing the free MW app from July 2026.",
+    "startYear": 2026,
+    "endYear": 2032,
+    "firstSeason": "2026-27",
+    "lastSeason": "2031-32",
+    "lastFootballSeason": 2031,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Subscription revenue model; no guaranteed rights fee reported.",
+    "inventory": [
+      "Streaming-only: all MW events not picked by CBS, FOX or The CW (Olympic sports, basketball overflow, any football overflow)"
+    ],
+    "exclusivity": "Conference-owned DTC platform; Kiswe is the technology/operating partner.",
+    "proRataClause": false,
+    "renegotiationTriggers": [],
+    "networkLinked": "mountain-west-network",
+    "note": "A precedent for 'conference-owned streaming' in the game: revenue depends on subscribers, not a guaranteed rights fee.",
+    "sources": [
+      "https://fbschedules.com/mountain-west-announces-new-media-rights-deal-with-cbs-fox-the-cw/",
+      "https://www.kunc.org/news/2026-02-05/mountain-west-announces-media-rights-package-featuring-cbs-fox-the-cw-and-kiswe-streaming-platform"
+    ]
+  },
+  {
+    "id": "american-espn-2020",
+    "conference": "american",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "american-espn",
+    "packageAnnualValueUsd": 83000000,
+    "rightsDescription": "12-year all-rights ESPN deal (signed March 2019), reportedly about $1B, covering football, basketball and Olympic sports across ABC/ESPN networks and ESPN streaming.",
+    "startYear": 2020,
+    "endYear": 2032,
+    "firstSeason": "2020-21",
+    "lastSeason": "2031-32",
+    "lastFootballSeason": 2031,
+    "annualValueUsd": 83000000,
+    "totalValueUsd": 1000000000,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "Several ABC football windows a year",
+      "ESPN/ESPN2/ESPNU incl. Thursday/Friday night football",
+      "ESPN streaming (formerly ESPN+) for non-linear events",
+      "American Championship Game on ABC/ESPN (G6 title game; survives the 24-team CFP)"
+    ],
+    "exclusivity": "Exclusive single-partner deal.",
+    "proRataClause": null,
+    "proRataNotes": "The contract allowed changes if membership changed. When Cincinnati, Houston and UCF left in 2023 and six C-USA schools joined, ESPN reportedly kept the deal's value whole.",
+    "renegotiationTriggers": [
+      "Membership-change clause (exercised without a value reduction in 2023)"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge; not re-verified this session. The league brands itself as the 'American Conference' (2025 rebrand; verify).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Athletic_Conference"
+    ]
+  },
+  {
+    "id": "cusa-cbs-2023",
+    "conference": "cusa",
+    "partner": "cbs",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "cusa-2023",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "5-year deal (announced Nov. 10, 2022): CBS Sports gets the Tier 1 selection of C-USA football and men's basketball.",
+    "startYear": 2023,
+    "endYear": 2028,
+    "firstSeason": "2023-24",
+    "lastSeason": "2027-28",
+    "lastFootballSeason": 2027,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "Tier 1 pick: 18 football games a year on CBS Sports Network (occasional CBS/Paramount+)",
+      "C-USA Football Championship Game",
+      "18 men's basketball games a year"
+    ],
+    "exclusivity": "Exclusive Tier 1 windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "Expires after 2027-28; no extension found as of the research date"
+    ],
+    "networkLinked": null,
+    "note": "Value not disclosed. Negotiated by Commissioner Judy MacLeod.",
+    "sources": [
+      "https://conferenceusa.com/news/2022/11/10/general-conference-usa-announces-multimedia-rights-deal.aspx",
+      "https://www.cbssports.com/college-football/news/conference-usa-reaches-tv-deal-with-cbs-sports-espn-to-broadcast-midweek-college-football-games",
+      "https://www.sportsvideo.org/2022/11/11/conference-usa-inks-new-rights-deal-with-cbs-sports-espn/"
+    ]
+  },
+  {
+    "id": "cusa-espn-2023",
+    "conference": "cusa",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "cusa-2023",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "ESPN half of the 2022 C-USA deal: midweek football on ESPN linear networks plus streaming of everything not on linear TV.",
+    "startYear": 2023,
+    "endYear": 2028,
+    "firstSeason": "2023-24",
+    "lastSeason": "2027-28",
+    "lastFootballSeason": 2027,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "Midweek (Tuesday/Wednesday, mainly October) football on ESPN/ESPN2/ESPNU",
+      "ESPN+/ESPN streaming: all games not on linear TV"
+    ],
+    "exclusivity": "Exclusive.",
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "Expires after 2027-28"
+    ],
+    "networkLinked": null,
+    "sources": [
+      "https://espnpressroom.com/us/press-releases/2022/11/espn-and-conference-usa-announce-multimedia-rights-deal/",
+      "https://conferenceusa.com/news/2022/11/10/general-conference-usa-announces-multimedia-rights-deal.aspx"
+    ]
+  },
+  {
+    "id": "sun-belt-espn",
+    "conference": "sun-belt",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "sun-belt-espn",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "Exclusive all-rights ESPN deal covering Sun Belt football, basketball and Olympic sports across ESPN networks (occasional ABC) and ESPN streaming; extended after the 2022 expansion.",
+    "startYear": 2020,
+    "endYear": 2031,
+    "firstSeason": "2020-21",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": 2030,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "ESPN/ESPN2/ESPNU football incl. Tuesday/Thursday weeknight games",
+      "Sun Belt Championship Game on ESPN (G6 title game)",
+      "ESPN streaming for remaining events"
+    ],
+    "exclusivity": "Exclusive single-partner deal.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "The end year (2030-31) and start year come from prior knowledge; not re-verified this session. Value has never been publicly reported in detail; low single-digit millions per school is a reasonable model value.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ]
+  },
+  {
+    "id": "mac-espn-2014",
+    "conference": "mac",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "mac-espn",
+    "packageAnnualValueUsd": 7700000,
+    "rightsDescription": "13-year exclusive multi-platform ESPN deal (announced Aug. 2014) covering every MAC football game and select basketball and Olympic events. Created the 'MACtion' midweek November package. Expires after 2026-27.",
+    "startYear": 2014,
+    "endYear": 2027,
+    "firstSeason": "2014-15",
+    "lastSeason": "2026-27",
+    "lastFootballSeason": 2026,
+    "annualValueUsd": 7700000,
+    "totalValueUsd": 100000000,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "Midweek 'MACtion' Tuesday/Wednesday November football on ESPN/ESPN2/ESPNU",
+      "MAC Championship Game (Ford Field, Detroit) on ESPN",
+      "ESPN streaming: games produced on campus by member schools",
+      "Some games sublicensed to CBS Sports Network"
+    ],
+    "exclusivity": "Exclusive; ESPN sublicenses some inventory to CBS.",
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "Expires after 2026-27: an open negotiation. In Nov. 2025, Commissioner Jon Steinbrecher expected a new agreement within 6-18 months and would not commit to midweek games after 2026",
+      "Sacramento State joins as a football-only member in 2026"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "The $100M over 13 years figure is from prior knowledge; 2014 coverage said financial terms were not disclosed. No replacement deal had been confirmed by the end of the research window.",
+    "sources": [
+      "https://espnpressroom.com/us/press-releases/2014/08/espn-and-mid-american-conference-extend-exclusive-multi-platform-agreement-through-2026-27/",
+      "https://getsomemaction.com/news/2014/8/19/GEN_0819145904.aspx",
+      "https://www.forbes.com/sites/timcasey/2025/11/11/how-the-mid-american-conference-and-espn-made-maction-mid-week-football-popular/",
+      "https://www.bythebelt.com/mid-american-conference-tv-rights-deal-negotiations-2027-grant-of-rights/"
+    ]
+  },
+  {
+    "id": "mac-cbs-sublicense",
+    "conference": "mac",
+    "partner": "cbs",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "mac-espn",
+    "packageAnnualValueUsd": 7700000,
+    "rightsDescription": "CBS Sports Network sublicenses a slate of MAC football and basketball games from ESPN.",
+    "startYear": null,
+    "endYear": 2027,
+    "firstSeason": null,
+    "lastSeason": "2026-27",
+    "lastFootballSeason": 2026,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "CBS Sports Network football (Saturday) and basketball games"
+    ],
+    "exclusivity": "Sublicense from ESPN.",
+    "proRataClause": false,
+    "renegotiationTriggers": [
+      "A By The Belt analysis speculates that CBS could take about 15 football selections directly in a split 2027 deal (speculation only)"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "Start year unknown.",
+    "sources": [
+      "https://www.bythebelt.com/mid-american-conference-tv-rights-deal-negotiations-2027-grant-of-rights/"
+    ]
+  },
+  {
+    "id": "notre-dame-nbc-2025",
+    "conference": "notre-dame",
+    "partner": "nbc",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "notre-dame-nbc",
+    "packageAnnualValueUsd": 50000000,
+    "rightsDescription": "Exclusive rights to Notre Dame home football (NBC since 1991), extended in 2023 for 10 more years from 2025. Includes one Peacock-exclusive home game a year and NBC primetime windows.",
+    "startYear": 2025,
+    "endYear": 2035,
+    "firstSeason": "2025-26",
+    "lastSeason": "2034-35",
+    "lastFootballSeason": 2034,
+    "annualValueUsd": 50000000,
+    "totalValueUsd": 500000000,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "All Notre Dame home football games on NBC/Peacock",
+      "One Peacock-exclusive game a year",
+      "NBC Saturday afternoon (3:30) and primetime windows"
+    ],
+    "exclusivity": "Exclusive single-school national deal (the only one in FBS).",
+    "proRataClause": false,
+    "renegotiationTriggers": [
+      "Notre Dame's ACC deal (non-football; 5 ACC football games a year) and CFP access arrangements",
+      "Under the 24-team CFP, Notre Dame competes for the 19 at-large spots"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "About $50M a year is the widely reported estimate (up from about $15-22M); value and term are from prior knowledge, not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Notre_Dame_Football_on_NBC"
+    ]
+  },
+  {
+    "id": "big-east-fox-2024",
+    "conference": "big-east",
+    "partner": "fox",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-east-2024",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "FOX remains the Big East's primary partner under 6-year deals (2024-25 to 2030-31) signed in 2023 alongside TNT Sports and NBC Sports. Covers men's basketball on FOX/FS1 and the Big East tournament at Madison Square Garden.",
+    "startYear": 2024,
+    "endYear": 2031,
+    "firstSeason": "2024-25",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Not disclosed.",
+    "inventory": [
+      "FOX broadcast men's basketball games (Saturday afternoons)",
+      "FS1 men's and women's basketball",
+      "Big East tournament semifinals and final (MSG) on FOX"
+    ],
+    "exclusivity": "Primary partner in a 3-partner package.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "The previous FOX deal (2013-14 onward) was reported at 12 years, about $500M. Value of the new package is undisclosed. From prior knowledge; not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference"
+    ]
+  },
+  {
+    "id": "big-east-tnt-2024",
+    "conference": "big-east",
+    "partner": "tnt",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-east-2024",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "TNT Sports package of Big East men's basketball regular-season games on TNT/truTV with HBO Max streaming.",
+    "startYear": 2024,
+    "endYear": 2031,
+    "firstSeason": "2024-25",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "TNT/truTV men's basketball regular-season games",
+      "HBO Max simulcast"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "WBD corporate restructuring and sale (see broadcasters.json: tnt)"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge; not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference"
+    ]
+  },
+  {
+    "id": "big-east-nbc-2024",
+    "conference": "big-east",
+    "partner": "nbc",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "big-east-2024",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "NBC Sports package of Big East basketball: Peacock streaming games and some NBC broadcast windows.",
+    "startYear": 2024,
+    "endYear": 2031,
+    "firstSeason": "2024-25",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "Peacock-exclusive men's and women's basketball games",
+      "Occasional NBC broadcast games"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge; not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference"
+    ]
+  },
+  {
+    "id": "wcc-espn",
+    "conference": "wcc",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "wcc-espn",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "WCC basketball and Olympic sports on ESPN networks and ESPN streaming. CBS Sports Network has also carried WCC basketball.",
+    "startYear": null,
+    "endYear": null,
+    "firstSeason": null,
+    "lastSeason": null,
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "ESPN/ESPN2/ESPNU men's basketball, incl. the WCC tournament final",
+      "ESPN streaming for the rest"
+    ],
+    "exclusivity": null,
+    "proRataClause": null,
+    "renegotiationTriggers": [
+      "Gonzaga leaves for the Pac-12 in 2026-27, removing the WCC's main TV draw; expect lower value at renewal"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "Term and value could not be verified this session (web-search budget exhausted).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Coast_Conference"
+    ]
+  },
+  {
+    "id": "a10-cbs-2023",
+    "conference": "a10",
+    "partner": "cbs",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "a10-2023",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "8-year A-10 basketball agreement with CBS Sports (CBS, CBS Sports Network, Paramount+), part of a 3-partner package with ESPN and USA Network.",
+    "startYear": 2023,
+    "endYear": 2031,
+    "firstSeason": "2023-24",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "A-10 men's tournament championship on CBS",
+      "CBS Sports Network regular-season men's basketball"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge; not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference"
+    ]
+  },
+  {
+    "id": "a10-espn-2023",
+    "conference": "a10",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "a10-2023",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "ESPN share of the 8-year A-10 package: ESPN networks plus ESPN streaming for men's/women's basketball and Olympic sports.",
+    "startYear": 2023,
+    "endYear": 2031,
+    "firstSeason": "2023-24",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "ESPN/ESPN2/ESPNU men's basketball",
+      "ESPN streaming for women's basketball and Olympic sports"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge; not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference"
+    ]
+  },
+  {
+    "id": "a10-versant-2023",
+    "conference": "a10",
+    "partner": "versant",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "a10-2023",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "USA Network share of the 8-year A-10 package (signed when USA was part of NBCUniversal; now part of Versant).",
+    "startYear": 2023,
+    "endYear": 2031,
+    "firstSeason": "2023-24",
+    "lastSeason": "2030-31",
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "USA Network men's basketball regular season and early tournament rounds"
+    ],
+    "exclusivity": "Exclusive windows.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge; not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_10_Conference"
+    ]
+  },
+  {
+    "id": "cfp-espn-2026",
+    "conference": "cfp",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "cfp-2026",
+    "packageAnnualValueUsd": 1645000000,
+    "rightsDescription": "Exclusive 6-year College Football Playoff deal (finalized March 2024), about $7.8B. Covers the 12-team format in 2026-27 and the base inventory of the 24-team format from 2027-28. ESPN may sublicense some games (TNT Sports holds a sublicense).",
+    "startYear": 2026,
+    "endYear": 2032,
+    "firstSeason": "2026-27",
+    "lastSeason": "2031-32",
+    "lastFootballSeason": 2031,
+    "annualValueUsd": 1300000000,
+    "totalValueUsd": 7800000000,
+    "escalator": "Average about $1.3B a year.",
+    "inventory": [
+      "All CFP games: first round (on campus), New Year's Six quarterfinals/semifinals, national championship (ABC/ESPN)",
+      "ESPN MegaCast alternate feeds",
+      "Sublicensed games (TNT Sports)"
+    ],
+    "exclusivity": "Exclusive; ESPN controls sublicensing.",
+    "proRataClause": false,
+    "renegotiationTriggers": [
+      "Format expansion: renegotiated Nov. 2026 into the 24-team addendum (cfp-espn-2027)"
+    ],
+    "networkLinked": null,
+    "note": "The previous deal was 12 years, about $5.64B (about $470M a year, 2014-15 to 2025-26). The package value with the 2027 addendum is about $1.3B + $345M a year.",
+    "sources": [
+      "https://www.espn.com/college-football/story/_/id/39766079/college-football-playoff-espn-agree-deal-2031-32",
+      "https://www.cbssports.com/college-football/news/college-football-playoff-finalizes-new-tv-rights-contract-through-2031-season-with-expansion-still-on-table/"
+    ]
+  },
+  {
+    "id": "cfp-espn-2027",
+    "conference": "cfp",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "cfp-2026",
+    "packageAnnualValueUsd": 1645000000,
+    "rightsDescription": "24-team expansion addendum announced Nov. 9, 2026: ESPN pays about $1.7B over 5 years (an average of about $345M a year on top of the $1.3B base) for the 12 added games. The field expands to 24 from 2027-28 and Power 4 conference championship games are eliminated.",
+    "startYear": 2027,
+    "endYear": 2032,
+    "firstSeason": "2027-28",
+    "lastSeason": "2031-32",
+    "lastFootballSeason": 2031,
+    "annualValueUsd": 345000000,
+    "totalValueUsd": 1700000000,
+    "escalator": "Average about $345M a year (reported).",
+    "inventory": [
+      "23 games total: first round with seeds 9-24 (16 games on campus, higher seed hosts), top 8 seeds get byes",
+      "ESPN may sublicense 6 of the 12 new games to approved sublicensees",
+      "The playoff starts the first full week of December after an open week; 2028 national championship on Jan. 24, 2028 in New Orleans"
+    ],
+    "exclusivity": "ESPN is sole rights holder; limited sublicensing.",
+    "proRataClause": false,
+    "renegotiationTriggers": [
+      "Field: Power 4 champions (decided by each league without a title game), the highest-ranked Group of 6 team, and 19 at-large teams",
+      "ESPN gets back about $140M a year from the end of the SEC, ACC and Big 12 title games it owned (estimated net new spend about $205M a year)",
+      "Conferences lose an estimated $225-300M a year in title-game revenue; one estimate has the incremental distribution at $80-100M each for the SEC and Big Ten and $50-70M each for the ACC and Big 12",
+      "Sankey's prerequisites memo: offset lost SEC title-game revenue; scheduling requirement against power opponents"
+    ],
+    "networkLinked": null,
+    "note": "Financials come from sourced reporting (ESPN's Pete Thamel and others), not an official CFP disclosure. The FOX-held Big Ten title game (2027, 2029) and CBS's 2028 game also disappear; no compensation terms reported.",
+    "sources": [
+      "https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion",
+      "https://www.espn.com/college-football/story/_/id/50433381/cfp-espn-ink-5-year-17b-deal-expand-field-sources-say",
+      "https://www.on3.com/news/college-football-playoff-media-rights-deal-espn-clears-path-expansion-24-teams-cfp/",
+      "https://www.cbssports.com/college-football/news/college-football-playoff-format-expanding-to-24-teams-for-2027-season/",
+      "https://www.foxsports.com/stories/college-football/college-football-playoff-expanding-24-teams-heres-what-you-need-know",
+      "https://www.forbes.com/sites/kevin-sweeney/2026/11/11/the-cfps-24-team-expansion-raises-new-financial-questions-for-college-football/",
+      "https://sports.yahoo.com/articles/cfp-expanding-24-teams-big-195954646.html"
+    ]
+  },
+  {
+    "id": "cfp-tnt-sublicense",
+    "conference": "cfp",
+    "partner": "tnt",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "cfp-2026",
+    "packageAnnualValueUsd": 1645000000,
+    "rightsDescription": "TNT Sports sublicense from ESPN of a small number of CFP games (first-round games from 2024-25; later also quarterfinal games).",
+    "startYear": 2024,
+    "endYear": null,
+    "firstSeason": "2024-25",
+    "lastSeason": null,
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": null,
+    "inventory": [
+      "CFP first-round games on TNT/TBS/truTV/HBO Max (2 a year at first)",
+      "Select quarterfinal games in later years"
+    ],
+    "exclusivity": "Exclusive sublicensed games.",
+    "proRataClause": false,
+    "renegotiationTriggers": [
+      "Under the 24-team addendum, ESPN can sublicense up to 6 of the 12 new games; whether TNT gets them was not confirmed"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "Sublicense from prior knowledge (reportedly 5 years, 12 games); terms not re-verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    ]
+  },
+  {
+    "id": "ncaa-cbs-tnt-2025",
+    "conference": "ncaa",
+    "partner": "cbs",
+    "coPartners": [
+      "tnt"
+    ],
+    "status": "active",
+    "packageId": "ncaa-mbb",
+    "packageAnnualValueUsd": 1100000000,
+    "rightsDescription": "NCAA Division I men's basketball tournament: joint CBS Sports / TNT Sports (Turner) deal. The 2016 8-year extension, $8.8B, covers the 2025-2032 tournaments. All games are split across CBS, TBS, TNT and truTV; the Final Four and title game alternate CBS (odd years) and TBS (even years).",
+    "startYear": 2025,
+    "endYear": 2032,
+    "firstSeason": "2024-25",
+    "lastSeason": "2031-32",
+    "lastFootballSeason": null,
+    "annualValueUsd": 1100000000,
+    "totalValueUsd": 8800000000,
+    "escalator": "Average about $1.1B a year.",
+    "inventory": [
+      "Full men's tournament (First Four through championship)",
+      "Final Four/championship: CBS in odd years, TBS in even years",
+      "Paramount+ and HBO Max streaming"
+    ],
+    "exclusivity": "Exclusive.",
+    "proRataClause": false,
+    "renegotiationTriggers": [
+      "Field-expansion talk (72-76 teams) would add inventory",
+      "Paramount Skydance's reported pending acquisition of WBD would put both partners under one owner"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge (the original 2010 deal was 14 years, $10.8B, for 2011-2024); not re-verified this session. NCAA revenue units are distributed from this deal; see the money-postseason ncaa_units.json.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/NCAA_Division_I_men%27s_basketball_tournament"
+    ]
+  },
+  {
+    "id": "ncaa-espn-2024",
+    "conference": "ncaa",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "active",
+    "packageId": "ncaa-championships",
+    "packageAnnualValueUsd": 115000000,
+    "rightsDescription": "8-year ESPN deal (announced Jan. 2024) for 40 NCAA championships, incl. the women's basketball tournament (valued at about $65M a year inside the package), the College World Series, Women's College World Series and others.",
+    "startYear": 2024,
+    "endYear": 2032,
+    "firstSeason": "2024-25",
+    "lastSeason": "2031-32",
+    "lastFootballSeason": null,
+    "annualValueUsd": 115000000,
+    "totalValueUsd": 920000000,
+    "escalator": "Average about $115M a year.",
+    "inventory": [
+      "Women's basketball tournament (Final Four on ABC/ESPN)",
+      "College World Series, Women's College World Series",
+      "37 other NCAA championships, mostly on ESPN streaming"
+    ],
+    "exclusivity": "Exclusive.",
+    "proRataClause": false,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "From prior knowledge; not re-verified this session. The women's tournament started paying performance units in 2025-26.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/NCAA_Division_I_women%27s_basketball_tournament"
+    ]
+  },
+  {
+    "id": "cfp-espn-2014",
+    "conference": "cfp",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "expired",
+    "packageId": "cfp-2014",
+    "packageAnnualValueUsd": 470000000,
+    "rightsDescription": "Original 12-year exclusive CFP deal (4-team format 2014-2023, 12-team 2024-25 and 2025-26 under an amendment). Includes the New Year's Six bowls.",
+    "startYear": 2014,
+    "endYear": 2026,
+    "firstSeason": "2014-15",
+    "lastSeason": "2025-26",
+    "lastFootballSeason": 2025,
+    "annualValueUsd": 470000000,
+    "totalValueUsd": 5640000000,
+    "escalator": null,
+    "inventory": [
+      "Semifinals, national championship, New Year's Six bowls (ESPN/ABC)"
+    ],
+    "exclusivity": "Exclusive.",
+    "proRataClause": false,
+    "renegotiationTriggers": [
+      "12-team expansion (2024) was handled by amendment, with TNT sublicensing"
+    ],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "Historical, for 2010-start saves (the BCS on FOX/ESPN preceded it). Values from prior knowledge.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    ]
+  },
+  {
+    "id": "sec-cbs-2009",
+    "conference": "sec",
+    "partner": "cbs",
+    "coPartners": [],
+    "status": "expired",
+    "packageId": "sec-2009",
+    "packageAnnualValueUsd": 205000000,
+    "rightsDescription": "'SEC on CBS' top-tier package: 3:30 p.m. ET game of the week and the SEC Championship Game. 15-year deal signed 2008, about $825M ($55M a year). CBS declined to match ESPN's 2020 bid, so it ended after the 2023 season.",
+    "startYear": 2009,
+    "endYear": 2024,
+    "firstSeason": "2009-10",
+    "lastSeason": "2023-24",
+    "lastFootballSeason": 2023,
+    "annualValueUsd": 55000000,
+    "totalValueUsd": 825000000,
+    "escalator": null,
+    "inventory": [
+      "CBS 3:30 p.m. ET SEC game of the week (first pick)",
+      "SEC Championship Game"
+    ],
+    "exclusivity": "Exclusive first pick.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "note": "The package value ($205M a year) is the CBS $55M plus ESPN's 2008 deal ($2.25B/15 years, about $150M a year) before the SEC Network. The top-tier value rose about 5.5x when it moved to ESPN.",
+    "sources": [
+      "https://www.sportsmediawatch.com/2020/12/sec-espn-deal-official-abc-replacing-cbs/",
+      "https://www.sportsvideo.org/2020/12/11/espn-sec-ink-10-year-rights-deal-top-football-package-shift-from-cbs-to-abc/"
+    ]
+  },
+  {
+    "id": "big-ten-espn-fox-2017",
+    "conference": "big-ten",
+    "partner": "fox",
+    "coPartners": [
+      "espn"
+    ],
+    "status": "expired",
+    "packageId": "big-ten-2017",
+    "packageAnnualValueUsd": 440000000,
+    "rightsDescription": "6-year Big Ten deal split between FOX and ESPN/ABC (2017-18 to 2022-23), about $2.64B. Followed by ESPN's exit from the Big Ten in 2022.",
+    "startYear": 2017,
+    "endYear": 2023,
+    "firstSeason": "2017-18",
+    "lastSeason": "2022-23",
+    "lastFootballSeason": 2022,
+    "annualValueUsd": 440000000,
+    "totalValueUsd": 2640000000,
+    "escalator": null,
+    "inventory": [
+      "FOX noon and primetime, ABC/ESPN windows, Big Ten Championship Game (FOX)"
+    ],
+    "exclusivity": "Split exclusive.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": "btn",
+    "confidence": "low",
+    "note": "Historical. In 2022 ESPN declined a reported about $380M a year offer for a Big Ten package, and the conference went to FOX/CBS/NBC at about 2.5x the old value.",
+    "sources": [
+      "https://www.cbssports.com/college-football/news/big-ten-reaches-seven-year-media-rights-deal-with-cbs-fox-and-nbc-for-football-basketball-through-2029-30"
+    ]
+  },
+  {
+    "id": "pac-12-espn-fox-2012",
+    "conference": "pac-12",
+    "partner": "espn",
+    "coPartners": [
+      "fox"
+    ],
+    "status": "expired",
+    "packageId": "pac-12-2012",
+    "packageAnnualValueUsd": 250000000,
+    "rightsDescription": "Larry Scott's 12-year ESPN/FOX deal (announced May 2011, about $3B), paired with the conference-owned Pac-12 Networks. Expired after 2023-24, and the conference collapsed when no comparable replacement was found.",
+    "startYear": 2012,
+    "endYear": 2024,
+    "firstSeason": "2012-13",
+    "lastSeason": "2023-24",
+    "lastFootballSeason": 2023,
+    "annualValueUsd": 250000000,
+    "totalValueUsd": 3000000000,
+    "escalator": null,
+    "inventory": [
+      "ABC/ESPN and FOX/FS1 split picks; Pac-12 Championship Game alternating ABC/FOX"
+    ],
+    "exclusivity": "Split exclusive.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": "pac-12-network",
+    "confidence": "low",
+    "note": "Historical; values from prior knowledge.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference"
+    ]
+  },
+  {
+    "id": "pac-12-apple-2023",
+    "conference": "pac-12",
+    "partner": "apple",
+    "coPartners": [],
+    "status": "never-signed",
+    "packageId": "pac-12-2023-proposal",
+    "packageAnnualValueUsd": null,
+    "rightsDescription": "Streaming-first proposal Commissioner George Kliavkoff presented to presidents in summer 2023: most games on Apple TV via a Pac-12 subscription, with payouts tied to subscriber thresholds (reported base of about $20-23M per school, rising only if subscriptions hit targets) and minimal linear exposure.",
+    "startYear": 2024,
+    "endYear": null,
+    "firstSeason": "2024-25",
+    "lastSeason": null,
+    "lastFootballSeason": null,
+    "annualValueUsd": null,
+    "totalValueUsd": null,
+    "escalator": "Subscriber-contingent incentives rather than fixed escalators.",
+    "inventory": [
+      "Streaming-only (Apple TV) for the bulk of games",
+      "Limited linear package (never finalized)"
+    ],
+    "exclusivity": null,
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "Never signed. Colorado left for the Big 12 (July 27, 2023), and after the Aug. 4, 2023 presidents' meeting Oregon and Washington left for the Big Ten while Arizona, Arizona State and Utah went to the Big 12. The canonical 'failed negotiation' precedent. Details from prior knowledge.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference"
+    ]
+  },
+  {
+    "id": "big-12-espn-fox-2012",
+    "conference": "big-12",
+    "partner": "espn",
+    "coPartners": [
+      "fox"
+    ],
+    "status": "expired",
+    "packageId": "big-12-2012",
+    "packageAnnualValueUsd": 200000000,
+    "rightsDescription": "13-year ESPN/FOX first- and second-tier Big 12 deal (about $2.6B, 2012-13 to 2024-25), signed after the 2010-11 near-collapse. Texas kept its Tier 3 rights (Longhorn Network) and Oklahoma kept Sooner Sports TV.",
+    "startYear": 2012,
+    "endYear": 2025,
+    "firstSeason": "2012-13",
+    "lastSeason": "2024-25",
+    "lastFootballSeason": 2024,
+    "annualValueUsd": 200000000,
+    "totalValueUsd": 2600000000,
+    "escalator": null,
+    "inventory": [
+      "ABC/ESPN and FOX/FS1 split; schools retained Tier 3 rights"
+    ],
+    "exclusivity": "Split exclusive; Tier 3 retained by schools.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": "longhorn-network",
+    "confidence": "low",
+    "note": "Historical; values from prior knowledge.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ]
+  },
+  {
+    "id": "mountain-west-cbs-fox-2020",
+    "conference": "mountain-west",
+    "partner": "cbs",
+    "coPartners": [
+      "fox"
+    ],
+    "status": "expired",
+    "packageId": "mountain-west-2020",
+    "packageAnnualValueUsd": 45000000,
+    "rightsDescription": "6-year CBS/FOX deal (2020-21 to 2025-26), $270M, with a Boise State home-game carve-out and bonus.",
+    "startYear": 2020,
+    "endYear": 2026,
+    "firstSeason": "2020-21",
+    "lastSeason": "2025-26",
+    "lastFootballSeason": 2025,
+    "annualValueUsd": 45000000,
+    "totalValueUsd": 270000000,
+    "escalator": null,
+    "inventory": [
+      "CBS/CBSSN and FOX/FS1 split football; MW Championship Game on FOX"
+    ],
+    "exclusivity": "Split exclusive.",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "note": "Historical; the $270M figure is confirmed in Feb. 2026 coverage of the new MW deal.",
+    "sources": [
+      "https://fbschedules.com/mountain-west-announces-new-media-rights-deal-with-cbs-fox-the-cw/"
+    ]
+  },
+  {
+    "id": "acc-espn-2012",
+    "conference": "acc",
+    "partner": "espn",
+    "coPartners": [],
+    "status": "expired",
+    "packageId": "acc-espn-2012",
+    "packageAnnualValueUsd": 240000000,
+    "rightsDescription": "15-year ESPN all-rights deal (2012, about $3.6B) after Pitt and Syracuse joined; superseded by the 2016 20-year ACC Network agreement.",
+    "startYear": 2012,
+    "endYear": 2016,
+    "firstSeason": "2012-13",
+    "lastSeason": "2015-16",
+    "lastFootballSeason": 2015,
+    "annualValueUsd": 240000000,
+    "totalValueUsd": 3600000000,
+    "escalator": null,
+    "inventory": [
+      "ABC/ESPN plus Raycom syndication sublicense"
+    ],
+    "exclusivity": "Exclusive (with Raycom sublicense).",
+    "proRataClause": null,
+    "renegotiationTriggers": [],
+    "networkLinked": null,
+    "confidence": "low",
+    "note": "Historical; values from prior knowledge.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+    ]
+  }
+]

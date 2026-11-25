@@ -1,0 +1,370 @@
+[
+  {
+    "id": "espn",
+    "name": "ESPN / ABC",
+    "parent": "The Walt Disney Company (ESPN is about 80% Disney / 20% Hearst; the NFL was to take a 10% stake as part of the 2025 NFL Network deal)",
+    "linear": ["ABC", "ESPN", "ESPN2", "ESPNU", "ESPNews", "SEC Network", "ACC Network"],
+    "streaming": ["ESPN app DTC ('ESPN Unlimited' flagship, $29.99/mo, launched Aug. 21, 2025)", "ESPN Select (former ESPN+)", "Disney+", "Hulu"],
+    "currentCollegeProperties": [
+      "sec (exclusive, through 2033-34)",
+      "acc (exclusive, through 2035-36)",
+      "big-12 (co-primary with FOX, through 2030-31)",
+      "american (through 2031-32)",
+      "sun-belt",
+      "cusa (with CBS, through 2027-28)",
+      "mac (through 2026-27)",
+      "wcc",
+      "a10 (with CBS, USA)",
+      "cfp (exclusive through 2031-32, incl. the 24-team addendum)",
+      "ncaa (40 championships incl. women's basketball, through 2031-32)",
+      "SEC/ACC/Big 12 championship games (end after the 2026 season)",
+      "Big 12 Now / SEC Network+ / ACCNX streaming"
+    ],
+    "keyExecs": [
+      { "name": "Jimmy Pitaro", "title": "Chairman, ESPN" },
+      { "name": "Burke Magnus", "title": "President, Content, ESPN" },
+      { "name": "Rosalyn Durant", "title": "EVP, Programming & Acquisitions (college rights)" },
+      { "name": "Nick Dawson", "title": "SVP, Programming & Acquisitions (college conferences)" }
+    ],
+    "appetite": "Largest college buyer by volume; owns the CFP and two conference networks. Strategy is depth (SEC/ACC/Big 12 plus G6 inventory for ESPN2/ESPNU and streaming) rather than paying top dollar for every P4 window. Walked away from the Big Ten in 2022 rather than pay about $380M a year for a secondary package. Said 'no one is expecting a financial windfall' from the 24-team playoff, then still paid about $345M a year more for it. Will defend its CFP and SEC holdings at almost any price.",
+    "recentBids": [
+      { "year": 2020, "property": "SEC top-tier package", "result": "won", "note": "$300M a year from 2024; CBS declined to match" },
+      { "year": 2022, "property": "Big Ten", "result": "lost", "note": "Declined reported about $380M a year offer; FOX/CBS/NBC won" },
+      { "year": 2022, "property": "Big 12 extension", "result": "won", "note": "Early renewal with FOX, $2.28B over 6 years" },
+      { "year": 2024, "property": "CFP 2026-2032", "result": "won", "note": "$7.8B over 6 years; sublicense to TNT" },
+      { "year": 2025, "property": "ACC option years 2027-2036", "result": "won", "note": "Exercised option Jan. 30, 2025" },
+      { "year": 2025, "property": "Pac-12 rebuilt package", "result": "not-awarded", "note": "Pac-12 went with CBS, The CW and USA" },
+      { "year": 2026, "property": "CFP 24-team expansion", "result": "won", "note": "$1.7B over 5 years addendum (Nov. 9, 2026)" }
+    ],
+    "confidence": "low",
+    "note": "Exec titles and the ownership split are from prior knowledge (to mid-2026), not re-verified this session. Disney's CEO succession from Bob Iger was under way in 2026; verify the current CEO. The ESPN-YouTube TV blackout ran Oct. 30 to Nov. 14, 2025.",
+    "sources": [
+      "https://espnpressroom.com/us/press-releases/2025/01/acc-and-espn-announce-long-term-renewed-commitment/",
+      "https://www.espn.com/college-football/story/_/id/50433381/cfp-espn-ink-5-year-17b-deal-expand-field-sources-say",
+      "https://sports.yahoo.com/articles/espn-no-one-expecting-financial-220044474.html",
+      "https://en.wikipedia.org/wiki/ESPN"
+    ]
+  },
+  {
+    "id": "fox",
+    "name": "FOX Sports",
+    "parent": "Fox Corporation",
+    "linear": ["FOX", "FS1", "FS2", "Big Ten Network (about 61% owner)", "Fox Deportes"],
+    "streaming": ["FOX One ($19.99/mo, launched Aug. 21, 2025)", "Tubi", "FOX Sports app"],
+    "currentCollegeProperties": [
+      "big-ten (lead partner, Big Noon Saturday, through 2029-30; BTN majority owner)",
+      "big-12 (co-primary, through 2030-31)",
+      "mountain-west (12 games plus championship game, through 2031-32)",
+      "big-east (primary basketball partner, through 2030-31)",
+      "Big Ten Championship Game (2023, 2025, 2026 via buyback; 2027 and 2029 removed by the 24-team CFP)"
+    ],
+    "keyExecs": [
+      { "name": "Lachlan Murdoch", "title": "Executive Chair & CEO, Fox Corporation" },
+      { "name": "John Nallen", "title": "President & COO, Fox Corporation" },
+      { "name": "Eric Shanks", "title": "CEO & Executive Producer, FOX Sports" },
+      { "name": "Michael Mulvihill", "title": "President, Insights & Analytics, FOX Sports (lead college-rights strategist)" }
+    ],
+    "appetite": "A broadcast-first, 'no cable bundle needed' strategy built around Big Noon Saturday. Concentrates on the Big Ten (through BTN equity and licensing control) and the Big 12. Willing to buy back premium games (paid $45-55M for NBC's 2026 Big Ten title game) and to block rivals' sublicensing to streamers. Less interested in G6 except the MW.",
+    "recentBids": [
+      { "year": 2022, "property": "Big Ten", "result": "won", "note": "Lead package, about $400M+ a year" },
+      { "year": 2022, "property": "Big 12 extension", "result": "won", "note": "With ESPN" },
+      { "year": 2023, "property": "Big East basketball", "result": "won", "note": "Primary partner with TNT and NBC" },
+      { "year": 2023, "property": "Pac-12 (Kliavkoff process)", "result": "not-awarded", "note": "Pac-12 media process collapsed" },
+      { "year": 2026, "property": "Mountain West renewal", "result": "won", "note": "12 games plus championship game" },
+      { "year": 2026, "property": "2026 Big Ten Championship Game buyback from NBC", "result": "won", "note": "$45-55M" }
+    ],
+    "confidence": "low",
+    "note": "The brief named 'FOX's Mark Shapiro'. Mark Shapiro is President/COO of TKO Group (UFC/WWE), not FOX; Fox Corp's President & COO is John Nallen. Exec titles from prior knowledge.",
+    "sources": [
+      "https://www.on3.com/news/report-fox-to-buy-back-big-ten-2026-championship-game-from-nbc-for-45-55-million/",
+      "https://fbschedules.com/mountain-west-announces-new-media-rights-deal-with-cbs-fox-the-cw/",
+      "https://en.wikipedia.org/wiki/Fox_Sports_(American_TV_network)"
+    ]
+  },
+  {
+    "id": "cbs",
+    "name": "CBS Sports",
+    "parent": "Paramount Skydance Corp. (merger closed Aug. 2025)",
+    "linear": ["CBS", "CBS Sports Network"],
+    "streaming": ["Paramount+", "CBS Sports HQ", "Pluto TV"],
+    "currentCollegeProperties": [
+      "big-ten (3:30 p.m. ET window, through 2029-30)",
+      "pac-12 (primary partner, through 2030-31)",
+      "mountain-west (lead basketball, 15 football games, through 2031-32)",
+      "cusa (Tier 1, through 2027-28)",
+      "mac (CBSSN sublicense)",
+      "a10 (through 2030-31)",
+      "ncaa men's basketball tournament (with TNT, through 2032)",
+      "Army-Navy Game",
+      "Big Ten Championship Game 2028 (removed by the 24-team CFP)"
+    ],
+    "keyExecs": [
+      { "name": "David Berson", "title": "President & CEO, CBS Sports" },
+      { "name": "Dan Weinberg", "title": "EVP, Programming, CBS Sports" },
+      { "name": "George Cheeks", "title": "Chair, TV Media, Paramount" },
+      { "name": "David Ellison", "title": "Chairman & CEO, Paramount Skydance" }
+    ],
+    "appetite": "Gave up the SEC in 2020 rather than pay about 5.5x, but bought the Big Ten 3:30 window in 2022. Now the main buyer of 'second-tier' broadcast windows (Pac-12, MW) and a CBSSN aggregator of G6 inventory. Under Ellison, Paramount is spending aggressively on sports (UFC) and pursued Warner Bros. Discovery, which would combine CBS and TNT, partners on the NCAA tournament, and remove a bidder.",
+    "recentBids": [
+      { "year": 2020, "property": "SEC top tier", "result": "lost", "note": "Declined to match ESPN's about $300M a year" },
+      { "year": 2022, "property": "Big Ten 3:30 window", "result": "won", "note": "About $350M a year" },
+      { "year": 2022, "property": "C-USA Tier 1", "result": "won", "note": "With ESPN" },
+      { "year": 2025, "property": "Pac-12 primary", "result": "won", "note": "Through 2030-31" },
+      { "year": 2026, "property": "Mountain West renewal", "result": "won", "note": "Through 2031-32" }
+    ],
+    "confidence": "low",
+    "note": "Dan Weinberg's and George Cheeks' titles are from prior knowledge. Reported in Feb. 2026: Paramount agreed to acquire WBD after Netflix declined to raise its bid; closing and regulatory status unverified.",
+    "sources": [
+      "https://www.foxsports.com/articles/cfb/rebuilding-pac12-reaches-deal-with-cbs-for-its-football-and-mens-basketball-games",
+      "https://www.cbssports.com/college-football/news/big-ten-reaches-seven-year-media-rights-deal-with-cbs-fox-and-nbc-for-football-basketball-through-2029-30",
+      "https://www.sportsmediawatch.com/2020/12/sec-espn-deal-official-abc-replacing-cbs/"
+    ]
+  },
+  {
+    "id": "nbc",
+    "name": "NBC Sports",
+    "parent": "NBCUniversal (Comcast)",
+    "linear": ["NBC", "NBCSN (relaunched cable channel, 2025; verify)", "Telemundo"],
+    "streaming": ["Peacock"],
+    "currentCollegeProperties": [
+      "big-ten ('Big Ten Saturday Night' primetime plus Peacock exclusives, through 2029-30)",
+      "notre-dame (home football, through 2034)",
+      "big-east (Peacock/NBC basketball, through 2030-31)"
+    ],
+    "keyExecs": [
+      { "name": "Rick Cordella", "title": "President, NBC Sports" }
+    ],
+    "appetite": "Uses college primetime and Notre Dame to drive Peacock sign-ups. Its NBA deal (from 2025-26) strains budget and primetime capacity, as shown by the April 2026 sale of its 2026 Big Ten title game to FOX. Lost cable outlets (USA, Golf) in the Versant spin-off, so it relies more on NBC broadcast plus Peacock.",
+    "recentBids": [
+      { "year": 2022, "property": "Big Ten primetime", "result": "won", "note": "About $350M a year" },
+      { "year": 2023, "property": "Notre Dame extension", "result": "won", "note": "10 years from 2025" },
+      { "year": 2023, "property": "Big East", "result": "won", "note": "With FOX and TNT" },
+      { "year": 2026, "property": "2026 Big Ten title game", "result": "sold", "note": "Resold to FOX for $45-55M" }
+    ],
+    "confidence": "low",
+    "note": "Pete Bevacqua, the former NBC Sports chairman, is now Notre Dame's AD. Exec titles from prior knowledge.",
+    "sources": [
+      "https://awfulannouncing.com/college-football/fox-nearing-deal-acquire-2026-big-ten-championship-game-nbc.html",
+      "https://en.wikipedia.org/wiki/NBC_Sports"
+    ]
+  },
+  {
+    "id": "versant",
+    "name": "Versant (USA Network / USA Sports)",
+    "parent": "Versant Media Group (spun off from Comcast/NBCUniversal; completed about Jan. 2026)",
+    "linear": ["USA Network", "Golf Channel", "CNBC", "MS NOW", "E!", "Syfy", "Oxygen"],
+    "streaming": [],
+    "currentCollegeProperties": [
+      "pac-12 (22 football games a year, through 2030-31)",
+      "a10 (basketball, through 2030-31)"
+    ],
+    "keyExecs": [
+      { "name": "Mark Lazarus", "title": "CEO, Versant" }
+    ],
+    "appetite": "A new standalone cable company that needs live sports to support carriage fees. Proven buyer of mid-tier college football (the Pac-12) at modest prices. Aliases: 'usa', 'usa-network'. Other agents may file USA Network deals under 'nbc'.",
+    "recentBids": [
+      { "year": 2025, "property": "Pac-12 football", "result": "won", "note": "5 years, 22 games a year" }
+    ],
+    "confidence": "low",
+    "note": "Spin-off timing and exec from prior knowledge.",
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/46953746/pac-12-signs-tv-deal-usa-sports-2030-31",
+      "https://www.on3.com/nil/news/pac-12-announces-5-year-media-rights-deal-usa-sports"
+    ]
+  },
+  {
+    "id": "tnt",
+    "name": "TNT Sports",
+    "parent": "Warner Bros. Discovery (planned 'Discovery Global' networks spin; Paramount Skydance reportedly agreed in early 2026 to acquire WBD, pending)",
+    "linear": ["TNT", "TBS", "truTV"],
+    "streaming": ["HBO Max (B/R Sports)"],
+    "currentCollegeProperties": [
+      "ncaa men's basketball tournament (with CBS, through 2032)",
+      "cfp (ESPN sublicense: first-round and some quarterfinal games)",
+      "big-east (basketball, through 2030-31)"
+    ],
+    "keyExecs": [
+      { "name": "Luis Silberwasser", "title": "Chairman & CEO, TNT Sports" },
+      { "name": "David Zaslav", "title": "President & CEO, Warner Bros. Discovery" }
+    ],
+    "appetite": "Lost the NBA after 2024-25, so it is hungry for premium live events and has rebuilt with college (CFP sublicense, Big East), NASCAR, the French Open and others. Prefers sublicenses from ESPN over carrying full conference packages. Its future depends on who ends up owning WBD.",
+    "recentBids": [
+      { "year": 2023, "property": "Big East", "result": "won", "note": "Basketball package" },
+      { "year": 2024, "property": "CFP sublicense", "result": "won", "note": "From ESPN" }
+    ],
+    "confidence": "low",
+    "note": "WBD/Netflix/Paramount sequence (Netflix deal Dec. 2025, Paramount hostile bid, then a reported Paramount agreement in Feb. 2026) from prior knowledge; verify the current status.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/TNT_Sports_(American_TV_network)",
+      "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    ]
+  },
+  {
+    "id": "cw",
+    "name": "The CW",
+    "parent": "Nexstar Media Group (about 75% owner)",
+    "linear": ["The CW (broadcast network)"],
+    "streaming": ["The CW app (free, ad-supported)"],
+    "currentCollegeProperties": [
+      "pac-12 (13 football, 35 men's basketball, 15 women's basketball games a year, through 2030-31)",
+      "mountain-west (13 football games a year, through 2030-31)",
+      "acc (sublicensed football and basketball from ESPN)"
+    ],
+    "keyExecs": [
+      { "name": "Perry Sook", "title": "Chairman & CEO, Nexstar Media Group" },
+      { "name": "Dennis Miller", "title": "President, The CW Network" }
+    ],
+    "appetite": "Low-cost aggregator of college football for its Saturday schedule (broadcast reach about 100% of U.S. TV homes). Pays modest fees and lets conferences self-produce (Pac-12 Enterprises), which makes it the natural floor bidder for G6 and rebuilt leagues.",
+    "recentBids": [
+      { "year": 2023, "property": "ACC sublicense", "result": "won", "note": "From ESPN" },
+      { "year": 2024, "property": "Pac-12 (OSU/WSU)", "result": "won", "note": "Extended through 2030-31 in Aug. 2025" },
+      { "year": 2026, "property": "Mountain West", "result": "won", "note": "5 years" }
+    ],
+    "confidence": "low",
+    "note": "Exec names from prior knowledge.",
+    "sources": [
+      "https://www.tvtechnology.com/news/the-cw-network-extends-pac-12-deal-through-2030-31-season",
+      "https://awfulannouncing.com/college-football/mountain-west-inks-media-rights-deals-cbs-fox-cw.html"
+    ]
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon Prime Video",
+    "parent": "Amazon.com, Inc.",
+    "linear": [],
+    "streaming": ["Prime Video"],
+    "currentCollegeProperties": [],
+    "keyExecs": [
+      { "name": "Jay Marine", "title": "VP & Global Head, Prime Video Sports" },
+      { "name": "Mike Hopkins", "title": "SVP, Prime Video & Amazon MGM Studios" }
+    ],
+    "appetite": "Big pro-sports buyer: NFL Thursday Night Football plus a Black Friday NFL game since 2023, the NBA from 2025-26, NASCAR, WNBA. Has bid on college packages (the Big Ten in 2022, early Pac-12 talks in 2022-23) without winning. Wants national, exclusive, 'tentpole' inventory (Black Friday-style events) rather than full conference slates. The most credible streaming disruptor for a game-model bidding war.",
+    "recentBids": [
+      { "year": 2022, "property": "Big Ten", "result": "lost", "note": "Bid for a package; FOX/CBS/NBC chosen" },
+      { "year": 2023, "property": "Pac-12", "result": "withdrew", "note": "Dropped out of the Kliavkoff process" }
+    ],
+    "confidence": "low",
+    "note": "No major college rights as of mid-2026 (from prior knowledge).",
+    "sources": [
+      "https://www.cbssports.com/college-football/news/big-ten-reaches-seven-year-media-rights-deal-with-cbs-fox-and-nbc-for-football-basketball-through-2029-30",
+      "https://en.wikipedia.org/wiki/Amazon_Prime_Video"
+    ]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "parent": "Netflix, Inc.",
+    "linear": [],
+    "streaming": ["Netflix"],
+    "currentCollegeProperties": [],
+    "keyExecs": [
+      { "name": "Bela Bajaria", "title": "Chief Content Officer" },
+      { "name": "Brandon Riegg", "title": "VP, Nonfiction Series & Sports" },
+      { "name": "Ted Sarandos", "title": "Co-CEO" }
+    ],
+    "appetite": "Buys 'events', not seasons: NFL Christmas games (2024 onward, about 24M viewers each in 2024), WWE Raw (10 years, about $5B), boxing, MLB event packages from 2026, and the 2027/2031 Women's World Cups in the U.S. Has said it is not interested in full regular-season packages, so college interest is likely limited to one-off neutral-site or bowl-style events.",
+    "recentBids": [],
+    "confidence": "low",
+    "note": "From prior knowledge. Netflix's bid for Warner Bros. (Dec. 2025) was reportedly topped by Paramount in early 2026.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Netflix"
+    ]
+  },
+  {
+    "id": "apple",
+    "name": "Apple TV",
+    "parent": "Apple Inc.",
+    "linear": [],
+    "streaming": ["Apple TV (formerly Apple TV+)"],
+    "currentCollegeProperties": [],
+    "keyExecs": [
+      { "name": "Eddy Cue", "title": "SVP, Services" }
+    ],
+    "appetite": "Global, all-in, subscription-led deals: MLS Season Pass (10 years, about $2.5B from 2023; folded into the base Apple TV subscription from 2026 and reportedly ending early), and U.S. Formula 1 rights from 2026. Its 2023 Pac-12 offer was subscriber-contingent with little linear TV, and presidents rejected it. Model as a high-variance bidder that pays on subscriptions, not guarantees.",
+    "recentBids": [
+      { "year": 2023, "property": "Pac-12", "result": "not-signed", "note": "Streaming-first offer rejected; conference collapsed" }
+    ],
+    "confidence": "low",
+    "note": "MLS changes from prior knowledge.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Apple_TV_(streaming_service)"
+    ]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube / YouTube TV",
+    "parent": "Alphabet (Google)",
+    "linear": [],
+    "streaming": ["YouTube (free)", "YouTube TV (largest vMVPD, about 10M subscribers)", "NFL Sunday Ticket"],
+    "currentCollegeProperties": [],
+    "keyExecs": [
+      { "name": "Neal Mohan", "title": "CEO, YouTube" },
+      { "name": "Mary Ellen Coe", "title": "Chief Business Officer, YouTube" }
+    ],
+    "appetite": "Main role in college is as a distributor: carriage fights with Disney (ESPN/SEC Network/ACCN blackout Oct. 30 to Nov. 14, 2025) and other programmers. Rights buying so far is NFL-focused (Sunday Ticket about $2B a year; a free 2025 NFL Brazil game). A potential free-to-view bidder for one-off college events.",
+    "recentBids": [],
+    "confidence": "low",
+    "note": "From prior knowledge.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/YouTube_TV"
+    ]
+  },
+  {
+    "id": "kiswe",
+    "name": "Kiswe",
+    "parent": "Kiswe Mobile (private)",
+    "linear": [],
+    "streaming": ["White-label DTC platforms (Mountain West subscription service from July 2026)"],
+    "currentCollegeProperties": [
+      "mountain-west (DTC streaming platform, through 2031-32)"
+    ],
+    "keyExecs": [],
+    "appetite": "Technology/operating partner for conference-owned DTC services, paid through subscription revenue share rather than rights fees.",
+    "recentBids": [
+      { "year": 2026, "property": "Mountain West DTC", "result": "won", "note": "6 years" }
+    ],
+    "sources": [
+      "https://www.kunc.org/news/2026-02-05/mountain-west-announces-media-rights-package-featuring-cbs-fox-the-cw-and-kiswe-streaming-platform"
+    ]
+  },
+  {
+    "id": "scripps",
+    "name": "Scripps Sports (ION)",
+    "parent": "E.W. Scripps Company",
+    "linear": ["ION (broadcast)", "Scripps local stations"],
+    "streaming": [],
+    "currentCollegeProperties": [],
+    "keyExecs": [
+      { "name": "Brian Lawlor", "title": "President, Scripps Sports" },
+      { "name": "Adam Symson", "title": "President & CEO, E.W. Scripps" }
+    ],
+    "appetite": "Over-the-air buyer of women's and regional sports (WNBA, NWSL, local NHL). A plausible low-cost bidder for G6 or FCS football and women's basketball packages; no major college conference package was confirmed.",
+    "recentBids": [],
+    "confidence": "low",
+    "note": "College holdings not verified this session.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/E._W._Scripps_Company"
+    ]
+  },
+  {
+    "id": "flosports",
+    "name": "FloSports",
+    "parent": "FloSports, Inc. (private)",
+    "linear": [],
+    "streaming": ["FloSports (FloFootball, FloWrestling, FloHockey, etc.)"],
+    "currentCollegeProperties": [
+      "caa (FCS football and Olympic sports streaming)"
+    ],
+    "keyExecs": [
+      { "name": "Martin Floreani", "title": "Co-founder & CEO" }
+    ],
+    "appetite": "Subscription streamer of niche and FCS-level college sports; pays small fees.",
+    "recentBids": [],
+    "confidence": "low",
+    "note": "CAA relationship from prior knowledge; term not verified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/FloSports"
+    ]
+  }
+]
