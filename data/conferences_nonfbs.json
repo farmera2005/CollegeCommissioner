@@ -30,16 +30,13 @@
         "northern-arizona",
         "northern-colorado",
         "portland-state",
-        "weber-state",
-        "sacramento-state"
+        "weber-state"
       ],
       "footballOnly": [
         "cal-poly",
         "uc-davis"
       ],
-      "nonFootball": [
-        "sacramento-state"
-      ],
+      "nonFootball": [],
       "affiliates": [
         {
           "school": "cal-poly",
@@ -316,7 +313,8 @@
       "note": "Long-time commissioner of the Gateway/MVFC and Pioneer Football League; reported to be at/near retirement — verify whether a successor took over in 2024-26. Compiled without live web verification (session search budget exhausted, web fetch blocked); verify before relying on it."
     },
     "members2026": {
-      "full": [
+      "full": [],
+      "footballOnly": [
         "illinois-state",
         "indiana-state",
         "murray-state",
@@ -327,7 +325,6 @@
         "southern-illinois",
         "youngstown-state"
       ],
-      "footballOnly": [],
       "nonFootball": [],
       "affiliates": []
     },
@@ -360,7 +357,8 @@
       "https://en.wikipedia.org/wiki/Missouri_Valley_Football_Conference",
       "https://valley-football.org"
     ],
-    "governance": null
+    "governance": null,
+    "footballOnlyConference": true
   },
   {
     "id": "nec",
@@ -375,12 +373,12 @@
     "division": "FCS",
     "cfpTier": null,
     "commissioner": {
-      "id": "noreen-morris",
-      "name": "Noreen Morris",
-      "since": 2010,
+      "id": "ron-ratner",
+      "name": "Ron Ratner",
+      "since": 2026,
       "background": "conference-deputy",
       "contractThrough": null,
-      "confidence": "low"
+      "interim": true
     },
     "members2026": {
       "full": [
@@ -501,7 +499,8 @@
       "note": "Football association jointly administered by the OVC (Beth DeBauche) and Big South (Sherika Montgomery) offices; no separate commissioner. 'since' = association start."
     },
     "members2026": {
-      "full": [
+      "full": [],
+      "footballOnly": [
         "charleston-southern",
         "eastern-illinois",
         "gardner-webb",
@@ -512,7 +511,6 @@
         "ut-martin",
         "western-illinois"
       ],
-      "footballOnly": [],
       "nonFootball": [],
       "affiliates": []
     },
@@ -552,7 +550,8 @@
       "https://ovcsports.com",
       "https://bigsouthsports.com"
     ],
-    "governance": null
+    "governance": null,
+    "footballOnlyConference": true
   },
   {
     "id": "patriot",
@@ -678,7 +677,8 @@
       "note": "PFL commissioner since founding (administered from the MVFC/MVC offices); verify whether still in office."
     },
     "members2026": {
-      "full": [
+      "full": [],
+      "footballOnly": [
         "butler",
         "davidson",
         "dayton",
@@ -691,7 +691,6 @@
         "stetson",
         "valparaiso"
       ],
-      "footballOnly": [],
       "nonFootball": [],
       "affiliates": []
     },
@@ -711,7 +710,8 @@
       "https://en.wikipedia.org/wiki/Pioneer_Football_League",
       "https://pioneer-football.org"
     ],
-    "governance": null
+    "governance": null,
+    "footballOnlyConference": true
   },
   {
     "id": "socon",
@@ -932,7 +932,8 @@
       "note": "UAC is the ASUN-WAC football partnership, administered through the WAC/ASUN offices; commissioner identity unverified (see WAC record)."
     },
     "members2026": {
-      "full": [
+      "full": [],
+      "footballOnly": [
         "abilene-christian",
         "austin-peay",
         "central-arkansas",
@@ -943,7 +944,6 @@
         "utah-tech",
         "west-georgia"
       ],
-      "footballOnly": [],
       "nonFootball": [],
       "affiliates": []
     },
@@ -977,7 +977,8 @@
       "https://wacsports.com",
       "https://asunsports.org"
     ],
-    "governance": null
+    "governance": null,
+    "footballOnlyConference": true
   },
   {
     "id": "america-east",
@@ -1122,13 +1123,11 @@
     "division": "D1-non-football",
     "cfpTier": null,
     "commissioner": {
-      "id": "bernadette-mcglade",
-      "name": "Bernadette McGlade",
-      "since": 2008,
+      "id": "dan-leibovitz",
+      "name": "Dan Leibovitz",
+      "since": 2026,
       "background": "conference-deputy",
-      "contractThrough": null,
-      "confidence": "low",
-      "note": "Former ACC associate commissioner. Long tenure — verify whether she retired/was succeeded in 2024-26."
+      "contractThrough": null
     },
     "members2026": {
       "full": [
@@ -1202,13 +1201,11 @@
     "division": "D1-non-football",
     "cfpTier": null,
     "commissioner": {
-      "id": "val-ackerman",
-      "name": "Val Ackerman",
-      "since": 2013,
+      "id": "tim-brosnan",
+      "name": "Tim Brosnan",
+      "since": 2026,
       "background": "pro-league-exec",
-      "contractThrough": null,
-      "confidence": "low",
-      "note": "Founding commissioner of the reconstituted Big East (2013); first WNBA president, former NBA executive, attorney by training. Status as of 2026-11 not re-verified (search budget exhausted) — she has been the subject of succession speculation after 13 years; if a successor was named in 2025-26, replace this record."
+      "contractThrough": null
     },
     "members2026": {
       "full": [
@@ -1368,14 +1365,13 @@
         "cal-state-bakersfield",
         "cal-state-fullerton",
         "cal-state-northridge",
-        "hawaii",
         "long-beach-state",
-        "uc-davis",
         "uc-irvine",
         "uc-riverside",
         "uc-san-diego",
         "uc-santa-barbara",
-        "utah-valley"
+        "utah-valley",
+        "sacramento-state"
       ],
       "footballOnly": [],
       "nonFootball": [
@@ -1383,14 +1379,13 @@
         "cal-state-bakersfield",
         "cal-state-fullerton",
         "cal-state-northridge",
-        "hawaii",
         "long-beach-state",
-        "uc-davis",
         "uc-irvine",
         "uc-riverside",
         "uc-san-diego",
         "uc-santa-barbara",
-        "utah-valley"
+        "utah-valley",
+        "sacramento-state"
       ],
       "affiliates": []
     },
@@ -1409,7 +1404,8 @@
       "https://en.wikipedia.org/wiki/Big_West_Conference",
       "https://bigwest.org"
     ],
-    "governance": null
+    "governance": null,
+    "note": " [verification 2026-11-25: Hawaii (full MWC 2026) and UC Davis (MWC non-football 2026) removed; Sacramento State added (Big West all sports but football from 2026-07-01).]"
   },
   {
     "id": "horizon",
@@ -1442,7 +1438,8 @@
         "purdue-fort-wayne",
         "robert-morris",
         "wright-state",
-        "youngstown-state"
+        "youngstown-state",
+        "northern-illinois"
       ],
       "footballOnly": [],
       "nonFootball": [
@@ -1456,7 +1453,8 @@
         "purdue-fort-wayne",
         "robert-morris",
         "wright-state",
-        "youngstown-state"
+        "youngstown-state",
+        "northern-illinois"
       ],
       "affiliates": []
     },
@@ -1942,5 +1940,30 @@
       "https://wccsports.com"
     ],
     "governance": null
+  },
+  {
+    "id": "independent-fcs",
+    "name": "FCS Independents",
+    "shortName": "FCS Ind.",
+    "founded": null,
+    "hq": null,
+    "division": "FCS",
+    "cfpTier": null,
+    "commissioner": null,
+    "footballOnlyConference": true,
+    "members2026": {
+      "full": [],
+      "footballOnly": [
+        "merrimack",
+        "sacred-heart"
+      ],
+      "nonFootball": [],
+      "affiliates": []
+    },
+    "pendingChanges": [],
+    "note": "Pseudo-conference for FCS football independents.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/NCAA_Division_I_FCS_independent_schools"
+    ]
   }
 ]

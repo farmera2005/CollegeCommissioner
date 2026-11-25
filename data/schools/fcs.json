@@ -781,85 +781,6 @@
     ]
   },
   {
-    "id": "uc-davis",
-    "name": "University of California, Davis",
-    "shortName": "UC Davis",
-    "abbr": "UCD",
-    "mascot": "Aggies",
-    "colors": [
-      "#022851",
-      "#FFBF00"
-    ],
-    "city": "Davis",
-    "state": "CA",
-    "lat": 38.5382,
-    "lon": -121.7617,
-    "dma": {
-      "name": "Sacramento-Stockton-Modesto, CA",
-      "rank": 20
-    },
-    "control": "public",
-    "religious": null,
-    "aau": true,
-    "enrollment": 40000,
-    "usNewsRank": null,
-    "usNewsCategory": null,
-    "endowmentUsd": null,
-    "athletics": {
-      "revenueUsd": null,
-      "expensesUsd": null,
-      "fiscalYear": null,
-      "revShareOptIn": null,
-      "revShareNotes": null,
-      "stadium": {
-        "name": "UC Davis Health Stadium",
-        "capacity": 10743
-      },
-      "arena": null
-    },
-    "conference": {
-      "y2026": {
-        "all": "big-west",
-        "football": "big-sky",
-        "level": "FCS"
-      },
-      "y2010": {
-        "all": "big-west",
-        "football": "gwc",
-        "level": "FCS"
-      }
-    },
-    "ratings": {
-      "football": 27,
-      "mbb": 30,
-      "wbb": 35,
-      "olympic": 35,
-      "brand": 25,
-      "facilities": 22,
-      "fanBase": 15,
-      "boosterInfluence": 15,
-      "statePoliticalPressure": 25
-    },
-    "ratingNotes": "Rough estimates on SCHEMA anchors (FCS powers ~25-35, average FCS ~10-20; low-major MBB ~20, mid-major ~35).",
-    "rivals": [
-      "sacramento-state",
-      "cal-poly"
-    ],
-    "president": null,
-    "ad": null,
-    "headFootballCoach": null,
-    "headMbbCoach": null,
-    "notes": "AAU research university in Sacramento DMA (#20). Big West for other sports, Big Sky football affiliate. Linked to Mountain West football in 2024-25 realignment chatter; small 10.7K stadium is the main obstacle; UC Regents/state politics apply.",
-    "confidence": "low",
-    "note": "Compiled from model knowledge without live web verification (session search budget exhausted; web fetch blocked). Ratings, enrollment, DMA ranks and stadium capacities are rough estimates.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_FCS_football_programs",
-      "https://en.wikipedia.org/wiki/Big_Sky_Conference",
-      "https://bigskyconf.com",
-      "https://en.wikipedia.org/wiki/Big_West_Conference"
-    ]
-  },
-  {
     "id": "albany",
     "name": "University at Albany, State University of New York",
     "shortName": "UAlbany",
@@ -4517,164 +4438,6 @@
     ]
   },
   {
-    "id": "dayton",
-    "name": "University of Dayton",
-    "shortName": "Dayton",
-    "abbr": "DAY",
-    "mascot": "Flyers",
-    "colors": [
-      "#CE1141",
-      "#004B8D"
-    ],
-    "city": "Dayton",
-    "state": "OH",
-    "lat": 39.74,
-    "lon": -84.179,
-    "dma": {
-      "name": "Dayton, OH",
-      "rank": 66
-    },
-    "control": "private",
-    "religious": "Catholic (Marianist)",
-    "aau": false,
-    "enrollment": 11500,
-    "usNewsRank": null,
-    "usNewsCategory": null,
-    "endowmentUsd": null,
-    "athletics": {
-      "revenueUsd": null,
-      "expensesUsd": null,
-      "fiscalYear": null,
-      "revShareOptIn": null,
-      "revShareNotes": null,
-      "stadium": {
-        "name": "Welcome Stadium",
-        "capacity": 11000
-      },
-      "arena": null
-    },
-    "conference": {
-      "y2026": {
-        "all": "a10",
-        "football": "pioneer",
-        "level": "FCS"
-      },
-      "y2010": {
-        "all": "a10",
-        "football": "pioneer",
-        "level": "FCS"
-      }
-    },
-    "ratings": {
-      "football": 8,
-      "mbb": 55,
-      "wbb": 30,
-      "olympic": 20,
-      "brand": 25,
-      "facilities": 15,
-      "fanBase": 30,
-      "boosterInfluence": 15,
-      "statePoliticalPressure": 5
-    },
-    "ratingNotes": "Rough estimates on SCHEMA anchors (FCS powers ~25-35, average FCS ~10-20; low-major MBB ~20, mid-major ~35).",
-    "rivals": [
-      "butler",
-      "drake"
-    ],
-    "president": null,
-    "ad": null,
-    "headFootballCoach": null,
-    "headMbbCoach": null,
-    "notes": "Football is non-scholarship (Pioneer); basketball is the brand.",
-    "confidence": "low",
-    "note": "Compiled from model knowledge without live web verification (session search budget exhausted; web fetch blocked). Ratings, enrollment, DMA ranks and stadium capacities are rough estimates.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_FCS_football_programs",
-      "https://en.wikipedia.org/wiki/Pioneer_Football_League",
-      "https://pioneer-football.org",
-      "https://en.wikipedia.org/wiki/Atlantic_10_Conference"
-    ]
-  },
-  {
-    "id": "drake",
-    "name": "Drake University",
-    "shortName": "Drake",
-    "abbr": "DRKE",
-    "mascot": "Bulldogs",
-    "colors": [
-      "#004477",
-      "#FFFFFF"
-    ],
-    "city": "Des Moines",
-    "state": "IA",
-    "lat": 41.601,
-    "lon": -93.653,
-    "dma": {
-      "name": "Des Moines-Ames, IA",
-      "rank": 68
-    },
-    "control": "private",
-    "religious": null,
-    "aau": false,
-    "enrollment": 4900,
-    "usNewsRank": null,
-    "usNewsCategory": null,
-    "endowmentUsd": null,
-    "athletics": {
-      "revenueUsd": null,
-      "expensesUsd": null,
-      "fiscalYear": null,
-      "revShareOptIn": null,
-      "revShareNotes": null,
-      "stadium": {
-        "name": "Drake Stadium",
-        "capacity": 14557
-      },
-      "arena": null
-    },
-    "conference": {
-      "y2026": {
-        "all": "mvc",
-        "football": "pioneer",
-        "level": "FCS"
-      },
-      "y2010": {
-        "all": "mvc",
-        "football": "pioneer",
-        "level": "FCS"
-      }
-    },
-    "ratings": {
-      "football": 8,
-      "mbb": 45,
-      "wbb": 35,
-      "olympic": 20,
-      "brand": 15,
-      "facilities": 15,
-      "fanBase": 12,
-      "boosterInfluence": 12,
-      "statePoliticalPressure": 5
-    },
-    "ratingNotes": "Rough estimates on SCHEMA anchors (FCS powers ~25-35, average FCS ~10-20; low-major MBB ~20, mid-major ~35).",
-    "rivals": [
-      "butler",
-      "dayton"
-    ],
-    "president": null,
-    "ad": null,
-    "headFootballCoach": null,
-    "headMbbCoach": null,
-    "notes": "Football is non-scholarship (Pioneer); MVC for other sports.",
-    "confidence": "low",
-    "note": "Compiled from model knowledge without live web verification (session search budget exhausted; web fetch blocked). Ratings, enrollment, DMA ranks and stadium capacities are rough estimates.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_FCS_football_programs",
-      "https://en.wikipedia.org/wiki/Pioneer_Football_League",
-      "https://pioneer-football.org",
-      "https://en.wikipedia.org/wiki/Missouri_Valley_Conference"
-    ]
-  },
-  {
     "id": "marist",
     "name": "Marist University",
     "shortName": "Marist",
@@ -5830,7 +5593,7 @@
     "ratingNotes": "Rough estimates on SCHEMA anchors (FCS powers ~25-35, average FCS ~10-20; low-major MBB ~20, mid-major ~35).",
     "rivals": [
       "east-tennessee-state",
-      "appalachian-state"
+      "app-state"
     ],
     "president": null,
     "ad": null,
@@ -6836,8 +6599,7 @@
     },
     "ratingNotes": "Rough estimates on SCHEMA anchors (FCS powers ~25-35, average FCS ~10-20; low-major MBB ~20, mid-major ~35).",
     "rivals": [
-      "alabama-am",
-      "tuskegee"
+      "alabama-am"
     ],
     "president": null,
     "ad": null,

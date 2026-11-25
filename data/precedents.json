@@ -1,0 +1,984 @@
+[
+  {
+    "confidence": "low",
+    "id": "wac-split-mountain-west-1999",
+    "name": "The WAC split and founding of the Mountain West (1998-99)",
+    "years": "1994-1999",
+    "type": "breakaway",
+    "summary": "The WAC grew to a 16-team, four-'quad' superconference in 1996. Eight of its oldest members (Air Force, BYU, Colorado State, New Mexico, San Diego State, UNLV, Utah, Wyoming) quietly planned a breakaway, announced it in May 1998, and began play as the Mountain West on 1999-07-01. They left the WAC name, charter and remaining 8 schools behind.",
+    "steps": [
+      "1994: WAC presidents vote to expand to 16 for 1996, adding Rice, SMU, TCU (from the dying SWC), Tulsa, San Jose State and UNLV. Divisions are split into rotating four-team \"quads\".",
+      "1996-98: Members complain about travel, quad rotation breaking traditional rivalries (e.g., BYU-Utah stayed, others didn't), smaller revenue shares, and a weak basketball tournament.",
+      "Spring 1998: presidents of the eight \"Old WAC\" schools hold secret meetings. Accounts cite a planning session hosted by Wyoming and a decisive meeting near Denver International Airport.",
+      "May 1998: the eight announce they will leave after 1998-99 (with more than one year of notice, avoiding penalty disputes).",
+      "1998: hire Sun Belt commissioner Craig Thompson as founding commissioner. HQ Colorado Springs.",
+      "1998-99: negotiate an initial ESPN TV deal and bowl tie-ins (incl. Las Vegas Bowl), and apply for NCAA conference status.",
+      "1999-07-01: Mountain West begins. It receives the NCAA basketball AQ from its first season (2000 tournament) because its core schools had long continuity together in the WAC."
+    ],
+    "keyPeople": [
+      {
+        "name": "Philip Dubois",
+        "role": "Wyoming president (cited as a ringleader)",
+        "confidence": "low"
+      },
+      {
+        "name": "Merrill Bateman",
+        "role": "BYU president",
+        "confidence": "low"
+      },
+      {
+        "name": "Bernie Machen",
+        "role": "Utah president",
+        "confidence": "low"
+      },
+      {
+        "name": "Craig Thompson",
+        "role": "Founding MWC commissioner (1998-2022)"
+      },
+      {
+        "name": "Karl Benson",
+        "role": "WAC commissioner who held the rump WAC together"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "startupNotes": "No public startup figure. Costs were a small office (~10-15 staff initially), legal work and championship contracts. The departing schools paid no exit fee because they gave timely notice.",
+      "feesUsd": 0,
+      "initialMediaDeal": {
+        "partner": "espn",
+        "years": "1999-2006 (approx.)",
+        "annualValueUsd": null,
+        "notes": "Initial ESPN package (value unverified). Followed in 2006 by the conference-owned \"The mtn.\" with CSTV/Comcast (~$12M/yr), a then-novel league channel that later failed for lack of distribution.",
+        "confidence": "low"
+      }
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Leaving without breaking the WAC bylaws or triggering litigation.",
+        "solution": "Gave more than a year of notice and left the WAC name, AQ and assets behind. The WAC survived with 8 and later re-expanded."
+      },
+      {
+        "obstacle": "NCAA AQ waiting period for a new conference.",
+        "solution": "Continuity-of-membership: 7 of the 8 had competed together for decades, so the AQ came immediately."
+      },
+      {
+        "obstacle": "Media value with no \"new\" programs.",
+        "solution": "Sold a cohesive, travel-efficient regional product with historic rivalries (BYU-Utah, the Border War)."
+      }
+    ],
+    "gameModelLessons": [
+      "A breakaway of 8 or more schools with shared history can found a league and keep NCAA AQ access in year 1. Model a \"continuity\" flag that skips the 2-year AQ wait.",
+      "Superconference size without shared identity produces discontent. Track a cohesion/travel-cost metric that rises past ~12-14 members spread over several time zones.",
+      "Secrecy matters: the plan held among 8 presidents. In-game, the number of co-conspirators should raise the per-turn leak probability.",
+      "The old league's charter, name and AQ stay with whoever remains. Breakaways must buy or create a brand."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ],
+    "note": "Meeting locations and president names from memory. The brief's 'Laramie meeting' is plausible but unverified; the decisive session is more often described at Denver International Airport."
+  },
+  {
+    "confidence": "low",
+    "id": "swc-collapse-big-12-formation-1994-96",
+    "name": "Southwest Conference collapse and Big 12 formation",
+    "years": "1990-1996",
+    "type": "merger-collapse",
+    "summary": "After Arkansas left for the SEC (announced 1990, effective 1991-92) and the College Football Association TV cartel broke up, the Big Eight added four Texas SWC schools (Texas, Texas A&M, Texas Tech, Baylor), announced 1994-02-25. The Big 12 began in 1996-97. The other four SWC schools scattered (Houston to new C-USA; Rice, SMU, TCU to the WAC) and the SWC dissolved on 1996-06-30.",
+    "steps": [
+      "1987: SMU 'death penalty' and widespread probation cases damage the SWC brand. Texas TV markets dominate but the league is all-Texas except Arkansas.",
+      "1990-08: Arkansas accepts SEC invitation (football 1992). The SEC adds South Carolina and creates the first divisional title game (1992).",
+      "1990-95: Notre Dame's NBC deal (1990) and the SEC's and others' exits break up the CFA package. Leagues now sell rights themselves.",
+      "1993-94: Big Eight courts Texas and Texas A&M for TV markets. Texas politicians (Gov. Ann Richards, a Baylor alum; Lt. Gov. Bob Bullock; Tech-aligned legislators) insist Baylor and Texas Tech be included.",
+      "1994-02-25: Big Eight presidents and the four Texas schools announce the merger, effective 1996-97.",
+      "1996: Big 12 begins with North/South divisions and a title game. Revenue partly unequal (TV appearances), a source of future instability."
+    ],
+    "keyPeople": [
+      {
+        "name": "Ann Richards",
+        "role": "Texas governor"
+      },
+      {
+        "name": "Bob Bullock",
+        "role": "Texas lieutenant governor"
+      },
+      {
+        "name": "Robert Berdahl",
+        "role": "UT Austin president",
+        "confidence": "low"
+      },
+      {
+        "name": "Steve Hatchell",
+        "role": "First Big 12 commissioner (1996-98)",
+        "confidence": "low"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "initialMediaDeal": {
+        "partner": "abc",
+        "years": "1996-2000 (approx.)",
+        "annualValueUsd": 20000000,
+        "notes": "ABC plus Liberty Sports/Fox Sports Net, reported ~$100M over 5 years (low confidence).",
+        "confidence": "low"
+      }
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "State politics: the legislature controlled UT/A&M budgets and protected Baylor and Tech.",
+        "solution": "Expanded the invite list from 2 schools to 4. Politics outranks market logic in Texas."
+      },
+      {
+        "obstacle": "Integrating two leagues with different revenue cultures.",
+        "solution": "Unequal TV-appearance sharing (favoring Texas, OU and Nebraska). It worked short-term and caused the 2010-11 defections."
+      }
+    ],
+    "gameModelLessons": [
+      "Model statePoliticalPressure as able to force add-on members (a \"package deal\" demand) when a flagship moves.",
+      "A media-market shock (CFA breakup, a new TV cycle) is a classic realignment trigger.",
+      "Unequal revenue sharing raises the defection risk of non-favored members over time.",
+      "The orphans of a collapse (Houston, Rice, SMU, TCU) become backfill for lower leagues, so collapses cascade downward."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Southwest_Conference",
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ],
+    "note": "TV deal value and some names from memory."
+  },
+  {
+    "confidence": "low",
+    "id": "big-east-founding-1979",
+    "name": "Founding of the Big East (basketball-first TV league)",
+    "years": "1979-1991",
+    "type": "founding",
+    "summary": "Providence AD Dave Gavitt built a Northeast basketball league in big TV markets to ride the new cable era (ESPN launched in 1979). It started with 7 schools and added Villanova (1980) and Pitt (1982). It started a Madison Square Garden tournament (1983) and added a football membership in 1991. That hybrid structure fractured in 2003-13.",
+    "steps": [
+      "1979-05-31: founding with Providence, St. John's, Georgetown, Syracuse, Seton Hall, UConn and Boston College.",
+      "Early ESPN partnership for national exposure. Bigger arenas and MSG.",
+      "1991: football membership (Miami, Virginia Tech, West Virginia, Temple, Rutgers plus existing BC, Pitt, Syracuse) created to protect members from the ACC/SEC/Big Ten."
+    ],
+    "keyPeople": [
+      {
+        "name": "Dave Gavitt",
+        "role": "Founder and first commissioner"
+      },
+      {
+        "name": "Mike Tranghese",
+        "role": "Later commissioner (1990-2009)"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "initialMediaDeal": {
+        "partner": "espn",
+        "years": "1979-",
+        "annualValueUsd": null,
+        "notes": "Exposure-first cable deals. Values small/unverified."
+      }
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "No history or AQ.",
+        "solution": "Recruited established programs and sold TV markets plus MSG as the brand."
+      }
+    ],
+    "gameModelLessons": [
+      "A new league can be built around media markets and a single marquee event (MSG).",
+      "Hybrid structures (football and non-football members with diverging interests) are a ticking clock: they fractured after 22 years."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ]
+  },
+  {
+    "confidence": "low",
+    "id": "cusa-founding-merger-1995",
+    "name": "Conference USA formed by merging the Metro and Great Midwest",
+    "years": "1994-1996",
+    "type": "merger",
+    "summary": "Two basketball-centric leagues with too few football programs (the Metro and Great Midwest) merged into Conference USA for 1995-96, with football from 1996 (adding Houston from the dead SWC). Mike Slive was founding commissioner. It shows the merger path to critical mass in football.",
+    "steps": [
+      "1994-95: Metro and Great Midwest presidents agree to dissolve and re-form as one league.",
+      "1995-96: C-USA starts with ~12 schools (incl. Cincinnati, Louisville, Memphis, Marquette, DePaul, Saint Louis, UAB, Southern Miss, Tulane, South Florida, Charlotte, Houston).",
+      "1996: football begins with the football-playing subset (others non-football)."
+    ],
+    "keyPeople": [
+      {
+        "name": "Mike Slive",
+        "role": "Founding C-USA commissioner (1995-2002), later SEC"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "initialMediaDeal": {
+        "partner": null,
+        "notes": "Unverified."
+      }
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Neither league could field enough football schools alone.",
+        "solution": "Merge, pooling football into one schedule while non-football schools stay full members."
+      }
+    ],
+    "gameModelLessons": [
+      "Offer a \"merge two leagues\" founding path. It is faster to 8+ football members but inherits two sets of bylaws/obligations and a mixed-interest membership that tends to split (C-USA lost 5 to the Big East in 2005).",
+      "Dissolving a conference may forfeit its NCAA units and AQ continuity. Structure it as one league absorbing the other's members where possible."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "note": "Exact founding dates and member list from memory."
+  },
+  {
+    "confidence": "low",
+    "id": "sun-belt-adds-football-2001",
+    "name": "Sun Belt starts FBS football from Big West castoffs",
+    "years": "2000-2001",
+    "type": "football-launch",
+    "summary": "When the Big West dropped football after 2000, the Sun Belt (a basketball league) started sponsoring FBS football in 2001 with Arkansas State, Idaho, Louisiana-Lafayette, Louisiana-Monroe, Middle Tennessee, New Mexico State and North Texas. Several were football-only affiliates. Two decades later it was the strongest G5 football league.",
+    "steps": [
+      "2000: Big West announces the end of football. Its football schools need homes.",
+      "2001: Sun Belt adds football with 7 programs, incl. football-only members (Idaho, NMSU).",
+      "2001-2013: survives on minimal TV money. Gains FAU, FIU, Troy and WKU, then loses 5 to C-USA (2013-14).",
+      "2013-22: rebuilds with FCS move-ups (Georgia State, Texas State, App State, Georgia Southern, Coastal, JMU) and C-USA defectors (Marshall, ODU, Southern Miss)."
+    ],
+    "keyPeople": [
+      {
+        "name": "Wright Waters",
+        "role": "Sun Belt commissioner (1998-2012)",
+        "confidence": "low"
+      },
+      {
+        "name": "Karl Benson",
+        "role": "Commissioner 2012-19"
+      },
+      {
+        "name": "Keith Gill",
+        "role": "Commissioner 2019-"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "initialMediaDeal": {
+        "partner": "espn",
+        "notes": "Minimal ESPN Regional/syndication deals. Values unverified.",
+        "confidence": "low"
+      }
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Reaching the FBS minimum quickly.",
+        "solution": "Football-only affiliates from homeless programs."
+      },
+      {
+        "obstacle": "Constant raiding by C-USA.",
+        "solution": "Refill from the FCS pipeline (ambitious, cheap, regional schools with good fan bases)."
+      }
+    ],
+    "gameModelLessons": [
+      "An existing non-football or FCS-heavy league can add an FBS football tier. Use football-only affiliates to hit 8.",
+      "The FCS move-up pool is a renewable resource for a low-tier league. Price it via the NCAA $5M fee plus entry fees."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Big_West_Conference"
+    ]
+  },
+  {
+    "confidence": "low",
+    "id": "acc-raid-and-2005-shuffle",
+    "name": "ACC raid of the Big East and the 2005 C-USA/Big East/WAC/Sun Belt shuffle",
+    "years": "2003-2007",
+    "type": "raid-cascade",
+    "summary": "The ACC took Miami and Virginia Tech (2004) and Boston College (2005) from the Big East. The Big East backfilled from C-USA (Cincinnati, Louisville, USF plus non-football DePaul and Marquette, effective 2005). C-USA backfilled from the MAC (Marshall, UCF) and WAC (Rice, SMU, Tulsa, UTEP). The WAC backfilled from the Sun Belt/Big West (Idaho, NMSU, Utah State), and the Sun Belt and MAC added further down (FAU, FIU, Troy; Temple football to the MAC 2007).",
+    "steps": [
+      "2003-05: ACC presidents vote to expand to 12 for a football title game. The original targets were Miami, Syracuse and BC; Virginia politics swapped VT in for Syracuse.",
+      "2003-06: Big East schools and the Connecticut attorney general (Richard Blumenthal) sue the ACC, Miami and BC in Connecticut. The case is later resolved and BC moves in 2005.",
+      "2003-11-04: Big East announces C-USA additions effective 2005.",
+      "2004-05: C-USA, WAC, Sun Belt and MAC backfill in turn."
+    ],
+    "keyPeople": [
+      {
+        "name": "John Swofford",
+        "role": "ACC commissioner"
+      },
+      {
+        "name": "Mike Tranghese",
+        "role": "Big East commissioner"
+      },
+      {
+        "name": "Richard Blumenthal",
+        "role": "Connecticut attorney general (litigation)"
+      },
+      {
+        "name": "Mark Warner",
+        "role": "Virginia governor (pushed Virginia Tech)",
+        "confidence": "low"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "notes": "Exit fees then were modest (~$1-5M). The Big East litigation sought damages. Settlement terms unverified.",
+      "initialMediaDeal": null
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "The raided league risks losing its BCS AQ.",
+        "solution": "Immediate backfill from the tier below to keep 8 football members and AQ status."
+      }
+    ],
+    "gameModelLessons": [
+      "Each raid triggers a backfill chain 3-4 levels deep within ~18 months. In-game, a P4 move should spawn AI vacancy-filling at every lower tier.",
+      "State politics can change which school gets invited (VT over Syracuse).",
+      "Litigation by the raided league is common but rarely stops a move. It changes the price and timing."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://en.wikipedia.org/wiki/Conference_USA",
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference"
+    ]
+  },
+  {
+    "confidence": "low",
+    "id": "pac-16-attempt-2010",
+    "name": "Larry Scott's failed 'Pac-16' and the Big 12's survival",
+    "years": "2010",
+    "type": "failed-expansion",
+    "summary": "In June 2010 the Pac-10 invited Colorado and planned to add Texas, Texas A&M, Oklahoma, Oklahoma State and Texas Tech for a 16-team, two-division superconference. Texas stayed in the Big 12 on 2010-06-14 after Commissioner Dan Beebe promised a richer TV deal and allowed the Longhorn Network. The Pac-10 settled for Colorado and Utah. Nebraska went to the Big Ten anyway, and A&M (2011) and Missouri (2011) later left.",
+    "steps": [
+      "2009-12: Big Ten announces an expansion study, which starts the wave.",
+      "2010-06-10: Colorado accepts the Pac-10.",
+      "2010-06-11: Nebraska accepts the Big Ten. Boise State accepts the MWC.",
+      "2010-06-14: Texas commits to a 10-team Big 12 after Beebe projects higher TV revenue (Fox renegotiation) and Tier-3 freedom (Longhorn Network).",
+      "2010-06-17: Utah accepts the Pac-10."
+    ],
+    "keyPeople": [
+      {
+        "name": "Larry Scott",
+        "role": "Pac-10 commissioner"
+      },
+      {
+        "name": "Dan Beebe",
+        "role": "Big 12 commissioner"
+      },
+      {
+        "name": "DeLoss Dodds",
+        "role": "Texas AD",
+        "confidence": "low"
+      },
+      {
+        "name": "Bill Powers",
+        "role": "Texas president",
+        "confidence": "low"
+      },
+      {
+        "name": "Chip Brown",
+        "role": "Reporter who broke the story",
+        "confidence": "low"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "notes": "The Big 12 survived on the promise of a ~$1.17B/13-yr Fox second-tier deal (signed 2011) and ESPN first-tier renegotiation. Texas's Longhorn Network: ESPN 20 yrs/~$300M.",
+      "initialMediaDeal": null,
+      "confidence": "low"
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Anchor school (Texas) hesitant to leave.",
+        "solution": "The rival league outbid it with media guarantees and Tier-3 freedom, which saved the Big 12 but planted the LHN grievance."
+      }
+    ],
+    "gameModelLessons": [
+      "Anchor schools decide waves. If the anchor's 'stay' utility (TV guarantee plus autonomy) beats the 'go' utility, the cascade stops.",
+      "A commissioner can save a league with a credible media-revenue projection, but promises that favor one member create new defectors (A&M and Missouri in 2011, citing LHN)."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ]
+  },
+  {
+    "confidence": "low",
+    "id": "mwc-cusa-merger-plan-2012",
+    "name": "Aborted Mountain West / Conference USA merger",
+    "years": "2011-2012",
+    "type": "failed-merger",
+    "summary": "In early 2012 the MWC and C-USA (both raided by the Big East) announced plans to combine into a new 18-24 school league (football alliance first) to chase BCS AQ status. The plan died within months amid concerns about losing NCAA basketball units/AQs and exit liabilities in a dissolution, plus the Big East invitations to Boise State and SDSU and divergent TV deals. Both leagues instead backfilled separately.",
+    "steps": [
+      "2011-10: football alliance (scheduling/bowl) announced.",
+      "2012-02-13: plan to form a new conference announced.",
+      "Spring 2012: abandoned as both leagues added members (MWC: Utah State, SJSU; C-USA: 8 schools)."
+    ],
+    "keyPeople": [
+      {
+        "name": "Craig Thompson",
+        "role": "MWC commissioner"
+      },
+      {
+        "name": "Britton Banowsky",
+        "role": "C-USA commissioner"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "initialMediaDeal": null
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Dissolving two legal entities could forfeit NCAA units, AQs and contracts.",
+        "solution": "Not solved, and the plan was dropped."
+      }
+    ],
+    "gameModelLessons": [
+      "Merging two existing conferences should carry a heavy penalty (units/AQ/contract risk) unless one league legally absorbs the other's members."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ],
+    "note": "Dates and rationale from memory."
+  },
+  {
+    "confidence": "low",
+    "id": "big-east-split-catholic-7-2013",
+    "name": "The 'Catholic 7' break up the Big East and re-form it as a basketball league",
+    "years": "2012-2013",
+    "type": "breakaway",
+    "summary": "With football schools being raided and the league chasing far-flung football members (Boise State, SDSU, Houston, SMU, UCF, Memphis), the 7 Catholic non-FBS schools (Georgetown, Villanova, St. John's, Seton Hall, Providence, Marquette, DePaul) voted to leave on 2012-12-15. A March 2013 separation agreement let them take the Big East name and the Madison Square Garden tournament. In exchange they took only a small share of the conference's exit-fee reserve, while the football schools kept the 1979 charter (renamed the American). The new Big East added Butler, Creighton and Xavier, signed a 12-year FOX deal, and began on 2013-07-01.",
+    "steps": [
+      "2012-12-15: Catholic 7 presidents announce their intent to leave (as a group, citing the football-driven direction).",
+      "2013-01/02: FOX (planning FS1 for Aug 2013) emerges as media partner. Negotiations with the football schools over the name, MSG, money and NCAA units.",
+      "2013-03-08: separation agreement. The C7 get the name and MSG, depart 2013-07-01 (not 2015), and take ~$10M of the ~$100M+ reserve (reported). The football side keeps the remainder plus the NCAA AQ/charter.",
+      "2013-03-20: Butler, Creighton and Xavier invited.",
+      "2013-06: Val Ackerman (founding WNBA president) hired as commissioner. HQ New York City.",
+      "2013-07-01: new Big East begins and gets an NCAA AQ immediately (continuity of membership)."
+    ],
+    "keyPeople": [
+      {
+        "name": "John DeGioia",
+        "role": "Georgetown president (C7 leader)"
+      },
+      {
+        "name": "Rev. Peter Donohue",
+        "role": "Villanova president",
+        "confidence": "low"
+      },
+      {
+        "name": "Val Ackerman",
+        "role": "Founding commissioner of the new Big East"
+      },
+      {
+        "name": "Mike Aresco",
+        "role": "Commissioner of the old Big East / American"
+      },
+      {
+        "name": "Eric Shanks / Randy Freer",
+        "role": "FOX Sports executives",
+        "confidence": "low"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "startupNotes": "New office in NYC (~25-35 staff early). New bylaws, officiating and championship contracts. FOX money covered startup.",
+      "feesUsd": 0,
+      "nameAndAssets": "They kept the Big East name/trademarks and the MSG tournament contract. They reportedly took ~$10M of the conference reserve (~$110M, mostly exit fees from Pitt, Syracuse, WVU, TCU, Notre Dame, Rutgers and Louisville), forgoing most of their share. The NCAA basketball units split was negotiated.",
+      "initialMediaDeal": {
+        "partner": "fox",
+        "years": "2013-14 to 2024-25 (12 yrs)",
+        "annualValueUsd": 40000000,
+        "totalValueUsd": 500000000,
+        "notes": "~$500M over 12 years, ~$3.5-4M per school a year. It was FS1's anchor college property. Renegotiated in 2023 to 6-year FOX/TNT/NBC deals from 2024-25."
+      },
+      "confidence": "low"
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Exit fees and 27-month notice under the old bylaws.",
+        "solution": "Group negotiation. The old league did not want a lame-duck 2013-15, so it traded an early, fee-free exit for most of the cash."
+      },
+      {
+        "obstacle": "Brand: a new league has none.",
+        "solution": "Bought the Big East name and MSG by forgoing money. The brand was worth more than the cash."
+      },
+      {
+        "obstacle": "AQ waiting period.",
+        "solution": "Continuity: 7 schools together for 30+ years."
+      },
+      {
+        "obstacle": "Getting to 10 for scheduling and TV inventory.",
+        "solution": "Added three Catholic/private basketball schools with recent tournament success."
+      }
+    ],
+    "gameModelLessons": [
+      "A cohesive minority can trade money for brand. Let players buy a defunct or abandoned league name and its marquee event in a separation negotiation.",
+      "A media partner launching a network (FS1 in 2013) is a founding catalyst. Model broadcaster \"needs inventory\" demand spikes.",
+      "Basketball-only leagues are viable at ~$3-5M per school from TV. That is much less than football money, but enough when the brand is right."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_East_Conference",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ],
+    "note": "Reserve-split figures from memory. The brief's 'bought the name for ~$10M' is directionally right but inverted: they took ~$10M less than an equal share (receiving ~$10M of the pot) rather than paying $10M."
+  },
+  {
+    "confidence": "low",
+    "id": "american-formation-2013",
+    "name": "The American Athletic Conference rises from the old Big East charter",
+    "years": "2012-2025",
+    "type": "reconstitution",
+    "summary": "The football-playing remnant of the Big East kept its 1979 charter, NCAA AQ, exit-fee reserve and a fresh ESPN contract, renamed itself the American Athletic Conference (2013-04-03), and had one season of BCS AQ status (2013) before becoming the top 'Group of Five' league. It was raided repeatedly (Louisville and Rutgers 2014, UConn 2020, Cincinnati, Houston and UCF 2023, SMU 2024) and backfilled from C-USA each time. Rebranded 'American Conference' in 2025.",
+    "steps": [
+      "2012-11: ESPN 7-yr ~$126M deal signed (as the Big East), far below the rejected 2011 offer.",
+      "2013-04-03: name chosen. Mike Aresco (ex-CBS) commissioner.",
+      "2013-07-01: begins with 10 (Cincinnati, UConn, Houston, Louisville, Memphis, Rutgers, SMU, Temple, UCF, USF). UCF wins the 2013 BCS-era Fiesta Bowl as the league's AQ champion.",
+      "2014-2015: adds ECU, Tulane, Tulsa and Navy (football).",
+      "2019-03: new ESPN 12-yr ~$1B deal (from 2020-21).",
+      "2021-10-21: replaces the Big 12-bound trio with six C-USA schools (effective 2023).",
+      "2023-07: Tim Pernetti succeeds Aresco. 2024: Army football joins. 2025: rebrand.",
+      "2026-10-12: adds James Madison (effective 2027/28, $23M entry fee)."
+    ],
+    "keyPeople": [
+      {
+        "name": "Mike Aresco",
+        "role": "Commissioner 2012-2023"
+      },
+      {
+        "name": "Tim Pernetti",
+        "role": "Commissioner 2023-"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "reserveNotes": "Inherited most of the old Big East exit-fee reserve (~$100M). Later exit fees: UConn $17M, Cincinnati, Houston and UCF $18M each.",
+      "initialMediaDeal": {
+        "partner": "espn",
+        "years": "2013-14 to 2019-20 (7 yrs)",
+        "annualValueUsd": 18000000,
+        "totalValueUsd": 126000000,
+        "notes": "Replaced from 2020-21 by ESPN 12 yrs ~$1B (~$83M/yr)."
+      }
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Losing AQ status when the CFP replaced the BCS (2014).",
+        "solution": "Marketed itself as the 'Power 6' and the best G5 league, then won access bowls (UCF 2017, Cincinnati CFP 2021)."
+      },
+      {
+        "obstacle": "Serial raids.",
+        "solution": "Kept a high exit fee ($10M plus 27 months) to price departures, and kept a backfill list from C-USA."
+      }
+    ],
+    "gameModelLessons": [
+      "When a league splits, whoever keeps the legal charter keeps the AQ, units and reserves. That is valuable even if the brand goes with the other side.",
+      "G5 leagues are farm systems for P4 expansion. Model member \"graduation\" probability by football rating plus market.",
+      "Exit-fee money is a meaningful G5 revenue line during raids (tens of millions)."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Conference_(NCAA)",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+      "https://www.cbssports.com/college-football/news/aac-changes-name-to-american-conference-introduces-mascot-soar-as-part-of-rebranding-intiative",
+      "https://frontofficesports.com/article/james-madison-joins-the-american-before-sun-belt-exit-fees-rise/"
+    ]
+  },
+  {
+    "confidence": "low",
+    "id": "big-12-expansion-review-2016",
+    "name": "Big 12 expansion \"beauty contest\" that ended with no expansion",
+    "years": "2016",
+    "type": "failed-expansion",
+    "summary": "On 2016-07-19 Big 12 presidents authorized evaluating expansion to 12 or 14. About 20 schools pitched (Houston, Cincinnati, UConn, BYU, Memphis, USF, UCF, Colorado State, Air Force, Rice, SMU, Tulane, Temple, ECU, NIU and others). On 2016-10-17 the board decided not to expand, largely because ESPN/Fox pro-rata clauses would have required paying new members full shares (~$20-25M each) and the networks preferred no expansion.",
+    "steps": [
+      "Board authorizes the evaluation.",
+      "Consultants vet applicants. Schools lobby publicly (state politicians weigh in).",
+      "Networks signal opposition.",
+      "Board votes not to expand."
+    ],
+    "keyPeople": [
+      {
+        "name": "Bob Bowlsby",
+        "role": "Big 12 commissioner"
+      },
+      {
+        "name": "David Boren",
+        "role": "Oklahoma president (pushed expansion and a network)"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "notes": "Pro-rata TV clauses would have cost the networks ~$20-25M per added school per year.",
+      "initialMediaDeal": null,
+      "confidence": "low"
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Media partners would have to pay for new members.",
+        "solution": "No expansion. Five years later the Big 12 added 4 in 2021 out of necessity."
+      }
+    ],
+    "gameModelLessons": [
+      "A pro-rata clause makes adding members a TV-partner decision. Media partners can veto expansion by signaling.",
+      "Public \"application\" processes create losers who later resent the league (Houston, Cincinnati, UCF). They added these schools in 2021 anyway."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_12_Conference"
+    ]
+  },
+  {
+    "confidence": "low",
+    "id": "pac-12-rebuild-2023-2026",
+    "name": "The Pac-12 rebuilt from two schools",
+    "years": "2022-2026",
+    "type": "rebuild",
+    "summary": "After 10 members announced exits in 2022-23 (effective 2024-08-02), Oregon State and Washington State won control of the Pac-12 in court, kept its assets, ran a two-member conference for two years under the NCAA FBS grace period, scheduled football against the Mountain West, and then poached five MWC schools plus Texas State (football) and Gonzaga (non-football) to restart as a 9-member league on 2026-07-01 with a CBS-led ~$68M/yr media package. The MWC litigation over exit fees and the scheduling-agreement poaching penalty settled on 2026-08-04.",
+    "steps": [
+      "2022-06-30: USC and UCLA announce Big Ten moves (2024).",
+      "2023-07/09: Colorado (Big 12), Oregon and Washington (Big Ten), Arizona, ASU and Utah (Big 12), Cal and Stanford (ACC) announce exits after the media deal fails (Apple streaming proposal).",
+      "2023-09-08: OSU and WSU sue the Pac-12 and Commissioner George Kliavkoff in Whitman County (WA) Superior Court, arguing the departing schools lost their board seats on giving notice.",
+      "2023-11-14: Judge Gary Libey grants a preliminary injunction for OSU/WSU. The Washington Supreme Court declines review in Dec 2023, so OSU/WSU control the conference and its assets.",
+      "2023-12: settlement with the 10 departing schools covering withheld 2023-24 revenue and liabilities (OSU/WSU keep legacy assets incl. CFP/NCAA units, ~$65M from departing schools).",
+      "2023-12: football scheduling agreement with the MWC for 2024 (6+ MWC games each), with a poaching-penalty clause. Non-football sports join the WCC as affiliates (2024-26).",
+      "2024-02/03: Kliavkoff out. Deputy Teresa Gould named commissioner.",
+      "2024-08-02: two-member Pac-12 begins its NCAA two-year grace period (2024-25, 2025-26).",
+      "2024-09-12 to 24: Boise State, Colorado State, Fresno State, San Diego State and Utah State accept (effective 2026). Litigation follows: MWC v. Pac-12 (poaching penalty, up to ~$55M claimed) and the schools v. MWC (exit fees ~$17-19M each, Utah State ~$38M).",
+      "2025-06: CBS named primary media partner. 2025-06-30: Texas State becomes the 8th football member. ~2025-07: Gonzaga joins (non-football). 2025-08: The CW extended. 2025-11: USA Network (Versant) added.",
+      "2026-06: Gould extended through 2030-31.",
+      "2026-07-01: 9-member Pac-12 begins (8 football).",
+      "2026-08-04: settlement with the MWC. The five departing schools pay $49M ($9.8M each, withheld from final MWC distributions). OSU and WSU pay ~$10M each on the poaching claim. ~$69-70M flows to remaining MWC members."
+    ],
+    "keyPeople": [
+      {
+        "name": "Teresa Gould",
+        "role": "Pac-12 commissioner (2024-)"
+      },
+      {
+        "name": "George Kliavkoff",
+        "role": "Pac-12 commissioner (2021-24)"
+      },
+      {
+        "name": "Kirk Schulz",
+        "role": "Washington State president (2023-25)"
+      },
+      {
+        "name": "Jayathi Murthy",
+        "role": "Oregon State president"
+      },
+      {
+        "name": "Scott Barnes",
+        "role": "Oregon State AD"
+      },
+      {
+        "name": "Pat Chun / Anne McCoy",
+        "role": "Washington State AD(s)",
+        "confidence": "low"
+      },
+      {
+        "name": "Gary Libey",
+        "role": "Whitman County Superior Court judge"
+      },
+      {
+        "name": "Gloria Nevarez",
+        "role": "Mountain West commissioner"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "startupNotes": "The rebuild was financed by inherited assets: CFP P5 revenue through 2025-26, NCAA units, and ~$65M of withheld/settled money from departing schools. The conference office was downsized from ~200 (incl. Pac-12 Networks) to a small staff, and the network was shut and sold off.",
+      "feesUsd": 69000000,
+      "feesNotes": "~$49M (departing MWC schools, via withheld distributions) plus ~$20M (OSU/WSU poaching settlement), all paid to the MWC.",
+      "initialMediaDeal": {
+        "partner": "cbs",
+        "coPartners": [
+          "cw",
+          "versant"
+        ],
+        "years": "2026-27 to 2030-31",
+        "annualValueUsd": 68000000,
+        "notes": "Total package across CBS, The CW and USA Network (~$7-8M per football school a year). See media_deals.json."
+      }
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Control of the conference (departing schools still had board votes).",
+        "solution": "Fast litigation in a friendly venue, using bylaw language on withdrawal notice."
+      },
+      {
+        "obstacle": "FBS status with 2 members.",
+        "solution": "The NCAA two-year grace period, plus a pledge to reach 8 by 2026."
+      },
+      {
+        "obstacle": "No football schedule.",
+        "solution": "Paid scheduling deal with the MWC, which included the clause that later cost ~$20M."
+      },
+      {
+        "obstacle": "Basketball and Olympic sports with 2 schools.",
+        "solution": "WCC affiliate membership for 2 years."
+      },
+      {
+        "obstacle": "Finding 6 new football members.",
+        "solution": "Poached the MWC's top 5 brands, then Texas State. Gonzaga gave basketball credibility."
+      },
+      {
+        "obstacle": "Exit fees owed by recruits.",
+        "solution": "Litigated, then settled at about half the claimed bylaw fees."
+      },
+      {
+        "obstacle": "Media deal from scratch.",
+        "solution": "A multi-partner broadcast-heavy package (CBS, CW, USA) rather than one rich deal."
+      }
+    ],
+    "gameModelLessons": [
+      "Whoever controls the board controls the charter, assets, CFP seat and NCAA units. Model a 'control fight' event when a majority gives notice.",
+      "Two-year grace period: a league can survive below 8 if it has cash reserves and a credible rebuild list.",
+      "Scheduling alliances should carry poaching clauses. AI leagues should insist on them and players should price them.",
+      "Settlements typically land at ~40-60% of claimed exit fees.",
+      "A rebuilt G6 league's first media deal is ~$7-8M per football school a year, far below its pre-collapse ~$30M+."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pac-12_Conference",
+      "https://www.cbssports.com/college-football/news/washington-state-oregon-state-remain-in-control-of-pac-12-as-washington-supreme-court-denies-review-request",
+      "https://www.commerce.senate.gov/wp-content/uploads/meetings/36690a12-aa4c-e426-99ad-cc13df72e3b7/Written-testimony-of-Pac-12-Commissioner-Teresa-Gould-June-3-2026-U.S.-Senate-Committee-on-Commerce-Science-and-Transport_5a3614b4-9c9d-4f20-aa8b-e269c1b5e7f5-1.pdf",
+      "https://pac-12.com/news/2025/6/30/general-pac-12-conference-welcomes-the-addition-of-texas-state-university.aspx",
+      "https://www.cbssports.com/college-football/news/cbs-sports-pac-12-extend-partnership-with-network-becoming-primary-partner-as-league-eyes-expansion/",
+      "https://www.si.com/college/oregon-state/football/what-teams-are-in-the-new-pac-12-in-2026-2027",
+      "https://www.sportico.com/leagues/college-sports/2026/mountain-west-five-schools-settlement-payment-amount-1234942167/",
+      "https://opb.org/article/2026/08/05/pac-12-mountain-west-conferences-finalize-settlement-over-poaching-and-exit-fees",
+      "https://www.kunm.org/news/2026-08-19/unm-could-receive-5-6m-from-mountain-west-settlement",
+      "https://en.wikipedia.org/wiki/2021%E2%80%932026_NCAA_conference_realignment"
+    ],
+    "note": "2026 settlement and media figures cross-checked against the fbs-conferences and media-rights agents' files. Court dates from memory."
+  },
+  {
+    "id": "acc-fsu-clemson-grant-of-rights-2023-25",
+    "name": "Florida State and Clemson vs. the ACC grant of rights",
+    "years": "2023-2025",
+    "type": "exit-litigation",
+    "summary": "FSU (Dec 2023) and Clemson (Mar 2024) sued the ACC to escape its exit fee (~3x operating budget, ~$130M+) and grant of rights through 2036 (total cost estimated by FSU at more than $572M). The ACC countersued in North Carolina. A 2025-03-04 settlement replaced the penalties with a declining exit fee ($165M in FY2026, down $18M a year to $75M from FY2031), released media rights on payment, and added viewership-weighted 'brand' revenue distribution.",
+    "steps": [
+      "2023-12-21/22: ACC sues FSU in Mecklenburg County and FSU sues the ACC in Leon County.",
+      "2024-03: Clemson sues.",
+      "Rival rulings in NC and FL courts. Discovery fights over the ESPN contract.",
+      "2025-03-04: global settlement."
+    ],
+    "keyPeople": [
+      {
+        "name": "Jim Phillips",
+        "role": "ACC commissioner"
+      },
+      {
+        "name": "Richard McCullough",
+        "role": "FSU president"
+      },
+      {
+        "name": "Jim Clements",
+        "role": "Clemson president"
+      }
+    ],
+    "money": {
+      "feesUsd": null,
+      "notes": "Exit fee schedule FY2026 $165M down to $75M (FY2031-36). See conferences.json for the full schedule.",
+      "initialMediaDeal": null
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "An unbreakable-looking grant of rights.",
+        "solution": "Litigate in home-state courts and settle for a priced exit plus revenue tilt."
+      }
+    ],
+    "gameModelLessons": [
+      "A grant of rights converts to a price, not a wall. Model exit cost = fee schedule plus GOR damages, negotiable down via litigation (~12-18 months, legal costs ~$5-10M per side).",
+      "Brand-weighted distribution is a retention tool that the player can offer."
+    ],
+    "sources": [
+      "https://www.cbssports.com/college-football/news/acc-settles-florida-state-clemson-lawsuits-revised-revenue-distribution-lowered-exit-fee-among-key-details",
+      "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference"
+    ]
+  },
+  {
+    "confidence": "low",
+    "id": "wac-football-demise-and-uac",
+    "name": "WAC football demise, the ASUN-WAC alliance and the United Athletic Conference",
+    "years": "2010-2026",
+    "type": "collapse-and-alliance",
+    "summary": "The WAC lost every FBS football member between 2011 and 2013 (Boise State, Fresno State, Nevada, Hawaii, Utah State, San José State, Louisiana Tech, UTSA, Texas State, plus independents Idaho and NMSU) and ended FBS football after 2012. It survived as a non-football league. In 2021 the WAC (Texas FCS schools and Utah schools) and the ASUN (southern FCS schools) re-added FCS football, but each was too small for an FCS playoff AQ. They ran the \"ASUN-WAC Challenge\" alliance (2021-22) and then merged football into the United Athletic Conference (UAC, from 2023, Oliver Luck commissioner, administered jointly). In 2026 the WAC itself rebranded as the UAC, a multisport league built from its Texas members plus the ASUN football schools.",
+    "steps": [
+      "2010-13: serial departures (see realignment_timeline.json). WAC football ends after the 2012 season. Karl Benson leaves for the Sun Belt (2012).",
+      "2013-20: non-football WAC built around Grand Canyon, New Mexico State, Seattle U, Utah Valley, CSU Bakersfield, Chicago State, UMKC and others.",
+      "2020-21: WAC adds Texas FCS schools (Sam Houston, SFA, Lamar, Abilene Christian, Tarleton) and Utah's Dixie State/Utah Tech and Southern Utah. The ASUN adds football (Jacksonville State, Central Arkansas, EKU, Kennesaw State, North Alabama, Austin Peay).",
+      "2021-22: the 'ASUN-WAC Challenge' combines standings for playoff-AQ purposes.",
+      "2023: UAC launched as a football-only conference with members from both leagues.",
+      "2026-07-01: WAC rebrands as the United Athletic Conference (multisport), absorbing the ASUN football schools. Grand Canyon (MWC), Utah Valley, Seattle U and Cal Baptist had left."
+    ],
+    "keyPeople": [
+      {
+        "name": "Karl Benson",
+        "role": "WAC commissioner (1994-2012)"
+      },
+      {
+        "name": "Jeff Hurd",
+        "role": "WAC commissioner after 2012",
+        "confidence": "low"
+      },
+      {
+        "name": "Oliver Luck",
+        "role": "First UAC commissioner (2023)",
+        "confidence": "low"
+      },
+      {
+        "name": "Jeff Bacon",
+        "role": "ASUN commissioner",
+        "confidence": "low"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "initialMediaDeal": {
+        "partner": "espn",
+        "notes": "ESPN+ streaming packages (minimal rights fees).",
+        "confidence": "low"
+      }
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Below the FBS minimum with no backfill available.",
+        "solution": "Drop football and survive as a non-football league (FBS football never returned)."
+      },
+      {
+        "obstacle": "Too few members for an FCS AQ.",
+        "solution": "Cross-conference football alliance, then a joint football-only conference, then a full merger/rebrand."
+      }
+    ],
+    "gameModelLessons": [
+      "A league that can't hold 8 FBS football members within the grace period should get a 'drop football' option that keeps its NCAA status and basketball AQ.",
+      "Football-only conferences administered by two multisport leagues are a real tool, a cheap way to reach the 6-member FCS AQ.",
+      "Expect geographically incoherent leagues (Texas to Utah to Kentucky) when the goal is just to hit a count."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/United_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/ASUN_Conference",
+      "https://www.bloggingthebracket.com/conference-realignment/10418/college-basketball-division-i-conference-realignment-2026-27"
+    ],
+    "note": "UAC founding details and the 2026 rebrand membership are unverified."
+  },
+  {
+    "confidence": "low",
+    "id": "super-league-concepts",
+    "name": "'Super league' and breakaway concepts (European Super League analog, Power 2, CSMG, private equity)",
+    "years": "2021-2026",
+    "type": "breakaway-concept",
+    "summary": "None has happened in college sports, but the threat shapes bargaining. Precedents: (1) the 2021 European Super League, announced 2021-04-18 by 12 clubs with ~€3.25B JPMorgan financing and dead within ~48 hours after fan, government and UEFA backlash (the EU Court of Justice later, 2023-12-21, found UEFA's blocking rules contrary to EU competition law). (2) 2024: the SEC and Big Ten formed a joint advisory group (2024-02-02) and won format control and the largest CFP shares (29% each) in the 2026-31 deal. 'Power 2' breakaway talk is used as leverage. (3) 2024: Collegiate Sports Management Group (CSMG), reportedly with Elevate, pitched a ~70-school, two-division 'super league' with centralized media rights, revenue sharing and promotion/relegation. Commissioners did not adopt it. (4) 2025: private-equity proposals, such as the Big Ten's reported ~$2.4B 'Big Ten Enterprises' deal with UC Investments, stalled after Michigan and USC opposed it, and the Big 12 explored PE. (5) 2026: the SEC/Big Ten-driven 24-team CFP (decided 2026-11-09) shows the P2 can reshape the sport within existing structures.",
+    "steps": [
+      "ESL: secret club agreements, then announcement, then fan protests and government threats, then the English clubs withdraw within 48 hours.",
+      "College: advisory group, then leverage in CFP negotiations, then concessions (format control, revenue split) without leaving."
+    ],
+    "keyPeople": [
+      {
+        "name": "Florentino Pérez",
+        "role": "Real Madrid president (ESL)"
+      },
+      {
+        "name": "Greg Sankey",
+        "role": "SEC commissioner"
+      },
+      {
+        "name": "Tony Petitti",
+        "role": "Big Ten commissioner"
+      }
+    ],
+    "money": {
+      "startupCostsUsd": null,
+      "feesUsd": null,
+      "notes": "ESL: €3.25B debt financing committed. CSMG/Elevate and PE proposals: billions in proposed capital (unverified). Big Ten PE: ~$2.4B for a minority stake reported.",
+      "initialMediaDeal": null,
+      "confidence": "low"
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "Fan and political legitimacy.",
+        "solution": "Not solved for the ESL. College versions face state legislatures, Title IX, NCAA championships access and antitrust law."
+      },
+      {
+        "obstacle": "Contracts (grants of rights, CFP MOU, conference bylaws).",
+        "solution": "Breakaways time themselves to contract expirations. In college the key dates are 2030-31 (Big Ten media), 2031-32 (CFP), 2034 (SEC) and 2036 (ACC)."
+      }
+    ],
+    "gameModelLessons": [
+      "Model a \"breakaway threat\" lever. Credible threats extract concessions (format, revenue share) more often than actual breakaways happen.",
+      "An actual breakaway needs: ≥8 brands, financing, a media buyer, a postseason (or CFP renegotiation), and the ability to survive political backlash. Each is a gating check in game.",
+      "Timing to contract expiries matters: give a large backlash/legal-cost multiplier to any breakaway launched mid-contract."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/European_Super_League",
+      "https://www.cbssports.com/college-basketball/news/college-football-playoff-finalizes-tv-deal-beginning-in-2026-as-fbs-leaders-settle-on-revenue-distribution",
+      "https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion",
+      "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    ],
+    "note": "CSMG/Elevate details and Big Ten PE terms from memory and unverified this session."
+  },
+  {
+    "id": "fcs-move-up-pipeline-2010-2026",
+    "name": "The FCS-to-FBS move-up pipeline as a league-building resource",
+    "years": "2010-2026",
+    "type": "pipeline",
+    "summary": "About 20 FCS (or new) programs moved to FBS between 2012 and 2026: UMass, Texas State, UTSA, South Alabama, Georgia State, Charlotte, ODU, App State, Georgia Southern, Coastal Carolina, Liberty, JMU, Sam Houston, Jacksonville State, Kennesaw State, Delaware, Missouri State, Sacramento State and NDSU. Each needed an FBS conference invitation. The Sun Belt and C-USA were rebuilt almost entirely this way, and in 2026 the MWC and MAC used football-only FCS move-ups to hit their counts.",
+    "steps": [
+      "Secure an FBS conference invitation (full or football-only).",
+      "Pay the NCAA reclassification fee ($5M since the 2023-24 reforms) and the conference entry fee ($0-25M).",
+      "Add ~22+ football scholarships and staff, and upgrade the stadium (often 20k+ seats).",
+      "Two-year transition with no postseason. Then full FBS."
+    ],
+    "keyPeople": [
+      {
+        "name": "Judy MacLeod",
+        "role": "C-USA commissioner (rebuilt via move-ups)"
+      },
+      {
+        "name": "Keith Gill",
+        "role": "Sun Belt commissioner"
+      }
+    ],
+    "money": {
+      "feesUsd": 5000000,
+      "feesNotes": "NCAA fee. Conference entry fees observed: NIU $2M (an FBS school), NDSU $12.5M, Sac State $18M (no initial distributions), JMU $23M (FBS-to-FBS).",
+      "annualCostIncreaseUsd": [
+        5000000,
+        15000000
+      ],
+      "annualCostNotes": "Typical recurring budget increase for an FCS school moving up (scholarships, staff, travel). This is an order-of-magnitude game estimate, not verified.",
+      "initialMediaDeal": null,
+      "confidence": "low"
+    },
+    "obstaclesAndHowSolved": [
+      {
+        "obstacle": "No invitation means no reclassification (Sac State waiver denied 2025).",
+        "solution": "Football-only affiliation with a league that needs a count (MAC 2026)."
+      }
+    ],
+    "gameModelLessons": [
+      "Give each strong FCS program an \"FBS ambition\" value and a cost-to-move. A G6 commissioner can recruit from this pool every year.",
+      "A founding league can use 2-4 FCS move-ups to reach 8, but they are postseason-ineligible for 2 seasons. Plan the AQ and CFP clocks accordingly."
+    ],
+    "sources": [
+      "https://www.si.com/college-football/north-dakota-state-football-to-pay-hefty-price-to-make-jump-to-fbs",
+      "https://www.espn.com/college-football/story/_/id/47933760/mac-add-sacramento-state-football-only-member",
+      "https://hornetsports.com/news/2026/2/16/hornet-football-to-join-the-mac-in-2026.aspx",
+      "https://conferenceusa.com/news/2025/6/30/general-conference-usa-officially-welcomes-delaware-missouri-state.aspx",
+      "https://news.missouristate.edu/2024/05/10/missouri-state-accepts-invitation-to-join-conference-usa/",
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+      "https://en.wikipedia.org/wiki/Conference_USA"
+    ]
+  }
+]

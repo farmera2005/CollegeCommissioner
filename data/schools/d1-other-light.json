@@ -476,40 +476,6 @@
     ]
   },
   {
-    "id": "saint-josephs",
-    "name": "Saint Joseph's University",
-    "shortName": "Saint Joseph's",
-    "mascot": "Hawks",
-    "city": "Philadelphia",
-    "state": "PA",
-    "control": "private",
-    "religious": "Catholic (Jesuit)",
-    "conference": {
-      "y2026": {
-        "all": "a10",
-        "football": null,
-        "level": null
-      },
-      "y2010": {
-        "all": "a10",
-        "football": null,
-        "level": "none"
-      }
-    },
-    "ratings": {
-      "mbb": 35,
-      "wbb": 30,
-      "olympic": 20,
-      "brand": 20
-    },
-    "confidence": "low",
-    "note": "Philadelphia Big 5. Minimal record; ratings rough estimates; compiled without live web verification.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Atlantic_10_Conference",
-      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
-    ]
-  },
-  {
     "id": "high-point",
     "name": "High Point University",
     "shortName": "High Point",
@@ -2714,40 +2680,6 @@
     },
     "confidence": "low",
     "note": "Women's soccer/WBB strengths. Minimal record; ratings rough estimates; compiled without live web verification.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/West_Coast_Conference",
-      "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
-    ]
-  },
-  {
-    "id": "seattle-u",
-    "name": "Seattle University",
-    "shortName": "Seattle U",
-    "mascot": "Redhawks",
-    "city": "Seattle",
-    "state": "WA",
-    "control": "private",
-    "religious": "Catholic (Jesuit)",
-    "conference": {
-      "y2026": {
-        "all": "wcc",
-        "football": null,
-        "level": null
-      },
-      "y2010": {
-        "all": "independent-d1",
-        "football": null,
-        "level": "none"
-      }
-    },
-    "ratings": {
-      "mbb": 25,
-      "wbb": 12,
-      "olympic": 15,
-      "brand": 10
-    },
-    "confidence": "low",
-    "note": "WAC 2012-25; joined WCC 2025. Minimal record; ratings rough estimates; compiled without live web verification.",
     "sources": [
       "https://en.wikipedia.org/wiki/West_Coast_Conference",
       "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_institutions"
