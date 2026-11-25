@@ -1,0 +1,213 @@
+{
+  "asOf": "2026-11-25",
+  "attributeKeys": {
+    "mediaNegotiation": "Media Negotiation",
+    "presidentialRelations": "Presidential Relations",
+    "legalGovernance": "Legal & Governance",
+    "commercialSponsorship": "Commercial / Sponsorship",
+    "publicImage": "Public Image & Media Savvy",
+    "crisisManagement": "Crisis Management",
+    "network": "Network / Rolodex",
+    "vision": "Vision / Innovation",
+    "integrity": "Integrity",
+    "stamina": "Stamina"
+  },
+  "nonTraditionalHireTrend": {
+    "summary": "Since 2019 power-conference boards have increasingly hired from pro leagues, media and entertainment rather than promoting ADs or conference deputies, betting that media-rights and commercial skill matter more than NCAA governance experience. Of the P4 commissioners hired 2019-2023, three of four came from outside campus athletics (Warren, Kliavkoff, Yormark, Petitti; Phillips the exception). The trend has spread to non-football leagues (Big East's Tim Brosnan from MLB, 2026). Counter-signals: the Pac-12 promoted deputy Teresa Gould (2024) after the outsider Kliavkoff failed, and Big 12 chair Doug Girod said in Oct. 2026 he wants 'campus experience' rather than a 'Yormark twin' for the next hire.",
+    "examples": [
+      { "person": "kevin-warren", "name": "Kevin Warren", "hiredBy": "big-ten", "year": 2019, "from": "Minnesota Vikings COO (NFL); attorney", "outcome": "Landed $7B+ Fox/CBS/NBC deal and USC/UCLA; left for Chicago Bears president/CEO in 2023" },
+      { "person": "george-kliavkoff", "name": "George Kliavkoff", "hiredBy": "pac-12", "year": 2021, "from": "MGM Resorts president of entertainment & sports (earlier MLB Advanced Media, NBCUniversal/Hearst digital)", "outcome": "Media-deal failure (Apple streaming pitch) preceded the Aug. 2023 collapse; separated Feb. 2024 with ~$5M severance" },
+      { "person": "brett-yormark", "name": "Brett Yormark", "hiredBy": "big-12", "year": 2022, "from": "Roc Nation COO; ex-Brooklyn Nets/Barclays CEO; ex-NASCAR marketing", "outcome": "Early $2.28B ESPN/Fox extension and Pac-12 raid; extended to 2030 then left Jan. 2027 for a RedBird-backed venture in Milan" },
+      { "person": "tony-petitti", "name": "Tony Petitti", "hiredBy": "big-ten", "year": 2023, "from": "MLB deputy commissioner; MLB Network CEO; CBS Sports EVP; Activision Blizzard", "outcome": "Extended through June 2033 (Aug. 2026)" },
+      { "person": "tim-pernetti", "name": "Tim Pernetti", "hiredBy": "american", "year": 2024, "from": "IMG Academy president; ex-CBS Sports EVP; ex-Rutgers AD", "outcome": "In office" },
+      { "person": "tim-brosnan", "name": "Tim Brosnan", "hiredBy": "big-east", "year": 2026, "from": "24 years at MLB incl. CEO of MLB Enterprises", "outcome": "Started Sept. 2026" },
+      { "person": "val-ackerman", "name": "Val Ackerman", "hiredBy": "big-east", "year": 2013, "from": "Founding WNBA president; NBA executive; USA Basketball president", "outcome": "13 years; retired Aug. 2026" },
+      { "person": "larry-scott", "name": "Larry Scott", "hiredBy": "pac-10", "year": 2009, "from": "WTA chairman & CEO", "outcome": "Pac-12 Network and 2011 ESPN/Fox deal, then distribution failures; mutual exit 2021 (~$1.5M severance)" },
+      { "person": "charlie-baker", "name": "Charlie Baker", "hiredBy": "ncaa", "year": 2023, "from": "Governor of Massachusetts", "outcome": "In office" },
+      { "person": "bryan-seeley", "name": "Bryan Seeley", "hiredBy": "college-sports-commission", "year": 2025, "from": "MLB EVP investigations; ex-federal prosecutor", "outcome": "In office" },
+      { "person": "mike-aresco", "name": "Mike Aresco", "hiredBy": "big-east-2010", "year": 2012, "from": "CBS Sports EVP programming", "outcome": "Led the American 2013-2024; retired" },
+      { "person": "jim-phillips", "name": "Jim Phillips", "hiredBy": "acc", "year": 2020, "from": "Northwestern AD (traditional path)", "outcome": "Extended into 2029; the exception that proves the trend" }
+    ],
+    "sources": [
+      "https://dallasnews.com/sports/texas-tech-red-raiders/2022/06/28/brett-yormark-hire-signals-big-12s-willingness-to-stray-from-the-beaten-path",
+      "https://www.si.com/college/2022/06/28/big-12-hires-brett-yormark-outsider",
+      "https://www.espn.com/college-sports/story/_/id/50327726/commissioner-brett-yormark-leaving-big-12-january",
+      "https://www.nbcsports.com/big-east/news/tim-brosnan-named-sixth-big-east-commissioner-will-succeed-val-ackerman-in-september",
+      "https://frontofficesports.com/the-george-kliavkoff-era-in-the-pac-12-comes-to-an-end-how-it-fell-apart"
+    ]
+  },
+  "backgroundProfiles": [
+    {
+      "background": "former-ad",
+      "exemplars": ["Jim Phillips (Northwestern AD -> ACC)", "Bob Bowlsby (Iowa/Stanford AD -> Big 12)", "Keith Gill (Richmond AD -> Sun Belt)", "Judy MacLeod (Tulsa AD -> C-USA)", "Tim Pernetti (Rutgers AD, mixed)"],
+      "strengths": ["presidentialRelations", "crisisManagement", "integrity", "network"],
+      "weaknesses": ["mediaNegotiation", "commercialSponsorship", "vision"],
+      "startingAttributes": { "mediaNegotiation": [7, 11], "presidentialRelations": [13, 16], "legalGovernance": [9, 12], "commercialSponsorship": [8, 12], "publicImage": [9, 12], "crisisManagement": [11, 14], "network": [11, 15], "vision": [8, 12], "integrity": [12, 15], "stamina": [11, 15] },
+      "notes": "Network skews to campus/NCAA committees; knows how presidents and coaches think. Media deals typically lag peers (ACC under Phillips)."
+    },
+    {
+      "background": "pro-league-exec",
+      "exemplars": ["Brett Yormark (NASCAR/Nets/Roc Nation)", "Tony Petitti (MLB)", "Kevin Warren (Vikings)", "Val Ackerman (WNBA/NBA)", "Tim Brosnan (MLB)", "Stu Jackson (NBA)", "Larry Scott (WTA)"],
+      "strengths": ["commercialSponsorship", "mediaNegotiation", "publicImage", "vision", "network"],
+      "weaknesses": ["presidentialRelations", "legalGovernance (NCAA rules)", "integrity (seen as mercenary - exits for pro jobs)"],
+      "startingAttributes": { "mediaNegotiation": [13, 17], "presidentialRelations": [6, 10], "legalGovernance": [9, 13], "commercialSponsorship": [15, 19], "publicImage": [13, 17], "crisisManagement": [10, 14], "network": [13, 17], "vision": [13, 17], "integrity": [9, 13], "stamina": [12, 16] },
+      "notes": "Highest poach risk: Warren (Bears) and Yormark (Milan) both left within ~4 years. Give a higher 'loyalty decay' when outside offers arrive."
+    },
+    {
+      "background": "media-exec",
+      "exemplars": ["Mike Aresco (CBS)", "Tim Pernetti (CBS/CSTV)", "Tony Petitti (CBS/MLB Network, mixed)", "George Kliavkoff (NBCU/Hearst digital, MGM)"],
+      "strengths": ["mediaNegotiation", "network (network-side)", "publicImage"],
+      "weaknesses": ["presidentialRelations", "crisisManagement"],
+      "startingAttributes": { "mediaNegotiation": [15, 19], "presidentialRelations": [7, 10], "legalGovernance": [8, 11], "commercialSponsorship": [12, 16], "publicImage": [12, 16], "crisisManagement": [9, 12], "network": [13, 16], "vision": [12, 15], "integrity": [10, 13], "stamina": [11, 14] },
+      "notes": "Kliavkoff is the cautionary case: a media/tech background did not translate into a deal when the market (ESPN/Fox) had no appetite - model media skill as bounded by conference leverage."
+    },
+    {
+      "background": "attorney",
+      "exemplars": ["Bryan Seeley (federal prosecutor -> MLB -> CSC)", "Gloria Nevarez (J.D.; Pac-12/WCC/MWC)", "Kevin Warren (J.D.)", "Mike Slive (lawyer/judge -> C-USA -> SEC)", "Jim Delany (J.D., ex-NCAA enforcement)"],
+      "strengths": ["legalGovernance", "crisisManagement", "integrity"],
+      "weaknesses": ["commercialSponsorship", "publicImage"],
+      "startingAttributes": { "mediaNegotiation": [9, 12], "presidentialRelations": [10, 13], "legalGovernance": [15, 19], "commercialSponsorship": [7, 10], "publicImage": [8, 11], "crisisManagement": [12, 15], "network": [10, 13], "vision": [8, 12], "integrity": [13, 16], "stamina": [11, 14] },
+      "notes": "Post-House settlement, legal skill matters more (GOR suits, exit-fee fights, CSC arbitration)."
+    },
+    {
+      "background": "conference-deputy",
+      "exemplars": ["Greg Sankey (SEC COO, ex-Southland commissioner)", "Teresa Gould (Pac-12 deputy)", "Judy MacLeod (C-USA COO)", "Dan Leibovitz (SEC/Big East MBB)", "Jon Steinbrecher (career conference executive)", "Bill Hancock (Big 8/12 staff -> BCS/CFP)"],
+      "strengths": ["presidentialRelations", "legalGovernance", "integrity", "stamina"],
+      "weaknesses": ["commercialSponsorship", "publicImage", "vision"],
+      "startingAttributes": { "mediaNegotiation": [9, 13], "presidentialRelations": [12, 15], "legalGovernance": [12, 15], "commercialSponsorship": [8, 11], "publicImage": [8, 11], "crisisManagement": [11, 14], "network": [12, 15], "vision": [8, 11], "integrity": [13, 16], "stamina": [12, 16] },
+      "notes": "Lowest hire-risk, slowest stat growth; Sankey shows the ceiling (high growth once in the chair). Board 'continuity' events favor this path after a failed outsider."
+    },
+    {
+      "background": "politician",
+      "exemplars": ["Charlie Baker (Massachusetts governor -> NCAA president)"],
+      "strengths": ["publicImage", "crisisManagement", "network (Congress/states)", "presidentialRelations"],
+      "weaknesses": ["mediaNegotiation", "commercialSponsorship"],
+      "startingAttributes": { "mediaNegotiation": [7, 10], "presidentialRelations": [13, 16], "legalGovernance": [12, 15], "commercialSponsorship": [7, 10], "publicImage": [14, 18], "crisisManagement": [14, 17], "network": [15, 18], "vision": [10, 13], "integrity": [10, 14], "stamina": [12, 15] },
+      "notes": "Unlocks federal-legislation lobbying actions at a discount; rare for conference jobs (none among current conference commissioners)."
+    },
+    {
+      "background": "academic",
+      "exemplars": ["Mark Emmert (UW president -> NCAA)", "Myles Brand (IU president -> NCAA)"],
+      "strengths": ["presidentialRelations", "integrity"],
+      "weaknesses": ["commercialSponsorship", "mediaNegotiation", "publicImage"],
+      "startingAttributes": { "mediaNegotiation": [7, 10], "presidentialRelations": [15, 18], "legalGovernance": [10, 13], "commercialSponsorship": [6, 9], "publicImage": [10, 13], "crisisManagement": [9, 12], "network": [12, 15], "vision": [10, 13], "integrity": [12, 15], "stamina": [10, 13] },
+      "notes": "Historically the NCAA path; out of fashion after Emmert."
+    }
+  ],
+  "exitDestinations": [
+    { "type": "pro-league", "person": "Kevin Warren", "from": "big-ten", "to": "Chicago Bears president & CEO", "year": 2023, "sources": ["https://huntscanlon.com/turnkeyzrg-assists-big-ten-conference-in-recruiting-seventh-commissioner/"] },
+    { "type": "private-sector", "person": "Brett Yormark", "from": "big-12", "to": "CEO, Milan Sports & Entertainment (RedBird Capital)", "year": 2027, "sources": ["https://www.deseret.com/sports/2026/11/13/brett-yormark-has-a-new-home-in-milan/"] },
+    { "type": "cfp-national-office", "person": "Britton Banowsky", "from": "cusa", "to": "Executive director, College Football Playoff Foundation", "year": 2015, "sources": ["https://www.si.com/college/2015/07/16/conference-usa-commissioner-britton-banowsky-steps-down"] },
+    { "type": "cfp-national-office", "person": "Bill Hancock", "from": "Big 8/Big 12 staff, NCAA Final Four director", "to": "BCS administrator, then CFP executive director (2012-2025); succeeded by Rich Clark", "year": 2012, "confidence": "low", "sources": ["https://en.wikipedia.org/wiki/College_Football_Playoff"] },
+    { "type": "lateral-conference", "person": "Gloria Nevarez", "from": "wcc", "to": "mountain-west commissioner", "year": 2023, "sources": ["https://www.cbssports.com/college-football/news/mountain-west-hires-gloria-nevarez-as-conference-poaches-wcc-commissioner-to-serve-in-same-role"] },
+    { "type": "lateral-conference", "person": "Karl Benson", "from": "wac-2010", "to": "sun-belt commissioner", "year": 2012, "confidence": "low", "sources": ["https://en.wikipedia.org/wiki/Karl_Benson"] },
+    { "type": "lateral-conference", "person": "Mike Slive", "from": "C-USA (founding commissioner)", "to": "sec commissioner", "year": 2002, "sources": ["https://en.wikipedia.org/wiki/Mike_Slive"] },
+    { "type": "promotion-within-chain", "person": "Greg Sankey", "from": "Southland commissioner", "to": "SEC staff (2002), SEC commissioner (2015)", "year": 2015, "sources": ["https://en.wikipedia.org/wiki/Greg_Sankey"] },
+    { "type": "ncaa-presidency", "person": "Mark Emmert", "from": "University of Washington president", "to": "NCAA president (2010-2023)", "year": 2010, "sources": ["https://en.wikipedia.org/wiki/Mark_Emmert"] },
+    { "type": "ncaa-presidency", "person": "Charlie Baker", "from": "Governor of Massachusetts", "to": "NCAA president", "year": 2023, "sources": ["https://www.ncaa.org/news/2022/12/15/media-center-ncaa-announces-governor-charlie-baker-to-be-next-president.aspx"] },
+    { "type": "retirement-with-payout", "person": "Bob Bowlsby", "from": "big-12", "to": "Retirement + consulting; $17.2M final-year payout", "year": 2022, "sources": ["https://africa.espn.com/college-sports/story/_/id/40205947/big-12-paid-ex-commissioner-bob-bowlsby-172m-final-year"] },
+    { "type": "retirement-with-payout", "person": "Jim Delany", "from": "big-ten", "to": "Retirement; deferred comp/bonuses ($5.82M in FY2024-25) and $600K consulting", "year": 2020, "sources": ["https://www.espn.com/college-sports/story/_/id/48651052/big-ten-distributes-record-revenue-2024-2025-fiscal-year"] },
+    { "type": "retirement", "person": "John Swofford", "from": "acc", "to": "Retirement (~$2.6M from ACC in 2022)", "year": 2021, "sources": ["https://on3.com/news/john-swofford-received-2-6-million-from-acc-in-2022"] },
+    { "type": "retirement", "person": "Val Ackerman", "from": "big-east", "to": "Retirement", "year": 2026, "sources": ["https://www.bigeast.com/news/2026/4/20/general-big-east-commissioner-val-ackerman-announces-retirement.aspx"] },
+    { "type": "retirement", "person": "Craig Thompson / Mike Aresco / Karl Benson / Bernadette McGlade", "from": "mountain-west / american / sun-belt / a10", "to": "Retirement", "year": 2026, "sources": ["https://www.cbssports.com/college-football/news/aac-hires-tim-pernetti-as-new-commissioner-former-rutgers-athletic-director-replaces-mike-aresco/", "https://atlantic10.com/news/2025/11/19/about-the-atlantic-10-atlantic-10-commissioner-bernadette-v-mcglade-to-retire-following-the-2025-26-academic-year.aspx"] },
+    { "type": "ousted-consulting", "person": "Dan Beebe", "from": "big-12", "to": "Consulting firm (The Beebe Group)", "year": 2011, "confidence": "low", "sources": ["https://en.wikipedia.org/wiki/Dan_Beebe"] },
+    { "type": "ousted-severance", "person": "George Kliavkoff", "from": "pac-12", "to": "Unknown; $5M severance", "year": 2024, "sources": ["https://bleacherreport.com/articles/10109296-report-pac-12-commissioner-george-kliavkoff-part-ways-agree-to-contract-settlement"] },
+    { "type": "nonprofit", "person": "Noreen Morris", "from": "nec", "to": "Executive director, Collegiate Women Sports Awards", "year": 2026, "sources": ["https://necsports.com/news/2026/4/20/GEN_Morris_StepsDown_26.aspx"] }
+  ],
+  "compensationRanges": [
+    {
+      "tier": "P4",
+      "typicalTotalUsd": [4500000, 5600000],
+      "typicalBaseUsd": [2600000, 4700000],
+      "dataPoints": [
+        { "person": "Brett Yormark", "org": "big-12", "year": 2024, "totalUsd": 5600000, "source": "reported", "note": "USA Today 990 compilation, FY2024-25" },
+        { "person": "Greg Sankey", "org": "sec", "year": 2024, "totalUsd": 4828580, "source": "990", "note": "$4.7M base" },
+        { "person": "Jim Phillips", "org": "acc", "year": 2024, "totalUsd": 4700000, "source": "reported" },
+        { "person": "Tony Petitti", "org": "big-ten", "year": 2024, "totalUsd": 4500000, "source": "reported" },
+        { "person": "Kevin Warren", "org": "big-ten", "year": 2023, "totalUsd": 6829136, "source": "990", "note": "Incl. $5.75M media-rights bonus" },
+        { "person": "George Kliavkoff", "org": "pac-12", "year": 2023, "totalUsd": 3700000, "source": "reported" },
+        { "person": "George Kliavkoff", "org": "pac-12", "year": 2022, "totalUsd": 4500000, "source": "reported", "note": "$4M + $500K bonus" },
+        { "person": "Bob Bowlsby", "org": "big-12", "year": 2022, "totalUsd": 17200000, "source": "reported", "note": "Exit year incl. $12.26M contract payout" },
+        { "person": "Jim Phillips", "org": "acc", "year": 2022, "totalUsd": 2800000, "source": "reported" }
+      ],
+      "trend": "P4 pay rose ~70% in two years (Phillips $2.8M in 2022 -> $4.7M in 2024; Sankey $4.3M in 2023 -> $4.8M in 2024; Yormark $5.6M) as media and CFP money grew. Outsider hires command a premium (Yormark top of the band)."
+    },
+    {
+      "tier": "Pac-12 (rebuilt, G6-revenue)",
+      "typicalTotalUsd": [1000000, 1600000],
+      "dataPoints": [
+        { "person": "Teresa Gould", "org": "pac-12", "year": 2024, "totalUsd": 1500000, "source": "reported", "note": "Salary" }
+      ]
+    },
+    {
+      "tier": "G6",
+      "typicalTotalUsd": [600000, 1300000],
+      "dataPoints": [
+        { "person": "Gloria Nevarez", "org": "mountain-west", "year": 2023, "totalUsd": 1155039, "source": "990" }
+      ],
+      "notes": "Only MWC verified; AAC/C-USA/Sun Belt/MAC ranges are estimates - pull their 990s (ProPublica) to tighten.",
+      "confidence": "low"
+    },
+    {
+      "tier": "Multi-bid non-football (Big East, WCC, A-10)",
+      "typicalTotalUsd": [500000, 1500000],
+      "dataPoints": [],
+      "notes": "Big East likely at the top of the band given Fox money; estimate.",
+      "confidence": "low"
+    },
+    {
+      "tier": "FCS / low-major",
+      "typicalTotalUsd": [250000, 450000],
+      "dataPoints": [
+        { "person": "Chris Grant", "org": "southland", "year": 2024, "totalUsd": 324000, "source": "990" },
+        { "person": "America East commissioner (listed as Bradley Walker)", "org": "america-east", "year": 2024, "totalUsd": 414000, "source": "990", "confidence": "low" }
+      ]
+    },
+    {
+      "tier": "National bodies",
+      "dataPoints": [
+        { "person": "Charlie Baker", "org": "ncaa", "year": 2023, "totalUsd": 3400000, "source": "reported", "confidence": "low" },
+        { "person": "Bryan Seeley", "org": "college-sports-commission", "year": 2025, "totalUsd": null, "source": "reported", "note": "'Seven figures'" }
+      ]
+    }
+  ],
+  "contractNorms": {
+    "initialTermYears": { "typical": 5, "examples": ["Kliavkoff 5 yrs (2021)", "Yormark 5 yrs (2022, to 2027)", "Gould 2 yrs (2024; caretaker situation)"] },
+    "extensionLengthYears": { "typical": [3, 5], "examples": ["Sankey +2 (2021, to 2026) and +2 (2023, to 2028)", "Phillips +3 (2023, to 2029)", "Gill +2 (2021) and +4 (2022, to 2030)", "Yormark +3 (2025, to 2030)", "Nevarez +4 (2025, to 2030)", "Gould +5 (2026, to 2031)", "Petitti +5 (2026, to 2033)"] },
+    "extensionTriggers": [
+      "Landing or approaching a media deal - boards extend so the incumbent negotiates the next one (Yormark 'first crack' at the next TV deal; Petitti through 2033 vs. Big Ten deal ending 2030; Gould aligned to 2031 GOR/media expiry)",
+      "Fending off a poaching threat (Phillips' 2023 extension while a Big Ten target)",
+      "Surviving/completing realignment (Gill 2022 after expansion; Nevarez 2025 after backfilling)"
+    ],
+    "approvalBody": "Board of presidents/chancellors (often unanimous public vote); terms almost never disclosed - pay surfaces 18-24 months later in Form 990s",
+    "sources": [
+      "https://www.secsports.com/article/38005500/sec-extends-contract-commissioner-greg-sankey-2028",
+      "https://www.nbcsports.com/college-football/news/big-12-commissioner-brett-yormark-receives-3-year-contract-extension-through-2030",
+      "https://bigten.org/article/60264/",
+      "https://pac-12.com/news/2026/6/15/general-pac-12-board-of-directors-extends-contract-of-commissioner-teresa-gould.aspx",
+      "https://www.on3.com/news/sun-belt-extends-commissioner-keith-gill-contract-through-2030"
+    ]
+  },
+  "performanceBonuses": [
+    { "person": "Kevin Warren", "org": "big-ten", "amountUsd": 5750000, "trigger": "2022 media-rights deal (Fox/CBS/NBC)", "source": "990" },
+    { "person": "Tony Petitti", "org": "big-ten", "amountUsd": 500000, "trigger": "Not disclosed (first partial year, 2023)", "source": "reported" },
+    { "person": "George Kliavkoff", "org": "pac-12", "amountUsd": 500000, "trigger": "Not disclosed (2022)", "source": "reported" },
+    { "person": "Jim Delany", "org": "big-ten", "amountUsd": 5820000, "trigger": "Bonuses + deferred compensation paid years after retirement (FY2024-25)", "source": "990" }
+  ],
+  "buyoutsAndSeverance": [
+    { "person": "Bob Bowlsby", "org": "big-12", "year": 2022, "amountUsd": 12260000, "type": "Payout of 3 remaining contract years on retirement (+$3.337M vested deferred)" },
+    { "person": "George Kliavkoff", "org": "pac-12", "year": 2024, "amountUsd": 5000000, "type": "Severance via negotiated contract settlement (~2.5 years left on 5-year deal)" },
+    { "person": "Larry Scott", "org": "pac-12", "year": 2021, "amountUsd": 1500000, "type": "Severance (mutual departure, ~1 year early)" },
+    { "person": "Brett Yormark", "org": "big-12", "year": 2027, "amountUsd": null, "type": "Voluntary departure 3+ years before contract end; no buyout disclosed in either direction" }
+  ],
+  "sources": [
+    "https://x.com/_DavidRumsey/status/2060387719964987535",
+    "https://ceopaycheck.com/org/southeastern-conference-630377461/",
+    "https://www.sportico.com/leagues/college-sports/2025/big-ten-kevin-warren-bonus-jim-delany-1234851527/",
+    "https://on3.com/news/george-kliavkoff-received-4-million-500000-bonus-from-pac-12-in-2022",
+    "https://africa.espn.com/college-sports/story/_/id/40205947/big-12-paid-ex-commissioner-bob-bowlsby-172m-final-year",
+    "https://www.on3.com/news/former-pac-12-commissioner-larry-scott-reportedly-received-1-5-million-severance-package",
+    "https://philanthropy.org/990/report/752668735/salaries",
+    "https://philanthropy.org/990/people/highest-paid/amateur-sports-competitions/"
+  ]
+}

@@ -1,0 +1,692 @@
+[
+  {
+    "id": "greg-sankey",
+    "name": "Greg Sankey",
+    "role": "Commissioner",
+    "organization": "sec",
+    "status": "current",
+    "since": 2015,
+    "sinceDate": "2015-06-01",
+    "born": 1964,
+    "education": "B.S., SUNY Cortland; master's, Syracuse University",
+    "background": "conference-deputy",
+    "careerHistory": [
+      { "role": "Athletics administrator", "org": "Utica College", "years": "c.1989-1991" },
+      { "role": "Associate AD / compliance", "org": "Northwestern State University (La.)", "years": "c.1991-1996" },
+      { "role": "Commissioner", "org": "Southland Conference", "years": "1996-2002" },
+      { "role": "Associate commissioner (compliance) -> executive associate commissioner / COO", "org": "SEC", "years": "2002-2015" },
+      { "role": "Commissioner", "org": "SEC", "years": "2015-present" }
+    ],
+    "compensation": [
+      { "year": 2023, "totalUsd": 4300000, "source": "reported", "note": "Calendar 2023; SEC 2023-24 Form 990 showed >$4.2M base plus ~$68K other (ESPN/USA Today)" },
+      { "year": 2024, "totalUsd": 4828580, "source": "990", "note": "SEC Form 990 for FY ending 2025-08-31 (calendar-2024 W-2); USA Today: $4.8M incl. $4.7M base. Sankey confirmed ~$4.8M under oath at a Sept. 2025 hearing" }
+    ],
+    "contract": {
+      "through": 2028,
+      "extensions": [
+        { "announced": "2021-08-05", "through": 2026, "note": "Approved by SEC presidents & chancellors; previous deal ran through 2023" },
+        { "announced": "2023-07-13", "through": 2028, "note": "'Through at least 2028'; approved by presidents & chancellors; terms undisclosed" }
+      ],
+      "notes": "No newer extension found in searches through Nov 2026 (not exhaustive). Financial terms never disclosed; pay visible only via 990s."
+    },
+    "notableDeals": [
+      "Recruited Texas and Oklahoma (announced July 2021, joined July 2024) - the move that triggered the 2022-24 realignment wave",
+      "ESPN/ABC exclusive 10-year package (~$300M/yr) starting 2024-25, replacing the CBS 'SEC on CBS' deal",
+      "Member of the 2019-21 CFP working group that designed the 12-team playoff; co-negotiated 2026+ CFP format/revenue terms with the Big Ten",
+      "Co-architect of the House v. NCAA settlement and College Sports Commission (2024-25)",
+      "Moved SEC football to a nine-game conference schedule starting 2026 (decided 2025)"
+    ],
+    "reputation": "Widely seen as the most powerful individual in college sports: meticulous, compliance/legal-minded, combative in public with the NCAA and occasionally the Big Ten, a frequent Capitol Hill witness. Critics cast him as the architect of Power Two consolidation.",
+    "suggestedAI": {
+      "aggression": 16, "caution": 14, "mediaSavvy": 15, "politicalSkill": 19, "innovation": 12, "loyalty": 18,
+      "rationale": "Plays long games and wins them (Texas/OU), never leaks, deeply loyal to SEC presidents; rarely the first mover on novel commercial ideas."
+    },
+    "lowConfidenceFields": ["born", "education", "careerHistory[0..1] years"],
+    "sources": [
+      "https://www.secsports.com/article/38005500/sec-extends-contract-commissioner-greg-sankey-2028",
+      "https://www.on3.com/news/sec-commish-greg-sankey-inks-contract-extension/",
+      "https://www.cbssports.com/college-football/news/greg-sankey-to-remain-sec-commissioner-through-2028-after-agreeing-to-contract-extension",
+      "https://uk.sports.yahoo.com/news/greg-sankeys-salary-sec-commissioner-023202047.html",
+      "https://ceopaycheck.com/org/southeastern-conference-630377461/",
+      "https://africa.espn.com/college-football/story/_/id/43724055/sec-distributed-526m-14-members-2023-24",
+      "https://en.wikipedia.org/wiki/Greg_Sankey"
+    ]
+  },
+  {
+    "id": "tony-petitti",
+    "name": "Tony Petitti",
+    "role": "Commissioner",
+    "organization": "big-ten",
+    "status": "current",
+    "since": 2023,
+    "sinceDate": "2023-05-15",
+    "born": null,
+    "education": "B.A., University of Pennsylvania; J.D., Georgetown University Law Center",
+    "background": "pro-league-exec",
+    "careerHistory": [
+      { "role": "Producer / executive", "org": "ABC Sports", "years": "1980s-1990s" },
+      { "role": "Executive Vice President", "org": "CBS Sports", "years": "c.1997-2008" },
+      { "role": "President & CEO", "org": "MLB Network", "years": "2008-2014" },
+      { "role": "Chief Operating Officer, then Deputy Commissioner (Business & Media)", "org": "Major League Baseball", "years": "2014-2020" },
+      { "role": "President, Sports & Entertainment", "org": "Activision Blizzard", "years": "c.2020-2021" },
+      { "role": "Commissioner", "org": "Big Ten Conference", "years": "2023-present" }
+    ],
+    "compensation": [
+      { "year": 2023, "totalUsd": 2650000, "source": "reported", "note": "~8 months on payroll, incl. $500K bonus and pro-rated base (Big Ten 990 via On3/USA Today)" },
+      { "year": 2024, "totalUsd": 4500000, "source": "reported", "note": "Big Ten FY2024-25 990: 'more than $4.5M' (ESPN; USA Today compilation)" }
+    ],
+    "contract": {
+      "through": 2033,
+      "extensions": [
+        { "announced": "2026-08-26", "through": 2033, "note": "Five-year extension through June 2033, unanimously approved by the Council of Presidents and Chancellors; positions him to negotiate the post-2030 media deal" }
+      ],
+      "notes": "CONFIRMED: brief's 'through June 2033' claim is correct. Original 2023 term and pay terms undisclosed."
+    },
+    "notableDeals": [
+      "Integrated USC, UCLA, Oregon and Washington (joined 2024) into an 18-team league",
+      "Negotiated 2026+ CFP structure/revenue share alongside the SEC (P2 leverage)",
+      "Co-created the College Sports Commission (2025) and backed hiring his former MLB colleague Bryan Seeley as CEO",
+      "Steward of the Fox/CBS/NBC 7-year ~$7B media deal (2023-24 to 2029-30)",
+      "Pushed a 'Big Ten Enterprises' private-capital deal (UC Investments) in 2025 that stalled after objections from Michigan and USC"
+    ],
+    "reputation": "Quiet, deal-first TV/league executive trusted by presidents; far less public than Sankey. Credited with record distributions ($1.37B in FY2024-25); criticized for the private-equity push and the league's hard line on CFP access.",
+    "suggestedAI": {
+      "aggression": 13, "caution": 14, "mediaSavvy": 14, "politicalSkill": 16, "innovation": 16, "loyalty": 15,
+      "rationale": "Media-rights technocrat who prefers structural deals (private capital, CFP formula) over public fights."
+    },
+    "lowConfidenceFields": ["education", "careerHistory years"],
+    "sources": [
+      "https://bigten.org/article/60264/",
+      "https://www.espn.com/college-football/story/_/id/49734570/big-ten-rewards-commissioner-tony-petitti-five-year-extension",
+      "https://www.on3.com/nil/news/big-ten-reached-928-million-revenue-fiscal-year-2024-kevin-warren-received-5-75-million-bonus-tony-petitti-salary/",
+      "https://www.espn.com/college-sports/story/_/id/48651052/big-ten-distributes-record-revenue-2024-2025-fiscal-year",
+      "https://huntscanlon.com/turnkeyzrg-assists-big-ten-conference-in-recruiting-seventh-commissioner/",
+      "https://www.cbssports.com/college-football/news/big-ten-hires-tony-petitti-as-commissioner-league-tabs-former-tv-mlb-executive-to-replace-kevin-warren"
+    ]
+  },
+  {
+    "id": "brett-yormark",
+    "name": "Brett Yormark",
+    "role": "Commissioner",
+    "organization": "big-12",
+    "status": "outgoing",
+    "departureDate": "2027-01-31",
+    "nextRole": "CEO, Milan Sports & Entertainment (RedBird Capital-backed holding company)",
+    "since": 2022,
+    "sinceDate": "2022-08-01",
+    "born": 1966,
+    "education": "B.A., University of Wisconsin-Madison",
+    "background": "pro-league-exec",
+    "careerHistory": [
+      { "role": "VP Corporate Marketing (led Nextel Cup title-sponsorship sale)", "org": "NASCAR", "years": "1990s-2005" },
+      { "role": "CEO", "org": "New Jersey/Brooklyn Nets, Barclays Center (BSE Global)", "years": "2005-2019" },
+      { "role": "COO Business Operations / Co-CEO Roc Nation Unified", "org": "Roc Nation", "years": "2019-2022" },
+      { "role": "Commissioner", "org": "Big 12 Conference", "years": "2022-2027" },
+      { "role": "CEO (announced Nov 2026)", "org": "Milan Sports & Entertainment", "years": "2027-" }
+    ],
+    "compensation": [
+      { "year": 2022, "totalUsd": 1200000, "source": "reported", "note": "Partial year from Aug. 1, 2022 (USA Today from Big 12 990)" },
+      { "year": 2024, "totalUsd": 5600000, "source": "reported", "note": "FY2024-25 990 compilation by USA Today: highest-paid active P4 commissioner (Yormark $5.6M, Sankey $4.8M, Phillips $4.7M, Petitti $4.5M)" }
+    ],
+    "contract": {
+      "through": 2030,
+      "extensions": [
+        { "announced": "2025-05-06", "through": 2030, "note": "Three-year extension through 2029-30, board of directors approval; original five-year deal ran to 2027 (CBS outlier said 2031)" }
+      ],
+      "notes": "SUPERSEDED: on 2026-10-30 the Big 12 announced Yormark is leaving effective 2027-01-31 for a job outside college sports (CEO, Milan Sports & Entertainment, RedBird). He raised it with board chair Doug Girod ~10 days earlier; board voted that morning. No buyout terms disclosed. Search for successor led by the board; no firm named as of Nov 2026."
+    },
+    "notableDeals": [
+      "Pre-emptive ESPN/Fox six-year, $2.28B extension (Oct 2022) running through 2030-31",
+      "Added Colorado, Arizona, Arizona State and Utah from the collapsing Pac-12 (2023; joined 2024)",
+      "Negotiated Texas/Oklahoma's early exit to the SEC (one year early, 2024) for a combined ~$100M",
+      "Aggressive sponsorship/brand play: Big 12 events abroad, naming-rights and private-capital explorations"
+    ],
+    "reputation": "Brash, sales-first outsider ('open for business'); credited with keeping the Big 12 alive and lifting its revenue, but seen by critics as all marketing and no structural fix. Leaves after four years for a private-equity sports venture; FOS: he never planned to stay long term.",
+    "suggestedAI": {
+      "aggression": 19, "caution": 6, "mediaSavvy": 19, "politicalSkill": 13, "innovation": 18, "loyalty": 7,
+      "rationale": "Always selling, always expanding, always quotable - and walked away from an extension through 2030 for a better offer."
+    },
+    "lowConfidenceFields": ["born", "careerHistory[0] years"],
+    "sources": [
+      "https://big12sports.com/news/2026/10/30/general-commissioner-brett-yormark-to-leave-big-12-conference.aspx",
+      "https://www.espn.com/college-sports/story/_/id/50327726/commissioner-brett-yormark-leaving-big-12-january",
+      "https://www.deseret.com/sports/2026/11/13/brett-yormark-has-a-new-home-in-milan/",
+      "https://www.sportico.com/leagues/college-sports/2026/brett-yormark-big-12-step-down-1234957065/",
+      "https://www.nbcsports.com/college-football/news/big-12-commissioner-brett-yormark-receives-3-year-contract-extension-through-2030",
+      "https://africa.espn.com/college-sports/story/_/id/45021233/sources-big-12-gives-commissioner-brett-yormark-extension",
+      "https://x.com/_DavidRumsey/status/2060387719964987535",
+      "https://africa.espn.com/college-sports/story/_/id/40205947/big-12-paid-ex-commissioner-bob-bowlsby-172m-final-year"
+    ]
+  },
+  {
+    "id": "jim-phillips",
+    "name": "Jim Phillips",
+    "role": "Commissioner",
+    "organization": "acc",
+    "status": "current",
+    "since": 2021,
+    "sinceDate": "2021-02-01",
+    "born": null,
+    "education": "B.A., University of Illinois; M.A., Arizona State; Ph.D., University of Illinois",
+    "background": "former-ad",
+    "careerHistory": [
+      { "role": "Men's basketball staff / assistant coach", "org": "Tennessee, Arizona State", "years": "late 1980s-1990s" },
+      { "role": "Senior associate AD", "org": "Notre Dame", "years": "1990s-2002" },
+      { "role": "Senior associate AD", "org": "Illinois", "years": "2002-2004" },
+      { "role": "Director of Athletics", "org": "Northern Illinois", "years": "2004-2008" },
+      { "role": "Vice President & Director of Athletics", "org": "Northwestern", "years": "2008-2021" },
+      { "role": "Commissioner", "org": "Atlantic Coast Conference", "years": "2021-present" }
+    ],
+    "compensation": [
+      { "year": 2022, "totalUsd": 2800000, "source": "reported", "note": "First full calendar year; $2.625M base (USA Today from ACC 990)" },
+      { "year": 2023, "totalUsd": 3947917, "source": "990", "note": "ACC 990 FY ending June 2024 per ProPublica listing - unverified line attribution", "confidence": "low" },
+      { "year": 2024, "totalUsd": 4700000, "source": "reported", "note": "FY2024-25 990 compilation by USA Today" }
+    ],
+    "contract": {
+      "through": 2029,
+      "extensions": [
+        { "announced": "2023-04-12", "through": 2029, "note": "Three-year extension reported by ESPN/CBS/AP while he was a Big Ten target after Warren left; not formally announced" }
+      ],
+      "notes": "No 2025-26 extension found. Term 'into 2029'."
+    },
+    "notableDeals": [
+      "Added Cal, Stanford and SMU (vote Sept. 1, 2023; joined 2024) on reduced/no-share terms",
+      "March 2025 settlement with Florida State and Clemson: new brand/viewership-weighted revenue model and a stepped-down exit path; ended GOR litigation",
+      "ESPN exercised its option to keep the ACC through 2036 (early 2025)",
+      "ACC Network growth and a 2026 corporate-sponsorship push"
+    ],
+    "reputation": "Collegial AD-turned-commissioner, respected nationally (former NCAA DI Council chair). Took heavy criticism for the ACC's below-peer media deal and the FSU/Clemson revolt, but credited with steering a settlement that kept the league intact.",
+    "suggestedAI": {
+      "aggression": 9, "caution": 15, "mediaSavvy": 11, "politicalSkill": 15, "innovation": 11, "loyalty": 17,
+      "rationale": "Consensus-builder who fights legally only when cornered; values member unity over bold commercial bets."
+    },
+    "lowConfidenceFields": ["education", "careerHistory years"],
+    "sources": [
+      "https://www.cbssports.com/college-football/news/acc-commissioner-jim-phillips-to-sign-three-year-extension-after-being-a-target-to-lead-big-ten",
+      "https://www.on3.com/news/acc-jim-phillips-three-year-contract-extension-big-ten-speculation-commissioner",
+      "https://nusports.com/news/2020/12/14/general-acc-selects-james-j-phillips-as-conferences-next-commissioner",
+      "https://on3.com/news/john-swofford-received-2-6-million-from-acc-in-2022",
+      "https://x.com/_DavidRumsey/status/2060387719964987535",
+      "https://www.si.com/college/jim-phillips-acc-future-florida-state-clemson",
+      "https://en.wikipedia.org/wiki/Jim_Phillips_(athletic_administrator)"
+    ]
+  },
+  {
+    "id": "teresa-gould",
+    "name": "Teresa Gould",
+    "role": "Commissioner",
+    "organization": "pac-12",
+    "status": "current",
+    "since": 2024,
+    "sinceDate": "2024-03-01",
+    "born": null,
+    "education": null,
+    "background": "conference-deputy",
+    "careerHistory": [
+      { "role": "Campus athletics administration (details unverified)", "org": null, "years": "pre-Pac-12" },
+      { "role": "Senior staff, then Deputy Commissioner (oversaw all sports, championships, compliance, operations)", "org": "Pac-12 Conference", "years": "to 2024" },
+      { "role": "Commissioner", "org": "Pac-12 Conference", "years": "2024-present" }
+    ],
+    "compensation": [
+      { "year": 2023, "totalUsd": 544000, "source": "reported", "note": "As deputy commissioner" },
+      { "year": 2024, "totalUsd": 1500000, "source": "reported", "note": "Salary, calendar 2024, from Pac-12 FY2024-25 990" }
+    ],
+    "contract": {
+      "through": 2031,
+      "extensions": [
+        { "announced": "2026-06-16", "through": 2031, "note": "Five-year extension through 2030-31, unanimous vote of the nine-member board; aligns with Pac-12 GOR/media deal expiry. First reported by John Canzano" }
+      ],
+      "notes": "Initial deal was two years (2024-26) during the OSU/WSU two-member grace period. Financial terms of extension undisclosed."
+    },
+    "notableDeals": [
+      "Rebuilt the Pac-12: Boise State, Colorado State, Fresno State, San Diego State (Sept 2024), Utah State (Oct 2024), Gonzaga (non-football) and Texas State, relaunching as a nine-member league in 2026",
+      "2024-25 football scheduling agreement with the Mountain West (and subsequent litigation over its 'poaching penalty')",
+      "Managed the two-school era (OSU/WSU), Pac-12 Network wind-down and asset/liability disputes"
+    ],
+    "reputation": "Steady, operations-first insider; first woman to lead an autonomy/power-tier league. Credited with keeping the Pac-12 brand alive; still seen as running a G6-revenue league.",
+    "suggestedAI": {
+      "aggression": 12, "caution": 13, "mediaSavvy": 11, "politicalSkill": 15, "innovation": 12, "loyalty": 18,
+      "rationale": "Patient rebuilder who sticks with her members and litigates rather than grandstands."
+    },
+    "lowConfidenceFields": ["education", "careerHistory"],
+    "sources": [
+      "https://pac-12.com/news/2026/6/15/general-pac-12-board-of-directors-extends-contract-of-commissioner-teresa-gould.aspx",
+      "https://africa.espn.com/college-sports/story/_/id/49077989/pac-12-commissioner-teresa-gould-gets-5-year-extension",
+      "https://www.johncanzano.com/p/canzano-pac-12-extends-commissioner",
+      "https://www.spokesman.com/stories/2024/feb/19/pac-12-names-teresa-gould-commissioner-as-washingt",
+      "https://www.on3.com/nil/news/pac-12-reports-drastic-revenue-decrease-2024-25-conference-realignment/",
+      "https://www.cbssports.com/college-football/news/teresa-gould-named-pac-12-commissioner-deputy-commish-promoted-as-conference-navigates-uncertain-future"
+    ]
+  },
+  {
+    "id": "gloria-nevarez",
+    "name": "Gloria Nevarez",
+    "role": "Commissioner",
+    "organization": "mountain-west",
+    "status": "current",
+    "since": 2023,
+    "sinceDate": "2023-01-01",
+    "born": null,
+    "education": "B.A., UC Berkeley; J.D.",
+    "background": "conference-deputy",
+    "careerHistory": [
+      { "role": "Athletics administrator", "org": "Cal; Oklahoma (senior associate AD)", "years": "1990s-2000s" },
+      { "role": "Senior associate commissioner", "org": "Pac-10/Pac-12", "years": "c.2010-2018" },
+      { "role": "Commissioner", "org": "West Coast Conference", "years": "2018-2022" },
+      { "role": "Commissioner", "org": "Mountain West Conference", "years": "2023-present" }
+    ],
+    "compensation": [
+      { "year": 2023, "totalUsd": 1155039, "source": "990", "note": "MWC Form 990 FY2024 Part VII (via philanthropy.org); headline figure $1.2M" }
+    ],
+    "contract": {
+      "through": 2030,
+      "extensions": [
+        { "announced": "2025-12", "through": 2030, "note": "Four-year extension through Dec. 31, 2030" }
+      ],
+      "notes": "Hired Nov. 11, 2022 from the WCC (poached). Sports-law trained; Sports Litigation Alert calls her a 'sports lawyer'."
+    },
+    "notableDeals": [
+      "Fought the Pac-12 poaching of Boise State, Colorado State, Fresno State, San Diego State and Utah State (leaving 2026): exit fees, poaching-penalty litigation",
+      "Backfilled with UTEP, Grand Canyon, Northern Illinois (football-only), Hawaii as an all-sports member, plus other additions",
+      "Introduced a new football championship trophy (2026)"
+    ],
+    "reputation": "First Latina FBS commissioner; resilient and combative after losing five flagship football programs; seen as a capable operator stuck with a weak hand.",
+    "suggestedAI": {
+      "aggression": 14, "caution": 12, "mediaSavvy": 12, "politicalSkill": 14, "innovation": 12, "loyalty": 14,
+      "rationale": "Lawyerly fighter who uses contracts and courts to protect a shrinking league."
+    },
+    "lowConfidenceFields": ["education", "careerHistory years", "notableDeals[1] membership list"],
+    "sources": [
+      "https://www.foxsports.com/articles/cfb/mountain-west-conference-extends-commissioner-gloria-nevarezs-contract-4-years-through-2030",
+      "https://africa.espn.com/college-sports/story/_/id/47202883/mountain-west-extends-commissioner-gloria-nevarez-2030",
+      "https://www.cbssports.com/college-football/news/mountain-west-hires-gloria-nevarez-as-conference-poaches-wcc-commissioner-to-serve-in-same-role",
+      "https://sportslitigationalert.com/mountain-west-board-of-directors-extends-contract-of-sports-lawyer-gloria-nevarez/",
+      "https://www.denvergazette.com/2026/07/15/transcript-tidbits-of-mountain-west-commissioner-gloria-nevarezs-annual-meeting-with-media/",
+      "https://philanthropy.org/990/report/841472434/mountain-west-conference/2023"
+    ]
+  },
+  {
+    "id": "tim-pernetti",
+    "name": "Tim Pernetti",
+    "role": "Commissioner",
+    "organization": "american",
+    "status": "current",
+    "since": 2024,
+    "sinceDate": "2024-06-03",
+    "born": null,
+    "education": "B.A., Rutgers University (played tight end for Rutgers)",
+    "background": "media-exec",
+    "careerHistory": [
+      { "role": "Production / programming", "org": "ABC Sports", "years": "1990s" },
+      { "role": "Executive Vice President", "org": "CBS Sports / CBS College Sports Network (CSTV)", "years": "2000s" },
+      { "role": "Director of Athletics (resigned April 2013 after the Mike Rice video scandal)", "org": "Rutgers", "years": "2009-2013" },
+      { "role": "President", "org": "IMG Academy", "years": "to 2024" },
+      { "role": "Commissioner", "org": "American (Athletic) Conference", "years": "2024-present" }
+    ],
+    "compensation": [],
+    "contract": {
+      "through": null,
+      "extensions": [],
+      "notes": "Selected unanimously by the AAC board 2024-04-02; term and pay not disclosed. Brief said 2023 - Aresco's retirement was announced in Dec. 2023 but Pernetti was hired in April 2024."
+    },
+    "notableDeals": [
+      "Negotiated Rutgers' 2012 move to the Big Ten while AD",
+      "Rebrand/marketing push for the American (incl. dropping 'Athletic' from the name, 2025)",
+      "Inherited Aresco's 12-year ESPN deal (through 2031-32) and Army football-only membership (2024)"
+    ],
+    "reputation": "Energetic, media-savvy TV executive and former AD; carries the Rutgers scandal in his bio but is credited with modernizing the American's brand.",
+    "suggestedAI": {
+      "aggression": 14, "caution": 10, "mediaSavvy": 16, "politicalSkill": 12, "innovation": 15, "loyalty": 11,
+      "rationale": "TV guy who sells the product hard and will chase any upgrade path for the league."
+    },
+    "lowConfidenceFields": ["careerHistory years", "notableDeals[1]"],
+    "sources": [
+      "https://www.turnkeyzrg.com/news/tim-pernetti-named-second-commissioner-of-the-american-athletic-conference",
+      "https://www.cbssports.com/college-football/news/aac-hires-tim-pernetti-as-new-commissioner-former-rutgers-athletic-director-replaces-mike-aresco/",
+      "https://dallasnews.com/sports/college-sports/2024/04/02/american-athletic-conference-to-hire-tim-pernetti-as-commissioner-ap-sources-say",
+      "https://theamerican.org/staff.aspx?staff=1109",
+      "https://www.sportsbusinessdaily.com/Daily/Morning-Buzz/2024/04/12.aspx"
+    ]
+  },
+  {
+    "id": "judy-macleod",
+    "name": "Judy MacLeod",
+    "role": "Commissioner",
+    "organization": "cusa",
+    "status": "current",
+    "since": 2015,
+    "sinceDate": "2015-10-26",
+    "born": null,
+    "education": "University of Tulsa",
+    "background": "conference-deputy",
+    "careerHistory": [
+      { "role": "Athletics administrator, then Director of Athletics", "org": "University of Tulsa", "years": "1990s-2005" },
+      { "role": "Vice commissioner / chief operating officer", "org": "Conference USA", "years": "2006-2015" },
+      { "role": "Interim commissioner", "org": "Conference USA", "years": "2015" },
+      { "role": "Commissioner", "org": "Conference USA", "years": "2015-present" }
+    ],
+    "compensation": [],
+    "contract": {
+      "through": null,
+      "extensions": [],
+      "notes": "No public contract terms or 2025-26 extension found. Interim from Aug. 17, 2015; permanent Oct. 26, 2015 - first woman to lead an FBS conference."
+    },
+    "notableDeals": [
+      "Rebuilt C-USA twice: after the 2013 exodus and again after 2021-23 losses, adding Liberty, New Mexico State, Jacksonville State, Sam Houston (2023), Kennesaw State (2024), Delaware and Missouri State (2025)",
+      "ESPN / CBS Sports Network media arrangement for the rebuilt league (2023-)",
+      "2016 media reset after the C-USA TV market collapsed (SBJ 'CUSA TV aftermath')"
+    ],
+    "reputation": "Quiet survivor with a low national profile; respected by presidents for keeping an FBS league viable through repeated raids.",
+    "suggestedAI": {
+      "aggression": 10, "caution": 15, "mediaSavvy": 8, "politicalSkill": 13, "innovation": 10, "loyalty": 18,
+      "rationale": "Conservative steward; backfills quickly with FCS movers rather than chasing splashy deals."
+    },
+    "lowConfidenceFields": ["education", "careerHistory years"],
+    "sources": [
+      "https://conferenceusa.com/staff.aspx?staff=2",
+      "https://www.espn.com/college-sports/story/_/id/13976403/judy-macleod-named-commissioner-conference-usa",
+      "https://www.ncaa.com/news/ncaa/article/2015-08-17/conference-usa-names-judy-macleod-interim-commissioner",
+      "https://www.sportsbusinessdaily.com/Daily/Issues/2016/06/09/Media/CUSA-TV-Aftermath.aspx",
+      "https://en.wikipedia.org/wiki/Judy_MacLeod"
+    ]
+  },
+  {
+    "id": "keith-gill",
+    "name": "Keith Gill",
+    "role": "Commissioner",
+    "organization": "sun-belt",
+    "status": "current",
+    "since": 2019,
+    "sinceDate": "2019-03-19",
+    "born": null,
+    "education": null,
+    "background": "former-ad",
+    "careerHistory": [
+      { "role": "Director of Athletics", "org": "University of Richmond", "years": "c.2013-2018" },
+      { "role": "Senior associate / deputy commissioner", "org": "Atlantic 10 Conference", "years": "2018-2019" },
+      { "role": "Commissioner", "org": "Sun Belt Conference", "years": "2019-present" }
+    ],
+    "compensation": [],
+    "contract": {
+      "through": 2030,
+      "extensions": [
+        { "announced": "2021-07-14", "through": 2026, "note": "Through June 30, 2026" },
+        { "announced": "2022-07-25", "through": 2030, "note": "Through at least June 30, 2030; financial terms undisclosed" }
+      ],
+      "notes": "First Black commissioner of an FBS conference (named March 19, 2019)."
+    },
+    "notableDeals": [
+      "2021 expansion adding James Madison, Marshall, Old Dominion and Southern Miss (joined 2022), settling C-USA early-exit litigation",
+      "Built the Sun Belt into the consensus top G6 football league; Louisiana Tech added (2026)",
+      "ESPN media-rights extension through 2030-31"
+    ],
+    "reputation": "Respected, opportunistic builder; his 2021 expansion is the model G6 realignment play.",
+    "suggestedAI": {
+      "aggression": 15, "caution": 11, "mediaSavvy": 12, "politicalSkill": 14, "innovation": 14, "loyalty": 15,
+      "rationale": "Moved fast when C-USA was vulnerable; disciplined about geographic fit."
+    },
+    "lowConfidenceFields": ["careerHistory", "notableDeals[2]"],
+    "sources": [
+      "https://www.on3.com/news/sun-belt-extends-commissioner-keith-gill-contract-through-2030",
+      "https://sunbeltsports.org/news/2021/7/14/general-sun-belt-commissioner-keith-gill-signs-contract-extension.aspx",
+      "https://www.cbssports.com/college-football/news/sun-belt-hires-keith-gill-as-first-african-american-commissioner-overseeing-fbs-conference",
+      "https://amp.foxsports.com/stories/other/sun-belt-tabs-atlantic-10-official-as-new-commissioner",
+      "https://en.wikipedia.org/wiki/Keith_Gill_(athletic_director)"
+    ]
+  },
+  {
+    "id": "jon-steinbrecher",
+    "name": "Jon Steinbrecher",
+    "role": "Commissioner",
+    "organization": "mac",
+    "status": "current",
+    "since": 2009,
+    "sinceDate": "2009-07-01",
+    "born": null,
+    "education": "Ohio University (graduate sports administration); law degree",
+    "background": "conference-deputy",
+    "careerHistory": [
+      { "role": "Conference staff / commissioner roles", "org": "Mid-Continent Conference and others", "years": "1980s-1990s" },
+      { "role": "Commissioner", "org": "Ohio Valley Conference", "years": "c.1998-2009" },
+      { "role": "Commissioner", "org": "Mid-American Conference", "years": "2009-present" }
+    ],
+    "compensation": [],
+    "contract": {
+      "through": null,
+      "extensions": [
+        { "announced": "2015-06-08", "through": null, "note": "Three-year extension (Crain's Cleveland); earlier extension through 2019-20; later terms undisclosed" }
+      ],
+      "notes": "Longest-tenured FBS commissioner (named March 16, 2009). No 2026 retirement found; still issuing statements as of Sept. 2026."
+    },
+    "notableDeals": [
+      "13-year ESPN media deal (2014-2027) built around weeknight 'MACtion'",
+      "Lost Northern Illinois football to the Mountain West (2026); added UMass (2025) and Sacramento State football (2026)",
+      "Vice chair of the NCAA Division I Council (2019); voice for the broad-based G6 model"
+    ],
+    "reputation": "Low-key pragmatist; seen as a careful steward of a budget conference rather than a dealmaker.",
+    "suggestedAI": {
+      "aggression": 8, "caution": 16, "mediaSavvy": 9, "politicalSkill": 13, "innovation": 11, "loyalty": 18,
+      "rationale": "Seventeen years in the chair by keeping costs low and members aligned."
+    },
+    "lowConfidenceFields": ["education", "careerHistory", "notableDeals[0..1] dates"],
+    "sources": [
+      "https://getsomemaction.com/staff.aspx?staff=1",
+      "https://niuhuskies.com/news/2009/3/16/Dr_Jon_A_Steinbrecher_Appointed_Mid_American_Conference_Commissioner",
+      "https://www.crainscleveland.com/article/20150608/NEWS/150609785/mac-extends-contract-of-commissioner-jon-steinbrecher-for-three-years/",
+      "https://www.ohio.edu/news/2025/03/jon-steinbrecher-named-2025-charles-r-higgins-distinguished-alumnus",
+      "https://en.wikipedia.org/wiki/Jon_Steinbrecher"
+    ]
+  },
+  {
+    "id": "tim-brosnan",
+    "name": "Tim Brosnan",
+    "role": "Commissioner",
+    "organization": "big-east",
+    "status": "current",
+    "since": 2026,
+    "sinceDate": "2026-09-01",
+    "born": null,
+    "education": "Georgetown University (alumnus)",
+    "background": "pro-league-exec",
+    "careerHistory": [
+      { "role": "Executive roles incl. EVP Business and CEO of MLB Enterprises (24-year career)", "org": "Major League Baseball", "years": "c.1991-2014" },
+      { "role": "Commissioner", "org": "Big East Conference", "years": "2026-present" }
+    ],
+    "compensation": [],
+    "contract": {
+      "through": null,
+      "extensions": [],
+      "notes": "Named sixth Big East commissioner ~2026-08-10, succeeding Val Ackerman (retired 2026-08-31). Search committee prioritized revenue generation."
+    },
+    "notableDeals": [
+      "As MLB's top business executive: national TV and sponsorship deals",
+      "Stated Big East mandate: 'lean into commerce and better monetize our Big East assets'"
+    ],
+    "reputation": "Revenue-first outsider; the second ex-MLB business chief now running a major conference (with Petitti).",
+    "suggestedAI": {
+      "aggression": 12, "caution": 12, "mediaSavvy": 14, "politicalSkill": 13, "innovation": 15, "loyalty": 12,
+      "rationale": "Commercial operator new to campus politics; expect sponsorship and media experimentation."
+    },
+    "lowConfidenceFields": ["careerHistory years"],
+    "sources": [
+      "https://www.nbcsports.com/big-east/news/tim-brosnan-named-sixth-big-east-commissioner-will-succeed-val-ackerman-in-september",
+      "https://www.usnews.com/news/sports/articles/2026-08-10/tim-brosnan-named-sixth-big-east-commissioner-will-succeed-val-ackerman-in-september",
+      "https://www.bigeast.com/news/2026/4/20/general-big-east-commissioner-val-ackerman-announces-retirement.aspx"
+    ]
+  },
+  {
+    "id": "stu-jackson",
+    "name": "Stu Jackson",
+    "role": "Commissioner",
+    "organization": "wcc",
+    "status": "current",
+    "since": 2023,
+    "sinceDate": "2023-04-24",
+    "born": 1955,
+    "education": "B.A. Management, Seattle University (1978)",
+    "background": "pro-league-exec",
+    "careerHistory": [
+      { "role": "Head coach", "org": "New York Knicks", "years": "1989-1990" },
+      { "role": "Head coach", "org": "Wisconsin", "years": "1992-1994" },
+      { "role": "GM / head coach", "org": "Vancouver Grizzlies", "years": "1994-2000" },
+      { "role": "EVP Basketball Operations", "org": "NBA", "years": "c.2000-2013" },
+      { "role": "Associate commissioner, men's basketball (9 years)", "org": "Big East Conference", "years": "c.2013-2022" },
+      { "role": "Commissioner", "org": "West Coast Conference", "years": "2023-present" }
+    ],
+    "compensation": [],
+    "contract": { "through": null, "extensions": [], "notes": "Named March 6, 2023; started April 24, 2023. NCAA DI men's basketball committee vice chair 2026-27, chair 2027-28." },
+    "notableDeals": [
+      "Navigated loss of Gonzaga (to the Pac-12, 2026) and Grand Canyon; added Seattle U and Denver"
+    ],
+    "reputation": "Basketball lifer with NBA credibility; well-connected on the selection committee.",
+    "suggestedAI": {
+      "aggression": 9, "caution": 14, "mediaSavvy": 12, "politicalSkill": 14, "innovation": 10, "loyalty": 15,
+      "rationale": "Basketball-first steward focused on NCAA tournament access."
+    },
+    "lowConfidenceFields": ["careerHistory years"],
+    "sources": [
+      "https://wccsports.com/staff.aspx?staff=1051",
+      "https://wccsports.com/news/2023/3/6/general-stu-jackson-appointed-west-coast-conference-commissioner.aspx",
+      "https://wccsports.com/news/2026/7/9/general-west-coast-conference-commissioner-stu-jackson-named-vice-chair-on-ncaa-division-i-mens-basketball-committee.aspx",
+      "https://www.seattleu.edu/business/news-events/albers-brief/albers-brief-summer-2025/leading-the-wcc-grounded-in-seattle-university/"
+    ]
+  },
+  {
+    "id": "dan-leibovitz",
+    "name": "Dan Leibovitz",
+    "role": "Commissioner",
+    "organization": "a10",
+    "status": "current",
+    "since": 2026,
+    "sinceDate": "2026-05-04",
+    "born": null,
+    "education": null,
+    "background": "conference-deputy",
+    "careerHistory": [
+      { "role": "Assistant coach (10 years in the A-10)", "org": "Temple", "years": "1990s-2000s" },
+      { "role": "Head coach", "org": "Hartford", "years": "c.2006-2010" },
+      { "role": "Associate commissioner, men's basketball", "org": "SEC", "years": "2016-2023" },
+      { "role": "Senior associate commissioner, men's basketball", "org": "Big East Conference", "years": "2023-2026" },
+      { "role": "Commissioner", "org": "Atlantic 10 Conference", "years": "2026-present" }
+    ],
+    "compensation": [],
+    "contract": { "through": null, "extensions": [], "notes": "Named 2026-03-18, introduced 2026-03-24, started 2026-05-04 succeeding Bernadette McGlade (18 years)." },
+    "notableDeals": [],
+    "reputation": "Basketball-operations specialist from two power-league offices; supports NCAA tournament expansion.",
+    "suggestedAI": {
+      "aggression": 10, "caution": 13, "mediaSavvy": 11, "politicalSkill": 13, "innovation": 12, "loyalty": 14,
+      "rationale": "New, process-oriented commissioner; priority is tournament bids and a permanent A-10 tournament home."
+    },
+    "lowConfidenceFields": ["careerHistory[0..1] years"],
+    "sources": [
+      "https://atlantic10.com/news/2026/3/18/about-dan-leibovitz-named-atlantic-10-commissioner.aspx",
+      "https://fieldlevelmedia.com/ncaab/atlantic-10-hires-dan-leibovitz-as-new-commissioner",
+      "https://atlantic10.com/news/2025/11/19/about-the-atlantic-10-atlantic-10-commissioner-bernadette-v-mcglade-to-retire-following-the-2025-26-academic-year.aspx"
+    ]
+  },
+  {
+    "id": "ron-ratner",
+    "name": "Ron Ratner",
+    "role": "Interim Commissioner",
+    "organization": "nec",
+    "status": "interim",
+    "since": 2026,
+    "sinceDate": "2026-09-01",
+    "born": null,
+    "education": null,
+    "background": "conference-deputy",
+    "careerHistory": [
+      { "role": "Senior associate commissioner (PR, digital media, TV); 29 years on staff", "org": "Northeast Conference", "years": "c.1998-2026" },
+      { "role": "Interim Commissioner", "org": "Northeast Conference", "years": "2026-present" }
+    ],
+    "compensation": [],
+    "contract": { "through": null, "extensions": [], "notes": "Named by NEC Council of Presidents 2026-08-31 after Noreen Morris (16 years) stepped down to lead the Collegiate Women Sports Awards. Permanent search presumably pending." },
+    "notableDeals": [],
+    "reputation": "Longest-tenured NEC employee; caretaker.",
+    "suggestedAI": {
+      "aggression": 5, "caution": 17, "mediaSavvy": 12, "politicalSkill": 9, "innovation": 7, "loyalty": 19,
+      "rationale": "Interim caretaker; avoids big decisions."
+    },
+    "sources": [
+      "https://necsports.com/news/2026/8/31/GEN_Ratner_InterimCommissioner_26.aspx",
+      "https://necsports.com/news/2026/4/20/GEN_Morris_StepsDown_26.aspx"
+    ]
+  },
+  {
+    "id": "charlie-baker",
+    "name": "Charlie Baker",
+    "role": "President",
+    "organization": "ncaa",
+    "status": "current",
+    "since": 2023,
+    "sinceDate": "2023-03-01",
+    "born": 1956,
+    "education": "A.B. English, Harvard (1979); MBA, Northwestern Kellogg (1986)",
+    "background": "politician",
+    "careerHistory": [
+      { "role": "Secretary of Health & Human Services; Secretary of Administration & Finance", "org": "Commonwealth of Massachusetts", "years": "1991-1998" },
+      { "role": "CEO", "org": "Harvard Pilgrim Health Care", "years": "1999-2009" },
+      { "role": "Executive in residence", "org": "General Catalyst Partners", "years": "2011-2014" },
+      { "role": "Governor", "org": "Commonwealth of Massachusetts", "years": "2015-2023" },
+      { "role": "President", "org": "NCAA", "years": "2023-present" }
+    ],
+    "compensation": [
+      { "year": 2023, "totalUsd": 3400000, "source": "reported", "note": "USA Today via On3: ~$3.4M for first year in role; fiscal/calendar basis not verified", "confidence": "low" }
+    ],
+    "contract": { "through": null, "extensions": [], "notes": "No public term or extension found (searched Nov 2026). Hired via TurnkeyZRG search led by Baylor president Linda Livingstone." },
+    "notableDeals": [
+      "House v. NCAA settlement ($2.8B back damages; ~$20.5M/school revenue-sharing cap; approved June 2025)",
+      "'Project DI' proposal (Dec 2023) for a new top subdivision with direct athlete pay",
+      "ESPN 8-year, $920M deal for 40 NCAA championships incl. women's basketball (Jan 2024)",
+      "Lobbying Congress for federal NIL/antitrust legislation; state push to ban college prop bets"
+    ],
+    "reputation": "Pragmatic, bipartisan ex-governor - better at Washington politics than Mark Emmert, but presiding over an NCAA whose power has shifted to the P4 and the CSC.",
+    "suggestedAI": {
+      "aggression": 10, "caution": 15, "mediaSavvy": 16, "politicalSkill": 19, "innovation": 13, "loyalty": 14,
+      "rationale": "Coalition politician; trades NCAA authority for legal peace and Congressional help."
+    },
+    "lowConfidenceFields": ["compensation", "careerHistory[0] years"],
+    "sources": [
+      "https://www.ncaa.org/news/2022/12/15/media-center-ncaa-announces-governor-charlie-baker-to-be-next-president.aspx",
+      "https://www.on3.com/news/report-ncaa-president-charlie-baker-earned-3-4-million-for-first-year-in-role",
+      "https://huntscanlon.com/turnkeyzrg-places-massachusetts-gov-charlie-baker-as-next-head-of-ncaa/",
+      "https://www.cnbc.com/2022/12/15/ncaa-picks-charlie-baker-as-next-president.html"
+    ]
+  },
+  {
+    "id": "bryan-seeley",
+    "name": "Bryan Seeley",
+    "role": "CEO",
+    "organization": "college-sports-commission",
+    "status": "current",
+    "since": 2025,
+    "sinceDate": "2025-06-06",
+    "born": null,
+    "education": null,
+    "background": "attorney",
+    "careerHistory": [
+      { "role": "Assistant U.S. Attorney (8 years)", "org": "U.S. Attorney's Office, Washington, D.C.", "years": "c.2006-2014" },
+      { "role": "VP Investigations & deputy general counsel; EVP (2022) over investigations, security, compliance", "org": "Major League Baseball", "years": "2014-2025" },
+      { "role": "CEO", "org": "College Sports Commission", "years": "2025-present" }
+    ],
+    "compensation": [
+      { "year": 2025, "totalUsd": null, "source": "reported", "note": "ESPN sources: 'expected to earn seven figures'; CSC investigators posted at $150K-$190K" }
+    ],
+    "contract": { "through": null, "extensions": [], "notes": "Hired by the four P4 commissioners after a search-firm-assisted process (firm not named). Has authority to impose penalties for revenue-share/NIL violations." },
+    "notableDeals": [
+      "Launched the CSC and its NIL clearinghouse (NIL Go, with Deloitte) and an investigative unit (2025)"
+    ],
+    "reputation": "Low-profile investigator/lawyer; Petitti's former MLB colleague; credibility hinges on enforcing the cap against collectives.",
+    "suggestedAI": {
+      "aggression": 13, "caution": 14, "mediaSavvy": 9, "politicalSkill": 12, "innovation": 12, "loyalty": 15,
+      "rationale": "Prosecutor temperament, accountable to the P4 commissioners who hired him."
+    },
+    "lowConfidenceFields": ["sinceDate", "careerHistory years"],
+    "sources": [
+      "https://africa.espn.com/college-sports/story/_/id/45468012/mlb-exec-bryan-seeley-ceo-new-college-sports-commission",
+      "https://www.on3.com/nil/news/bryan-seeley-became-right-person-time-lead-new-college-sports-commission-ceo-house-settlement",
+      "https://www.ajc.com/news/2025/06/mlb-executive-bryan-seeley-named-college-sports-commission-ceo-after-ncaa-settlement-approval",
+      "https://frontofficesports.com/college-sports-enforcement-entity-builds-out-investigative-unit/"
+    ]
+  }
+]

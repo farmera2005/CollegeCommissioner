@@ -1,0 +1,447 @@
+[
+  {
+    "id": "mac-2009-chryst-steinbrecher",
+    "conference": "mac",
+    "outgoing": "Rick Chryst",
+    "incoming": "Jon Steinbrecher",
+    "date": "2009-03-16",
+    "year": 2009,
+    "reason": "resigned",
+    "outgoingDestination": null,
+    "notes": "Pre-2010 lineage record. Steinbrecher (from the Ohio Valley Conference) has been the MAC's only commissioner for the entire 2010-2026 window - no MAC transitions in scope.",
+    "confidence": "low",
+    "sources": [
+      "https://niuhuskies.com/news/2009/3/16/Dr_Jon_A_Steinbrecher_Appointed_Mid_American_Conference_Commissioner",
+      "https://www.espn.com/college-sports/news/story?id=3986345"
+    ]
+  },
+  {
+    "id": "ncaa-2010-isch-emmert",
+    "conference": "ncaa",
+    "outgoing": "Jim Isch (interim, after Myles Brand's death in Sept. 2009)",
+    "incoming": "Mark Emmert",
+    "date": "2010-04-27",
+    "effective": "2010-11-01",
+    "year": 2010,
+    "reason": "interim",
+    "outgoingDestination": "Returned to NCAA COO role",
+    "notes": "Emmert hired from the University of Washington presidency (earlier LSU chancellor) - the classic academic-to-NCAA path.",
+    "confidence": "low",
+    "sources": ["https://en.wikipedia.org/wiki/Mark_Emmert"]
+  },
+  {
+    "id": "big-12-2011-beebe-neinas",
+    "conference": "big-12",
+    "outgoing": "Dan Beebe",
+    "incoming": "Chuck Neinas (interim)",
+    "date": "2011-09-22",
+    "year": 2011,
+    "reason": "fired",
+    "outgoingDestination": "Founded a consulting firm (The Beebe Group)",
+    "notes": "Beebe (commissioner since 2007) was forced out by the board after losing Nebraska and Colorado (2010) and Texas A&M (2011) with Missouri wavering; Oklahoma's leadership pushed for his removal. Neinas, the Big 8's former commissioner and a coach-search consultant, served as interim while the league adopted equal revenue sharing and a six-year grant of rights.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dan_Beebe",
+      "https://en.wikipedia.org/wiki/Chuck_Neinas"
+    ]
+  },
+  {
+    "id": "big-east-2010-2012-marinatto-bailey",
+    "conference": "big-east-2010",
+    "outgoing": "John Marinatto",
+    "incoming": "Joe Bailey (interim)",
+    "date": "2012-05-07",
+    "year": 2012,
+    "reason": "resigned",
+    "outgoingDestination": null,
+    "notes": "Marinatto (commissioner since July 2009, succeeding Mike Tranghese) resigned under pressure after Pittsburgh and Syracuse (ACC, Sept. 2011), West Virginia (Big 12) and TCU (Big 12, before ever playing a Big East game) left; the league had reportedly rejected a ~$1B+ ESPN extension in 2011.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Marinatto",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ]
+  },
+  {
+    "id": "big-12-2012-neinas-bowlsby",
+    "conference": "big-12",
+    "outgoing": "Chuck Neinas (interim)",
+    "incoming": "Bob Bowlsby",
+    "date": "2012-05-04",
+    "year": 2012,
+    "reason": "interim",
+    "outgoingDestination": "Returned to consulting (Neinas Sports Services)",
+    "notes": "Bowlsby hired from the Stanford AD chair (previously Iowa AD); classic former-AD hire. Served 2012-2022.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bob_Bowlsby",
+      "https://en.wikipedia.org/wiki/Chuck_Neinas"
+    ]
+  },
+  {
+    "id": "sun-belt-2012-waters-benson",
+    "conference": "sun-belt",
+    "outgoing": "Wright Waters",
+    "incoming": "Karl Benson",
+    "date": null,
+    "year": 2012,
+    "reason": "retired",
+    "outgoingDestination": "Retirement",
+    "notes": "Waters had led the Sun Belt since 1998. Benson was poached from the WAC (commissioner since 1994) as the WAC's FBS football collapsed.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karl_Benson",
+      "https://en.wikipedia.org/wiki/Sun_Belt_Conference"
+    ]
+  },
+  {
+    "id": "wac-2010-2012-benson-hurd",
+    "conference": "wac-2010",
+    "outgoing": "Karl Benson",
+    "incoming": "Jeff Hurd",
+    "date": null,
+    "year": 2012,
+    "reason": "poached",
+    "outgoingDestination": "Sun Belt Conference commissioner",
+    "notes": "Last FBS-era WAC transition; the WAC dropped FBS football after 2012.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+      "https://en.wikipedia.org/wiki/Karl_Benson"
+    ]
+  },
+  {
+    "id": "big-east-2010-2012-bailey-aresco",
+    "conference": "big-east-2010",
+    "outgoing": "Joe Bailey (interim)",
+    "incoming": "Mike Aresco",
+    "date": null,
+    "year": 2012,
+    "reason": "interim",
+    "outgoingDestination": null,
+    "notes": "Aresco hired from CBS Sports (EVP programming) in Aug. 2012 - an early media-exec hire. When the seven Catholic non-FBS schools split in 2013 and took the Big East name, Aresco stayed with the football schools, whose charter became the American Athletic Conference.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mike_Aresco",
+      "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)"
+    ]
+  },
+  {
+    "id": "big-east-2013-ackerman",
+    "conference": "big-east",
+    "outgoing": null,
+    "incoming": "Val Ackerman",
+    "date": null,
+    "effective": "2013-07-01",
+    "year": 2013,
+    "reason": "new-conference",
+    "outgoingDestination": null,
+    "notes": "Founding commissioner of the re-formed (basketball) Big East built by the 'Catholic 7' plus Butler, Creighton and Xavier, with a 12-year Fox deal. Ackerman was founding WNBA president (1996-2005) and USA Basketball president; she had just written an NCAA report on women's basketball. Tranghese -> Marinatto (2009) -> Aresco (2012) is the old-Big East lineage.",
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Val_Ackerman",
+      "https://www.bigeast.com/news/2026/4/20/general-big-east-commissioner-val-ackerman-announces-retirement.aspx"
+    ]
+  },
+  {
+    "id": "sec-2015-slive-sankey",
+    "conference": "sec",
+    "outgoing": "Mike Slive",
+    "incoming": "Greg Sankey",
+    "date": "2015-06-01",
+    "year": 2015,
+    "reason": "retired",
+    "outgoingDestination": "Retirement (died 2018)",
+    "notes": "Slive (SEC 2002-2015; earlier C-USA founding commissioner) announced retirement in Oct. 2014 while battling cancer. SEC presidents promoted his COO/executive associate commissioner Sankey - the textbook internal-succession hire. Exact date of the presidents' selection not verified; 2015-06-01 is Sankey's start.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Greg_Sankey",
+      "https://en.wikipedia.org/wiki/Mike_Slive",
+      "https://www.ksat.com/sports/2021/08/05/sec-sankey-agree-to-contract-extension-through-2026/"
+    ]
+  },
+  {
+    "id": "cusa-2015-banowsky-macleod",
+    "conference": "cusa",
+    "outgoing": "Britton Banowsky",
+    "incoming": "Judy MacLeod",
+    "date": "2015-10-26",
+    "year": 2015,
+    "reason": "poached",
+    "outgoingDestination": "Executive director, College Football Playoff Foundation",
+    "notes": "Banowsky (C-USA commissioner since 2002) announced his departure July 16, 2015. MacLeod, the league's COO, was named interim Aug. 17, 2015 and permanent Oct. 26, 2015 - first woman to lead an FBS conference.",
+    "sources": [
+      "https://www.si.com/college/2015/07/16/conference-usa-commissioner-britton-banowsky-steps-down",
+      "https://www.ncaa.com/news/ncaa/article/2015-08-17/conference-usa-names-judy-macleod-interim-commissioner",
+      "https://www.si.com/college/2015/10/26/judy-macleod-commissioner-conference-usa"
+    ]
+  },
+  {
+    "id": "sun-belt-2019-benson-gill",
+    "conference": "sun-belt",
+    "outgoing": "Karl Benson",
+    "incoming": "Keith Gill",
+    "date": "2019-03-19",
+    "year": 2019,
+    "reason": "retired",
+    "outgoingDestination": "Retirement",
+    "notes": "Gill hired from the Atlantic 10 staff (ex-Richmond AD); first Black commissioner of an FBS conference.",
+    "sources": [
+      "https://www.cbssports.com/college-football/news/sun-belt-hires-keith-gill-as-first-african-american-commissioner-overseeing-fbs-conference",
+      "https://www.espn.com/ncf/story/_/id/26300088",
+      "https://en.wikipedia.org/wiki/Keith_Gill_(athletic_director)"
+    ]
+  },
+  {
+    "id": "big-ten-2020-delany-warren",
+    "conference": "big-ten",
+    "outgoing": "Jim Delany",
+    "incoming": "Kevin Warren",
+    "date": "2019-06-04",
+    "effective": "2020-01-01",
+    "year": 2020,
+    "reason": "retired",
+    "outgoingDestination": "Retirement; Big Ten consulting (FY2024-25 990: $5.82M in bonuses/deferred comp plus $600K consulting fees)",
+    "notes": "Delany (commissioner since 1989) built BTN and the 2010-14 expansion. Warren, Minnesota Vikings COO (Notre Dame J.D.), became the first Black Power Five commissioner. His 2020 postponement/reversal of the football season was the defining controversy of his tenure.",
+    "sources": [
+      "https://www.espn.com/college-sports/story/_/id/48651052/big-ten-distributes-record-revenue-2024-2025-fiscal-year",
+      "https://www.sportico.com/leagues/college-sports/2025/big-ten-kevin-warren-bonus-jim-delany-1234851527/",
+      "https://en.wikipedia.org/wiki/Jim_Delany"
+    ]
+  },
+  {
+    "id": "acc-2021-swofford-phillips",
+    "conference": "acc",
+    "outgoing": "John Swofford",
+    "incoming": "Jim Phillips",
+    "date": "2020-12-14",
+    "effective": "2021-02-01",
+    "year": 2021,
+    "reason": "retired",
+    "outgoingDestination": "Retirement (ACC paid him ~$2.6M in 2022, largely deferred compensation)",
+    "notes": "Swofford led the ACC 1997-2021 (expansion to Miami/VT/BC, then Pitt/Syracuse/Louisville/ND, the 20-year ESPN deal and ACC Network). Search began Aug. 2020, facilitated by Turnkey Search; Clemson president Jim Clements was the presumptive favorite until Clemson's board kept him. Phillips was Northwestern AD.",
+    "sources": [
+      "https://huntscanlon.com/the-acc-names-jim-phillips-as-the-conferences-commissioner/",
+      "https://www.cbssports.com/college-football/news/acc-hires-northwestern-ad-jim-phillips-as-commissioner-replacing-the-retiring-john-swofford",
+      "https://on3.com/news/john-swofford-received-2-6-million-from-acc-in-2022"
+    ]
+  },
+  {
+    "id": "pac-12-2021-scott-kliavkoff",
+    "conference": "pac-12",
+    "outgoing": "Larry Scott",
+    "incoming": "George Kliavkoff",
+    "date": "2021-05-13",
+    "effective": "2021-07-01",
+    "year": 2021,
+    "reason": "mutual",
+    "outgoingDestination": null,
+    "notes": "Scott (2009-2021; ex-WTA CEO) agreed in Jan. 2021 to leave June 30, 2021 amid criticism of the Pac-12 Network's poor distribution, lavish spending and lagging revenue; reported ~$1.5M severance. Kliavkoff (MGM Resorts president of entertainment & sports) chosen unanimously after a ~4-month global search (200+ candidates) by the executive committee (chair: Oregon's Michael Schill) and TurnkeyZRG; five-year contract.",
+    "sources": [
+      "https://huntscanlon.com/turnkeyzrg-assists-pac-12-in-finding-next-commissioner/",
+      "https://www.colorado.edu/today/2021/05/13/pac-12-conference-names-sports-business-exec-george-kliavkoff-commissioner",
+      "https://www.on3.com/news/former-pac-12-commissioner-larry-scott-reportedly-received-1-5-million-severance-package"
+    ]
+  },
+  {
+    "id": "big-12-2022-bowlsby-yormark",
+    "conference": "big-12",
+    "outgoing": "Bob Bowlsby",
+    "incoming": "Brett Yormark",
+    "date": "2022-06-29",
+    "effective": "2022-08-01",
+    "year": 2022,
+    "reason": "retired",
+    "outgoingDestination": "Stepped away; six months of consulting for the Big 12",
+    "notes": "Bowlsby's final-year payout totaled ~$17.2M: $12.26M for the three years left on his contract, $3.337M vested deferred comp, $15K consulting. Big 12 retained TurnkeyZRG (RFP to several firms) on 2022-04-21; executive committee (Texas Tech's Lawrence Schovanec, Baylor's Linda Livingstone, Kansas's Doug Girod) led it. Yormark (Roc Nation, ex-Nets CEO) got a five-year deal.",
+    "sources": [
+      "https://big12sports.com/news/2022/4/21/big-12-conference-retains-turnkeyzrg-for-commissioner-search.aspx",
+      "https://huntscanlon.com/turnkeyzrg-recruits-commissioner-for-the-big-12/",
+      "https://africa.espn.com/college-sports/story/_/id/40205947/big-12-paid-ex-commissioner-bob-bowlsby-172m-final-year"
+    ]
+  },
+  {
+    "id": "ncaa-2023-emmert-baker",
+    "conference": "ncaa",
+    "outgoing": "Mark Emmert",
+    "incoming": "Charlie Baker",
+    "date": "2022-12-15",
+    "effective": "2023-03-01",
+    "year": 2023,
+    "reason": "mutual",
+    "outgoingDestination": null,
+    "notes": "Emmert's exit was announced April 2022 (mutual agreement; contract had been extended through 2025 in 2021). Board of Governors subcommittee chaired by Baylor's Linda Livingstone ran the search with TurnkeyZRG (Len Perna), after interviewing 300+ stakeholders; hired the outgoing Massachusetts governor.",
+    "sources": [
+      "https://www.ncaa.org/news/2022/12/15/media-center-ncaa-announces-governor-charlie-baker-to-be-next-president.aspx",
+      "https://huntscanlon.com/turnkeyzrg-places-massachusetts-gov-charlie-baker-as-next-head-of-ncaa/",
+      "https://frontofficesports.com/ncaa-president-search"
+    ]
+  },
+  {
+    "id": "mountain-west-2023-thompson-nevarez",
+    "conference": "mountain-west",
+    "outgoing": "Craig Thompson",
+    "incoming": "Gloria Nevarez",
+    "date": "2022-11-11",
+    "effective": "2023-01-01",
+    "year": 2023,
+    "reason": "retired",
+    "outgoingDestination": "Retirement",
+    "notes": "Thompson was the MWC's founding commissioner (1998-2022) and announced retirement Sept. 2022. Nevarez poached from the WCC. A search firm approached her; Parker Executive Search lists the placement on its site (attribution likely but unconfirmed).",
+    "sources": [
+      "https://www.cbssports.com/college-football/news/mountain-west-hires-gloria-nevarez-as-conference-poaches-wcc-commissioner-to-serve-in-same-role",
+      "https://www.parkersearch.com/news/gloria-nevarez-named-mountain-west-commissioner",
+      "https://frontofficesports.com/the-plan-to-keep-the-mountain-west-relevant"
+    ]
+  },
+  {
+    "id": "wcc-2023-nevarez-jackson",
+    "conference": "wcc",
+    "outgoing": "Gloria Nevarez",
+    "incoming": "Stu Jackson",
+    "date": "2023-03-06",
+    "effective": "2023-04-24",
+    "year": 2023,
+    "reason": "poached",
+    "outgoingDestination": "Mountain West commissioner",
+    "notes": "Non-FBS but shows the lateral-promotion chain (WCC -> MWC). Jackson hired from the Big East staff (ex-NBA EVP).",
+    "sources": [
+      "https://wccsports.com/news/2023/3/6/general-stu-jackson-appointed-west-coast-conference-commissioner.aspx",
+      "https://www.spokesman.com/stories/2023/mar/05/report-west-coast-conference-to-hire-stu-jackson-a/"
+    ]
+  },
+  {
+    "id": "big-ten-2023-warren-petitti",
+    "conference": "big-ten",
+    "outgoing": "Kevin Warren",
+    "incoming": "Tony Petitti",
+    "date": "2023-04-12",
+    "effective": "2023-05-15",
+    "year": 2023,
+    "reason": "poached",
+    "outgoingDestination": "President & CEO, Chicago Bears (NFL)",
+    "notes": "Bears announced Warren in Jan. 2023; his Big Ten tenure ended 2023-04-14. He collected a $5.75M media-rights bonus for the 2022 Fox/CBS/NBC deal (total $6.83M in the year). Search led by the COPC Executive Search Committee (chair: Maryland's Darryll Pines) with TurnkeyZRG; ACC's Jim Phillips was a reported target and took an ACC extension instead.",
+    "sources": [
+      "https://huntscanlon.com/turnkeyzrg-assists-big-ten-conference-in-recruiting-seventh-commissioner/",
+      "https://www.dailyherald.com/20230412/pro-sports/big-ten-makes-hire-ex-mlb-exec-tony-petitti-as-new-commissioner-official/",
+      "https://www.sportico.com/leagues/college-sports/2025/big-ten-kevin-warren-bonus-jim-delany-1234851527/",
+      "https://www.cbssports.com/college-football/news/acc-commissioner-jim-phillips-to-sign-three-year-extension-after-being-a-target-to-lead-big-ten"
+    ]
+  },
+  {
+    "id": "pac-12-2024-kliavkoff-gould",
+    "conference": "pac-12",
+    "outgoing": "George Kliavkoff",
+    "incoming": "Teresa Gould",
+    "date": "2024-02-19",
+    "effective": "2024-03-01",
+    "year": 2024,
+    "reason": "mutual",
+    "outgoingDestination": null,
+    "notes": "Mutual separation announced mid-Feb. 2024 (reports Feb. 9-13); Kliavkoff's last day 2024-02-29; financial terms undisclosed at the time, but the Pac-12's later 990 showed $6.1M paid to him in 2024, $5M of it severance ($15.6M over his tenure) - effectively a contract buyout negotiated as a settlement. The two-member board (WSU's Kirk Schulz as chair, OSU's Jayathi Murthy) announced deputy commissioner Gould on 2024-02-19, effective March 1, on a two-year deal. Context: his Aug. 2023 Apple streaming pitch preceded the exit of eight schools in days, leaving only OSU and WSU.",
+    "sources": [
+      "https://www.spokesman.com/stories/2024/feb/13/after-the-fall-pac-12-officially-moving-on-from-co/",
+      "https://www.spokesman.com/stories/2024/feb/19/pac-12-names-teresa-gould-commissioner-as-washingt",
+      "https://www.cbssports.com/college-football/news/pac-12-parts-ways-with-commissioner-george-kliavkoff-announcement-on-new-leadership-coming-next-week",
+      "https://bleacherreport.com/articles/10109296-report-pac-12-commissioner-george-kliavkoff-part-ways-agree-to-contract-settlement",
+      "https://frontofficesports.com/the-george-kliavkoff-era-in-the-pac-12-comes-to-an-end-how-it-fell-apart",
+      "https://www.spokesman.com/stories/2026/may/15/breaking-down-the-tv-revenue-commissioner-pay-and-/"
+    ]
+  },
+  {
+    "id": "american-2024-aresco-pernetti",
+    "conference": "american",
+    "outgoing": "Mike Aresco",
+    "incoming": "Tim Pernetti",
+    "date": "2024-04-02",
+    "effective": "2024-06-03",
+    "year": 2024,
+    "reason": "retired",
+    "outgoingDestination": "Retirement",
+    "notes": "Aresco (Big East football 2012-13, American 2013-24) announced retirement in Dec. 2023. The AAC board voted unanimously for Pernetti (IMG Academy president, ex-Rutgers AD, ex-CBS) after a search led by the board executive committee (chair: ECU's Philip Rogers) with TurnkeyZRG. Brief's '2023' date is the retirement announcement, not the hire.",
+    "sources": [
+      "https://www.turnkeyzrg.com/news/tim-pernetti-named-second-commissioner-of-the-american-athletic-conference",
+      "https://www.cbssports.com/college-football/news/aac-hires-tim-pernetti-as-new-commissioner-former-rutgers-athletic-director-replaces-mike-aresco/",
+      "https://dallasnews.com/sports/college-sports/2024/04/02/american-athletic-conference-to-hire-tim-pernetti-as-commissioner-ap-sources-say"
+    ]
+  },
+  {
+    "id": "cfp-2025-hancock-clark",
+    "conference": "cfp",
+    "outgoing": "Bill Hancock",
+    "incoming": "Rich Clark",
+    "date": null,
+    "year": 2025,
+    "reason": "retired",
+    "outgoingDestination": "Retirement",
+    "notes": "Hancock (ex-Big 8/Big 12 staff, NCAA Final Four director, BCS administrator, CFP executive director since 2012) retired; Rich Clark succeeded him. Clark's prior role not verified in this pass.",
+    "confidence": "low",
+    "sources": ["https://en.wikipedia.org/wiki/College_Football_Playoff"]
+  },
+  {
+    "id": "a10-2026-mcglade-leibovitz",
+    "conference": "a10",
+    "outgoing": "Bernadette McGlade",
+    "incoming": "Dan Leibovitz",
+    "date": "2026-03-18",
+    "effective": "2026-05-04",
+    "year": 2026,
+    "reason": "retired",
+    "outgoingDestination": "Retirement",
+    "notes": "McGlade (A-10 since 2008) announced 2025-11-19 she would retire after 2025-26. Leibovitz hired from the Big East (senior associate commissioner, MBB).",
+    "sources": [
+      "https://atlantic10.com/news/2025/11/19/about-the-atlantic-10-atlantic-10-commissioner-bernadette-v-mcglade-to-retire-following-the-2025-26-academic-year.aspx",
+      "https://atlantic10.com/news/2026/3/18/about-dan-leibovitz-named-atlantic-10-commissioner.aspx"
+    ]
+  },
+  {
+    "id": "big-east-2026-ackerman-brosnan",
+    "conference": "big-east",
+    "outgoing": "Val Ackerman",
+    "incoming": "Tim Brosnan",
+    "date": "2026-08-10",
+    "effective": "2026-09-01",
+    "year": 2026,
+    "reason": "retired",
+    "outgoingDestination": "Retirement",
+    "notes": "Ackerman announced 2026-04-20 she would retire Aug. 31, 2026 after 13 years. Brosnan (Georgetown alum, 24 years at MLB incl. CEO of MLB Enterprises) named sixth commissioner; search emphasized revenue generation.",
+    "sources": [
+      "https://www.bigeast.com/news/2026/4/20/general-big-east-commissioner-val-ackerman-announces-retirement.aspx",
+      "https://www.nbcsports.com/big-east/news/tim-brosnan-named-sixth-big-east-commissioner-will-succeed-val-ackerman-in-september",
+      "https://www.washingtonpost.com/sports/colleges/2026/08/10/big-east-commissioner-ncaa-brosnan/a9f061b0-94f3-11f1-9ef9-1be722184483_story.html"
+    ]
+  },
+  {
+    "id": "nec-2026-morris-ratner",
+    "conference": "nec",
+    "outgoing": "Noreen Morris",
+    "incoming": "Ron Ratner (interim)",
+    "date": "2026-08-31",
+    "effective": "2026-09-01",
+    "year": 2026,
+    "reason": "resigned",
+    "outgoingDestination": "Executive director, Collegiate Women Sports Awards",
+    "notes": "Morris led the NEC 16 years; announced April 2026. Permanent successor not named as of Nov. 2026.",
+    "sources": [
+      "https://necsports.com/news/2026/4/20/GEN_Morris_StepsDown_26.aspx",
+      "https://necsports.com/news/2026/8/31/GEN_Ratner_InterimCommissioner_26.aspx"
+    ]
+  },
+  {
+    "id": "big-12-2027-yormark-tbd",
+    "conference": "big-12",
+    "outgoing": "Brett Yormark",
+    "incoming": null,
+    "date": "2026-10-30",
+    "effective": "2027-01-31",
+    "year": 2027,
+    "reason": "resigned",
+    "outgoingDestination": "CEO, Milan Sports & Entertainment (RedBird Capital-backed holding company, Milan)",
+    "notes": "Announced 2026-10-30, ~18 months after a May 2025 extension through 2030 - i.e., walked away from three-plus years. Yormark raised it with board chair Doug Girod ~10 days earlier; board voted that morning. National search 'begins immediately', led by the board; Girod wants campus experience, an innovator and a revenue diversifier rather than a 'Yormark twin'. Texas Tech booster Cody Campbell was rumored and denied it. No search firm or interim named as of Nov. 2026. LIVE STORYLINE for the game's start date.",
+    "sources": [
+      "https://big12sports.com/news/2026/10/30/general-commissioner-brett-yormark-to-leave-big-12-conference.aspx",
+      "https://www.espn.com/college-sports/story/_/id/50327726/commissioner-brett-yormark-leaving-big-12-january",
+      "https://www.deseret.com/sports/2026/11/13/brett-yormark-has-a-new-home-in-milan/",
+      "https://www.newsweek.com/sports/ncaa/big-12-conference-undergoing-significant-leadership-shakeup-12641946",
+      "https://www.yardbarker.com/college_football/articles/texas_techs_billionaire_booster_breaks_silence_after_rumors_link_him_to_replace_departing_big_12_commissioner/s1_17730_44497400"
+    ]
+  }
+]

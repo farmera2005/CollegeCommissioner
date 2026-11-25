@@ -1,0 +1,338 @@
+[
+  {
+    "id": "espn",
+    "name": "ESPN",
+    "type": "national",
+    "reporters": [
+      { "name": "Pete Thamel", "beat": "Senior writer, national college sports insider", "knownFor": "Breaks commissioner, coaching and realignment news first (Yormark's 2026 exit, Big 12 extensions, AAC/Pernetti)" },
+      { "name": "Heather Dinich", "beat": "College football / CFP", "knownFor": "CFP committee, format and governance reporting" },
+      { "name": "Adam Rittenberg", "beat": "Big Ten / national college football", "knownFor": "Big Ten insider reporting and coaching analysis" },
+      { "name": "Dan Murphy", "beat": "College sports legal/NIL", "knownFor": "House settlement, CSC and courtroom coverage" },
+      { "name": "Paolo Uggetti", "beat": "College football / features", "knownFor": "Long-form and business-of-sport features" },
+      { "name": "Mark Schlabach", "beat": "Senior college football writer", "knownFor": "SEC and national investigations" },
+      { "name": "Kyle Bonagura", "beat": "West Coast college football", "knownFor": "Pac-12 rebuild and Big 12 West coverage" },
+      { "name": "Bill Connelly", "beat": "Analytics", "knownFor": "SP+ ratings" },
+      { "name": "Jeff Borzello", "beat": "College basketball insider", "knownFor": "Coaching carousel and transfer scoops" },
+      { "name": "Chris Low", "beat": "SEC / national college football", "knownFor": "Veteran SEC insider", "confidence": "low", "note": "Current status not re-verified for 2026" },
+      { "name": "Paul Finebaum", "beat": "SEC Network host", "knownFor": "Most influential SEC opinion voice; amplifies rumors" }
+    ],
+    "credibility": 9,
+    "notes": "Also a rights holder for SEC/ACC/Big 12/etc. - in-game, ESPN stories about its own partners can carry a subtle bias.",
+    "sources": [
+      "https://www.espn.com/contributor/pete-thamel/723898d56e6d5",
+      "https://www.espn.com/college-sports/story/_/id/50327726/commissioner-brett-yormark-leaving-big-12-january",
+      "https://www.espn.com/college-football/story/_/id/49734570/big-ten-rewards-commissioner-tony-petitti-five-year-extension",
+      "https://africa.espn.com/college-sports/story/_/id/45468012/mlb-exec-bryan-seeley-ceo-new-college-sports-commission"
+    ]
+  },
+  {
+    "id": "the-athletic",
+    "name": "The Athletic (New York Times)",
+    "type": "national",
+    "reporters": [
+      { "name": "Chris Vannini", "beat": "College sports business / realignment", "knownFor": "Conference finance and realignment explainers" },
+      { "name": "Stewart Mandel", "beat": "College football editor/columnist", "knownFor": "Mailbag and big-picture CFP/conference commentary" },
+      { "name": "Ralph D. Russo", "beat": "College sports power structure (ex-AP)", "knownFor": "CFP governance and commissioner-level reporting" },
+      { "name": "Bruce Feldman", "beat": "National college football insider (also FOX)", "knownFor": "Coaching hires, 'Freaks List'" },
+      { "name": "Max Olson", "beat": "College football", "knownFor": "Coaching carousel, data-driven features" },
+      { "name": "Matt Fortuna", "beat": "College football", "knownFor": "National reporting", "confidence": "low", "note": "Current outlet not re-verified for 2026" }
+    ],
+    "credibility": 8,
+    "sources": ["https://www.nytimes.com/athletic/college-football/"],
+    "confidence": "low",
+    "note": "Brief listed Nicole Auerbach here; she is believed to have moved to NBC Sports (see nbc-sports)."
+  },
+  {
+    "id": "yahoo-sports",
+    "name": "Yahoo Sports",
+    "type": "insider",
+    "reporters": [
+      { "name": "Ross Dellenger", "beat": "Senior national college football reporter (joined from SI in 2024)", "knownFor": "Top insider on commissioners, CFP and House settlement; reported Gould as Pac-12 frontrunner (Feb 2024)" },
+      { "name": "Dan Wetzel", "beat": "National columnist", "knownFor": "Co-author of 'Death to the BCS'; sharp critic of power brokers" }
+    ],
+    "credibility": 9,
+    "sources": [
+      "https://sports.yahoo.com/pac-12-officially-parts-ways-with-commissioner-george-kliavkoff-200609271.html",
+      "https://sports.yahoo.com/college-football/breaking-news/article/big-12-commissioner-brett-yormark-leaving-conference-to-accept-role-outside-college-sports-144703736.html"
+    ]
+  },
+  {
+    "id": "sports-illustrated",
+    "name": "Sports Illustrated",
+    "type": "national",
+    "reporters": [
+      { "name": "Pat Forde", "beat": "Senior writer, college sports (left Yahoo for SI in 2020)", "knownFor": "Columns on NCAA governance and coaching" },
+      { "name": "Richard Johnson", "beat": "College football", "knownFor": "Features and SEC coverage", "confidence": "low" }
+    ],
+    "credibility": 7,
+    "note": "Brief listed Pat Forde under Yahoo - he is at SI.",
+    "sources": ["https://www.si.com/college-football/brett-yormark-stabilized-big-12-amid-realignment-successors-job-more-difficult"]
+  },
+  {
+    "id": "cbs-sports",
+    "name": "CBS Sports",
+    "type": "national",
+    "reporters": [
+      { "name": "Dennis Dodd", "beat": "Senior college football writer", "knownFor": "Commissioner/contract confirmations (Phillips 2023 extension); CFP history", "confidence": "low", "note": "Active through at least 2023; 2026 status not re-verified" },
+      { "name": "Matt Norlander", "beat": "College basketball national writer", "knownFor": "NCAA tournament expansion and basketball governance" },
+      { "name": "Shehan Jeyarajah", "beat": "College football", "knownFor": "Realignment and conference business" },
+      { "name": "David Cobb", "beat": "College football", "knownFor": "National coverage" },
+      { "name": "Jon Rothstein", "beat": "College basketball insider", "knownFor": "Coaching/portal scoops" }
+    ],
+    "credibility": 8,
+    "sources": [
+      "https://www.cbssports.com/college-football/news/acc-commissioner-jim-phillips-to-sign-three-year-extension-after-being-a-target-to-lead-big-ten",
+      "https://www.cbssports.com/college-football/news/brett-yormark-stepping-down-big-12-commissioner/"
+    ]
+  },
+  {
+    "id": "on3",
+    "name": "On3",
+    "type": "insider",
+    "reporters": [
+      { "name": "Pete Nakos", "beat": "National college sports reporter", "knownFor": "Realignment, coaching and G6/Pac-12 rebuild scoops" },
+      { "name": "Andy Staples", "beat": "National college football columnist", "knownFor": "Big-picture analysis of P4 politics" },
+      { "name": "Eric Prisbell", "beat": "NIL / business", "knownFor": "Collectives and CSC coverage", "confidence": "low" },
+      { "name": "Joe Tipton", "beat": "College basketball portal", "knownFor": "Transfer portal scoops" }
+    ],
+    "credibility": 8,
+    "sources": [
+      "https://www.on3.com/news/sec-commish-greg-sankey-inks-contract-extension/",
+      "https://www.on3.com/nil/news/bryan-seeley-became-right-person-time-lead-new-college-sports-commission-ceo-house-settlement"
+    ]
+  },
+  {
+    "id": "247sports",
+    "name": "247Sports (CBS)",
+    "type": "national",
+    "reporters": [
+      { "name": "Chris Hummer", "beat": "National college football", "knownFor": "Portal/recruiting and coaching coverage", "confidence": "low" },
+      { "name": "Brad Crawford", "beat": "National college football", "knownFor": "Rankings and features", "confidence": "low" }
+    ],
+    "credibility": 6,
+    "note": "Team-site premium boards are a separate, low-credibility rumor source (see message-boards).",
+    "confidence": "low",
+    "sources": ["https://247sports.com/"]
+  },
+  {
+    "id": "action-network",
+    "name": "Action Network",
+    "type": "insider",
+    "reporters": [
+      { "name": "Brett McMurphy", "beat": "College football insider", "knownFor": "Aggressive realignment, bowl and CFP scoops; sometimes early" }
+    ],
+    "credibility": 7,
+    "confidence": "low",
+    "note": "Brief asked whether McMurphy is at On3; not re-verified - kept at Action Network.",
+    "sources": ["https://www.actionnetwork.com/"]
+  },
+  {
+    "id": "front-office-sports",
+    "name": "Front Office Sports",
+    "type": "business",
+    "reporters": [
+      { "name": "Amanda Christovich", "beat": "College sports business, NIL and Congress", "knownFor": "SCORE Act/federal legislation and House settlement coverage" },
+      { "name": "Michael McCarthy", "beat": "Sports media", "knownFor": "TV-rights and network executive reporting" }
+    ],
+    "credibility": 8,
+    "sources": [
+      "https://frontofficesports.com/article/brett-yormark-stepping-down-as-big-12-commissioner-after-4-years/",
+      "https://frontofficesports.com/the-george-kliavkoff-era-in-the-pac-12-comes-to-an-end-how-it-fell-apart",
+      "https://frontofficesports.com/college-sports-enforcement-entity-builds-out-investigative-unit/"
+    ]
+  },
+  {
+    "id": "sportico",
+    "name": "Sportico",
+    "type": "business",
+    "reporters": [
+      { "name": "Daniel Libit", "beat": "College sports investigations", "knownFor": "Public-records digs into conference/university finances" },
+      { "name": "Eben Novy-Williams", "beat": "Sports business / college", "knownFor": "Tax-filing and private-capital stories (Warren bonus, Yormark exit)" },
+      { "name": "Kurt Badenhausen", "beat": "Valuations", "knownFor": "Franchise and college program valuations" }
+    ],
+    "credibility": 9,
+    "sources": [
+      "https://www.sportico.com/leagues/college-sports/2025/big-ten-kevin-warren-bonus-jim-delany-1234851527/",
+      "https://www.sportico.com/leagues/college-sports/2026/brett-yormark-big-12-step-down-1234957065/"
+    ]
+  },
+  {
+    "id": "sports-business-journal",
+    "name": "Sports Business Journal / Daily",
+    "type": "business",
+    "reporters": [
+      { "name": "Michael Smith", "beat": "College sports", "knownFor": "Conference media deals, CFP and commissioner interviews" },
+      { "name": "Austin Karp", "beat": "Media / ratings", "knownFor": "Viewership data" }
+    ],
+    "credibility": 9,
+    "note": "John Ourand left SBJ for Puck in 2024.",
+    "sources": [
+      "https://www.sportsbusinessdaily.com/Daily/Morning-Buzz/2024/04/12.aspx",
+      "https://www.sportsbusinessdaily.com/SB-Blogs/Breaking-News/2020/12/Phillips-ACC"
+    ]
+  },
+  {
+    "id": "puck",
+    "name": "Puck",
+    "type": "business",
+    "reporters": [
+      { "name": "John Ourand", "beat": "Sports media", "knownFor": "Best-sourced media-rights reporter; scoops on network bids" }
+    ],
+    "credibility": 9,
+    "sources": ["https://puck.news/"]
+  },
+  {
+    "id": "usa-today",
+    "name": "USA Today",
+    "type": "national",
+    "reporters": [
+      { "name": "Steve Berkowitz", "beat": "College sports finance", "knownFor": "Annual commissioner/coach pay database from 990s and contracts" },
+      { "name": "Paul Myerberg", "beat": "College football", "knownFor": "Coaches poll and national coverage" },
+      { "name": "Dan Wolken", "beat": "National columnist", "knownFor": "Commentary on NCAA/commissioners" }
+    ],
+    "credibility": 8,
+    "sources": [
+      "https://x.com/_DavidRumsey/status/2060387719964987535",
+      "https://uk.sports.yahoo.com/news/greg-sankeys-salary-sec-commissioner-023202047.html"
+    ]
+  },
+  {
+    "id": "nbc-sports",
+    "name": "NBC Sports",
+    "type": "national",
+    "reporters": [
+      { "name": "Nicole Auerbach", "beat": "College football insider", "knownFor": "Commissioner/CFP governance scoops; ex-The Athletic", "confidence": "low", "note": "Move from The Athletic to NBC Sports believed (2024) but not re-verified" }
+    ],
+    "credibility": 8,
+    "confidence": "low",
+    "sources": [
+      "https://x.com/NicoleAuerbach/status/2096464869864153393",
+      "https://www.nbcsports.com/college-football/news/big-12-commissioner-brett-yormark-is-leaving-after-4-years-of-transformational-change"
+    ]
+  },
+  {
+    "id": "fox-sports",
+    "name": "FOX Sports",
+    "type": "national",
+    "reporters": [
+      { "name": "Bruce Feldman", "beat": "College football insider (also The Athletic)", "knownFor": "Coaching scoops" },
+      { "name": "RJ Young", "beat": "College football", "knownFor": "Video/podcast analysis" },
+      { "name": "Joel Klatt", "beat": "Lead analyst / podcaster", "knownFor": "Influential Big Ten-leaning opinions" }
+    ],
+    "credibility": 7,
+    "notes": "Rights holder for Big Ten/Big 12/Pac-12-era content.",
+    "sources": ["https://www.foxsports.com/stories/college-football/big-12-commissioner-brett-yormark-news"]
+  },
+  {
+    "id": "ap",
+    "name": "Associated Press",
+    "type": "national",
+    "reporters": [],
+    "credibility": 8,
+    "notes": "'AP sources' scoops on hires (Pernetti 2024, Phillips extension 2023, Petitti 2023); wire copy syndicated everywhere.",
+    "sources": [
+      "https://dallasnews.com/sports/college-sports/2024/04/02/american-athletic-conference-to-hire-tim-pernetti-as-commissioner-ap-sources-say",
+      "https://foxsports.com/articles/nfl/ap-source-acc-reaches-3year-extension-deal-with-phillips"
+    ]
+  },
+  {
+    "id": "pac-12-hotline",
+    "name": "Pac-12 Hotline (KSL.com)",
+    "type": "local",
+    "reporters": [
+      { "name": "Jon Wilner", "beat": "Pac-12 / Big 12 West business", "knownFor": "Distribution estimates and Pac-12 rebuild scoops" }
+    ],
+    "credibility": 7,
+    "note": "Hotline appears on KSL.com in 2025-26 (previously Bay Area News Group).",
+    "sources": ["https://ksl.com/article/sports/pac-12-hotline/big-12-business-affairs-estimating-fy2026-campus-distributions-based-on-yormarks-reveal-of-gross-revenue/51507206"]
+  },
+  {
+    "id": "bald-faced-truth",
+    "name": "Bald-Faced Truth (John Canzano, Substack)",
+    "type": "insider",
+    "reporters": [
+      { "name": "John Canzano", "beat": "Pac-12 / West", "knownFor": "Broke Teresa Gould's 2026 extension; well-sourced with Pac-12 presidents" }
+    ],
+    "credibility": 7,
+    "sources": ["https://www.johncanzano.com/p/canzano-pac-12-extends-commissioner"]
+  },
+  {
+    "id": "spokesman-review",
+    "name": "The Spokesman-Review (Spokane)",
+    "type": "local",
+    "reporters": [],
+    "credibility": 7,
+    "notes": "WSU/Gonzaga/Pac-12 coverage; detailed Pac-12 tax-filing breakdowns.",
+    "sources": [
+      "https://www.spokesman.com/stories/2024/feb/19/pac-12-names-teresa-gould-commissioner-as-washingt",
+      "https://www.spokesman.com/stories/2026/may/15/breaking-down-the-tv-revenue-commissioner-pay-and-/"
+    ]
+  },
+  {
+    "id": "deseret-news",
+    "name": "Deseret News",
+    "type": "local",
+    "reporters": [],
+    "credibility": 7,
+    "notes": "Big 12 (BYU/Utah) coverage; reported Yormark's Milan job.",
+    "sources": ["https://www.deseret.com/sports/2026/11/13/brett-yormark-has-a-new-home-in-milan/"]
+  },
+  {
+    "id": "dallas-morning-news",
+    "name": "Dallas Morning News",
+    "type": "local",
+    "reporters": [],
+    "credibility": 7,
+    "notes": "Texas schools, Big 12/SEC/AAC/C-USA (league HQs in Irving/Dallas area).",
+    "sources": ["https://dallasnews.com/sports/texas-tech-red-raiders/2022/06/28/brett-yormark-hire-signals-big-12s-willingness-to-stray-from-the-beaten-path"]
+  },
+  {
+    "id": "denver-gazette",
+    "name": "Denver Gazette",
+    "type": "local",
+    "reporters": [],
+    "credibility": 6,
+    "notes": "Mountain West HQ-market coverage (media-day transcripts).",
+    "sources": ["https://www.denvergazette.com/2026/07/15/transcript-tidbits-of-mountain-west-commissioner-gloria-nevarezs-annual-meeting-with-media/"]
+  },
+  {
+    "id": "awful-announcing",
+    "name": "Awful Announcing",
+    "type": "business",
+    "reporters": [],
+    "credibility": 6,
+    "notes": "Sports-media trade/criticism; good for broadcaster-relations flavor.",
+    "sources": ["https://awfulannouncing.com/college-football/george-kliavkoff-pac-12-media-disasters.html"]
+  },
+  {
+    "id": "independent-analysts",
+    "name": "Independent analysts on X/Substack",
+    "type": "business",
+    "reporters": [
+      { "name": "David Rumsey", "beat": "Sports business analyst", "knownFor": "Surfacing 990 and revenue data (e.g., USA Today commissioner-pay compilation)" }
+    ],
+    "credibility": 7,
+    "sources": ["https://x.com/_DavidRumsey/status/2060387719964987535"]
+  },
+  {
+    "id": "aggregators",
+    "name": "Aggregators (EssentiallySports, Yardbarker, etc.)",
+    "type": "national",
+    "reporters": [],
+    "credibility": 3,
+    "notes": "Re-package others' scoops; prone to amplifying unfounded rumors (e.g., Cody Campbell-for-Big-12-commissioner chatter he denied).",
+    "sources": [
+      "https://www.essentiallysports.com/ncaa-college-football-news-brett-yormark-announces-new-career-move-days-after-stepping-down-as-big-twelve-commissioner/",
+      "https://www.yardbarker.com/college_football/articles/texas_techs_billionaire_booster_breaks_silence_after_rumors_link_him_to_replace_departing_big_12_commissioner/s1_17730_44497400"
+    ]
+  },
+  {
+    "id": "message-boards",
+    "name": "Fan message boards / premium team sites",
+    "type": "local",
+    "reporters": [],
+    "credibility": 2,
+    "notes": "Game rumor-mill source: high volume, low accuracy; occasionally right on campus-level moves.",
+    "sources": ["https://pokesreport.com/s/2592/big-12-finally-hires-a-consultant-for-commissioner-search-dont-believe-names-out-there/1"]
+  }
+]

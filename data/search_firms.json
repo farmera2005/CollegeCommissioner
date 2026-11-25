@@ -1,0 +1,145 @@
+[
+  {
+    "id": "turnkeyzrg",
+    "name": "TurnkeyZRG (formerly Turnkey Search, a division of Turnkey Sports & Entertainment)",
+    "hq": "Haddonfield, NJ (Turnkey legacy office); parent ZRG Partners",
+    "specialty": "Dominant firm for conference commissioner and NCAA leadership searches; also AD, conference staff (CFO, chief people officer) and pro-team executive searches",
+    "keyPeople": ["Len Perna (chairman; founder of Turnkey)"],
+    "notableSearches": [
+      { "search": "ACC commissioner (as Turnkey Search)", "year": 2020, "result": "Jim Phillips (Northwestern AD)" },
+      { "search": "Pac-12 commissioner", "year": 2021, "result": "George Kliavkoff (MGM Resorts)" },
+      { "search": "Pac-12 chief people & inclusion officer", "year": 2022, "result": "Hire made (name not captured)" },
+      { "search": "Big 12 commissioner (selected via RFP)", "year": 2022, "result": "Brett Yormark (Roc Nation)" },
+      { "search": "NCAA president", "year": 2022, "result": "Charlie Baker (Massachusetts governor)" },
+      { "search": "Big Ten commissioner", "year": 2023, "result": "Tony Petitti (ex-MLB deputy commissioner)" },
+      { "search": "Pac-12 CFO", "year": 2023, "result": "Hire made (name not captured)" },
+      { "search": "American Athletic Conference commissioner", "year": 2024, "result": "Tim Pernetti (IMG Academy)" }
+    ],
+    "notes": "Ran every P4 commissioner search 2020-2023 plus the NCAA presidency, and is the favorite for the open 2026-27 Big 12 search (no firm announced as of Nov. 2026). Pattern: wide 'global' slates (Pac-12: 200+ names), heavy weighting toward media/pro-league executives.",
+    "sources": [
+      "https://huntscanlon.com/turnkeyzrg-assists-big-ten-conference-in-recruiting-seventh-commissioner/",
+      "https://big12sports.com/news/2022/4/21/big-12-conference-retains-turnkeyzrg-for-commissioner-search.aspx",
+      "https://huntscanlon.com/turnkeyzrg-assists-pac-12-in-finding-next-commissioner/",
+      "https://huntscanlon.com/turnkeyzrg-places-massachusetts-gov-charlie-baker-as-next-head-of-ncaa/",
+      "https://huntscanlon.com/the-acc-names-jim-phillips-as-the-conferences-commissioner/",
+      "https://www.turnkeyzrg.com/news/tim-pernetti-named-second-commissioner-of-the-american-athletic-conference",
+      "https://huntscanlon.com/turnkeyzrg-leads-cfo-search-for-the-pac-12-conference/",
+      "https://huntscanlon.com/turnkeyzrg-assists-pac-12-conference-with-chief-people-and-inclusion-officer/"
+    ]
+  },
+  {
+    "id": "parker-executive-search",
+    "name": "Parker Executive Search",
+    "hq": "Atlanta, GA",
+    "specialty": "Higher education and athletics: AD, conference commissioner, university president and coach searches; strong G6/mid-major conference book",
+    "keyPeople": [],
+    "notableSearches": [
+      { "search": "Mountain West commissioner", "year": 2022, "result": "Gloria Nevarez (WCC commissioner)", "confidence": "low", "note": "Placement announcement posted on Parker's site; FOS says a search firm approached Nevarez. Firm attribution not confirmed by the MWC release." }
+    ],
+    "notes": "Key people and broader search list not verified in this pass (search budget exhausted).",
+    "confidence": "low",
+    "sources": [
+      "https://www.parkersearch.com/news/gloria-nevarez-named-mountain-west-commissioner",
+      "https://frontofficesports.com/the-plan-to-keep-the-mountain-west-relevant"
+    ]
+  },
+  {
+    "id": "collegiate-sports-associates",
+    "name": "Collegiate Sports Associates (CSA)",
+    "hq": null,
+    "specialty": "Boutique athletics search/consulting run by former athletic directors; AD and coach searches",
+    "keyPeople": [],
+    "notableSearches": [],
+    "notes": "Exists per the brief; principals (believed to include former ADs) and specific searches not verified in this pass.",
+    "confidence": "low",
+    "sources": ["https://en.wikipedia.org/wiki/Executive_search"]
+  },
+  {
+    "id": "dhr-global",
+    "name": "DHR Global (formerly DHR International)",
+    "hq": "Chicago, IL",
+    "specialty": "Generalist firm with a prominent college sports practice best known for head-coach searches",
+    "keyPeople": ["Glenn Sugiyama (leads college sports/coach search practice)"],
+    "notableSearches": [],
+    "notes": "Sugiyama is among the most-used football/basketball coach-search consultants; specific searches not verified in this pass.",
+    "confidence": "low",
+    "sources": ["https://www.dhrglobal.com/"]
+  },
+  {
+    "id": "korn-ferry",
+    "name": "Korn Ferry",
+    "hq": "Los Angeles, CA",
+    "specialty": "Global generalist; sports practice handles AD, head-coach and pro-league searches",
+    "keyPeople": ["Jed Hughes (vice chair, global sports practice; former NFL assistant coach)"],
+    "notableSearches": [
+      { "search": "Penn State head football coach", "year": 2012, "result": "Bill O'Brien", "confidence": "low" }
+    ],
+    "notes": "Brief-listed; search history beyond Hughes' high-profile coaching searches not verified.",
+    "confidence": "low",
+    "sources": ["https://www.kornferry.com/"]
+  },
+  {
+    "id": "spencer-stuart",
+    "name": "Spencer Stuart",
+    "hq": "Chicago, IL",
+    "specialty": "Board and CEO-level generalist; used for pro-league, university-president and nonprofit chief-executive searches",
+    "keyPeople": [],
+    "notableSearches": [],
+    "notes": "No commissioner search attributed in this pass.",
+    "confidence": "low",
+    "sources": ["https://www.spencerstuart.com/"]
+  },
+  {
+    "id": "eastman-beaudine",
+    "name": "Eastman & Beaudine",
+    "hq": "Dallas, TX",
+    "specialty": "Sports and entertainment executive search; historically active in conference commissioner, Olympic-body and AD searches",
+    "keyPeople": ["Bob Beaudine (president & CEO)"],
+    "notableSearches": [],
+    "notes": "Long-standing commissioner-search player before Turnkey's rise; specific searches not verified in this pass.",
+    "confidence": "low",
+    "sources": ["https://www.beaudine.com/"]
+  },
+  {
+    "id": "russell-reynolds",
+    "name": "Russell Reynolds Associates",
+    "hq": "New York, NY",
+    "specialty": "Global generalist; sports, media and pro-league executive searches",
+    "keyPeople": [],
+    "notableSearches": [],
+    "notes": "No college commissioner search attributed in this pass.",
+    "confidence": "low",
+    "sources": ["https://www.russellreynolds.com/"]
+  },
+  {
+    "id": "ventura-partners",
+    "name": "Ventura Partners",
+    "hq": null,
+    "specialty": "College athletics head-coach and AD searches",
+    "keyPeople": [],
+    "notableSearches": [],
+    "notes": "Listed in the brief; details unverified.",
+    "confidence": "low",
+    "sources": ["https://en.wikipedia.org/wiki/Executive_search"]
+  },
+  {
+    "id": "wittkieffer",
+    "name": "WittKieffer",
+    "hq": "Oak Brook, IL",
+    "specialty": "Higher-education (university president/provost) and healthcare leadership searches; relevant for the game's president-turnover events",
+    "keyPeople": [],
+    "notableSearches": [],
+    "confidence": "low",
+    "sources": ["https://wittkieffer.com/"]
+  },
+  {
+    "id": "isaacson-miller",
+    "name": "Isaacson, Miller",
+    "hq": "Boston, MA",
+    "specialty": "Mission-driven/higher-education president and senior academic searches",
+    "keyPeople": [],
+    "notableSearches": [],
+    "confidence": "low",
+    "sources": ["https://www.imsearch.com/"]
+  }
+]
