@@ -1,0 +1,1191 @@
+[
+  {
+    "id": "butler",
+    "name": "Butler University",
+    "shortName": "Butler",
+    "abbr": "BUT",
+    "mascot": "Bulldogs",
+    "colors": [
+      "#13294B",
+      "#FFFFFF"
+    ],
+    "city": "Indianapolis",
+    "state": "IN",
+    "lat": 39.8398,
+    "lon": -86.1694,
+    "dma": {
+      "name": "Indianapolis, IN",
+      "rank": 25
+    },
+    "control": "private",
+    "religious": null,
+    "aau": false,
+    "enrollment": 5600,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": 300000000,
+    "athletics": {
+      "revenueUsd": 42000000,
+      "expensesUsd": 42000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in to House revenue sharing (2025-26); Butler funding level well below the $20.5M cap (not verified)",
+      "stadium": {
+        "name": "Bud and Jackie Sellick Bowl",
+        "capacity": 5647
+      },
+      "arena": {
+        "name": "Hinkle Fieldhouse",
+        "capacity": 9100
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": "pioneer",
+        "level": "FCS"
+      },
+      "y2010": {
+        "all": "horizon",
+        "football": "pioneer",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 8,
+      "mbb": 45,
+      "wbb": 28,
+      "olympic": 28,
+      "brand": 48,
+      "facilities": 55,
+      "fanBase": 45,
+      "boosterInfluence": 35,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: non-scholarship Pioneer League FCS. MBB: 2010 & 2011 national runner-up (Brad Stevens); Big East middle/lower tier since, no NCAA bid since 2018 (as of mid-2025) under Thad Matta. WBB: lower-half Big East. Olympic: Directors' Cup outside top 150. Brand: Hinkle/Hoosiers mystique + Stevens-era runs. Booster: modest; no single dominant donor.",
+    "rivals": [
+      "xavier",
+      "purdue",
+      "indiana",
+      "creighton"
+    ],
+    "president": {
+      "name": "James Danko",
+      "since": 2011,
+      "confidence": "low",
+      "note": "Contract extended in 2023 through at least Aug 2026 with one-year renewal options; no successor announcement found, Nov 2026 status unverified"
+    },
+    "ad": {
+      "name": "Grant Leiendecker",
+      "since": 2023
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Thad Matta",
+      "since": 2022,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Horizon League member in 2010 (2010 & 2011 Final Fours), one year in the A-10 (2012-13), then joined the reconstituted Big East in 2013 with Creighton and Xavier. Indianapolis market; Crossroads Classic history with Indiana/Purdue. FCS football is non-scholarship Pioneer League (headFootballCoach left null: Mike Uremovich left for Ball State in Dec 2024 and successor not verified). Presidential succession possible (Danko contract window ended Aug 2026). In a Big East destabilization scenario Butler has no football lifeline and is fully dependent on the Big East's basketball model.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "headMbbCoach",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://butlersports.com/",
+      "https://www.butler.edu/president",
+      "https://indychamber.com/2023/04/26/butler-university-trustees-extend-president-james-dankos-contract-for-three-years/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "creighton",
+    "name": "Creighton University",
+    "shortName": "Creighton",
+    "abbr": "CREI",
+    "mascot": "Bluejays",
+    "colors": [
+      "#005CA9",
+      "#FFFFFF"
+    ],
+    "city": "Omaha",
+    "state": "NE",
+    "lat": 41.2653,
+    "lon": -95.9469,
+    "dma": {
+      "name": "Omaha, NE",
+      "rank": 73
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 8900,
+    "usNewsRank": 115,
+    "usNewsCategory": "national",
+    "endowmentUsd": 900000000,
+    "athletics": {
+      "revenueUsd": 50000000,
+      "expensesUsd": 50000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in (2025-26); funding level not verified",
+      "stadium": null,
+      "arena": {
+        "name": "CHI Health Center Omaha",
+        "capacity": 17560
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "mvc",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 66,
+      "wbb": 52,
+      "olympic": 35,
+      "brand": 52,
+      "facilities": 65,
+      "fanBase": 70,
+      "boosterInfluence": 45,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: none. MBB: Greg McDermott (since 2010) — 2023 Elite Eight, 2024 Sweet 16, 2025 R2; perennial NCAA team, Kalkbrenner era ended 2025. WBB: 2022 Elite Eight, regular NCAA team. Olympic: volleyball is a Big East power (deep NCAA runs), 2012 men's soccer College Cup. FanBase: ~17k/game, top-10 national MBB attendance.",
+    "rivals": [
+      "nebraska",
+      "marquette",
+      "villanova",
+      "xavier"
+    ],
+    "president": {
+      "name": "Rev. Daniel S. Hendrickson, S.J.",
+      "since": 2015
+    },
+    "ad": {
+      "name": "Marcus Blossom",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Greg McDermott",
+      "since": 2010,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Left the Missouri Valley in 2013 for the new Big East; the league's westernmost member and Omaha's marquee program (downtown arena attendance rivals P4 schools). Would be the most natural Big East school to be raided by a Big 12 basketball-only/basketball-split scenario. McDermott (b. 1964) succession is a medium-term storyline. Strong volleyball and soccer give it Olympic credibility.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ad",
+      "headMbbCoach",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://gocreighton.com/",
+      "https://www.creighton.edu/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "depaul",
+    "name": "DePaul University",
+    "shortName": "DePaul",
+    "abbr": "DEP",
+    "mascot": "Blue Demons",
+    "colors": [
+      "#005EB8",
+      "#E4002B"
+    ],
+    "city": "Chicago",
+    "state": "IL",
+    "lat": 41.9245,
+    "lon": -87.6553,
+    "dma": {
+      "name": "Chicago, IL",
+      "rank": 3
+    },
+    "control": "private",
+    "religious": "Catholic (Vincentian)",
+    "aau": false,
+    "enrollment": 21000,
+    "usNewsRank": 151,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1000000000,
+    "athletics": {
+      "revenueUsd": 48000000,
+      "expensesUsd": 48000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in (2025-26); funding level not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Wintrust Arena",
+        "capacity": 10387
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 32,
+      "wbb": 42,
+      "olympic": 22,
+      "brand": 40,
+      "facilities": 52,
+      "fanBase": 30,
+      "boosterInfluence": 30,
+      "statePoliticalPressure": 10
+    },
+    "ratingNotes": "FB: none (dropped 1939). MBB: Big East cellar dweller for most of 2008-2025 (last NCAA bid 2004); Chris Holtmann (2024-) rebuilding. WBB: Doug Bruno (since 1986) — long-time NCAA regular with multiple Sweet 16s; recent dip. Brand: Ray Meyer/Mark Aguirre history + Chicago market. Political: Wintrust Arena is owned by Illinois' Metropolitan Pier and Exposition Authority.",
+    "rivals": [
+      "loyola-chicago",
+      "marquette",
+      "notre-dame"
+    ],
+    "president": {
+      "name": "Robert L. Manuel",
+      "since": 2022
+    },
+    "ad": {
+      "name": "DeWayne Peevy",
+      "since": 2020
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Chris Holtmann",
+      "since": 2024
+    },
+    "notes": "One of the \"Catholic 7\" that split from the football schools in 2012-13. Its value to the Big East is almost entirely the Chicago DMA (#3). Most-discussed \"drop/relegation\" candidate in fan speculation whenever the Big East considers expansion (Loyola Chicago would duplicate the market). Wintrust Arena (2017) near McCormick Place is a state-authority (MPEA) partnership — a hook for Illinois political events.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://depaulbluedemons.com/",
+      "https://www.depaul.edu/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "georgetown",
+    "name": "Georgetown University",
+    "shortName": "Georgetown",
+    "abbr": "GTWN",
+    "mascot": "Hoyas",
+    "colors": [
+      "#041E42",
+      "#8D817B"
+    ],
+    "city": "Washington",
+    "state": "DC",
+    "lat": 38.9076,
+    "lon": -77.0723,
+    "dma": {
+      "name": "Washington, DC (Hagerstown, MD)",
+      "rank": 8
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 20400,
+    "usNewsRank": 24,
+    "usNewsCategory": "national",
+    "endowmentUsd": 3600000000,
+    "athletics": {
+      "revenueUsd": 60000000,
+      "expensesUsd": 60000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in (2025-26); funding level not verified",
+      "stadium": {
+        "name": "Cooper Field",
+        "capacity": 2500
+      },
+      "arena": {
+        "name": "Capital One Arena",
+        "capacity": 20356
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": "patriot",
+        "level": "FCS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "patriot",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 10,
+      "mbb": 40,
+      "wbb": 30,
+      "olympic": 45,
+      "brand": 68,
+      "facilities": 48,
+      "fanBase": 48,
+      "boosterInfluence": 45,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: Patriot League FCS, usually bottom half. MBB: 1984 national champ, John Thompson/Ewing/Iverson brand, but last NCAA bid 2021; Ewing fired 2023; Ed Cooley rebuild. WBB: middle/low Big East. Olympic: 2019 men's soccer national champion, strong track/XC, sailing, rowing. Brand: historic but fading with younger viewers. Booster: wealthy alumni base, Thompson Center (2016).",
+    "rivals": [
+      "syracuse",
+      "villanova",
+      "uconn",
+      "st-johns"
+    ],
+    "president": {
+      "name": "Robert M. Groves",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Interim from July 2023 after John J. DeGioia stepped down, later confirmed president; Nov 2026 status unverified"
+    },
+    "ad": {
+      "name": "Lee Reed",
+      "since": 2010
+    },
+    "headFootballCoach": {
+      "name": "Rob Sgarlata",
+      "since": 2013,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headMbbCoach": {
+      "name": "Ed Cooley",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Led the Dec 2012 \"Catholic 7\" split that kept the Big East name and the Madison Square Garden tournament. New Big East commissioner Tim Brosnan (start Sept 1, 2026; ex-MLB COO) is a Georgetown alumnus. Cooley left rival Providence for Georgetown in 2023 — Friars fans' grudge is a recurring storyline. Plays downtown at Capital One Arena (Monumental's 2024 plan to move to Alexandria, VA collapsed, keeping the arena in DC). Strongest academic brand in the league (US News top-25) — a natural voice for academic-fit criteria in expansion votes.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "headMbbCoach",
+      "headFootballCoach",
+      "athletics.stadium.capacity",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://guhoyas.com/",
+      "https://www.georgetown.edu/news/tim-brosnan-big-east-commissioner/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "marquette",
+    "name": "Marquette University",
+    "shortName": "Marquette",
+    "abbr": "MARQ",
+    "mascot": "Golden Eagles",
+    "colors": [
+      "#003366",
+      "#FFCC00"
+    ],
+    "city": "Milwaukee",
+    "state": "WI",
+    "lat": 43.0389,
+    "lon": -87.9298,
+    "dma": {
+      "name": "Milwaukee, WI",
+      "rank": 37
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 11200,
+    "usNewsRank": 91,
+    "usNewsCategory": "national",
+    "endowmentUsd": 950000000,
+    "athletics": {
+      "revenueUsd": 55000000,
+      "expensesUsd": 55000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in (2025-26); funding level not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Fiserv Forum",
+        "capacity": 17341
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 58,
+      "wbb": 40,
+      "olympic": 30,
+      "brand": 55,
+      "facilities": 70,
+      "fanBase": 60,
+      "boosterInfluence": 42,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: none (dropped 1960). MBB: 1977 national champ (Al McGuire), 2003 Final Four (Wade); Shaka Smart won 2023 Big East regular season + tournament, 2024 Sweet 16, 2025 R1; 2025-26 form not verified. WBB: middle Big East (Cara Consuegra). Facilities: Fiserv Forum (shared with Bucks) + Al McGuire Center practice gym.",
+    "rivals": [
+      "wisconsin",
+      "creighton",
+      "villanova",
+      "depaul"
+    ],
+    "president": {
+      "name": "Kimo Ah Yun",
+      "since": 2024,
+      "confidence": "low",
+      "note": "Acting president from 2024 when Michael R. Lovell (president since 2014) stepped away for cancer treatment, then named president; Nov 2026 status unverified"
+    },
+    "ad": {
+      "name": "Bill Scholl",
+      "since": 2012,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Shaka Smart",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Catholic 7 member. Milwaukee market; plays in an NBA arena downtown. In-state rivalry with Wisconsin; no football means it is locked into a basketball-first league. Shaka Smart is a frequent name in P4 coaching searches — departure risk event.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "headMbbCoach",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://gomarquette.com/",
+      "https://www.marquette.edu/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "providence",
+    "name": "Providence College",
+    "shortName": "Providence",
+    "abbr": "PROV",
+    "mascot": "Friars",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#A2AAAD"
+    ],
+    "city": "Providence",
+    "state": "RI",
+    "lat": 41.8441,
+    "lon": -71.4364,
+    "dma": {
+      "name": "Providence, RI - New Bedford, MA",
+      "rank": 54
+    },
+    "control": "private",
+    "religious": "Catholic (Dominican)",
+    "aau": false,
+    "enrollment": 4800,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": 400000000,
+    "athletics": {
+      "revenueUsd": 46000000,
+      "expensesUsd": 46000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in (2025-26); funding level not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Amica Mutual Pavilion",
+        "capacity": 12400
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 42,
+      "wbb": 25,
+      "olympic": 32,
+      "brand": 42,
+      "facilities": 50,
+      "fanBase": 55,
+      "boosterInfluence": 38,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: none. MBB: 1973/1987 Final Fours; Ed Cooley era peaked with 2022 Big East regular-season title + Sweet 16; Kim English (2023-) missed NCAA 2024 and 2025. WBB: low Big East. Olympic: 2015 men's ice hockey national champion (Hockey East), women's XC tradition. FanBase: strong local sellouts downtown. US News: long-time #1 Regional Universities North (category unverified for 2026 edition).",
+    "rivals": [
+      "uconn",
+      "rhode-island",
+      "georgetown",
+      "boston-college"
+    ],
+    "president": {
+      "name": "Rev. Kenneth R. Sicard, O.P.",
+      "since": 2015
+    },
+    "ad": {
+      "name": "Steve Napolillo",
+      "since": 2021
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Kim English",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Entered 2025-26 on a hot seat; Nov 2026 status unverified"
+    },
+    "notes": "Catholic 7 member; smallest school in the league. Downtown arena (Amica Mutual Pavilion, formerly Dunkin' Donuts Center) is owned by the Rhode Island Convention Center Authority — state lease politics hook. Ed Cooley's 2023 defection to Georgetown created a heated intra-league rivalry. Rhode Island (URI) rivalry for in-state bragging rights.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "usNewsCategory",
+      "headMbbCoach",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://friars.com/",
+      "https://friars.com/news/2026/8/10/general-tim-brosnan-named-big-east-commissioner",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "st-johns",
+    "name": "St. John's University",
+    "shortName": "St. John's",
+    "abbr": "SJU",
+    "mascot": "Red Storm",
+    "colors": [
+      "#BA0C2F",
+      "#FFFFFF"
+    ],
+    "city": "Queens",
+    "state": "NY",
+    "lat": 40.7215,
+    "lon": -73.7949,
+    "dma": {
+      "name": "New York, NY",
+      "rank": 1
+    },
+    "control": "private",
+    "religious": "Catholic (Vincentian)",
+    "aau": false,
+    "enrollment": 19300,
+    "usNewsRank": 158,
+    "usNewsCategory": "national",
+    "endowmentUsd": 900000000,
+    "athletics": {
+      "revenueUsd": 58000000,
+      "expensesUsd": 58000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; with booster Mike Repole's backing, St. John's MBB roster spend (rev share + NIL) reported among the highest in the sport (eight figures) — exact split not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Madison Square Garden",
+        "capacity": 19812,
+        "secondary": {
+          "name": "Carnesecca Arena",
+          "capacity": 5602
+        }
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures; booster NIL spend sits outside EADA totals"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 80,
+      "wbb": 35,
+      "olympic": 28,
+      "brand": 72,
+      "facilities": 60,
+      "fanBase": 62,
+      "boosterInfluence": 85,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: none (dropped 2002). MBB: Rick Pitino (2023-) — 2024-25 31-5, Big East regular-season + tournament champs, No. 2 seed (lost R2 to Arkansas); preseason top-10 caliber rosters via heavy transfer spending; 2025-26 results not verified. 1985 Final Four (Mullin, Carnesecca). WBB: Joe Tartamella, middle Big East. Olympic: fencing tradition, 1996 men's soccer title. Booster: Mike Repole (BodyArmor/Vitaminwater co-founder) is one of the most influential individual basketball boosters in the country.",
+    "rivals": [
+      "georgetown",
+      "villanova",
+      "seton-hall",
+      "uconn"
+    ],
+    "president": {
+      "name": "Rev. Brian J. Shanley, O.P.",
+      "since": 2021,
+      "note": "Dominican priest (former Providence College president) leading a Vincentian university"
+    },
+    "ad": {
+      "name": "Ed Kull",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Rick Pitino",
+      "since": 2023
+    },
+    "notes": "Catholic 7 member and New York anchor; the Big East tournament at Madison Square Garden is the league's signature asset and St. John's is its home-team draw. Pitino + Repole made St. John's the Big East's NIL arms-race leader (pressure on Seton Hall, Villanova, Georgetown to match). Pitino (b. 1952) succession is a storyline; son Richard Pitino coaches Xavier. Lou Carnesecca died Nov 2024 at 99. Repole is outspoken — an event hook for booster-driven pressure on league policy (scheduling, revenue sharing, NIL enforcement).",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ad",
+      "athletics.revShareNotes"
+    ],
+    "sources": [
+      "https://redstormsports.com/",
+      "https://www.stjohns.edu/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "seton-hall",
+    "name": "Seton Hall University",
+    "shortName": "Seton Hall",
+    "abbr": "HALL",
+    "mascot": "Pirates",
+    "colors": [
+      "#004488",
+      "#FFFFFF"
+    ],
+    "city": "South Orange",
+    "state": "NJ",
+    "lat": 40.7429,
+    "lon": -74.246,
+    "dma": {
+      "name": "New York, NY",
+      "rank": 1
+    },
+    "control": "private",
+    "religious": "Catholic (Archdiocese of Newark, diocesan)",
+    "aau": false,
+    "enrollment": 10500,
+    "usNewsRank": 166,
+    "usNewsCategory": "national",
+    "endowmentUsd": 350000000,
+    "athletics": {
+      "revenueUsd": 41000000,
+      "expensesUsd": 41000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in (2025-26); funding level not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Prudential Center",
+        "capacity": 18711
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 40,
+      "wbb": 35,
+      "olympic": 22,
+      "brand": 45,
+      "facilities": 52,
+      "fanBase": 42,
+      "boosterInfluence": 38,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: none. MBB: 1989 national runner-up; 2016 Big East tournament champs; Shaheen Holloway (2022-) won 2024 NIT, then 7-25 in 2024-25; 2025-26 not verified. WBB: Tony Bozzella, bubble-level. Facilities: plays at Prudential Center (Newark), small Walsh Gym on campus.",
+    "rivals": [
+      "st-johns",
+      "rutgers",
+      "villanova",
+      "georgetown"
+    ],
+    "president": {
+      "name": "Joseph E. Nyre",
+      "since": 2019
+    },
+    "ad": {
+      "name": "Bryan Felt",
+      "since": 2017,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Shaheen Holloway",
+      "since": 2022,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Catholic 7 member. Shares the New York DMA with St. John's and is out-spent by the Repole-backed Red Storm — a booster-arms-race storyline. Garden State rivalry with Rutgers (Big Ten). Holloway (alum, 2022 Saint Peter's Elite Eight coach) is under pressure after 2024-25 collapse.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ad",
+      "headMbbCoach",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://shupirates.com/",
+      "https://www.shu.edu/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "uconn",
+    "name": "University of Connecticut",
+    "shortName": "UConn",
+    "abbr": "UCONN",
+    "mascot": "Huskies",
+    "colors": [
+      "#000E2F",
+      "#FFFFFF",
+      "#E4002B"
+    ],
+    "city": "Storrs",
+    "state": "CT",
+    "lat": 41.8077,
+    "lon": -72.254,
+    "dma": {
+      "name": "Hartford & New Haven, CT",
+      "rank": 32
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 32600,
+    "usNewsRank": 58,
+    "usNewsCategory": "national",
+    "endowmentUsd": 650000000,
+    "athletics": {
+      "revenueUsd": 100000000,
+      "expensesUsd": 102000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in; reported to fund at or near the full $20.5M cap in 2025-26 with basketball-heavy allocation (not verified). Department relies on large institutional/student-fee subsidy (order of $30-40M/yr in recent Knight-Newhouse data).",
+      "stadium": {
+        "name": "Pratt & Whitney Stadium at Rentschler Field (East Hartford)",
+        "capacity": 38066
+      },
+      "arena": {
+        "name": "Harry A. Gampel Pavilion",
+        "capacity": 10299,
+        "secondary": {
+          "name": "XL Center (Hartford)",
+          "capacity": 15564
+        }
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": "independent",
+        "level": "FBS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "big-east-2010",
+        "level": "FBS"
+      }
+    },
+    "ratings": {
+      "football": 32,
+      "mbb": 96,
+      "wbb": 97,
+      "olympic": 52,
+      "brand": 82,
+      "facilities": 72,
+      "fanBase": 78,
+      "boosterInfluence": 45,
+      "statePoliticalPressure": 82
+    },
+    "ratingNotes": "FB: FBS independent; Jim Mora rebuild produced 2024 9-4 + Fenway Bowl win over North Carolina and a strong 2025, then Mora left for Colorado State; Jason Candle (from Toledo) is 2026 first-year coach — solid-G6 level. MBB: blue blood — national titles 1999, 2004, 2011, 2014, 2023, 2024; 2026 national runner-up (lost 69-63 to Michigan, Apr 6, 2026, as No. 2 seed). WBB: Geno Auriemma, 12 national titles incl. 2025; 2025-26 undefeated until 62-48 national-semifinal loss to South Carolina (54-game win streak ended). Olympic: Directors' Cup roughly top-75 (field hockey, soccer, hockey). Political: state-owned stadium/arena, governor and legislature openly lobby for P4 football membership.",
+    "rivals": [
+      "villanova",
+      "syracuse",
+      "providence",
+      "georgetown",
+      "boston-college",
+      "south-carolina"
+    ],
+    "president": {
+      "name": "Radenka Maric",
+      "since": 2022,
+      "note": "Interim from 2021, permanent 2022"
+    },
+    "ad": {
+      "name": "David Benedict",
+      "since": 2015
+    },
+    "headFootballCoach": {
+      "name": "Jason Candle",
+      "since": 2026,
+      "note": "Hired after the 2025 season from Toledo; replaced Jim Mora (left for Colorado State)"
+    },
+    "headMbbCoach": {
+      "name": "Dan Hurley",
+      "since": 2018
+    },
+    "notes": "Rejoined the Big East in 2020 for all sports except football (paid the American a ~$17M exit fee); FBS football independent since 2020 — no conference media share or bowl tie-ins, hard late-season scheduling, and a department that needs heavy university/state subsidy. Leadership (Maric, Benedict) and Gov. Ned Lamont have publicly pushed for P4 football membership; the Big 12 studied UConn during its 2023-24 expansion talk but its presidents declined; the Big Ten and ACC have shown no interest. Basketball is a national brand asset: two men's titles in three seasons plus 2026 runner-up; women's 12 titles. Dan Hurley turned down the Lakers in June 2024 and signed a long-term extension. Football coach Mora left for Pac-12 Colorado State after 2025; Jason Candle hired for 2026. State owns Rentschler Field and the XL Center (via CRDA) and has funded XL Center renovation; 2024 state budget cuts to UConn caused public fights between Maric and lawmakers. For the Big East, UConn is the top TV draw and its departure is the league's main existential risk. Event hooks: P4 invite (all-sports vs football-only), state bond package for football, Hurley NBA overture, Auriemma (b. 1954) retirement.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "athletics.revShareNotes",
+      "athletics.stadium.capacity"
+    ],
+    "sources": [
+      "https://uconnhuskies.com/sports/football/coaches",
+      "https://uconnhuskies.com/news/2026/4/6/mens-basketball-huskies-fall-in-national-title-game",
+      "https://uconnhuskies.com/news/2026/4/3/womens-basketball-huskies-fall-to-south-carolina-at-final-four",
+      "https://www.cbsnews.com/news/ncaa-mens-basketball-championship-michigan-uconn-2026-march-madness/",
+      "https://uconnhuskies.com/news/2026/8/10/general-big-east-names-tim-brosnan-as-commissioner",
+      "https://knightnewhousedata.org/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "villanova",
+    "name": "Villanova University",
+    "shortName": "Villanova",
+    "abbr": "NOVA",
+    "mascot": "Wildcats",
+    "colors": [
+      "#00205B",
+      "#13B5EA",
+      "#FFFFFF"
+    ],
+    "city": "Villanova",
+    "state": "PA",
+    "lat": 40.0368,
+    "lon": -75.3426,
+    "dma": {
+      "name": "Philadelphia, PA",
+      "rank": 4
+    },
+    "control": "private",
+    "religious": "Catholic (Augustinian)",
+    "aau": false,
+    "enrollment": 10900,
+    "usNewsRank": 57,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1300000000,
+    "athletics": {
+      "revenueUsd": 72000000,
+      "expensesUsd": 72000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in (2025-26); funding level not verified",
+      "stadium": {
+        "name": "Villanova Stadium",
+        "capacity": 12500
+      },
+      "arena": {
+        "name": "William B. Finneran Pavilion",
+        "capacity": 6501,
+        "secondary": {
+          "name": "Xfinity Mobile Arena (ex-Wells Fargo Center)",
+          "capacity": 20478
+        }
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": "caa",
+        "level": "FCS"
+      },
+      "y2010": {
+        "all": "big-east-2010",
+        "football": "caa",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 28,
+      "mbb": 62,
+      "wbb": 45,
+      "olympic": 45,
+      "brand": 72,
+      "facilities": 62,
+      "fanBase": 62,
+      "boosterInfluence": 48,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: FCS power in CAA Football — 2009 FCS champion, 2024 FCS semifinalist (Mark Ferrante). MBB: titles 1985, 2016, 2018; post-Jay Wright slide (no NCAA bids 2023-25, Kyle Neptune fired Mar 2025); Kevin Willard hired from Maryland. WBB: 2023 Sweet 16 (Siegrist), regular postseason team. Olympic: track & field/XC tradition. Brand: strongest Big East brand of the 2010s.",
+    "rivals": [
+      "saint-josephs",
+      "georgetown",
+      "uconn",
+      "st-johns",
+      "temple"
+    ],
+    "president": {
+      "name": "Rev. Peter M. Donohue, O.S.A.",
+      "since": 2006,
+      "confidence": "low",
+      "note": "Long tenure (since 2006); succession possible; Nov 2026 status unverified"
+    },
+    "ad": {
+      "name": "Eric Roedl",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": {
+      "name": "Mark Ferrante",
+      "since": 2017,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headMbbCoach": {
+      "name": "Kevin Willard",
+      "since": 2025
+    },
+    "notes": "Catholic 7 member; Philadelphia market (Big 5 rivalries with Saint Joseph's, Temple, Penn, La Salle, Drexel). Football is a CAA FCS power; in 2011-12 Villanova was invited to move football up to the old Big East but the move stalled — a \"what if\" hook for an FBS-upgrade event (stadium is only 12,500). Big games at Xfinity Mobile Arena. Willard rebuild is a referendum on whether the post-Wright Big East can regain national-title relevance.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "headFootballCoach",
+      "dma.rank",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://villanova.com/",
+      "https://www.villanova.edu/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "xavier",
+    "name": "Xavier University",
+    "shortName": "Xavier",
+    "abbr": "XAV",
+    "mascot": "Musketeers",
+    "colors": [
+      "#0C2340",
+      "#9EA2A2",
+      "#FFFFFF"
+    ],
+    "city": "Cincinnati",
+    "state": "OH",
+    "lat": 39.1492,
+    "lon": -84.4745,
+    "dma": {
+      "name": "Cincinnati, OH",
+      "rank": 36
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 6600,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": 300000000,
+    "athletics": {
+      "revenueUsd": 44000000,
+      "expensesUsd": 44000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": true,
+      "revShareNotes": "Big East members reported as opting in (2025-26); funding level not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Cintas Center",
+        "capacity": 10250
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "big-east",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 55,
+      "wbb": 22,
+      "olympic": 25,
+      "brand": 50,
+      "facilities": 60,
+      "fanBase": 58,
+      "boosterInfluence": 42,
+      "statePoliticalPressure": 5
+    },
+    "ratingNotes": "FB: none (dropped 1973). MBB: perennial NCAA team since 1980s; 2023 Sweet 16, 2025 First Four win then R1 loss; Sean Miller left for Texas (Mar 2025), Richard Pitino hired from New Mexico. WBB: low Big East. US News: Regional Universities Midwest (top-10).",
+    "rivals": [
+      "cincinnati",
+      "dayton",
+      "butler",
+      "creighton"
+    ],
+    "president": {
+      "name": "Colleen M. Hanycz",
+      "since": 2021
+    },
+    "ad": {
+      "name": "Greg Christopher",
+      "since": 2013
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Richard Pitino",
+      "since": 2025
+    },
+    "notes": "Joined the Big East from the A-10 in 2013 (with Butler, Creighton). Crosstown Shootout with Big 12 Cincinnati (2011 brawl) is a marquee rivalry; Dayton rivalry from A-10 days. Father-son Pitino coaching rivalry vs St. John's. If Dayton were added to the Big East, Xavier would gain an in-state rival but also share southwest Ohio recruiting/NIL dollars.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "athletics.revShareOptIn"
+    ],
+    "sources": [
+      "https://goxavier.com/",
+      "https://www.xavier.edu/",
+      "https://www.bigeast.com/sports/2026/9/10/BE_history_090926.aspx",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  }
+]

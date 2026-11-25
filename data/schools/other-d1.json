@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "saint-marys",
+    "name": "Saint Mary's College of California",
+    "shortName": "Saint Mary's",
+    "abbr": "SMC",
+    "mascot": "Gaels",
+    "colors": [
+      "#06315B",
+      "#D80024"
+    ],
+    "city": "Moraga",
+    "state": "CA",
+    "lat": 37.8407,
+    "lon": -122.1094,
+    "dma": {
+      "name": "San Francisco-Oakland-San Jose, CA",
+      "rank": 10
+    },
+    "control": "private",
+    "religious": "Catholic (Lasallian / De La Salle Christian Brothers)",
+    "aau": false,
+    "enrollment": 3300,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 28000000,
+      "expensesUsd": 28000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "University Credit Union Pavilion",
+        "capacity": 3500
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 68,
+      "wbb": 25,
+      "olympic": 25,
+      "brand": 40,
+      "facilities": 35,
+      "fanBase": 38,
+      "boosterInfluence": 32,
+      "statePoliticalPressure": 3
+    },
+    "ratingNotes": "FB: none (dropped 2004). MBB: Randy Bennett (since 2001) — perennial NCAA team (2022-25 bids), 2025 WCC regular-season champ, 7 seed, R2. WBB: low-mid WCC. Small enrollment and arena cap brand/fan ratings.",
+    "rivals": [
+      "gonzaga",
+      "santa-clara",
+      "san-francisco"
+    ],
+    "president": {
+      "name": "Richard Plumb",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "ad": {
+      "name": "Mike Matoso",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Randy Bennett",
+      "since": 2001
+    },
+    "notes": "With Gonzaga leaving for the Pac-12 on July 1, 2026 (and Oregon State/Washington State ending their 2024-26 WCC affiliate stints), Saint Mary's becomes the WCC's flagship and the league's NCAA-unit engine. Has been floated in media/fan speculation as a non-football add for a rebuilt Pac-12 or Mountain West, but no invitation was found (as of mid-2026). Small campus (~3,300 students) and 3,500-seat gym limit its appeal; Bennett (b. 1962) succession is a medium-term storyline.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "usNewsCategory"
+    ],
+    "sources": [
+      "https://smcgaels.com/",
+      "https://www.stmarys-ca.edu/",
+      "https://wccsports.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "san-francisco",
+    "name": "University of San Francisco",
+    "shortName": "San Francisco",
+    "abbr": "USF",
+    "mascot": "Dons",
+    "colors": [
+      "#00543C",
+      "#FDBB30"
+    ],
+    "city": "San Francisco",
+    "state": "CA",
+    "lat": 37.7766,
+    "lon": -122.4506,
+    "dma": {
+      "name": "San Francisco-Oakland-San Jose, CA",
+      "rank": 10
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 8700,
+    "usNewsRank": 112,
+    "usNewsCategory": "national",
+    "endowmentUsd": 500000000,
+    "athletics": {
+      "revenueUsd": 28000000,
+      "expensesUsd": 28000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "War Memorial Gymnasium at The Sobrato Center",
+        "capacity": 3005
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 45,
+      "wbb": 30,
+      "olympic": 28,
+      "brand": 38,
+      "facilities": 38,
+      "fanBase": 25,
+      "boosterInfluence": 28,
+      "statePoliticalPressure": 3
+    },
+    "ratingNotes": "FB: none (famous unbeaten 1951 team; program dropped after that season). MBB: 1955 & 1956 national champs (Bill Russell); 2022 NCAA bid; Chris Gerlufsen keeps it upper-WCC. Brand: historic + SF market.",
+    "rivals": [
+      "santa-clara",
+      "saint-marys",
+      "gonzaga"
+    ],
+    "president": {
+      "name": "Rev. Paul J. Fitzgerald, S.J.",
+      "since": 2014,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "ad": {
+      "name": "Joan McDermott",
+      "since": 2016,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Chris Gerlufsen",
+      "since": 2022,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "WCC charter-era member; core of any post-Gonzaga WCC rebuild alongside Saint Mary's and Santa Clara. SF market but small gym and fan base; historically important (Russell/K.C. Jones) for brand-history events.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://usfdons.com/",
+      "https://www.usfca.edu/",
+      "https://wccsports.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "santa-clara",
+    "name": "Santa Clara University",
+    "shortName": "Santa Clara",
+    "abbr": "SCU",
+    "mascot": "Broncos",
+    "colors": [
+      "#862633",
+      "#FFFFFF"
+    ],
+    "city": "Santa Clara",
+    "state": "CA",
+    "lat": 37.3496,
+    "lon": -121.939,
+    "dma": {
+      "name": "San Francisco-Oakland-San Jose, CA",
+      "rank": 10
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 9100,
+    "usNewsRank": 54,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1400000000,
+    "athletics": {
+      "revenueUsd": 33000000,
+      "expensesUsd": 33000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Leavey Center",
+        "capacity": 4700
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 47,
+      "wbb": 28,
+      "olympic": 42,
+      "brand": 35,
+      "facilities": 38,
+      "fanBase": 25,
+      "boosterInfluence": 30,
+      "statePoliticalPressure": 3
+    },
+    "ratingNotes": "FB: none (dropped 1992). MBB: Herb Sendek (2016-) — consistent 20-win teams, NBA products (Jalen Williams, Brandin Podziemski); Steve Nash alma mater; last NCAA bid 1996 (Nash era) as of mid-2025. Olympic: women's soccer national titles 2001 & 2020. Academics: best US News rank in the WCC.",
+    "rivals": [
+      "saint-marys",
+      "san-francisco",
+      "gonzaga"
+    ],
+    "president": {
+      "name": "Julie Sullivan",
+      "since": 2022
+    },
+    "ad": {
+      "name": "Renee Baumgartner",
+      "since": 2015,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Herb Sendek",
+      "since": 2016,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Silicon Valley wealth and strong academics make SCU the WCC's most \"upgradeable\" brand off the court; neighbor of Levi's Stadium. Candidate for any Pac-12/West Coast basketball-only consolidation scenario.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ad",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://santaclarabroncos.com/",
+      "https://www.scu.edu/",
+      "https://wccsports.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "dayton",
+    "name": "University of Dayton",
+    "shortName": "Dayton",
+    "abbr": "DAY",
+    "mascot": "Flyers",
+    "colors": [
+      "#CE1141",
+      "#004B8D"
+    ],
+    "city": "Dayton",
+    "state": "OH",
+    "lat": 39.7397,
+    "lon": -84.1792,
+    "dma": {
+      "name": "Dayton, OH",
+      "rank": 65
+    },
+    "control": "private",
+    "religious": "Catholic (Marianist)",
+    "aau": false,
+    "enrollment": 11500,
+    "usNewsRank": 133,
+    "usNewsCategory": "national",
+    "endowmentUsd": 700000000,
+    "athletics": {
+      "revenueUsd": 45000000,
+      "expensesUsd": 45000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": {
+        "name": "Welcome Stadium",
+        "capacity": 11000
+      },
+      "arena": {
+        "name": "UD Arena",
+        "capacity": 13407
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": "pioneer",
+        "level": "FCS"
+      },
+      "y2010": {
+        "all": "a10",
+        "football": "pioneer",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 10,
+      "mbb": 60,
+      "wbb": 35,
+      "olympic": 30,
+      "brand": 50,
+      "facilities": 65,
+      "fanBase": 75,
+      "boosterInfluence": 35,
+      "statePoliticalPressure": 18
+    },
+    "ratingNotes": "FB: non-scholarship Pioneer League FCS (frequent contender). MBB: Anthony Grant (2017-); 2019-20 29-2 (Obi Toppin) projected No. 1 seed before COVID; 2024 NCAA R2; A-10 regular contender. FanBase: ~13k/game, top-25 national attendance. Facilities: UD Arena $76M renovation (2019), NCAA First Four host. Political: U.S. Sen. Jon Husted (R-OH) publicly lobbied the Big East to add Dayton (Jan 2026).",
+    "rivals": [
+      "xavier",
+      "saint-louis",
+      "vcu",
+      "cincinnati"
+    ],
+    "president": {
+      "name": "Eric F. Spina",
+      "since": 2016,
+      "note": "Confirmed in Jan 2026 response to Sen. Husted"
+    },
+    "ad": {
+      "name": "Neil Sullivan",
+      "since": 2008,
+      "note": "Confirmed in Jan 2026 response to Sen. Husted"
+    },
+    "headFootballCoach": {
+      "name": "Trevor Andrews",
+      "since": 2023,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headMbbCoach": {
+      "name": "Anthony Grant",
+      "since": 2017,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Most-cited Big East expansion candidate. On Jan 14, 2026, U.S. Sens. Jon Husted (R-OH) and Eric Schmitt (R-MO) wrote Big East Commissioner Val Ackerman urging the league to add Dayton and Saint Louis; Spina and Sullivan thanked Husted without committing. No Big East action found through Nov 2026 (Ackerman retired Aug 31, 2026; Tim Brosnan took over Sept 1). Arguments for: attendance, Catholic/Marianist identity, non-scholarship football (no football conflict), Xavier rivalry. Against: Dayton DMA (#65) adds little TV value, and splitting the FOX/NBC pie further.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "headFootballCoach",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://daytonflyers.com/",
+      "https://www.whio.com/news/local/ud-leaders-respond-sen-husteds-request-that-big-east-conference-consider-adding-new-member/HA7P2NNZD5F35OPRAES2O2CMLA/",
+      "https://www.husted.senate.gov/media/press-releases/husted-urges-big-east-to-consider-university-of-dayton-for-membership",
+      "https://www.schmitt.senate.gov/wp-content/uploads/2026/01/1.13-Signed-Big-East-Letter.pdf",
+      "https://atlantic10.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "vcu",
+    "name": "Virginia Commonwealth University",
+    "shortName": "VCU",
+    "abbr": "VCU",
+    "mascot": "Rams",
+    "colors": [
+      "#000000",
+      "#FFB300"
+    ],
+    "city": "Richmond",
+    "state": "VA",
+    "lat": 37.5486,
+    "lon": -77.4527,
+    "dma": {
+      "name": "Richmond-Petersburg, VA",
+      "rank": 54
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 29000,
+    "usNewsRank": 170,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 46000000,
+      "expensesUsd": 46000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified; department heavily student-fee funded (Virginia law caps/regulates fee subsidies)",
+      "stadium": null,
+      "arena": {
+        "name": "Stuart C. Siegel Center",
+        "capacity": 7637
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "caa",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 58,
+      "wbb": 30,
+      "olympic": 28,
+      "brand": 50,
+      "facilities": 50,
+      "fanBase": 65,
+      "boosterInfluence": 38,
+      "statePoliticalPressure": 35
+    },
+    "ratingNotes": "FB: none. MBB: 2011 First Four-to-Final Four (Shaka Smart \"Havoc\"); Ryan Odom won 2025 A-10 tournament (11 seed) then left for Virginia; Phil Martelli Jr. (from Bryant) hired 2025. FanBase: Siegel Center sellouts. Political: public university with governor-appointed Board of Visitors.",
+    "rivals": [
+      "richmond",
+      "george-mason",
+      "old-dominion",
+      "dayton"
+    ],
+    "president": {
+      "name": "Michael Rao",
+      "since": 2009,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "ad": {
+      "name": "Ed McLaughlin",
+      "since": 2014,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Phil Martelli Jr.",
+      "since": 2025
+    },
+    "notes": "Moved CAA -> A-10 in 2012. Repeatedly floated for the Big East (and for the American) on the strength of fan base and results, but public-university status and lack of Catholic identity are cited as the main obstacle for the Big East. Virginia state politics (Board of Visitors appointments, state rules on athletics fees) can shape any move.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad"
+    ],
+    "sources": [
+      "https://vcuathletics.com/",
+      "https://www.vcu.edu/",
+      "https://thehoya.com/23109938/sports/ramblers-flyers-zags-unpacking-potential-big-east-expansion/",
+      "https://atlantic10.com/",
+      "https://knightnewhousedata.org/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "saint-louis",
+    "name": "Saint Louis University",
+    "shortName": "Saint Louis",
+    "abbr": "SLU",
+    "mascot": "Billikens",
+    "colors": [
+      "#003DA5",
+      "#FFFFFF"
+    ],
+    "city": "St. Louis",
+    "state": "MO",
+    "lat": 38.6363,
+    "lon": -90.2346,
+    "dma": {
+      "name": "St. Louis, MO",
+      "rank": 23
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 15200,
+    "usNewsRank": 104,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1700000000,
+    "athletics": {
+      "revenueUsd": 40000000,
+      "expensesUsd": 40000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Chaifetz Arena",
+        "capacity": 10600
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 52,
+      "wbb": 30,
+      "olympic": 32,
+      "brand": 42,
+      "facilities": 58,
+      "fanBase": 55,
+      "boosterInfluence": 40,
+      "statePoliticalPressure": 18
+    },
+    "ratingNotes": "FB: none. MBB: Josh Schertz (from Indiana State, 2024); A-10 upper tier; last NCAA bid 2019 as of mid-2025 (2025-26 not verified). Olympic: men's soccer — 10 NCAA titles (most in history). Facilities: Chaifetz Arena + $20M, 25,000 sq ft basketball facility opened 2024 (cited in senators' letter). Political: U.S. Sen. Eric Schmitt (R-MO) led Jan 2026 letter urging Big East membership.",
+    "rivals": [
+      "dayton",
+      "missouri",
+      "loyola-chicago",
+      "xavier"
+    ],
+    "president": {
+      "name": "Fred P. Pestello",
+      "since": 2014,
+      "confidence": "low",
+      "note": "Long tenure; succession possible; Nov 2026 status unverified"
+    },
+    "ad": {
+      "name": "Chris May",
+      "since": 2013,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Josh Schertz",
+      "since": 2024,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Co-target (with Dayton) of the Jan 14, 2026 Schmitt/Husted letter to the Big East. St. Louis (#23 DMA) is a market the Big East lacks and bridges Creighton to the eastern members. Jesuit identity fits. Strong endowment. If the Big East expands to 12 or 13, SLU and Dayton are the consensus top two candidates.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://slubillikens.com/",
+      "https://www.schmitt.senate.gov/media/press-releases/senators-schmitt-husted-call-for-big-east-conference-membership-for-saint-louis-university-university-of-dayton/",
+      "https://www.schmitt.senate.gov/wp-content/uploads/2026/01/1.13-Signed-Big-East-Letter.pdf",
+      "https://atlantic10.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "george-mason",
+    "name": "George Mason University",
+    "shortName": "George Mason",
+    "abbr": "GMU",
+    "mascot": "Patriots",
+    "colors": [
+      "#006633",
+      "#FFCC33"
+    ],
+    "city": "Fairfax",
+    "state": "VA",
+    "lat": 38.8297,
+    "lon": -77.3074,
+    "dma": {
+      "name": "Washington, DC (Hagerstown, MD)",
+      "rank": 8
+    },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 40000,
+    "usNewsRank": 105,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 36000000,
+      "expensesUsd": 36000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "EagleBank Arena",
+        "capacity": 10000
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "caa",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 50,
+      "wbb": 35,
+      "olympic": 28,
+      "brand": 42,
+      "facilities": 42,
+      "fanBase": 40,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: none. MBB: 2006 Final Four (Jim Larranaga, 11 seed); Tony Skinn (2024-) shared the 2024-25 A-10 regular-season title. Political: Virginia's largest public university (~40k); president targeted by federal civil-rights findings in 2025 and by a governor-appointed board.",
+    "rivals": [
+      "vcu",
+      "old-dominion",
+      "james-madison",
+      "george-washington"
+    ],
+    "president": {
+      "name": "Gregory Washington",
+      "since": 2020,
+      "confidence": "low",
+      "note": "Under federal (Education Dept/DOJ) and board pressure in 2025; Nov 2026 status unverified"
+    },
+    "ad": {
+      "name": "Brad Edwards",
+      "since": 2013,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Tony Skinn",
+      "since": 2024,
+      "confidence": "low",
+      "note": "Rising coach; departure risk after 2025-26 not verified"
+    },
+    "notes": "Moved CAA -> A-10 in 2013. Large public school in the Washington DMA with no football; a good model for \"federal/state politics hits campus\" events (2025 Trump-administration DEI findings against President Washington, partisan Board of Visitors fights that shifted after Virginia's 2025 governor election). Occasionally floated for the American or a basketball-only league built around the DC market.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://gomason.com/",
+      "https://www.gmu.edu/",
+      "https://atlantic10.com/",
+      "https://knightnewhousedata.org/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "loyola-chicago",
+    "name": "Loyola University Chicago",
+    "shortName": "Loyola Chicago",
+    "abbr": "LUC",
+    "mascot": "Ramblers",
+    "colors": [
+      "#8A1538",
+      "#FDB913"
+    ],
+    "city": "Chicago",
+    "state": "IL",
+    "lat": 41.999,
+    "lon": -87.6578,
+    "dma": {
+      "name": "Chicago, IL",
+      "rank": 3
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 16700,
+    "usNewsRank": 127,
+    "usNewsCategory": "national",
+    "endowmentUsd": 1000000000,
+    "athletics": {
+      "revenueUsd": 30000000,
+      "expensesUsd": 30000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Joseph J. Gentile Arena",
+        "capacity": 4500
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "horizon",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 45,
+      "wbb": 22,
+      "olympic": 30,
+      "brand": 45,
+      "facilities": 40,
+      "fanBase": 38,
+      "boosterInfluence": 28,
+      "statePoliticalPressure": 3
+    },
+    "ratingNotes": "FB: none. MBB: 1963 national champions; 2018 Final Four (11 seed, Sister Jean); 2021 Sweet 16; Drew Valentine (2021-); 2025 NIT runner-up. Olympic: men's volleyball national titles 2014 & 2015. Brand: Sister Jean Dolores Schmidt made it a national story.",
+    "rivals": [
+      "depaul",
+      "saint-louis",
+      "bradley"
+    ],
+    "president": {
+      "name": "Mark C. Reed",
+      "since": 2022
+    },
+    "ad": {
+      "name": "Steve Watson",
+      "since": 2009,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Drew Valentine",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Textbook upward-mobility path: Horizon (2010) -> Missouri Valley (2013) -> A-10 (2022). Big East wildcard that would \"double\" Chicago with DePaul — fan/media speculation often pairs Loyola with Dayton/SLU as expansion options. Small arena limits the case.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ad",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://loyolaramblers.com/",
+      "https://www.luc.edu/",
+      "https://thehoya.com/23109938/sports/ramblers-flyers-zags-unpacking-potential-big-east-expansion/",
+      "https://atlantic10.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "saint-josephs",
+    "name": "Saint Joseph's University",
+    "shortName": "Saint Joseph's",
+    "abbr": "JOES",
+    "mascot": "Hawks",
+    "colors": [
+      "#9E1B32",
+      "#A1A1A4"
+    ],
+    "city": "Philadelphia",
+    "state": "PA",
+    "lat": 39.995,
+    "lon": -75.2394,
+    "dma": {
+      "name": "Philadelphia, PA",
+      "rank": 4
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 7800,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 30000000,
+      "expensesUsd": 30000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Michael J. Hagan '85 Arena",
+        "capacity": 4200
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "a10",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 42,
+      "wbb": 40,
+      "olympic": 28,
+      "brand": 38,
+      "facilities": 35,
+      "fanBase": 38,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 3
+    },
+    "ratingNotes": "FB: none. MBB: 2004 unbeaten regular season/Elite Eight (Jameer Nelson); 2014 & 2016 NCAA bids; Billy Lange left for the New York Knicks staff (2025), Steve Donahue took over. WBB: Cindy Griffin, A-10 contender. Philadelphia Big 5 member.",
+    "rivals": [
+      "villanova",
+      "temple",
+      "la-salle",
+      "drexel"
+    ],
+    "president": {
+      "name": "Cheryl A. McConnell",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "ad": {
+      "name": "Jill Bodensteiner",
+      "since": 2015,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Steve Donahue",
+      "since": 2025,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Jesuit school in the Philadelphia DMA; merged with University of the Sciences (2022). A low-probability Big East candidate (market already held by Villanova) but relevant for A-10 stability and Big 5 rivalry events.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "headMbbCoach",
+      "usNewsCategory"
+    ],
+    "sources": [
+      "https://sjuhawks.com/",
+      "https://www.sju.edu/",
+      "https://atlantic10.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "drake",
+    "name": "Drake University",
+    "shortName": "Drake",
+    "abbr": "DRKE",
+    "mascot": "Bulldogs",
+    "colors": [
+      "#004477",
+      "#FFFFFF"
+    ],
+    "city": "Des Moines",
+    "state": "IA",
+    "lat": 41.602,
+    "lon": -93.654,
+    "dma": {
+      "name": "Des Moines-Ames, IA",
+      "rank": 69
+    },
+    "control": "private",
+    "religious": null,
+    "aau": false,
+    "enrollment": 4700,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 25000000,
+      "expensesUsd": 25000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": {
+        "name": "Drake Stadium",
+        "capacity": 14557
+      },
+      "arena": {
+        "name": "Knapp Center",
+        "capacity": 6424
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "mvc",
+        "football": "pioneer",
+        "level": "FCS"
+      },
+      "y2010": {
+        "all": "mvc",
+        "football": "pioneer",
+        "level": "FCS"
+      }
+    },
+    "ratings": {
+      "football": 8,
+      "mbb": 48,
+      "wbb": 45,
+      "olympic": 25,
+      "brand": 32,
+      "facilities": 38,
+      "fanBase": 42,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 3
+    },
+    "ratingNotes": "FB: non-scholarship Pioneer League FCS. MBB: 1969 Final Four; Ben McCollum's 2024-25 team went 31-4 with an NCAA win over Missouri, then he left for Iowa; Eric Henderson (from South Dakota State) hired 2025. WBB: perennial MVC champion/NCAA team. Olympic: Drake Relays track tradition.",
+    "rivals": [
+      "iowa",
+      "iowa-state",
+      "northern-iowa",
+      "bradley"
+    ],
+    "president": {
+      "name": "Marty Martin",
+      "since": 2015,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "ad": {
+      "name": "Brian Hardin",
+      "since": 2014,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": {
+      "name": "Joe Woodley",
+      "since": 2022,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headMbbCoach": {
+      "name": "Eric Henderson",
+      "since": 2025
+    },
+    "notes": "Missouri Valley anchor (MVC lost Loyola to the A-10 in 2022 and Missouri State to CUSA in 2025). A coaching-carousel case study: Darian DeVries (to West Virginia, 2024) then McCollum (to Iowa, 2025) were both poached by P4 schools. Plausible target in a WCC/A-10/MVC consolidation scenario.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "headFootballCoach"
+    ],
+    "sources": [
+      "https://godrakebulldogs.com/",
+      "https://www.drake.edu/",
+      "https://mvc-sports.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "bradley",
+    "name": "Bradley University",
+    "shortName": "Bradley",
+    "abbr": "BRAD",
+    "mascot": "Braves",
+    "colors": [
+      "#A50000",
+      "#FFFFFF"
+    ],
+    "city": "Peoria",
+    "state": "IL",
+    "lat": 40.6982,
+    "lon": -89.6157,
+    "dma": {
+      "name": "Peoria-Bloomington, IL",
+      "rank": 117
+    },
+    "control": "private",
+    "religious": null,
+    "aau": false,
+    "enrollment": 4800,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 22000000,
+      "expensesUsd": 22000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Carver Arena (Peoria Civic Center)",
+        "capacity": 11000
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "mvc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "mvc",
+        "football": null,
+        "level": null
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 45,
+      "wbb": 18,
+      "olympic": 20,
+      "brand": 28,
+      "facilities": 40,
+      "fanBase": 45,
+      "boosterInfluence": 25,
+      "statePoliticalPressure": 3
+    },
+    "ratingNotes": "FB: none (dropped 1970). MBB: 1950 & 1954 national runner-up, 2006 Sweet 16; Brian Wardle (2015-) — 2019 NCAA, MVC contender 2024-25. FanBase: city-owned Carver Arena draws well for a mid-major.",
+    "rivals": [
+      "illinois-state",
+      "drake",
+      "loyola-chicago"
+    ],
+    "president": {
+      "name": "Stephen Standifird",
+      "since": 2018,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "ad": {
+      "name": "Chris Reynolds",
+      "since": 2014,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Brian Wardle",
+      "since": 2015,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Historic MVC brand with a downtown civic arena. Small private school and small DMA make it a \"conference stabilizer\" rather than an expansion prize; relevant if the MVC/A-10/WCC landscape consolidates.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "president",
+      "ad",
+      "headMbbCoach"
+    ],
+    "sources": [
+      "https://bradleybraves.com/",
+      "https://www.bradley.edu/",
+      "https://mvc-sports.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  },
+  {
+    "id": "seattle-u",
+    "name": "Seattle University",
+    "shortName": "Seattle U",
+    "abbr": "SEA",
+    "mascot": "Redhawks",
+    "colors": [
+      "#AA0000",
+      "#FFFFFF"
+    ],
+    "city": "Seattle",
+    "state": "WA",
+    "lat": 47.6097,
+    "lon": -122.3171,
+    "dma": {
+      "name": "Seattle-Tacoma, WA",
+      "rank": 12
+    },
+    "control": "private",
+    "religious": "Catholic (Jesuit)",
+    "aau": false,
+    "enrollment": 7100,
+    "usNewsRank": null,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 25000000,
+      "expensesUsd": 25000000,
+      "fiscalYear": "FY2023",
+      "revShareOptIn": null,
+      "revShareNotes": "Opt-in decision not verified",
+      "stadium": null,
+      "arena": {
+        "name": "Redhawk Center",
+        "capacity": 999,
+        "secondary": {
+          "name": "Climate Pledge Arena (select games)",
+          "capacity": 17100
+        }
+      },
+      "note": "Athletics revenue/expenses are estimates from memory of EADA/Knight-Newhouse ranges, not verified figures"
+    },
+    "conference": {
+      "y2026": {
+        "all": "wcc",
+        "football": null,
+        "level": null
+      },
+      "y2010": {
+        "all": "independent",
+        "football": null,
+        "level": null,
+        "note": "Division I independent (non-football) in 2010-11; WAC 2012-2025"
+      }
+    },
+    "ratings": {
+      "football": 1,
+      "mbb": 33,
+      "wbb": 22,
+      "olympic": 22,
+      "brand": 25,
+      "facilities": 25,
+      "fanBase": 20,
+      "boosterInfluence": 22,
+      "statePoliticalPressure": 3
+    },
+    "ratingNotes": "FB: none. MBB: 1958 national runner-up (Elgin Baylor); returned to D-I in 2009; 2024 CBI champion. Small on-campus gym; premium games at Climate Pledge Arena.",
+    "rivals": [
+      "gonzaga",
+      "portland",
+      "washington"
+    ],
+    "president": {
+      "name": "Eduardo M. Peñalver",
+      "since": 2021
+    },
+    "ad": {
+      "name": "Shaney Fink",
+      "since": 2016,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "headFootballCoach": null,
+    "headMbbCoach": {
+      "name": "Chris Victor",
+      "since": 2021,
+      "confidence": "low",
+      "note": "Not re-verified for Nov 2026 (search budget exhausted); based on mid-2025/early-2026 knowledge"
+    },
+    "notes": "Joined the WCC from the WAC on July 1, 2025 as part of the league's backfill ahead of Gonzaga's exit; brings the Seattle DMA (#12). Jesuit identity fits WCC. Example of a low-major moving up via market value.",
+    "lowConfidenceFields": [
+      "enrollment",
+      "usNewsRank",
+      "endowmentUsd",
+      "dma.rank",
+      "athletics.revenueUsd",
+      "athletics.expensesUsd",
+      "ad",
+      "headMbbCoach",
+      "usNewsRank"
+    ],
+    "sources": [
+      "https://goseattleu.com/",
+      "https://www.seattleu.edu/",
+      "https://wccsports.com/",
+      "https://ope.ed.gov/athletics/"
+    ],
+    "note": "Web search budget was exhausted early and primary hosts were unreachable, so fields listed in lowConfidenceFields are best estimates from pre-Nov-2026 knowledge."
+  }
+]
