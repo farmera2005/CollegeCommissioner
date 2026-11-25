@@ -1,0 +1,190 @@
+{
+  "asOf": "2026-11-25",
+  "mensBasketballFund": {
+    "id": "ncaa-basketball-performance-fund",
+    "name": "NCAA Division I Basketball Performance Fund (men's 'units')",
+    "howEarned": "A conference earns one unit for each game a member plays in the men's NCAA tournament, First Four included and the national championship game excluded. The 67-game tournament produces 132 units a year (First Four 8, first round 64, second round 32, Sweet 16 16, Elite Eight 8, Final Four 4). Units belong to the conference the school was in that season and stay with it if the school leaves.",
+    "payout": "Each unit is paid every year for 6 years on a rolling basis, so a year's payout covers the previous 6 tournaments. The NCAA pays conferences (usually in April), and each conference decides how to split the money. Most split equally, and some give the earning school a bonus.",
+    "unitsPerTournament": 132,
+    "rollingWindowYears": 6,
+    "covid2020": "The 2020 tournament was canceled and no 2020 units were earned. The NCAA cut the total 2020 distribution to about $225M from a planned ~$600M. In later rolling windows the 2020 slot is empty.",
+    "unitValueByYear": [
+      { "paymentYear": 2019, "approxAnnualValuePerUnitUsd": 280000, "approxSixYearValueUsd": 1680000, "confidence": "low", "note": "Researcher recall." },
+      { "paymentYear": 2024, "approxAnnualValuePerUnitUsd": 340000, "approxSixYearValueUsd": 2000000, "confidence": "low", "note": "Commonly reported as roughly $2M per unit over 6 years in the mid-2020s." },
+      { "paymentYear": 2025, "approxAnnualValuePerUnitUsd": 345000, "approxSixYearValueUsd": 2070000, "confidence": "low", "note": "Estimate. Fund growth slowed by House damages deductions (see house_settlement.json)." },
+      { "paymentYear": 2026, "approxAnnualValuePerUnitUsd": null, "approxSixYearValueUsd": null, "note": "Not retrieved." }
+    ],
+    "mediaContract": "CBS/Turner (TNT Sports): 14 years, $10.8B (2011-2024), then an 8-year, $8.8B extension (2025-2032, ~$1.1B a year). This is the main source of NCAA D-I distributions.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/NCAA_Division_I_men%27s_basketball_tournament",
+      "https://www.ncaa.org/sports/2016/5/17/revenue-distributions.aspx"
+    ]
+  },
+  "unitsByConference": [
+    {
+      "id": "units-2021",
+      "tournamentYear": 2021,
+      "units": [
+        { "conference": "pac-12", "units": 18, "bids": 5, "notes": "UCLA went from the First Four to the Final Four (6 units). Oregon's first-round game vs VCU was a COVID no-contest and is not counted here; if the NCAA counted it, the total is 19." },
+        { "conference": "big-ten", "units": 17, "bids": 9 },
+        { "conference": "big-12", "units": 16, "bids": 7, "notes": "Baylor won the title (5 units)." },
+        { "conference": "sec", "units": 13, "bids": 6 },
+        { "conference": "acc", "units": 11, "bids": 7 },
+        { "conference": "big-east", "units": 8, "bids": 4 },
+        { "conference": "wcc", "units": 6, "bids": 2, "notes": "Gonzaga was runner-up (5 units)." },
+        { "conference": "american", "units": 6, "bids": 2, "notes": "Houston reached the Final Four." },
+        { "conference": "cusa", "units": 2, "bids": 1 },
+        { "conference": "mac", "units": 2, "bids": 1 },
+        { "conference": "mountain-west", "units": 2, "bids": 2 },
+        { "conference": "sun-belt", "units": 1, "bids": 1 }
+      ],
+      "confidence": "low",
+      "note": "Computed by the researcher from bracket results, not from an NCAA unit table.",
+      "sources": ["https://en.wikipedia.org/wiki/2021_NCAA_Division_I_men%27s_basketball_tournament"]
+    },
+    {
+      "id": "units-2022",
+      "tournamentYear": 2022,
+      "units": [
+        { "conference": "acc", "units": 18, "bids": 5, "notes": "Duke and UNC reached the Final Four." },
+        { "conference": "big-ten", "units": 18, "bids": 9 },
+        { "conference": "big-12", "units": 17, "bids": 6, "notes": "Kansas won the title." },
+        { "conference": "big-east", "units": 13, "bids": 6 },
+        { "conference": "sec", "units": 11, "bids": 6 },
+        { "conference": "pac-12", "units": 7, "bids": 3 },
+        { "conference": "american", "units": 6, "bids": 2 },
+        { "conference": "wcc", "units": 6, "bids": 3 },
+        { "conference": "mountain-west", "units": 4, "bids": 4 },
+        { "conference": "cusa", "units": 1, "bids": 1 },
+        { "conference": "sun-belt", "units": 1, "bids": 1 },
+        { "conference": "mac", "units": 1, "bids": 1 }
+      ],
+      "confidence": "low",
+      "note": "Computed by the researcher from bracket results.",
+      "sources": ["https://en.wikipedia.org/wiki/2022_NCAA_Division_I_men%27s_basketball_tournament"]
+    },
+    {
+      "id": "units-2023",
+      "tournamentYear": 2023,
+      "units": [
+        { "conference": "sec", "units": 17, "bids": 8 },
+        { "conference": "big-12", "units": 16, "bids": 7 },
+        { "conference": "big-east", "units": 15, "bids": 5, "notes": "UConn won the title." },
+        { "conference": "big-ten", "units": 14, "bids": 8, "notes": "Purdue (1 seed) lost to FDU." },
+        { "conference": "acc", "units": 12, "bids": 5, "notes": "Miami reached the Final Four." },
+        { "conference": "mountain-west", "units": 8, "bids": 4, "notes": "SDSU was runner-up (5 units)." },
+        { "conference": "pac-12", "units": 7, "bids": 4 },
+        { "conference": "wcc", "units": 6, "bids": 2 },
+        { "conference": "cusa", "units": 5, "bids": 1, "notes": "FAU reached the Final Four as a CUSA member." },
+        { "conference": "american", "units": 4, "bids": 2 },
+        { "conference": "sun-belt", "units": 1, "bids": 1 },
+        { "conference": "mac", "units": 1, "bids": 1 }
+      ],
+      "confidence": "low",
+      "note": "Computed by the researcher from bracket results.",
+      "sources": ["https://en.wikipedia.org/wiki/2023_NCAA_Division_I_men%27s_basketball_tournament"]
+    },
+    {
+      "id": "units-2024",
+      "tournamentYear": 2024,
+      "units": [
+        { "conference": "acc", "units": 17, "bids": 5, "notes": "NC State reached the Final Four." },
+        { "conference": "sec", "units": 16, "bids": 8 },
+        { "conference": "big-ten", "units": 15, "bids": 6, "notes": "Purdue was runner-up." },
+        { "conference": "big-12", "units": 15, "bids": 8 },
+        { "conference": "big-east", "units": 11, "bids": 3, "notes": "UConn won the title again." },
+        { "conference": "pac-12", "units": 10, "bids": 4, "notes": "Last Pac-12 tournament before the 10 departures. These units stay with the Pac-12 (OSU/WSU) for 6 years." },
+        { "conference": "mountain-west", "units": 10, "bids": 6 },
+        { "conference": "wcc", "units": 4, "bids": 2 },
+        { "conference": "sun-belt", "units": 2, "bids": 1 },
+        { "conference": "american", "units": 1, "bids": 1 },
+        { "conference": "cusa", "units": 1, "bids": 1 },
+        { "conference": "mac", "units": 1, "bids": 1 }
+      ],
+      "confidence": "low",
+      "note": "Computed by the researcher from bracket results.",
+      "sources": ["https://en.wikipedia.org/wiki/2024_NCAA_Division_I_men%27s_basketball_tournament"]
+    },
+    {
+      "id": "units-2025",
+      "tournamentYear": 2025,
+      "units": [
+        { "conference": "sec", "units": 35, "bids": 14, "notes": "Record 14 bids. Florida won the title, and Auburn and Florida reached the Final Four." },
+        { "conference": "big-ten", "units": 21, "bids": 8 },
+        { "conference": "big-12", "units": 20, "bids": 7, "notes": "Houston was runner-up." },
+        { "conference": "acc", "units": 9, "bids": 4 },
+        { "conference": "big-east", "units": 9, "bids": 5 },
+        { "conference": "mountain-west", "units": 6, "bids": 4 },
+        { "conference": "wcc", "units": 4, "bids": 2 },
+        { "conference": "american", "units": 1, "bids": 1 },
+        { "conference": "cusa", "units": 1, "bids": 1 },
+        { "conference": "sun-belt", "units": 1, "bids": 1 },
+        { "conference": "mac", "units": 1, "bids": 1 },
+        { "conference": "pac-12", "units": 0, "bids": 0, "notes": "OSU/WSU played basketball as WCC affiliates in 2024-25." }
+      ],
+      "confidence": "low",
+      "note": "Computed by the researcher from bracket results.",
+      "sources": ["https://en.wikipedia.org/wiki/2025_NCAA_Division_I_men%27s_basketball_tournament"]
+    },
+    {
+      "id": "units-2026",
+      "tournamentYear": 2026,
+      "units": null,
+      "note": "The 2026 tournament results were not retrieved (search budget exhausted). Fill from the NCAA bracket.",
+      "sources": ["https://en.wikipedia.org/wiki/2026_NCAA_Division_I_men%27s_basketball_tournament"]
+    }
+  ],
+  "rollingWindowTotals": {
+    "id": "units-window-2021-2025",
+    "window": "2020-2025 tournaments (2020 canceled), so the 2021-2025 sum is the basis for the ~2026 payout",
+    "totals": [
+      { "conference": "sec", "units": 92 },
+      { "conference": "big-ten", "units": 85 },
+      { "conference": "big-12", "units": 84 },
+      { "conference": "acc", "units": 67 },
+      { "conference": "big-east", "units": 56 },
+      { "conference": "pac-12", "units": 42, "notes": "Nearly all earned by the old 12-team Pac-12. A key asset of the 2-school and rebuilt Pac-12 through about 2030." },
+      { "conference": "mountain-west", "units": 30 },
+      { "conference": "wcc", "units": 26 },
+      { "conference": "american", "units": 18 },
+      { "conference": "cusa", "units": 10 },
+      { "conference": "sun-belt", "units": 6 },
+      { "conference": "mac", "units": 6 }
+    ],
+    "approxAnnualValueAt340kUsd": { "sec": 31280000, "big-ten": 28900000, "big-12": 28560000, "acc": 22780000, "big-east": 19040000, "pac-12": 14280000, "mountain-west": 10200000 },
+    "confidence": "low",
+    "note": "Sums of the computed yearly units above, times an assumed ~$340K per unit per year. Real NCAA windows and unit values may differ.",
+    "sources": ["https://en.wikipedia.org/wiki/NCAA_Division_I_men%27s_basketball_tournament"]
+  },
+  "womensPerformanceUnits": {
+    "id": "ncaa-womens-basketball-performance-fund",
+    "approved": "2024-08",
+    "firstTournament": 2025,
+    "firstPayoutYear": "2025-26",
+    "howEarned": "Same unit concept as the men's fund: one unit per game played in the women's NCAA tournament, title game excluded. Paid to conferences.",
+    "fundSizeFirstYearUsd": 15000000,
+    "growth": "Planned to grow each year as the NCAA's women's tournament media value rises. The women's tournament is part of the ESPN championships package (8 years, $920M, from 2024-25, of which women's basketball is ~$65M a year).",
+    "perUnitValueUsd": null,
+    "confidence": "low",
+    "note": "Approval timing and the ~$15M first-year fund are from researcher recall. Per-unit value was not retrieved. With ~132 units a year, a first-year unit would be roughly $110K if the fund covers only the 2025 tournament.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/NCAA_Division_I_women%27s_basketball_tournament",
+      "https://www.ncaa.org/sports/2016/5/17/revenue-distributions.aspx"
+    ]
+  },
+  "otherDistributions": [
+    { "id": "equal-conference-fund", "name": "Equal Conference Fund", "description": "Equal shares to each D-I basketball conference that meets requirements, including automatic-bid conferences.", "amountUsd": null },
+    { "id": "grants-in-aid-fund", "name": "Grant-in-Aid Fund", "description": "Based on the number of athletic scholarships (equivalencies) awarded. After House, scholarship limits became roster limits, so the formula is being reworked.", "amountUsd": null },
+    { "id": "sports-sponsorship-fund", "name": "Sports Sponsorship Fund", "description": "Based on the number of sports sponsored above the D-I minimum.", "amountUsd": null },
+    { "id": "academic-unit-fund", "name": "Academic Unit Fund", "description": "Started in 2019-20. Schools earn academic units for meeting APR/GSR/graduation thresholds.", "amountUsd": null },
+    { "id": "student-assistance-fund", "name": "Student Assistance Fund / Student-Athlete Opportunity Fund", "description": "Pass-through money for athlete welfare: emergency aid, academic support and travel.", "amountUsd": null },
+    { "id": "academic-enhancement-fund", "name": "Academic Enhancement Fund", "description": "Equal per-school grants for academic support.", "amountUsd": null },
+    { "id": "house-deduction", "name": "House settlement deduction", "description": "From 2025-26, about 59-60% of the $2.576B House back-damages (~$1.6B) comes out of NCAA distributions to conferences over 10 years (see house_settlement.json).", "amountUsd": null }
+  ],
+  "otherDistributionsNotes": "Total NCAA D-I revenue distribution is roughly $650-750M a year in the mid-2020s, with the Basketball Performance Fund the largest single piece (~35-40%). These are researcher estimates, not verified this session.",
+  "confidence": "low",
+  "sources": [
+    "https://www.ncaa.org/sports/2016/5/17/revenue-distributions.aspx",
+    "https://en.wikipedia.org/wiki/NCAA_Division_I_men%27s_basketball_tournament"
+  ]
+}

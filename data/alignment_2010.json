@@ -1,0 +1,1194 @@
+{
+  "season": "2010-11",
+  "asOf": "2010-08-01",
+  "fbsSchoolCount": 120,
+  "conventions": "allSportsMembers = full members whose football also plays in the conference. nonFootballMembers = full members that do not play football in the conference. footballOnly = football-only affiliates. pendingAtAsOf lists moves announced on or before 2010-08-01. Later 2010 moves are in realignment_timeline.json. Media values are 2010-era contracts. Everything here is from researcher knowledge and was not web-verified this session (search budget exhausted), so treat dollar values marked confidence low accordingly.",
+  "conferences": [
+    {
+      "id": "sec",
+      "name": "Southeastern Conference",
+      "shortName": "SEC",
+      "hq": {
+        "city": "Birmingham",
+        "state": "AL"
+      },
+      "bcsAQ": true,
+      "commissioner": {
+        "id": "mike-slive",
+        "name": "Mike Slive",
+        "since": 2002,
+        "background": "attorney",
+        "backgroundNote": "Former New Hampshire judge and lawyer; founding commissioner of Conference USA (1995-2002) and earlier Great Midwest Conference commissioner."
+      },
+      "footballMembers": [
+        "alabama",
+        "arkansas",
+        "auburn",
+        "florida",
+        "georgia",
+        "kentucky",
+        "lsu",
+        "ole-miss",
+        "mississippi-state",
+        "south-carolina",
+        "tennessee",
+        "vanderbilt"
+      ],
+      "allSportsMembers": [
+        "alabama",
+        "arkansas",
+        "auburn",
+        "florida",
+        "georgia",
+        "kentucky",
+        "lsu",
+        "ole-miss",
+        "mississippi-state",
+        "south-carolina",
+        "tennessee",
+        "vanderbilt"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [],
+      "mediaDeals": [
+        {
+          "partner": "cbs",
+          "years": "2009-10 to 2023-24 (15 yrs)",
+          "annualValueUsd": 55000000,
+          "totalValueUsd": 825000000,
+          "notes": "SEC on CBS 3:30 ET game plus the SEC Championship Game."
+        },
+        {
+          "partner": "espn",
+          "years": "2009-10 to 2023-24 (15 yrs)",
+          "annualValueUsd": 150000000,
+          "totalValueUsd": 2250000000,
+          "notes": "All other rights, including the syndicated SEC Network package (ESPN Regional). Renegotiated into the SEC Network deal in 2013. The network launched in Aug. 2014."
+        }
+      ],
+      "divisions": {
+        "East": [
+          "florida",
+          "georgia",
+          "kentucky",
+          "south-carolina",
+          "tennessee",
+          "vanderbilt"
+        ],
+        "West": [
+          "alabama",
+          "arkansas",
+          "auburn",
+          "lsu",
+          "ole-miss",
+          "mississippi-state"
+        ]
+      },
+      "notes": "Twelve members since 1992 (Arkansas and South Carolina). Won 4 straight BCS titles (2006-09) and would win 7 in a row through 2012. Expanded to 14 with Texas A&M and Missouri in 2012.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Southeastern_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "big-ten",
+      "name": "Big Ten Conference",
+      "shortName": "Big Ten",
+      "hq": {
+        "city": "Park Ridge",
+        "state": "IL"
+      },
+      "bcsAQ": true,
+      "commissioner": {
+        "id": "jim-delany",
+        "name": "Jim Delany",
+        "since": 1989,
+        "background": "attorney",
+        "backgroundNote": "UNC law graduate. Former NCAA enforcement representative and Ohio Valley Conference commissioner (1979-89). Built the Big Ten Network (2007)."
+      },
+      "footballMembers": [
+        "illinois",
+        "indiana",
+        "iowa",
+        "michigan",
+        "michigan-state",
+        "minnesota",
+        "northwestern",
+        "ohio-state",
+        "penn-state",
+        "purdue",
+        "wisconsin"
+      ],
+      "allSportsMembers": [
+        "illinois",
+        "indiana",
+        "iowa",
+        "michigan",
+        "michigan-state",
+        "minnesota",
+        "northwestern",
+        "ohio-state",
+        "penn-state",
+        "purdue",
+        "wisconsin"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [],
+      "mediaDeals": [
+        {
+          "partner": "espn",
+          "years": "2007-2017 (10 yrs)",
+          "annualValueUsd": 100000000,
+          "totalValueUsd": 1000000000,
+          "notes": "ABC/ESPN first-tier football and basketball."
+        },
+        {
+          "partner": "btn",
+          "years": "2007 launch, 25-yr agreement",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "Big Ten Network joint venture: 51% Big Ten, 49% Fox. It was the main driver of the 2010 expansion, since adding Nebraska and later Maryland and Rutgers expanded cable-carriage footprints."
+        },
+        {
+          "partner": "cbs",
+          "years": "through 2011-12 (basketball)",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "CBS regular-season and tournament basketball package. Value not verified.",
+          "confidence": "low"
+        }
+      ],
+      "pendingAtAsOf": [
+        {
+          "school": "nebraska",
+          "change": "join",
+          "announced": "2010-06-11",
+          "effective": "2011-07-01"
+        }
+      ],
+      "notes": "Eleven members since Penn State (1990), despite the name. Delany announced an expansion study in Dec. 2009. Nebraska accepted on 2010-06-11 for 2011-12. Then 14 members with Maryland and Rutgers (2014), 16 and 18 with USC, UCLA, Oregon and Washington (2024).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Big_Ten_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "big-12",
+      "name": "Big 12 Conference",
+      "shortName": "Big 12",
+      "hq": {
+        "city": "Irving",
+        "state": "TX"
+      },
+      "bcsAQ": true,
+      "commissioner": {
+        "id": "dan-beebe",
+        "name": "Dan Beebe",
+        "since": 2007,
+        "background": "attorney",
+        "backgroundNote": "Law degree. Former NCAA enforcement director and Ohio Valley Conference commissioner (1998-2003). Big 12 senior staff before becoming commissioner. Forced out Sept. 2011."
+      },
+      "footballMembers": [
+        "baylor",
+        "colorado",
+        "iowa-state",
+        "kansas",
+        "kansas-state",
+        "missouri",
+        "nebraska",
+        "oklahoma",
+        "oklahoma-state",
+        "texas",
+        "texas-am",
+        "texas-tech"
+      ],
+      "allSportsMembers": [
+        "baylor",
+        "colorado",
+        "iowa-state",
+        "kansas",
+        "kansas-state",
+        "missouri",
+        "nebraska",
+        "oklahoma",
+        "oklahoma-state",
+        "texas",
+        "texas-am",
+        "texas-tech"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [],
+      "mediaDeals": [
+        {
+          "partner": "espn",
+          "years": "2008-09 to 2015-16 (8 yrs)",
+          "annualValueUsd": 60000000,
+          "totalValueUsd": 480000000,
+          "notes": "ABC/ESPN first-tier rights. Superseded by the 2012 ESPN/Fox 13-year package."
+        },
+        {
+          "partner": "fox",
+          "years": "through 2011-12",
+          "annualValueUsd": 20000000,
+          "totalValueUsd": null,
+          "notes": "Fox Sports Net second-tier cable package. Replaced by a 13-year, ~$1.17B Fox deal (signed April 2011, from 2012-13), which was the money that kept the league together.",
+          "confidence": "low"
+        }
+      ],
+      "divisions": {
+        "North": [
+          "colorado",
+          "iowa-state",
+          "kansas",
+          "kansas-state",
+          "missouri",
+          "nebraska"
+        ],
+        "South": [
+          "baylor",
+          "oklahoma",
+          "oklahoma-state",
+          "texas",
+          "texas-am",
+          "texas-tech"
+        ]
+      },
+      "pendingAtAsOf": [
+        {
+          "school": "colorado",
+          "change": "leave",
+          "to": "pac-12",
+          "announced": "2010-06-10",
+          "effective": "2011-07-01"
+        },
+        {
+          "school": "nebraska",
+          "change": "leave",
+          "to": "big-ten",
+          "announced": "2010-06-11",
+          "effective": "2011-07-01"
+        }
+      ],
+      "notes": "The 2010-11 season was its last with 12. In June 2010 the Pac-10 offered Texas, Oklahoma, Oklahoma State, Texas Tech (plus Colorado and possibly Texas A&M) spots in a \"Pac-16\". Texas stayed on 2010-06-14 after Beebe promised a richer TV deal and allowed the Longhorn Network (ESPN, 20 yrs, ~$300M, launched 2011). Revenue split was partly unequal (TV-appearance based) until moving toward equal shares in 2012. Lineage: the Big 12 itself formed in 1994-96 when the Big Eight merged with four SWC schools (see precedents.json).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Big_12_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "acc",
+      "name": "Atlantic Coast Conference",
+      "shortName": "ACC",
+      "hq": {
+        "city": "Greensboro",
+        "state": "NC"
+      },
+      "bcsAQ": true,
+      "commissioner": {
+        "id": "john-swofford",
+        "name": "John Swofford",
+        "since": 1997,
+        "background": "former-ad",
+        "backgroundNote": "North Carolina AD 1980-97."
+      },
+      "footballMembers": [
+        "boston-college",
+        "clemson",
+        "duke",
+        "florida-state",
+        "georgia-tech",
+        "maryland",
+        "miami-fl",
+        "north-carolina",
+        "nc-state",
+        "virginia",
+        "virginia-tech",
+        "wake-forest"
+      ],
+      "allSportsMembers": [
+        "boston-college",
+        "clemson",
+        "duke",
+        "florida-state",
+        "georgia-tech",
+        "maryland",
+        "miami-fl",
+        "north-carolina",
+        "nc-state",
+        "virginia",
+        "virginia-tech",
+        "wake-forest"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [],
+      "mediaDeals": [
+        {
+          "partner": "espn",
+          "years": "2004-05 to 2010-11",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "ABC/ESPN football. Raycom/Jefferson-Pilot syndicated football and basketball. Values not verified.",
+          "confidence": "low"
+        },
+        {
+          "partner": "espn",
+          "years": "2011-12 to 2022-23 (12 yrs, signed May 2010)",
+          "annualValueUsd": 155000000,
+          "totalValueUsd": 1860000000,
+          "notes": "ESPN all-rights deal with Raycom sublicense. Renegotiated to ~$3.6B/15 yrs after adding Pitt and Syracuse (2012), then to the 20-year ACC Network deal (2016, through 2036)."
+        }
+      ],
+      "divisions": {
+        "Atlantic": [
+          "boston-college",
+          "clemson",
+          "florida-state",
+          "maryland",
+          "nc-state",
+          "wake-forest"
+        ],
+        "Coastal": [
+          "duke",
+          "georgia-tech",
+          "miami-fl",
+          "north-carolina",
+          "virginia",
+          "virginia-tech"
+        ]
+      },
+      "notes": "Expanded to 12 in 2004-05 by raiding the Big East (Miami, Virginia Tech, Boston College). Later added Pitt and Syracuse (2013), Notre Dame non-football (2013), Louisville (2014, replacing Maryland), and Cal, Stanford and SMU (2024).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "big-east-2010",
+      "name": "Big East Conference (1979-2013)",
+      "shortName": "Big East",
+      "hq": {
+        "city": "Providence",
+        "state": "RI"
+      },
+      "bcsAQ": true,
+      "commissioner": {
+        "id": "john-marinatto",
+        "name": "John Marinatto",
+        "since": 2009,
+        "background": "conference-deputy",
+        "backgroundNote": "Former Providence College AD. Big East senior associate commissioner before succeeding Mike Tranghese (July 2009). Resigned May 2012."
+      },
+      "footballMembers": [
+        "cincinnati",
+        "uconn",
+        "louisville",
+        "pitt",
+        "rutgers",
+        "south-florida",
+        "syracuse",
+        "west-virginia"
+      ],
+      "allSportsMembers": [
+        "cincinnati",
+        "uconn",
+        "louisville",
+        "pitt",
+        "rutgers",
+        "south-florida",
+        "syracuse",
+        "west-virginia"
+      ],
+      "nonFootballMembers": [
+        "depaul",
+        "georgetown",
+        "marquette",
+        "notre-dame",
+        "providence",
+        "st-johns",
+        "seton-hall",
+        "villanova"
+      ],
+      "footballOnly": [],
+      "nonFootballMembersFootballHomes": {
+        "notre-dame": "independent (FBS)",
+        "georgetown": "patriot (FCS)",
+        "villanova": "caa (FCS)",
+        "depaul": "none",
+        "marquette": "none",
+        "providence": "none",
+        "st-johns": "none",
+        "seton-hall": "none"
+      },
+      "mediaDeals": [
+        {
+          "partner": "espn",
+          "years": "2007-08 to 2012-13 (6 yrs)",
+          "annualValueUsd": 33000000,
+          "totalValueUsd": 200000000,
+          "notes": "Combined football and basketball ESPN deal, ~$200M over 6 years.",
+          "confidence": "low"
+        },
+        {
+          "partner": "cbs",
+          "years": "through 2012-13",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "CBS basketball package. Value not verified.",
+          "confidence": "low"
+        }
+      ],
+      "basketballTournament": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "since": 1983
+      },
+      "notes": "Sixteen full members: 8 played FBS football in the league and 8 did not (the \"hybrid\" model that later split the league). Spring 2011: the presidents turned down a reported ~9-year, ~$1.1-1.4B ESPN offer (low confidence on figure) hoping for more, then lost Pitt, Syracuse (Sept 2011), West Virginia (Oct 2011) and TCU before TCU ever played a game. Lineage: in 2013 the football schools kept the legal charter, renamed the American Athletic Conference (id `american`). The 7 Catholic non-FBS schools took the Big East name (id `big-east`).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+        "https://en.wikipedia.org/wiki/Big_East_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "pac-10",
+      "name": "Pacific-10 Conference",
+      "shortName": "Pac-10",
+      "hq": {
+        "city": "Walnut Creek",
+        "state": "CA"
+      },
+      "bcsAQ": true,
+      "commissioner": {
+        "id": "larry-scott",
+        "name": "Larry Scott",
+        "since": 2009,
+        "background": "pro-league-exec",
+        "backgroundNote": "Former chairman/CEO of the WTA Tour. Took office July 2009."
+      },
+      "footballMembers": [
+        "arizona",
+        "arizona-state",
+        "cal",
+        "oregon",
+        "oregon-state",
+        "stanford",
+        "ucla",
+        "usc",
+        "washington",
+        "washington-state"
+      ],
+      "allSportsMembers": [
+        "arizona",
+        "arizona-state",
+        "cal",
+        "oregon",
+        "oregon-state",
+        "stanford",
+        "ucla",
+        "usc",
+        "washington",
+        "washington-state"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [],
+      "mediaDeals": [
+        {
+          "partner": "espn",
+          "years": "2006-07 to 2011-12",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "ABC/ESPN football. Combined with the Fox package, total TV was reportedly ~$55-60M a year, the lowest of the BCS leagues per school.",
+          "confidence": "low"
+        },
+        {
+          "partner": "fox",
+          "years": "2006-07 to 2011-12",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "Fox Sports Net football and basketball.",
+          "confidence": "low"
+        }
+      ],
+      "pendingAtAsOf": [
+        {
+          "school": "colorado",
+          "change": "join",
+          "announced": "2010-06-10",
+          "effective": "2011-07-01"
+        },
+        {
+          "school": "utah",
+          "change": "join",
+          "announced": "2010-06-17",
+          "effective": "2011-07-01"
+        }
+      ],
+      "notes": "Scott's 'Pac-16' raid of the Big 12 failed on 2010-06-14/15 when Texas stayed. He settled for Colorado and Utah, renamed the league Pac-12 (2011-07-01), and signed a 12-yr ~$3B ESPN/Fox deal (May 2011, from 2012-13) plus the wholly owned Pac-12 Networks (launched Aug 2012). Lineage: `pac-10` becomes `pac-12` on 2011-07-01.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pac-12_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "mountain-west",
+      "name": "Mountain West Conference",
+      "shortName": "MWC",
+      "hq": {
+        "city": "Colorado Springs",
+        "state": "CO"
+      },
+      "bcsAQ": false,
+      "commissioner": {
+        "id": "craig-thompson",
+        "name": "Craig Thompson",
+        "since": 1998,
+        "background": "other",
+        "backgroundNote": "Founding MWC commissioner (hired 1998). Previously Sun Belt commissioner. Career conference administrator."
+      },
+      "footballMembers": [
+        "air-force",
+        "byu",
+        "colorado-state",
+        "new-mexico",
+        "san-diego-state",
+        "tcu",
+        "unlv",
+        "utah",
+        "wyoming"
+      ],
+      "allSportsMembers": [
+        "air-force",
+        "byu",
+        "colorado-state",
+        "new-mexico",
+        "san-diego-state",
+        "tcu",
+        "unlv",
+        "utah",
+        "wyoming"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [],
+      "mediaDeals": [
+        {
+          "partner": "cbs",
+          "years": "2006-07 onward (10-yr agreement, restructured 2011-12)",
+          "annualValueUsd": 12000000,
+          "totalValueUsd": null,
+          "notes": "The mtn. (MountainWest Sports Network), a CBS College Sports/Comcast joint venture, plus Versus. Reported ~$12M a year. The network folded in 2012 after Utah, BYU and TCU left.",
+          "confidence": "low"
+        }
+      ],
+      "pendingAtAsOf": [
+        {
+          "school": "utah",
+          "change": "leave",
+          "to": "pac-12",
+          "announced": "2010-06-17",
+          "effective": "2011-07-01"
+        },
+        {
+          "school": "boise-state",
+          "change": "join",
+          "from": "wac-2010",
+          "announced": "2010-06-11",
+          "effective": "2011-07-01"
+        }
+      ],
+      "notes": "Formed in 1999 by the eight schools that left the 16-team WAC (see precedents.json). In 2008-11 it was seeking BCS automatic-qualifier status under the BCS evaluation and was the strongest non-AQ league (Utah unbeaten in 2004 and 2008, TCU unbeaten in 2010). That case fell apart in Aug 2010: after the asOf date, Fresno State and Nevada were added (2010-08-18) and BYU left for independence (2010-08-31). TCU left after 2011 (Big East, then Big 12).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "wac-2010",
+      "name": "Western Athletic Conference",
+      "shortName": "WAC",
+      "hq": {
+        "city": "Englewood",
+        "state": "CO",
+        "confidence": "low"
+      },
+      "bcsAQ": false,
+      "commissioner": {
+        "id": "karl-benson",
+        "name": "Karl Benson",
+        "since": 1994,
+        "background": "other",
+        "backgroundNote": "Former MAC commissioner (1990-94). Left for the Sun Belt in 2012."
+      },
+      "footballMembers": [
+        "boise-state",
+        "fresno-state",
+        "hawaii",
+        "idaho",
+        "louisiana-tech",
+        "nevada",
+        "new-mexico-state",
+        "san-jose-state",
+        "utah-state"
+      ],
+      "allSportsMembers": [
+        "boise-state",
+        "fresno-state",
+        "hawaii",
+        "idaho",
+        "louisiana-tech",
+        "nevada",
+        "new-mexico-state",
+        "san-jose-state",
+        "utah-state"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [],
+      "mediaDeals": [
+        {
+          "partner": "espn",
+          "years": "through 2011-12",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "ESPN football and basketball package. Value not verified (small, low single-digit millions a year).",
+          "confidence": "low"
+        }
+      ],
+      "pendingAtAsOf": [
+        {
+          "school": "boise-state",
+          "change": "leave",
+          "to": "mountain-west",
+          "announced": "2010-06-11",
+          "effective": "2011-07-01"
+        }
+      ],
+      "notes": "In Aug 2010 the WAC tried to land BYU (all sports except football) and had members sign a ~$5M-per-school loyalty buyout. Fresno State and Nevada bolted to the MWC anyway (2010-08-18). The WAC backfilled with Texas State and UTSA (football, 2012), plus Seattle U, Denver and UT Arlington (non-football). By 2013 every football member was gone, and WAC FBS football ended after the 2012 season. Lineage: `wac-2010` becomes the non-football `wac` on 2013-07-01. The WAC re-added FCS football 2021-22, then folded it into the United Athletic Conference (see precedents.json).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "cusa-2010",
+      "name": "Conference USA",
+      "shortName": "C-USA",
+      "hq": {
+        "city": "Irving",
+        "state": "TX"
+      },
+      "bcsAQ": false,
+      "commissioner": {
+        "id": "britton-banowsky",
+        "name": "Britton Banowsky",
+        "since": 2002,
+        "background": "conference-deputy",
+        "backgroundNote": "Attorney. C-USA senior staff under founding commissioner Mike Slive before succeeding him in 2002. Left in 2015 for the CFP Foundation.",
+        "confidence": "low"
+      },
+      "footballMembers": [
+        "east-carolina",
+        "marshall",
+        "memphis",
+        "southern-miss",
+        "uab",
+        "ucf",
+        "houston",
+        "rice",
+        "smu",
+        "tulane",
+        "tulsa",
+        "utep"
+      ],
+      "allSportsMembers": [
+        "east-carolina",
+        "marshall",
+        "memphis",
+        "southern-miss",
+        "uab",
+        "ucf",
+        "houston",
+        "rice",
+        "smu",
+        "tulane",
+        "tulsa",
+        "utep"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [],
+      "divisions": {
+        "East": [
+          "east-carolina",
+          "marshall",
+          "memphis",
+          "southern-miss",
+          "uab",
+          "ucf"
+        ],
+        "West": [
+          "houston",
+          "rice",
+          "smu",
+          "tulane",
+          "tulsa",
+          "utep"
+        ]
+      },
+      "mediaDeals": [
+        {
+          "partner": "cbs",
+          "years": "through 2010-11",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "CBS College Sports and ESPN packages. Replaced from 2011-12 by 5-year Fox Sports Media Group and CBS Sports Network deals. Values not verified.",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Same legal entity as today's `cusa`. The id switches to `cusa` on 2013-07-01, when Houston, Memphis, SMU and UCF left for the Big East/American, followed by ECU, Tulane and Tulsa in 2014. C-USA was founded in 1995 by merging the Metro and Great Midwest conferences (football began 1996). It was rebuilt in 2005 after losing Cincinnati, Louisville, USF, DePaul and Marquette to the Big East, and again in 2013, 2014, 2023 and 2025 (see realignment_timeline.json).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Conference_USA",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "mac",
+      "name": "Mid-American Conference",
+      "shortName": "MAC",
+      "hq": {
+        "city": "Cleveland",
+        "state": "OH"
+      },
+      "bcsAQ": false,
+      "commissioner": {
+        "id": "jon-steinbrecher",
+        "name": "Jon Steinbrecher",
+        "since": 2009,
+        "background": "other",
+        "backgroundNote": "Former Ohio Valley Conference commissioner. Hired March 2009 to succeed Rick Chryst. Still MAC commissioner in 2026."
+      },
+      "footballMembers": [
+        "akron",
+        "ball-state",
+        "bowling-green",
+        "buffalo",
+        "central-michigan",
+        "eastern-michigan",
+        "kent-state",
+        "miami-oh",
+        "northern-illinois",
+        "ohio",
+        "temple",
+        "toledo",
+        "western-michigan"
+      ],
+      "allSportsMembers": [
+        "akron",
+        "ball-state",
+        "bowling-green",
+        "buffalo",
+        "central-michigan",
+        "eastern-michigan",
+        "kent-state",
+        "miami-oh",
+        "northern-illinois",
+        "ohio",
+        "toledo",
+        "western-michigan"
+      ],
+      "nonFootballMembers": [],
+      "footballOnly": [
+        "temple"
+      ],
+      "footballOnlyOtherConference": {
+        "temple": "a10"
+      },
+      "divisions": {
+        "East": [
+          "akron",
+          "bowling-green",
+          "buffalo",
+          "kent-state",
+          "miami-oh",
+          "ohio",
+          "temple"
+        ],
+        "West": [
+          "ball-state",
+          "central-michigan",
+          "eastern-michigan",
+          "northern-illinois",
+          "toledo",
+          "western-michigan"
+        ]
+      },
+      "mediaDeals": [
+        {
+          "partner": "espn",
+          "years": "through 2016-17",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "ESPN package that created weeknight \"MACtion\". Replaced by a 13-year ESPN deal in 2014 (reported ~$100M+). Value not verified.",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Temple was a football-only member (2007-11) and moved to the Big East in 2012. UMass joined as football-only in 2012 (left after 2015, returned as a full member in 2025). NIU left for MWC football and the Horizon League in 2026. Sacramento State became a football-only member in 2026.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mid-American_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    },
+    {
+      "id": "sun-belt",
+      "name": "Sun Belt Conference",
+      "shortName": "Sun Belt",
+      "hq": {
+        "city": "New Orleans",
+        "state": "LA"
+      },
+      "bcsAQ": false,
+      "commissioner": {
+        "id": "wright-waters",
+        "name": "Wright Waters",
+        "since": 1998,
+        "background": "other",
+        "backgroundNote": "Long-time conference administrator who led the Sun Belt into football (2001). Retired 2012 and was succeeded by Karl Benson.",
+        "confidence": "low"
+      },
+      "footballMembers": [
+        "arkansas-state",
+        "fau",
+        "fiu",
+        "louisiana",
+        "ulm",
+        "middle-tennessee",
+        "north-texas",
+        "troy",
+        "western-kentucky"
+      ],
+      "allSportsMembers": [
+        "arkansas-state",
+        "fau",
+        "fiu",
+        "louisiana",
+        "ulm",
+        "middle-tennessee",
+        "north-texas",
+        "troy",
+        "western-kentucky"
+      ],
+      "nonFootballMembers": [
+        "denver",
+        "little-rock",
+        "south-alabama"
+      ],
+      "footballOnly": [],
+      "nonFootballMembersNotes": "South Alabama football (started 2009) was a transitional FCS/independent program until joining Sun Belt FBS football in 2012. Denver left for the WAC in 2012 and Little Rock for the OVC in 2022. New Orleans was leaving D-I around this time; its 2010-11 status is unverified and it is omitted.",
+      "mediaDeals": [
+        {
+          "partner": "espn",
+          "years": "through ~2013",
+          "annualValueUsd": null,
+          "totalValueUsd": null,
+          "notes": "ESPN Regional/ESPN Plus syndication plus some ESPN-network windows. Value not verified (minimal).",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Began sponsoring football in 2001 with castoffs from the Big West, which dropped football after 2000 (see precedents.json). It lost FAU, FIU, Middle Tennessee and North Texas (2013) and WKU (2014) to C-USA, then rebuilt with FCS move-ups and C-USA defectors into the strongest G5 football league by the 2020s.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+        "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season"
+      ]
+    }
+  ],
+  "independents": [
+    "notre-dame",
+    "army",
+    "navy"
+  ],
+  "independentsNotes": "Notre Dame was an independent in football and a Big East member in other sports (NBC deal since 1991). Army and Navy were independents in football and Patriot League in other sports. BYU became independent in 2011, Idaho and New Mexico State in 2013 (then Sun Belt football-only 2014-17), UMass 2016-24, Liberty 2018-22, UConn 2020-.",
+  "fcsSchoolsThatLaterMovedUp": [
+    {
+      "id": "app-state",
+      "conference2010": "socon",
+      "allSports2010": "socon",
+      "fbsEntry": 2014,
+      "fbsConference": "sun-belt"
+    },
+    {
+      "id": "georgia-southern",
+      "conference2010": "socon",
+      "allSports2010": "socon",
+      "fbsEntry": 2014,
+      "fbsConference": "sun-belt"
+    },
+    {
+      "id": "old-dominion",
+      "conference2010": "fcs-independent",
+      "allSports2010": "caa",
+      "fbsEntry": 2014,
+      "fbsConference": "cusa",
+      "notes": "Football revived 2009. CAA football 2011-12. Joined C-USA all sports 2013 (football 2014). Moved to the Sun Belt 2022."
+    },
+    {
+      "id": "georgia-state",
+      "conference2010": "fcs-independent",
+      "allSports2010": "caa",
+      "fbsEntry": 2013,
+      "fbsConference": "sun-belt",
+      "notes": "First football season 2010. CAA football 2012."
+    },
+    {
+      "id": "massachusetts",
+      "conference2010": "caa",
+      "allSports2010": "a10",
+      "fbsEntry": 2012,
+      "fbsConference": "mac",
+      "notes": "MAC football-only 2012-15, independent 2016-24, MAC full member 2025."
+    },
+    {
+      "id": "texas-state",
+      "conference2010": "southland",
+      "allSports2010": "southland",
+      "fbsEntry": 2012,
+      "fbsConference": "wac-2010",
+      "notes": "WAC 2012, Sun Belt 2013-26, Pac-12 2026."
+    },
+    {
+      "id": "utsa",
+      "conference2010": "none",
+      "allSports2010": "southland",
+      "fbsEntry": 2012,
+      "fbsConference": "wac-2010",
+      "notes": "First football season 2011 (FCS independent). WAC 2012, C-USA 2013, American 2023."
+    },
+    {
+      "id": "south-alabama",
+      "conference2010": "fcs-independent",
+      "allSports2010": "sun-belt",
+      "fbsEntry": 2012,
+      "fbsConference": "sun-belt",
+      "notes": "Football started 2009 and played a transitional schedule."
+    },
+    {
+      "id": "charlotte",
+      "conference2010": "none",
+      "allSports2010": "a10",
+      "fbsEntry": 2015,
+      "fbsConference": "cusa",
+      "notes": "Football started 2013 (FCS). C-USA all sports 2013, football 2015. American 2023."
+    },
+    {
+      "id": "coastal-carolina",
+      "conference2010": "big-south",
+      "allSports2010": "big-south",
+      "fbsEntry": 2017,
+      "fbsConference": "sun-belt"
+    },
+    {
+      "id": "liberty",
+      "conference2010": "big-south",
+      "allSports2010": "big-south",
+      "fbsEntry": 2018,
+      "fbsConference": "independent",
+      "notes": "FBS independent 2018-22 (NCAA waiver of the conference-invitation rule). C-USA 2023."
+    },
+    {
+      "id": "james-madison",
+      "conference2010": "caa",
+      "allSports2010": "caa",
+      "fbsEntry": 2022,
+      "fbsConference": "sun-belt",
+      "notes": "To the American by 2027-28 (announced 2026-10-12)."
+    },
+    {
+      "id": "sam-houston",
+      "conference2010": "southland",
+      "allSports2010": "southland",
+      "fbsEntry": 2023,
+      "fbsConference": "cusa",
+      "notes": "WAC 2021-23 before C-USA."
+    },
+    {
+      "id": "jacksonville-state",
+      "conference2010": "ovc",
+      "allSports2010": "ovc",
+      "fbsEntry": 2023,
+      "fbsConference": "cusa",
+      "notes": "ASUN 2021-23 before C-USA."
+    },
+    {
+      "id": "kennesaw-state",
+      "conference2010": "none",
+      "allSports2010": "asun",
+      "fbsEntry": 2024,
+      "fbsConference": "cusa",
+      "notes": "Football started 2015 (Big South), then ASUN football 2022."
+    },
+    {
+      "id": "delaware",
+      "conference2010": "caa",
+      "allSports2010": "caa",
+      "fbsEntry": 2025,
+      "fbsConference": "cusa"
+    },
+    {
+      "id": "missouri-state",
+      "conference2010": "mvfc",
+      "allSports2010": "mvc",
+      "fbsEntry": 2025,
+      "fbsConference": "cusa"
+    },
+    {
+      "id": "sacramento-state",
+      "conference2010": "big-sky",
+      "allSports2010": "big-sky",
+      "fbsEntry": 2026,
+      "fbsConference": "mac",
+      "notes": "MAC football-only 2026. Other sports to the Big West 2026-27. Bowl/CFP-eligible from 2028."
+    },
+    {
+      "id": "north-dakota-state",
+      "conference2010": "mvfc",
+      "allSports2010": "summit",
+      "fbsEntry": 2026,
+      "fbsConference": "mountain-west",
+      "notes": "MWC football-only 2026. Other sports stay in the Summit League. Postseason-eligible from 2028."
+    }
+  ],
+  "fcsSchoolsThatMovedDown": [
+    {
+      "id": "idaho",
+      "conference2010": "wac-2010",
+      "moved": "Big Sky (FCS) football 2018 after the Sun Belt dropped its football-only membership. The only voluntary FBS-to-FCS drop of the era."
+    }
+  ],
+  "otherNotableSchools2010": [
+    {
+      "id": "gonzaga",
+      "conference2010": "wcc",
+      "football2010": "none",
+      "laterMove": "Pac-12 non-football member 2026-07-01."
+    },
+    {
+      "id": "butler",
+      "conference2010": "horizon",
+      "football2010": "pioneer (FCS non-scholarship)",
+      "laterMove": "A-10 2012-13, then the new Big East 2013."
+    },
+    {
+      "id": "creighton",
+      "conference2010": "mvc",
+      "football2010": "none",
+      "laterMove": "Big East 2013."
+    },
+    {
+      "id": "xavier",
+      "conference2010": "a10",
+      "football2010": "none",
+      "laterMove": "Big East 2013."
+    },
+    {
+      "id": "wichita-state",
+      "conference2010": "mvc",
+      "football2010": "none",
+      "laterMove": "American (non-football) 2017."
+    },
+    {
+      "id": "temple",
+      "conference2010": "a10",
+      "football2010": "mac (football-only)",
+      "laterMove": "Big East football 2012, all sports 2013, which became the American."
+    },
+    {
+      "id": "byu",
+      "conference2010": "mountain-west",
+      "football2010": "mountain-west",
+      "laterMove": "Football independent and WCC 2011-23. Big 12 2023."
+    },
+    {
+      "id": "saint-marys",
+      "conference2010": "wcc",
+      "football2010": "none",
+      "laterMove": "Still in the WCC (2026)."
+    },
+    {
+      "id": "seattle-u",
+      "conference2010": "independent-d1",
+      "football2010": "none",
+      "laterMove": "WAC 2012, WCC 2025."
+    },
+    {
+      "id": "denver",
+      "conference2010": "sun-belt",
+      "football2010": "none",
+      "laterMove": "WAC 2012, Summit 2013."
+    },
+    {
+      "id": "grand-canyon",
+      "conference2010": "pacwest (D-II)",
+      "football2010": "none",
+      "laterMove": "D-I WAC 2013, Mountain West (non-football) 2025-07-01."
+    },
+    {
+      "id": "uc-davis",
+      "conference2010": "big-west",
+      "football2010": "great-west (FCS)",
+      "laterMove": "Big Sky football 2012. Mountain West non-football 2026-07-01."
+    },
+    {
+      "id": "hawaii",
+      "conference2010": "wac-2010",
+      "football2010": "wac-2010",
+      "laterMove": "MWC football and Big West 2012. MWC full member 2026."
+    },
+    {
+      "id": "vcu",
+      "conference2010": "caa",
+      "football2010": "none",
+      "laterMove": "A-10 2012."
+    },
+    {
+      "id": "utah-valley",
+      "conference2010": "great-west",
+      "football2010": "none",
+      "laterMove": "WAC 2013, Big West 2026 (unverified).",
+      "confidence": "low"
+    }
+  ],
+  "lineage": [
+    {
+      "from": "pac-10",
+      "to": "pac-12",
+      "effective": "2011-07-01",
+      "note": "Rename on adding Colorado and Utah. Same legal entity."
+    },
+    {
+      "from": "big-east-2010",
+      "to": "american",
+      "effective": "2013-07-01",
+      "note": "Football schools kept the charter, renamed American Athletic Conference (announced 2013-04-03), rebranded \"American Conference\" in 2025. The Catholic 7 formed a new conference that bought/kept the Big East name (`big-east`)."
+    },
+    {
+      "from": "wac-2010",
+      "to": "wac",
+      "effective": "2013-07-01",
+      "note": "Same entity. FBS football ended after the 2012 season. It became `uac` (United Athletic Conference rebrand) on 2026-07-01 (low confidence)."
+    },
+    {
+      "from": "cusa-2010",
+      "to": "cusa",
+      "effective": "2013-07-01",
+      "note": "Same entity. The id switches on the date the first wave of 2010 members departed."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2010_NCAA_Division_I_FBS_football_season",
+    "https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)",
+    "https://en.wikipedia.org/wiki/Western_Athletic_Conference",
+    "https://en.wikipedia.org/wiki/Mountain_West_Conference",
+    "https://en.wikipedia.org/wiki/Conference_USA",
+    "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
+    "https://en.wikipedia.org/wiki/Mid-American_Conference",
+    "https://en.wikipedia.org/wiki/Pac-12_Conference",
+    "https://en.wikipedia.org/wiki/Big_12_Conference"
+  ]
+}
