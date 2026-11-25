@@ -1,0 +1,522 @@
+[
+  {
+    "id": "delaware",
+    "name": "University of Delaware",
+    "shortName": "Delaware",
+    "abbr": "DEL",
+    "mascot": "Fightin' Blue Hens",
+    "colors": ["#00539F", "#FFD200"],
+    "city": "Newark", "state": "DE",
+    "lat": 39.6780, "lon": -75.7506,
+    "dma": { "name": "Philadelphia, PA", "rank": 5 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 24000,
+    "usNewsRank": 105,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2000000000,
+    "athletics": {
+      "revenueUsd": 55000000,
+      "expensesUsd": 55000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); C-USA schools pay well below the cap. Amount not verified.",
+      "stadium": { "name": "Delaware Stadium (Tubby Raymond Field)", "capacity": 18800 },
+      "arena": { "name": "Bob Carpenter Center", "capacity": 5000 },
+      "confidence": "low",
+      "note": "Approximate finances; opt-in not verified this session."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "caa", "football": "caa", "level": "FCS" }
+    },
+    "ratings": {
+      "football": 22, "mbb": 33, "wbb": 40, "olympic": 32,
+      "brand": 25, "facilities": 35, "fanBase": 30,
+      "boosterInfluence": 35, "statePoliticalPressure": 30
+    },
+    "ratingNotes": "FB: storied FCS program (2003 I-AA national title, the Tubby Raymond era). FBS transition ran 2024-25, with its first C-USA season in 2025. Ryan Carty since 2022. MBB: 2022 NCAA as CAA champs. WBB: Elena Delle Donne-era Sweet 16 (2013).",
+    "rivals": ["villanova", "james-madison", "towson"],
+    "president": { "name": "Laura Carlson", "title": "President", "since": 2025, "confidence": "low", "note": "Interim from 2024 after Dennis Assanis left; permanent appointment from memory" },
+    "ad": { "name": "Chrissi Rawak", "since": 2016 },
+    "headFootballCoach": { "name": "Ryan Carty", "since": 2022 },
+    "headMbbCoach": { "name": "Martin Ingelsby", "since": 2016, "confidence": "low", "note": "Not verified for 2026-27" },
+    "notes": "Moved up from the CAA in July 2025 (announced Nov 2023), joining as an all-sports member. A reported entry fee is part of the deal; amount not verified. Geographically isolated in C-USA (nearest league foes hundreds of miles away), which drives up travel costs and makes it a target if an eastern league such as the American, MAC or Sun Belt shuffles. Philadelphia/Wilmington market; Joe Biden is an alumnus; DuPont-family philanthropy. Privately chartered but state-assisted (control set to 'public').",
+    "lowConfidenceFields": ["usNewsRank", "endowmentUsd", "athletics", "president", "headMbbCoach"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/University_of_Delaware",
+      "https://en.wikipedia.org/wiki/Delaware_Fightin%27_Blue_Hens",
+      "https://bluehens.com/news/2026/4/29/conference-usa-announces-updated-2026-football-schedule",
+      "https://www.espn.com/mens-college-basketball/story/_/id/49973549/college-basketball-conference-changes-realignment"
+    ]
+  },
+  {
+    "id": "fiu",
+    "name": "Florida International University",
+    "shortName": "FIU",
+    "abbr": "FIU",
+    "mascot": "Panthers",
+    "colors": ["#081E3F", "#B6862C"],
+    "city": "Miami", "state": "FL",
+    "lat": 25.7562, "lon": -80.3755,
+    "dma": { "name": "Miami-Ft. Lauderdale, FL", "rank": 16 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 56000,
+    "usNewsRank": 133,
+    "usNewsCategory": "national",
+    "endowmentUsd": 350000000,
+    "athletics": {
+      "revenueUsd": 40000000,
+      "expensesUsd": 40000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); well below cap. Amount not verified.",
+      "stadium": { "name": "Pitbull Stadium", "capacity": 20000 },
+      "arena": { "name": "Ocean Bank Convocation Center", "capacity": 5000 },
+      "confidence": "low",
+      "note": "Approximate finances."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "sun-belt", "football": "sun-belt", "level": "FBS" }
+    },
+    "ratings": {
+      "football": 24, "mbb": 25, "wbb": 20, "olympic": 25,
+      "brand": 18, "facilities": 30, "fanBase": 15,
+      "boosterInfluence": 30, "statePoliticalPressure": 60
+    },
+    "ratingNotes": "FB: 2010 Sun Belt co-champs; Butch Davis era 2017-21. Willie Simmons (from FAMU) since 2025, with improvement in 2025 (record not verified). MBB: no NCAA trip since 1995; Isiah Thomas coached 2009-12. Fan base: worst attendance profile in a huge market.",
+    "rivals": ["fau", "miami-fl"],
+    "president": { "name": "Jeanette Nuñez", "title": "President", "since": 2024, "confidence": "low", "note": "Former Florida Lt. Governor; interim from Sept 2024, then made permanent (from memory)" },
+    "ad": { "name": "Scott Carr", "since": 2019 },
+    "headFootballCoach": { "name": "Willie Simmons", "since": 2025 },
+    "headMbbCoach": { "name": null, "since": 2025, "confidence": "low", "note": "Jeremy Ballard was fired in March 2025; the successor's name was not verified this session" },
+    "notes": "C-USA's largest enrollment, in a top-20 market, but with little fan pull. Its president, a former Lt. Governor, is the clearest example of Florida's politicized Board of Governors appointments, so state pressure is high. Floated as a possible Sun Belt replacement for JMU (Florida footprint). Stadium naming rights belong to the rapper Pitbull. Shula Bowl rivalry with FAU.",
+    "lowConfidenceFields": ["usNewsRank", "endowmentUsd", "athletics", "president", "headMbbCoach"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Florida_International_University",
+      "https://en.wikipedia.org/wiki/FIU_Panthers",
+      "https://athlonsports.com/college-football/expansion-realignment-whats-next-american-conference-james-madison",
+      "https://www.espn.com/mens-college-basketball/story/_/id/49973549/college-basketball-conference-changes-realignment"
+    ]
+  },
+  {
+    "id": "jacksonville-state",
+    "name": "Jacksonville State University",
+    "shortName": "Jacksonville State",
+    "abbr": "JVST",
+    "mascot": "Gamecocks",
+    "colors": ["#CC092F", "#FFFFFF"],
+    "city": "Jacksonville", "state": "AL",
+    "lat": 33.8232, "lon": -85.7647,
+    "dma": { "name": "Birmingham (Anniston and Tuscaloosa), AL", "rank": 44 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 9700,
+    "usNewsRank": null,
+    "usNewsCategory": "regional",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 30000000,
+      "expensesUsd": 30000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); small partial payments. Amount not verified.",
+      "stadium": { "name": "AmFirst Stadium (Burgess-Snow Field)", "capacity": 24000 },
+      "arena": { "name": "Pete Mathews Coliseum", "capacity": 5500 },
+      "confidence": "low",
+      "note": "Approximate finances."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "ovc", "football": "ovc", "level": "FCS" }
+    },
+    "ratings": {
+      "football": 30, "mbb": 33, "wbb": 28, "olympic": 25,
+      "brand": 18, "facilities": 35, "fanBase": 28,
+      "boosterInfluence": 30, "statePoliticalPressure": 35
+    },
+    "ratingNotes": "FB: FCS power (2015 FCS runner-up), FBS since 2023. Under Rich Rodriguez (2022-24) it won the 2024 C-USA title, routing WKU in the title game, before he left for West Virginia. Charles Kelly since 2025; reached the 2025 C-USA title game (lost to Kennesaw State; from memory). MBB: Ray Harper; NCAA 2017 and 2022.",
+    "rivals": ["troy", "kennesaw-state", "samford"],
+    "president": { "name": "Don C. Killingsworth Jr.", "title": "President", "since": 2020 },
+    "ad": { "name": "Greg Seitz", "since": 2006 },
+    "headFootballCoach": { "name": "Charles Kelly", "since": 2025 },
+    "headMbbCoach": { "name": "Ray Harper", "since": 2016 },
+    "notes": "Moved from the ASUN/WAC to C-USA and FBS in 2023 and rebranded as 'Jax State'. A low-cost, small-town Alabama operation that wins efficiently on the field. Recovered from the 2018 tornado. Possible Sun Belt target (regional fit) if that league replaces JMU.",
+    "lowConfidenceFields": ["enrollment", "usNewsCategory", "athletics"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jacksonville_State_University",
+      "https://en.wikipedia.org/wiki/Jacksonville_State_Gamecocks",
+      "https://jaxstatesports.com/news/2026/4/29/conference-usa-announces-adjusted-2026-football-schedule",
+      "https://www.espn.com/mens-college-basketball/story/_/id/49973549/college-basketball-conference-changes-realignment"
+    ]
+  },
+  {
+    "id": "kennesaw-state",
+    "name": "Kennesaw State University",
+    "shortName": "Kennesaw State",
+    "abbr": "KENN",
+    "mascot": "Owls",
+    "colors": ["#000000", "#FDBB30"],
+    "city": "Kennesaw", "state": "GA",
+    "lat": 34.0382, "lon": -84.5827,
+    "dma": { "name": "Atlanta, GA", "rank": 6 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 47000,
+    "usNewsRank": null,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 35000000,
+      "expensesUsd": 35000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); small partial payments. Amount not verified.",
+      "stadium": { "name": "Fifth Third Stadium", "capacity": 8300 },
+      "arena": { "name": "KSU Convocation Center", "capacity": 4600 },
+      "confidence": "low",
+      "note": "Approximate finances. The stadium is the smallest in FBS; expansion has been discussed."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "asun", "football": null, "level": "none" }
+    },
+    "ratings": {
+      "football": 30, "mbb": 33, "wbb": 25, "olympic": 28,
+      "brand": 15, "facilities": 30, "fanBase": 18,
+      "boosterInfluence": 30, "statePoliticalPressure": 35
+    },
+    "ratingNotes": "FB: program began in 2015 under Brian Bohannon and made regular FCS playoff trips. FBS transition year 2024 went 2-10. Jerry Mack since 2025; won the 2025 C-USA title over Jacksonville State (from memory, not verified). MBB: 2023 NCAA as ASUN champs (nearly upset Xavier).",
+    "rivals": ["jacksonville-state", "georgia-state", "liberty"],
+    "president": { "name": "Kathy Schwaig", "title": "President", "since": 2020 },
+    "ad": { "name": "Milton Overton", "since": 2017 },
+    "headFootballCoach": { "name": "Jerry Mack", "since": 2025 },
+    "headMbbCoach": { "name": "Antoine Pettway", "since": 2023 },
+    "notes": "Enrollment boom in the Atlanta suburbs (merged with Southern Polytechnic in 2015). Joined C-USA in 2024 from the ASUN. Brand and stadium are far below its market potential; stadium expansion is an investment event hook. University System of Georgia Board of Regents oversight.",
+    "lowConfidenceFields": ["enrollment", "usNewsRank", "athletics"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kennesaw_State_University",
+      "https://en.wikipedia.org/wiki/Kennesaw_State_Owls",
+      "https://ksuowls.com/news/2026/4/29/kennesaw-state-footballs-cusa-schedule-updated.aspx",
+      "https://www.espn.com/mens-college-basketball/story/_/id/49973549/college-basketball-conference-changes-realignment"
+    ]
+  },
+  {
+    "id": "liberty",
+    "name": "Liberty University",
+    "shortName": "Liberty",
+    "abbr": "LIB",
+    "mascot": "Flames",
+    "colors": ["#0A254E", "#C8102E"],
+    "city": "Lynchburg", "state": "VA",
+    "lat": 37.3532, "lon": -79.1796,
+    "dma": { "name": "Roanoke-Lynchburg, VA", "rank": 68 },
+    "control": "private",
+    "religious": "Evangelical Christian (Baptist roots)",
+    "aau": false,
+    "enrollment": 100000,
+    "usNewsRank": null,
+    "usNewsCategory": "national",
+    "endowmentUsd": 2000000000,
+    "athletics": {
+      "revenueUsd": null,
+      "expensesUsd": null,
+      "fiscalYear": null,
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); C-USA's highest spender and believed the closest to the cap in the league. Amount not public.",
+      "stadium": { "name": "Williams Stadium", "capacity": 25000 },
+      "arena": { "name": "Liberty Arena", "capacity": 4000 },
+      "confidence": "low",
+      "note": "Private school, not in the USA Today database."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "big-south", "football": "big-south", "level": "FCS" }
+    },
+    "ratings": {
+      "football": 32, "mbb": 50, "wbb": 45, "olympic": 38,
+      "brand": 35, "facilities": 55, "fanBase": 35,
+      "boosterInfluence": 60, "statePoliticalPressure": 20
+    },
+    "ratingNotes": "FB: FBS independent 2018-22 (Hugh Freeze 2019-22). Under Jamey Chadwell it went 13-0 and won C-USA in 2023, earning the Fiesta Bowl (a New Year's Six game, not the CFP; lost 45-6 to Oregon). 2024 8-4; 2025 a sharp regression (record not verified). MBB: Ritchie McKay; NCAA 2019 (won a game), 2021 and 2025. WBB: frequent conference contender. Facilities: lavish recent investment.",
+    "rivals": ["james-madison", "old-dominion", "new-mexico-state"],
+    "president": { "name": "Dondi E. Costin", "title": "President", "since": 2023 },
+    "ad": { "name": "Ian McCaw", "since": 2016 },
+    "headFootballCoach": { "name": "Jamey Chadwell", "since": 2023 },
+    "headMbbCoach": { "name": "Ritchie McKay", "since": 2015 },
+    "notes": "Evangelical university founded by Jerry Falwell in 1971. Jerry Falwell Jr. resigned in 2020 amid scandal, and the Dept. of Education fined it a record $14M under the Clery Act in 2024. Huge online enrollment (~15k residential, ~100k total headcount) bankrolls athletics. Ran as an FBS independent with its own ESPN deal before joining C-USA in 2023. The most-cited Sun Belt replacement for fellow Virginia school JMU, and an American candidate. Religious-mission and culture-war factors (LGBTQ policies) can make P4 or American presidents hesitate, a ready-made event hook.",
+    "lowConfidenceFields": ["enrollment", "endowmentUsd", "usNewsRank", "athletics"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Liberty_University",
+      "https://en.wikipedia.org/wiki/Liberty_Flames",
+      "https://athlonsports.com/college-football/expansion-realignment-whats-next-american-conference-james-madison",
+      "https://www.on3.com/sites/tiger-sports-report/news/5-potential-american-conference-expansion-candidates"
+    ]
+  },
+  {
+    "id": "middle-tennessee",
+    "name": "Middle Tennessee State University",
+    "shortName": "Middle Tennessee",
+    "abbr": "MTSU",
+    "mascot": "Blue Raiders",
+    "colors": ["#0066CC", "#FFFFFF"],
+    "city": "Murfreesboro", "state": "TN",
+    "lat": 35.8486, "lon": -86.3669,
+    "dma": { "name": "Nashville, TN", "rank": 26 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 21500,
+    "usNewsRank": null,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 42000000,
+      "expensesUsd": 42000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); partial payments. Amount not verified.",
+      "stadium": { "name": "Johnny \"Red\" Floyd Stadium", "capacity": 30788 },
+      "arena": { "name": "Murphy Center", "capacity": 11520 },
+      "confidence": "low",
+      "note": "Approximate finances."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "sun-belt", "football": "sun-belt", "level": "FBS" }
+    },
+    "ratings": {
+      "football": 18, "mbb": 42, "wbb": 55, "olympic": 30,
+      "brand": 20, "facilities": 35, "fanBase": 25,
+      "boosterInfluence": 25, "statePoliticalPressure": 40
+    },
+    "ratingNotes": "FB: Rick Stockstill era (2006-23) brought frequent bowls. Derek Mason has struggled since 2024. MBB: famous NCAA upsets of #2 seed Michigan State (2016) and Minnesota (2017) under Kermit Davis. Nick McDevitt since 2019. WBB: Rick Insell built C-USA's best program (2024 NCAA win over Louisville).",
+    "rivals": ["western-kentucky", "tennessee-tech", "memphis"],
+    "president": { "name": "Sidney A. McPhee", "title": "President", "since": 2001, "confidence": "low", "note": "Long tenure; retirement timing not verified" },
+    "ad": { "name": "Chris Massaro", "since": 1999, "confidence": "low", "note": "Not verified for 2026" },
+    "headFootballCoach": { "name": "Derek Mason", "since": 2024, "confidence": "low", "note": "Hired Nov 2023. A post-2025 change is possible but was not verified." },
+    "headMbbCoach": { "name": "Nick McDevitt", "since": 2019 },
+    "notes": "Nashville-area school (Murfreesboro). Sun Belt member 2000-13, then C-USA, and a natural Sun Belt re-entry candidate after JMU leaves. The 100 Miles of Hate rivalry with WKU is the league's best rivalry. Tennessee Board of Trustees and legislature; Memphis's P4 push sets a statehouse precedent.",
+    "lowConfidenceFields": ["enrollment", "usNewsRank", "athletics", "president", "ad", "headFootballCoach"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Middle_Tennessee_State_University",
+      "https://en.wikipedia.org/wiki/Middle_Tennessee_Blue_Raiders",
+      "https://goblueraiders.com/news/2026/4/29/football-cusa-announces-revised-2026-football-schedule",
+      "https://www.espn.com/mens-college-basketball/story/_/id/49973549/college-basketball-conference-changes-realignment"
+    ]
+  },
+  {
+    "id": "missouri-state",
+    "name": "Missouri State University",
+    "shortName": "Missouri State",
+    "abbr": "MOST",
+    "mascot": "Bears",
+    "colors": ["#5E0009", "#FFFFFF"],
+    "city": "Springfield", "state": "MO",
+    "lat": 37.1970, "lon": -93.2810,
+    "dma": { "name": "Springfield, MO", "rank": 74 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 23500,
+    "usNewsRank": null,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 35000000,
+      "expensesUsd": 35000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); small partial payments. Amount not verified.",
+      "stadium": { "name": "Robert W. Plaster Stadium", "capacity": 17500 },
+      "arena": { "name": "Great Southern Bank Arena", "capacity": 11000 },
+      "confidence": "low",
+      "note": "Approximate finances."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "mvc", "football": "mvfc", "level": "FCS" }
+    },
+    "ratings": {
+      "football": 20, "mbb": 35, "wbb": 45, "olympic": 30,
+      "brand": 18, "facilities": 35, "fanBase": 25,
+      "boosterInfluence": 35, "statePoliticalPressure": 35
+    },
+    "ratingNotes": "FB: Bobby Petrino (2020-22) revived it with FCS playoff trips. Ryan Beard since 2023. FBS transition 2024-25, with its first C-USA season in 2025. MBB: 1999 Sweet 16; Cuonzo Martin returned as coach in 2025. WBB: 2001 Final Four (Jackie Stiles), 2021 Sweet 16.",
+    "rivals": ["wichita-state", "southeast-missouri-state", "southern-illinois"],
+    "president": { "name": "Richard \"Biff\" Williams", "title": "President", "since": 2021 },
+    "ad": { "name": "Patrick Ransdell", "since": 2024, "confidence": "low", "note": "Not verified" },
+    "headFootballCoach": { "name": "Ryan Beard", "since": 2023 },
+    "headMbbCoach": { "name": "Cuonzo Martin", "since": 2025 },
+    "notes": "Left the MVC and MVFC for all-sports C-USA membership in July 2025 and moved up to FBS. Losing a flagship school hurt the Valley. Springfield is an isolated market. Donor ties: the John Q. Hammons legacy and Bass Pro's Johnny Morris. Geographically closest to the old MVC footprint and to American member Wichita State.",
+    "lowConfidenceFields": ["enrollment", "usNewsRank", "usNewsCategory", "athletics", "ad"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Missouri_State_University",
+      "https://en.wikipedia.org/wiki/Missouri_State_Bears_and_Lady_Bears",
+      "https://missouristatebears.com/news/2026/4/29/revised-football-schedule-announced-by-conference-usa",
+      "https://www.espn.com/mens-college-basketball/story/_/id/49973549/college-basketball-conference-changes-realignment"
+    ]
+  },
+  {
+    "id": "new-mexico-state",
+    "name": "New Mexico State University",
+    "shortName": "New Mexico State",
+    "abbr": "NMSU",
+    "mascot": "Aggies",
+    "colors": ["#8C0B42", "#FFFFFF"],
+    "city": "Las Cruces", "state": "NM",
+    "lat": 32.2788, "lon": -106.7479,
+    "dma": { "name": "El Paso (Las Cruces), TX-NM", "rank": 91 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 14000,
+    "usNewsRank": null,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 33000000,
+      "expensesUsd": 33000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opt-in assumed but not verified; budget among the leanest in FBS.",
+      "stadium": { "name": "Aggie Memorial Stadium", "capacity": 28853 },
+      "arena": { "name": "Pan American Center", "capacity": 12515 },
+      "confidence": "low",
+      "note": "Approximate finances. The state legislature appropriates athletics money directly."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "wac-2010", "football": "wac-2010", "level": "FBS" }
+    },
+    "ratings": {
+      "football": 18, "mbb": 38, "wbb": 30, "olympic": 28,
+      "brand": 22, "facilities": 30, "fanBase": 25,
+      "boosterInfluence": 25, "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: FBS independent 2018-22. Under Jerry Kill it went 10-5 in 2023, beat Auburn and reached the C-USA title game; Kill then stepped away. Tony Sanchez has struggled since 2024. MBB: frequent NCAA trips out of the WAC (beat UConn in 2022). The 2022-23 season was cancelled in Feb 2023 over a hazing scandal, after a player's Nov 2022 fatal shooting incident at UNM.",
+    "rivals": ["new-mexico", "utep"],
+    "president": { "name": "Valerio Ferme", "title": "President (NMSU System)", "since": 2025, "confidence": "low", "note": "From memory: succeeded Chancellor Dan Arvizu; title restructured. Not verified." },
+    "ad": { "name": "Mario Moccia", "since": 2014 },
+    "headFootballCoach": { "name": "Tony Sanchez", "since": 2024 },
+    "headMbbCoach": { "name": "Jason Hooten", "since": 2023 },
+    "notes": "Joined C-USA in 2023 after the WAC and independence years. Since UTEP left for the Mountain West in July 2026, NMSU has lost its only nearby league partner and its Battle of I-10 conference game, which deepens its travel isolation. A natural Mountain West candidate and storyline. The New Mexico Legislature funds and scrutinizes athletics heavily after the 2022-23 scandals. Rio Grande Rivalry with New Mexico.",
+    "lowConfidenceFields": ["enrollment", "usNewsRank", "athletics", "president"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/New_Mexico_State_University",
+      "https://en.wikipedia.org/wiki/New_Mexico_State_Aggies",
+      "https://nmstatesports.com/news/2026/4/29/football-conference-usa-announces-updated-league-schedule-full-2026-slate-set-for-nm-state.aspx",
+      "https://www.espn.com/mens-college-basketball/story/_/id/49973549/college-basketball-conference-changes-realignment"
+    ]
+  },
+  {
+    "id": "sam-houston",
+    "name": "Sam Houston State University",
+    "shortName": "Sam Houston",
+    "abbr": "SHSU",
+    "mascot": "Bearkats",
+    "colors": ["#F76800", "#FFFFFF"],
+    "city": "Huntsville", "state": "TX",
+    "lat": 30.7140, "lon": -95.5466,
+    "dma": { "name": "Houston, TX", "rank": 7 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 22000,
+    "usNewsRank": null,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 32000000,
+      "expensesUsd": 32000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); small partial payments. Amount not verified.",
+      "stadium": { "name": "Elliott T. Bowers Stadium", "capacity": 14000 },
+      "arena": { "name": "Bernard Johnson Coliseum", "capacity": 6100 },
+      "confidence": "low",
+      "note": "Approximate finances."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "southland", "football": "southland", "level": "FCS" }
+    },
+    "ratings": {
+      "football": 15, "mbb": 40, "wbb": 25, "olympic": 25,
+      "brand": 15, "facilities": 30, "fanBase": 18,
+      "boosterInfluence": 25, "statePoliticalPressure": 45
+    },
+    "ratingNotes": "FB: won the 2020 FCS national title (played spring 2021) under K.C. Keeler and moved to FBS in 2023. Went 10-3 with a New Orleans Bowl win in 2024. Keeler left for Temple, and Phil Longo's 2025 debut season was very poor (record not verified). MBB: consistent winner (Jason Hooten era, now Chris Mudge).",
+    "rivals": ["stephen-f-austin", "texas-state", "rice"],
+    "president": { "name": "Alisa White", "title": "President", "since": 2016 },
+    "ad": { "name": "Bobby Williams", "since": 2010 },
+    "headFootballCoach": { "name": "Phil Longo", "since": 2025, "confidence": "low", "note": "Status after the 2025-26 results not verified" },
+    "headMbbCoach": { "name": "Chris Mudge", "since": 2023 },
+    "notes": "Texas State University System member, moved from the Southland and WAC to C-USA in 2023. Sits in the Houston DMA but is rural (Huntsville) with a small stadium. Texas Legislature and the TSUS board (its sister school Texas State jumped to the Pac-12 in 2026) give it moderate-to-high political pressure. Its 2024 rise and 2025 collapse fit a 'coach-departure cliff' event.",
+    "lowConfidenceFields": ["enrollment", "usNewsRank", "athletics", "headFootballCoach"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sam_Houston_State_University",
+      "https://en.wikipedia.org/wiki/Sam_Houston_Bearkats",
+      "https://gobearkats.com/news/2026/4/29/football-cusa-updates-2026-schedule",
+      "https://www.espn.com/mens-college-basketball/story/_/id/49973549/college-basketball-conference-changes-realignment"
+    ]
+  },
+  {
+    "id": "western-kentucky",
+    "name": "Western Kentucky University",
+    "shortName": "Western Kentucky",
+    "abbr": "WKU",
+    "mascot": "Hilltoppers",
+    "colors": ["#C60C30", "#FFFFFF"],
+    "city": "Bowling Green", "state": "KY",
+    "lat": 36.9858, "lon": -86.4558,
+    "dma": { "name": "Bowling Green, KY", "rank": 178 },
+    "control": "public",
+    "religious": null,
+    "aau": false,
+    "enrollment": 16500,
+    "usNewsRank": null,
+    "usNewsCategory": "national",
+    "endowmentUsd": null,
+    "athletics": {
+      "revenueUsd": 40000000,
+      "expensesUsd": 40000000,
+      "fiscalYear": "FY2024",
+      "revShareOptIn": true,
+      "revShareNotes": "Opted in (assumed); partial payments. Amount not verified.",
+      "stadium": { "name": "Houchens Industries-L.T. Smith Stadium", "capacity": 22113 },
+      "arena": { "name": "E.A. Diddle Arena", "capacity": 7523 },
+      "confidence": "low",
+      "note": "Approximate finances."
+    },
+    "conference": {
+      "y2026": { "all": "cusa", "football": "cusa", "level": "FBS" },
+      "y2010": { "all": "sun-belt", "football": "sun-belt", "level": "FBS" }
+    },
+    "ratings": {
+      "football": 31, "mbb": 42, "wbb": 35, "olympic": 30,
+      "brand": 25, "facilities": 35, "fanBase": 28,
+      "boosterInfluence": 30, "statePoliticalPressure": 35
+    },
+    "ratingNotes": "FB: 2002 I-AA national champs and FBS since 2009. Notable coaches: Bobby Petrino (2013) and Jeff Brohm (C-USA titles 2015-16). Tyson Helton reached the 2021 and 2024 C-USA title games and had a bowl team in 2025 (from memory). MBB: historic program (1971 Final Four, vacated); 2024 NCAA under Steve Lutz; Hank Plona since 2024.",
+    "rivals": ["middle-tennessee", "murray-state", "eastern-kentucky", "marshall"],
+    "president": { "name": "Timothy C. Caboni", "title": "President", "since": 2017 },
+    "ad": { "name": "Caryl Smith Gilbert", "since": 2023 },
+    "headFootballCoach": { "name": "Tyson Helton", "since": 2019 },
+    "headMbbCoach": { "name": "Hank Plona", "since": 2024 },
+    "notes": "C-USA's longest-tenured anchor (since 2014; earlier in the Sun Belt). One of the most-mentioned Sun Belt targets to replace JMU, since it is a strong football and basketball brand close to several Sun Belt schools. Smallest DMA in the league, offset by Nashville spillover. Kentucky Council on Postsecondary Education and legislature; moderate pressure. The 100 Miles of Hate rivalry with MTSU.",
+    "lowConfidenceFields": ["enrollment", "usNewsRank", "athletics"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Western_Kentucky_University",
+      "https://en.wikipedia.org/wiki/Western_Kentucky_Hilltoppers_and_Lady_Toppers",
+      "https://wkusports.com/news/2026/4/29/cusa-announces-revised-2026-football-schedule",
+      "https://athlonsports.com/college-football/expansion-realignment-whats-next-american-conference-james-madison"
+    ]
+  }
+]
